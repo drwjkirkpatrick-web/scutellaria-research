@@ -1,0 +1,8 @@
+Source: https://pubmed.ncbi.nlm.nih.gov/40374371/
+Fetched: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract)
+Title: Regulatory Role of Flavonoid Baicalin from Scutellaria baicalensis on AMPK: A Review.
+Authors: Jiang M; Li Z; Qin X; Chen L; Zhu G
+Journal: Am J Chin Med 2025;53(3):771-801
+DOI: 10.1142/S0192415X25500296
+PMID: 40374371
+Abstract: AMP-activated protein kinase (AMPK) is a ubiquitous sensor of cellular energy and nutrient status in eukaryotic cells. It serves an essential function in the modulation of energy balance and metabolism homeostasis through its regulation of carbohydrate metabolism, lipid metabolism and protein metabolism. The dysregulation of AMPK is closely related to a series of systemic diseases, affecting multiple organs and tissues. Baicalin is a natural compound derived from the dry raw root of Scutellaria baicalensis, and it has been found to exhibit several potential pharmacological actions. These include hepatoprotective effects, anti-inflammation effects and anti-tumor effects. These biological activities are related to the regulatory effect of baicalin on the host metabolism, which is closely associated with AMPK modulation. In this review, we provide an overview of the regulatory effect of baicalin on AMPK and its upstream and downstream signaling pathways. The pharmacological properties and underlying mechanism of baicalin for regulating AMPK were summarized with regards to four aspects: regulatory effect of baicalin on AMPK in lipid metabolism and glucose metabolism, regulatory effect of baicalin on AMPK in its pharmacological effect of anti-tumor and anti-inflammation. As a natural compound, baicalin has the potential for the management of certain AMPK-related diseases.

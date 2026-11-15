@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/32883110/
+TITLE: SNHG1 represses the anti-cancer roles of baicalein in cervical cancer through regulating miR-3127-5p/FZD4/Wnt/β-catenin signaling.
+AUTHORS: Xiaolan Yu; Jiyi Xia; Yong Cao; Li Tang; Xiaoping Tang; Zhengyu Li
+JOURNAL: Experimental biology and medicine (Maywood, N.J.)
+YEAR: 2021
+VOL_PAGES: 246; 20-30
+DOI: 10.1177/1535370220955139
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Baicalein exhibits anti-cancer roles in several cancers. However, the factors influencing the antitumorigenic efficiencies of baicalein in CC remain largely unclear. Here, we provide convincing evidences that lncRNA SNHG1 attenuates the tumor-suppressive roles of baicalein in CC cell viability, apoptosis, migration, and CC tumor growth. This study further demonstrates that the influences of SNHG1 in the antitumorigenic process of baicalein are achieved through modulating the miR-3127-5p/FZD4Wnt/β-catenin axis. SNHG1 attenuates the repressive role of baicalein on Wnt/β-catenin. Therefore, SNHG1 is a novel modulator of the tumor-suppressive roles of baicalein and SNHG1 represents a therapeutic intervention target to reinforce the tumor-suppressive roles of baicalein in CC.

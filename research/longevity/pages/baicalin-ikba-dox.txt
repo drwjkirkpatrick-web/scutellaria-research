@@ -1,0 +1,8 @@
+Source: https://pubmed.ncbi.nlm.nih.gov/36375245/
+Fetched: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract)
+Title: Baicalin regulates TLR4/IκBα/NFκB signaling pathway to alleviate inflammation in Doxorubicin related cardiotoxicity.
+Authors: Feng P; Yang Y; Liu N; Wang S
+Journal: Biochem Biophys Res Commun 2022;637():1-8
+DOI: 10.1016/j.bbrc.2022.10.061
+PMID: 36375245
+Abstract: Cancers and the toxic and side effects of their treatment have always been a major problem for human beings. Doxorubicin (DOX) is one of the classical anthracycline antineoplastic drugs, but it can cause different degrees of heart damage and even serious heart failure. The incidence of myocardial toxicity increased significantly when the cumulative dose of the drug was more than 550 mg/m2, and the relevant mechanism was related to the inflammatory reaction, reactive oxygen species and the apoptosis of cardiomyocytes in the myocardium. Relevant studies have shown that baicalein (Ba) can inhibit NFκB-related inflammatory signaling pathway protects cardiac function, but whether it can inhibit DOX induced cardiotoxicity has not been reported. Therefore, in animal studies, we explored the effects of doxorubicin and baicalein on cardiac function, TLR4/IκBα/NFκB signaling pathway and related inflammatory indicators in rats. In cell experiments, by silencing or overexpressing TLR4, we explored whether baicalein could achieve anti-inflammatory effect through regulating TLR4/IκBα/NFκB signaling pathway and ultimately inhibit doxorubicin induced cardiotoxicity.

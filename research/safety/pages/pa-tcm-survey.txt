@@ -1,0 +1,587 @@
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/
+Fetched: 2026-11-14
+
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#main-content)
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** (
+Lock
+Locked padlock icon
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+[Home](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg)![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+Search PMC Full-Text Archive
+
+Search in PMC![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg)
+
+- [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+- [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+- ![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg)
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)](https://doi.org/10.3390/molecules26061648) View on publisher site
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/pdf/molecules-26-01648.pdf) Download PDF
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Add to Collections
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg)
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+
+Learn more:
+[PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/)
+\|
+[PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Molecules logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-molecules.png)
+
+Molecules
+
+. 2021 Mar 16;26(6):1648. doi: [10.3390/molecules26061648](https://doi.org/10.3390/molecules26061648)
+
+# Determination of Toxic Pyrrolizidine Alkaloids in Traditional Chinese Herbal Medicines by UPLC-MS/MS and Accompanying Risk Assessment for Human Health
+
+[Junchi Wang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wang%20J%22[Author])
+
+### Junchi Wang
+
+1The Key Laboratory of Bioactive Substances and Resources Utilization of Chinese Herbal Medicine, Ministry of Education, Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100193, China; jcwang@implad.ac.cn (J.W.); mandy6378@126.com (M.Z.); lihuachen0706@163.com (L.C.); MOON100107qy@163.com (Y.Q.); siqimazry@163.com (S.M.); dasun@implad.ac.cn (D.S.)
+
+Find articles by [Junchi Wang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wang%20J%22[Author])
+
+1,†, [Meng Zhang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zhang%20M%22[Author])
+
+### Meng Zhang
+
+1The Key Laboratory of Bioactive Substances and Resources Utilization of Chinese Herbal Medicine, Ministry of Education, Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100193, China; jcwang@implad.ac.cn (J.W.); mandy6378@126.com (M.Z.); lihuachen0706@163.com (L.C.); MOON100107qy@163.com (Y.Q.); siqimazry@163.com (S.M.); dasun@implad.ac.cn (D.S.)
+
+Find articles by [Meng Zhang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zhang%20M%22[Author])
+
+1,†, [Lihua Chen](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chen%20L%22[Author])
+
+### Lihua Chen
+
+1The Key Laboratory of Bioactive Substances and Resources Utilization of Chinese Herbal Medicine, Ministry of Education, Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100193, China; jcwang@implad.ac.cn (J.W.); mandy6378@126.com (M.Z.); lihuachen0706@163.com (L.C.); MOON100107qy@163.com (Y.Q.); siqimazry@163.com (S.M.); dasun@implad.ac.cn (D.S.)
+
+2State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical Sciences, Peking University, Beijing 100191, China
+
+Find articles by [Lihua Chen](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chen%20L%22[Author])
+
+1,2, [Yue Qiao](https://pubmed.ncbi.nlm.nih.gov/?term=%22Qiao%20Y%22[Author])
+
+### Yue Qiao
+
+1The Key Laboratory of Bioactive Substances and Resources Utilization of Chinese Herbal Medicine, Ministry of Education, Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100193, China; jcwang@implad.ac.cn (J.W.); mandy6378@126.com (M.Z.); lihuachen0706@163.com (L.C.); MOON100107qy@163.com (Y.Q.); siqimazry@163.com (S.M.); dasun@implad.ac.cn (D.S.)
+
+Find articles by [Yue Qiao](https://pubmed.ncbi.nlm.nih.gov/?term=%22Qiao%20Y%22[Author])
+
+1, [Siqi Ma](https://pubmed.ncbi.nlm.nih.gov/?term=%22Ma%20S%22[Author])
+
+### Siqi Ma
+
+1The Key Laboratory of Bioactive Substances and Resources Utilization of Chinese Herbal Medicine, Ministry of Education, Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100193, China; jcwang@implad.ac.cn (J.W.); mandy6378@126.com (M.Z.); lihuachen0706@163.com (L.C.); MOON100107qy@163.com (Y.Q.); siqimazry@163.com (S.M.); dasun@implad.ac.cn (D.S.)
+
+Find articles by [Siqi Ma](https://pubmed.ncbi.nlm.nih.gov/?term=%22Ma%20S%22[Author])
+
+1, [Dian Sun](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sun%20D%22[Author])
+
+### Dian Sun
+
+1The Key Laboratory of Bioactive Substances and Resources Utilization of Chinese Herbal Medicine, Ministry of Education, Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100193, China; jcwang@implad.ac.cn (J.W.); mandy6378@126.com (M.Z.); lihuachen0706@163.com (L.C.); MOON100107qy@163.com (Y.Q.); siqimazry@163.com (S.M.); dasun@implad.ac.cn (D.S.)
+
+Find articles by [Dian Sun](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sun%20D%22[Author])
+
+1, [Jianyong Si](https://pubmed.ncbi.nlm.nih.gov/?term=%22Si%20J%22[Author])
+
+### Jianyong Si
+
+1The Key Laboratory of Bioactive Substances and Resources Utilization of Chinese Herbal Medicine, Ministry of Education, Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100193, China; jcwang@implad.ac.cn (J.W.); mandy6378@126.com (M.Z.); lihuachen0706@163.com (L.C.); MOON100107qy@163.com (Y.Q.); siqimazry@163.com (S.M.); dasun@implad.ac.cn (D.S.)
+
+Find articles by [Jianyong Si](https://pubmed.ncbi.nlm.nih.gov/?term=%22Si%20J%22[Author])
+
+1,\*, [Yonghong Liao](https://pubmed.ncbi.nlm.nih.gov/?term=%22Liao%20Y%22[Author])
+
+### Yonghong Liao
+
+1The Key Laboratory of Bioactive Substances and Resources Utilization of Chinese Herbal Medicine, Ministry of Education, Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100193, China; jcwang@implad.ac.cn (J.W.); mandy6378@126.com (M.Z.); lihuachen0706@163.com (L.C.); MOON100107qy@163.com (Y.Q.); siqimazry@163.com (S.M.); dasun@implad.ac.cn (D.S.)
+
+Find articles by [Yonghong Liao](https://pubmed.ncbi.nlm.nih.gov/?term=%22Liao%20Y%22[Author])
+
+1,\*
+
+Editor: Yannis Dotsikas
+
+- Author information
+- Article notes
+- Copyright and License information
+
+1The Key Laboratory of Bioactive Substances and Resources Utilization of Chinese Herbal Medicine, Ministry of Education, Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100193, China; jcwang@implad.ac.cn (J.W.); mandy6378@126.com (M.Z.); lihuachen0706@163.com (L.C.); MOON100107qy@163.com (Y.Q.); siqimazry@163.com (S.M.); dasun@implad.ac.cn (D.S.)
+
+2State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical Sciences, Peking University, Beijing 100191, China
+
+\*
+
+Correspondence: jysi@implad.ac.cn (J.S.); yhliao@implad.ac.cn (Y.L.); Tel.: +86-10-5783-3299 (J.S.); +86-10-5783-3268 (Y.L.)
+
+†
+
+These authors contributed equally to this work.
+
+#### Roles
+
+**Yannis Dotsikas**: Academic Editor
+
+Received 2021 Mar 1; Accepted 2021 Mar 12; Collection date 2021 Mar.
+
+© 2021 by the authors.
+
+Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)).
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC8000276  PMID: [33809536](https://pubmed.ncbi.nlm.nih.gov/33809536/)
+
+## Abstract
+
+Pyrrolizidine alkaloids (PAs) are a class of natural toxins with hepatotoxicity, genotoxicity and carcinogenicity. They are endogenous and adulterated toxic components widely found in food and herbal products. In this study, a sensitive and efficient ultra-high performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS) method was used to detect the PAs in 386 kinds of Chinese herbal medicines recorded in the Chinese Pharmacopoeia (2020). The estimated daily intake (EDI) of 0.007 μg/kg body weight (bw)/day was adopted as the safety baseline. The margin of exposure (MOE) approach was applied to evaluate the chronic exposure risk for the genotoxic and carcinogenic potential of PAs. Results showed that PAs was detected in 271 out of 386 samples with a content of 0.1–25,567.4 μg/kg, and there were 20 samples with EDI values above the baseline, 0.007 μg/kg bw/day. Beyond that, the MOE values for 10 out of 271 positive samples were below 10,000. Considering the actual situation, Haber’s rule was used to assume two weeks exposure every year during lifetime, and still the MOE values for four out of 271 positive samples were under 10,000, indicating these products may have potential health risk. The developed method was successfully applied to detect the PAs-containing Chinese herbal medicines. This study provides convincing data that can support risk management actions in China and a meaningful reference for the rational and safe use of Chinese herbal medicines.
+
+**Keywords:** pyrrolizidine alkaloids, Chinese herbal medicines, estimated daily intake, Margin of exposure, risk assessment
+
+## 1\. Introduction
+
+Pyrrolizidine alkaloids (PAs) are widespread secondary plant metabolites produced as defense against herbivores \[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B1-molecules-26-01648)\]. It is reported that more than 660 PAs and their _N_-oxides have been identified in over 6000 plants distributed in many geographical regions worldwide, accounting for 3% of all flowering plants \[ [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B2-molecules-26-01648), [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B3-molecules-26-01648)\], and about half of these phytochemicals have been reported to be hepatotoxic in human and livestock \[ [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B4-molecules-26-01648)\]. The ability to produce PAs has been found in representatives of Asteraceae, Boraginaceae, and Fabaceae families \[ [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B5-molecules-26-01648), [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B6-molecules-26-01648)\].
+
+PAs are composed of a 1-hydroxymethyl pyrrolizidine (necine base) and aliphatic monocarboxylic or dicarboxylic acids (necine acids), and can be classified into monoesters or diesters according to the esterification with one or both hydroxyl groups. Esterification with two carboxyl groups of a dicarboxylic acid can result in a cyclical diester. A distinction can be made among 1,2-unsaturated PAs of the retronecine-, heliotridine- or otonecine-type, and the necine bases of retronecine and heliotridine are diastereomers due to the different configurations at C-7 \[ [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B7-molecules-26-01648)\]. Hepatotoxicity is considered to be enhanced by esterification of the hydroxyl groups at C-7 \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B8-molecules-26-01648), [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B9-molecules-26-01648)\]. Therefore, cyclic diesters have the strongest toxic effects, followed by monoesters and open-chain diesters of 1,2-unsaturated PAs \[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B1-molecules-26-01648), [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B10-molecules-26-01648)\].
+
+PA poisoning cases have been extensively reported \[ [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B11-molecules-26-01648), [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B12-molecules-26-01648), [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B13-molecules-26-01648)\] and long-term exposure to PAs can cause hepatic veno-occlusive disease (HVOD) and human hepatic sinusoid occlusion syndrome (HSOS) \[ [14](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B14-molecules-26-01648)\]. It is generally accepted that PAs themselves are not toxic and need hepatic cytochrome P450 monooxygenases (CYP450, mainly CYP3A4) to mediate the metabolic activation. As illustrated in [Figure 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#molecules-26-01648-f001), three types PAs can be converted into 6,7-dihydro-7-hydroxy-1-hydroxymethyl-5 _H_-pyrrolizidine (DHP) esters, which can be further converted into DHP by hydrolysis \[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B1-molecules-26-01648), [15](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B15-molecules-26-01648)\]. The pyrrolic metabolites, DHP esters and DHP, are highly reactive bifunctional alkylating agents, once formed can rapidly bind to nucleophilic groups in cellular proteins and DNA, including DNA binding, DNA cross-linking, DNA-protein cross-linking \[ [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B7-molecules-26-01648), [15](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B15-molecules-26-01648)\], and then may result in the acute and chronic hepatotoxicity, genotoxicity and carcinogenicity. Similar to DHP esters, DHP can also bind with GSH, DNA or proteins to generate pyrrole-GSH conjugates, pyrrole-protein adducts or pyrrole-DNA adducts, respectively, leading to detoxification, hepatotoxicity or carcinogenicity \[ [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B7-molecules-26-01648), [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B16-molecules-26-01648)\].
+
+### Figure 1.
+
+[![Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1760/8000276/70efc8645872/molecules-26-01648-g001.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=8000276_molecules-26-01648-g001.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/figure/molecules-26-01648-f001/)
+
+Metabolic activation of retronecine-, heliotridine-, and otonecine-type pyrrolizidine alkaloids (PAs) leading to hepatotoxicity and tumorigenicity, detoxification.
+
+Herbal medicines were widely used to treat disease and maintain human health for thousands of years in many countries and have become more and more popular \[ [17](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B17-molecules-26-01648)\]. In recent years, studies have shown that PAs components have been detected in some common Chinese herbal medicines \[ [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B18-molecules-26-01648), [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B19-molecules-26-01648), [20](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B20-molecules-26-01648)\]. Although some PAs have been analyzed in the absence of relevant reference materials, their exact content remains to be investigated. In addition, the Chinese Pharmacopoeia (2020) clarifies that some Chinese herbal medicines do contain PAs, but only limited PAs have been strengthened the toxicity control, and the vast majority of Chinese herbal medicines (including decoction pieces and preparations) have not established the standard of such ingredients, leaving certain potential threats in clinical use and daily application. However, to our best knowledge, the recent safety control study for PAs just focus on limited variety of Chinese medicines \[ [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B21-molecules-26-01648), [22](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B22-molecules-26-01648)\] and there is no official statement on PAs intake in China as yet. Accordingly, in order to verify the presence and content of natural toxic PAs in herbal medicines of Chinese Pharmacopoeia (2020), it is urgent to establish a feasible quantitative analysis method and assess the risk based on the PAs content.
+
+Given that 1,2-unsaturated PAs are reported to be genotoxic and carcinogenic, health risks were assessed by using the margin of exposure (MOE) approach, which is regarded as the most suited procedure \[ [23](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B23-molecules-26-01648)\]. MOE values below 10,000 indicate that there might be a potential concern for human health. To date, the MOE is calculated on the basis of a BMDL10 (benchmark dose lower confidence limit for 10% extra risk on tumor formation above background levels) of 237 µg/kg bw/day originating from a chronic exposure experiment with riddelliine in rats \[ [24](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B24-molecules-26-01648)\]. The CONTAM Panel concluded that the data from experimental animals are relevant to humans and the carcinogenicity data provided the most suitable basis for the risk characterization.
+
+The aim of this study is to quantify the PAs total content and conduct the risk assessment in 386 commonly used Chinese herbal medicines recorded in Chinese Pharmacopoeia (2020). We aim to provide an effective tool for the qualification control and quantitative analysis of PAs in Chinese herbal medicines and scientific reference to guide the rational and safe utilization of these herbs for human health.
+
+## 2\. Results
+
+### 2.1. Pretreatment Method Development
+
+#### 2.1.1. Extraction Optimization
+
+To compare extraction conditions, raw extracts of _Artemisia capillaris_ ( _A. capillaris_) and _Senecio scandens_ ( _S. scandens_) samples were prepared. Each test with five different extraction solvents, MeOH, 0.05 M sulfuric acid in MeOH, 0.05 M sulfuric acid water, ethanol and 0.05 M sulfuric acid in ethanol, was repeated three times. As shown in [Figure 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#molecules-26-01648-f002) A (more details see [Tables S4 and S5](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#app1-molecules-26-01648)), MeOH had the highest PAs extraction efficiency at 133.4 µg/kg and 145.7 µg/kg respectively. Accordingly, pure MeOH was selected as extraction solvents. In the extraction aids test, it was interest to find that solvent refluxing had the highest PAs extraction efficiency, sonication and cold soaking came to the next, and vortex oscillation was the last one ( [Figure 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#molecules-26-01648-f002) B). While considering the instability of pyrrolizidine alkaloid _N_-oxides (PANOs) in high temperature, as well as the quick and simple operation characteristics, ultrasonication (100 W, 40 KHZ, 30 min) was adopted as the final extraction mode.
+
+##### Figure 2.
+
+[![Figure 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1760/8000276/4400f3a3b6f9/molecules-26-01648-g002.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=8000276_molecules-26-01648-g002.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/figure/molecules-26-01648-f002/)
+
+Effect of five different extraction solvents ( _n_ = 3) ( **A**), four different extraction methods ( **B**), and three different redissolution solvents ( **C**) on the total PAs content of herbal medicines in _A. capillaris_ (dark gray bars) and _S. scandens_ (light gray bars).
+
+Furthermore, different ratios of the elution solvent NH4OH/MeOH (3:17→1:3, _v_/ _v_) were tested, and the best ratio was 1:3 ( _v_/ _v_). Besides, three different ratios of redissolution solvents were tested: pure MeOH, MeOH/water (50/50, _v_/ _v_) and MeOH/water (5/95, _v_/ _v_), results were shown in [Figure 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#molecules-26-01648-f002) C, the MeOH/water (50/50, _v_/ _v_) were selected as the final redissolution solvents with the high recoveries and solubility.
+
+#### 2.1.2. Purification Optimization
+
+Five different kinds of solid phase extration (SPE) cartridges (500 mg/6 mL) were investigated: Cleanert PCX, SCX, C18, C8/SCX (all from Agela Technologies, Tianjin, China) and Strata-X-C (Phenomenex, Guangzhou, China), and the recoveries were tested by adding a matrix free mixed acid standard solution to each of the five SPE cartridges, the results were shown in [Figure 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#molecules-26-01648-f003) (more details see [Table S6](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#app1-molecules-26-01648)).
+
+##### Figure 3.
+
+[![Figure 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1760/8000276/8c934a71fd81/molecules-26-01648-g003.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=8000276_molecules-26-01648-g003.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/figure/molecules-26-01648-f003/)
+
+Effects of five different solid phase extration (SPE) cartridges on the recoveries of 34 PAs compounds.
+
+Overall, Cleanert PCX, a mixed-mode sorbent which provided dual retention modes of reversed-phase and cation-exchange, was found to be the most appropriate clean-up cartridge.
+
+### 2.2. UPLC-MS/MS Method Development
+
+Under optimum conditions, 18 PAs and 14 PANOs, including nine sets of isomers were separated completely among these 34 compounds. Only two pairs of stereoisomers (intermedine and indicine, intermedine _N_-oxides and indicine _N_-oxides) were not separated, but the two unseparated PAs had the same response value as their corresponding isomers. PAs were quantitatively determined in multiple reaction monitoring (MRM) acquisition mode. The MRM chromatograms of these isomers were shown in [Figure 4](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#molecules-26-01648-f004).
+
+#### Figure 4.
+
+[![Figure 4](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1760/8000276/7cb197943b00/molecules-26-01648-g004.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=8000276_molecules-26-01648-g004.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/figure/molecules-26-01648-f004/)
+
+Multiple reaction monitoring (MRM) chromatograms of nine sets of isomers with a mixed standard of PAs (10 μg/kg) by liquid chromatography-tandem mass spectrometry (LC-MS/MS). For each pair the molecular mass and compound name (Im: intermedine; Ic: indicine; Ly: lycopsamine; ImNO: intermedine _N_-oxide; IcNO: indicine _N_-oxide; LyNO: lycopsamine _N_-oxide; Eu: europine; He: heliotrine; Sv: senecivernine; Sn: senecionine; McNO: monocrotaline _N_-oxide; 7-Im: 7-acetylintermedine; 7-Ly: 7-acetyllycopsamine; Er: erucifoline; SpNO: seneciphylline _N_-oxide; Jb: jacobine; Re: retrorsine; SvNO: senecivernine _N_-oxide; SnNO: senecionine _N_-oxide; ErNO: erucifoline _N_-oxide; JbNO: jacobine _N_-oxide; ReNO: retrorsine _N_-oxide) were shown.
+
+As for the MS2 spectra, the fragment ions of _m_/ _z_ 120, 118, 138, 136, 150 and 168 are characteristic for PA free bases related to necine, while product ions of _m_/ _z_ 120 and 138 are typical of retronecine-type and heliotridine-type PAs, and _m_/ _z_ 168 and 150 for otonecine otonecine-type. The most intense fragment with most intense signal of each PAs was used as quantification ion and another transition as confirmation ion. The MS conditions of 34 PAs and the corresponding _N_-oxides are listed in [Table S1](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#app1-molecules-26-01648).
+
+### 2.3. Method Validation
+
+#### 2.3.1. Sensitivity, Linearity, Limits of Detection (LOD) and Limits of Quantification (LOQ)
+
+Due to the difference in concentration between different samples, the calibration curve of a wide concentration range from 0.1 ng/mL to 500 ng/mL for the analyses of PAs in herbal plants was applied. [Table S7](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#app1-molecules-26-01648) shows the regression equation and the linear regression coefficients for the PAs, all 32 PA standards with the correlation coefficient (R2) values being >0.99, indicating the excellent linearity. As shown in [Table S7](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#app1-molecules-26-01648), The LOD of PAs with a S/N ratio of >3 ranged from 0.01~0.2 µg/kg, whereas the LOQ with a S/N ratio of >10 between 0.1 and 0.5 µg/kg herbs, indicating high sensitivity for the determination of trace PAs in these Chinese herbal medicines.
+
+#### 2.3.2. Precision and Recovery
+
+The samples were analyzed with the same instrument and the same operator. As shown in [Table S7](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#app1-molecules-26-01648), results show that the intraday and interday precision expressed by RSD (%) were less than 8% and no significant distinction was found between them, the tolerance of repeatability and stability were tested by repeated injecting 100 ng/mL standard solution ( _n_ = 6) and behaved well with the RSD < 5%. The results suggested that the present method has acceptable accuracy and precision.
+
+### 2.4. PA Concentrations in Chinese Herbal Medicines
+
+Based on the above-established pretreatment method and UPLC-MS/MS analysis method, 386 kinds of Chinese herbal medicines were detected and analyzed, including 128 kinds of classical Chinese medicinal materials and 81 kinds of medicinal and food dual-purpose materials. PAs were detected in 271 out of 386 herbal medicine samples (more than 70%), which was significantly higher than a study conducted on the spices and culinary herbs from Asia (36 positive samples of 71, 50.7%) \[ [25](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B25-molecules-26-01648)\], but lower than another study on herbs and spices (17 positive samples of 17, 100%) \[ [26](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B26-molecules-26-01648)\]. The detected PAs content was not less than 0.1 μg/kg. Senkirkine, intermedine and lycopsamine- _N_-oxide were the top three most frequently found PAs (see [Figure 5](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#molecules-26-01648-f005) A). Among these, the most widely distributed PAs was senkirkine, accounting for 68% (189/271) of the positive medicinal materials, which was also one of the most frequently occurring individual PA/PANO in the spices and culinary herbs from Asia in a previous study \[ [25](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B25-molecules-26-01648)\]. However, different from this, europine and europine _N_-oxide were the most widely distributed PAs in Mediterranean herbs mixes \[ [26](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B26-molecules-26-01648)\]. Intermedine came to the next in our study, accounting for 44% (122/271). It was interest to note that most of the high-content PAs samples were distributed in Compositae (38/271), Leguminosae (33/271), Ranunculaceae (11/271) and Labiatae (9/271), and this finding was in general agreement with previous reports \[ [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B5-molecules-26-01648), [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B6-molecules-26-01648), [25](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B25-molecules-26-01648)\]. Among them, there were 10 samples that PAs contents are more than 100 μg/kg, ranged from 121.9 to 25567.4 μg/kg. The highest PA level was found in sample HM-1, _Arnebia euchroma_ ( _A. euchroma_, see [Figure 5](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#molecules-26-01648-f005) B).
+
+#### Figure 5.
+
+[![Figure 5](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1760/8000276/a6ad8da99b9c/molecules-26-01648-g005.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=8000276_molecules-26-01648-g005.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/figure/molecules-26-01648-f005/)
+
+The distribution of 32 PAs standards in 271 PA-positive herbal medicinal materials ( **A**), senkirkine, intermedine and lycopsamine- _N_-oxide were the top three most frequently found PAs, and ( **B**) showed top ten herbal medicines with total PAs content above 100 μg/kg, namely HM-1( _Arnebia euchroma_): 25567.4 μg/kg; HM-2 ( _Tussilago farfara_): 17,600.1 μg/kg; HM-3 ( _Eupatorium fortune_): 16,943.6 μg/kg; HM-4 ( _Eupatorium lindleyanum_): 1863.6 μg/kg; HM-5 ( _Senecio scandens_): 233.6 μg/kg; HM-6 ( _Laggera pterodonta_): 229.0 μg/kg; HM-7 ( _Artemisia scoparia_): 220.6 μg/kg; HM-8 ( _Cassia angustifolia_): 198.5 μg/kg; HM-9 ( _Euphorbia hirta_): 121.9 μg/kg; HM-10 ( _Gynura japonica_): 531.0 μg/kg.
+
+### 2.5. Risk Assessment of Chinese Herbal Medicines Based on PAs Levels
+
+#### 2.5.1. Acute Exposure Scenario
+
+The related regulations set by the European Medicines Agency (EMA) combined with the Committee on Toxicity of Chemicals in Food, Consumer Products and Environment (COT) and German Federal Institute for Risk Assessment (BfR) show that samples with estimated daily intake (EDI) values below the 0.007 μg/kg bw/day are unlikely to raise concern \[ [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B27-molecules-26-01648)\], meanwhile, European Food Safety Authority (EFSA) has reported several acute/short-term adverse exposure cases in human at the dose range of 1–3 mg PA/kg bw/day for four-day up to two -week periods \[ [28](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B28-molecules-26-01648)\], and the World Health Organization (WHO) has established the daily intake limit of PAs of 10 μg/kg bw/day may cause HVOD in humans \[ [29](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B29-molecules-26-01648)\].
+
+Based on this, the 0.007 μg/kg bw/day was adopted as the tolerable maximum levels of exposure for PAs. [Supplementary Material](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#app1-molecules-26-01648) presented the EDI values of total PAs calculated for the consumption of positive herbal samples \[ [30](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B30-molecules-26-01648)\]. The values ranged from 4.28 × 10−6 to 3.652 μg/kg bw/day. As shown in [Figure 6](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#molecules-26-01648-f006), the EDI values of all samples were well below the dose range of 1–3 mg PA/kg bw/day, these results indicated that the herbal consumers were not at risk for acute toxicity of PAs when consuming for short periods of 4 days up to 2 weeks. However, there were 20 herbal materials with EDI values above 0.007 μg/kg bw/day, which indicated that these medicines may have underlying toxicity. From the chart, the daily intake of PAs from sample HM-1 (3.652 μg/kg bw/day) was more than 521 times the baseline, followed by sample HM-2 (2.514 μg/kg bw/day), HM-3 (2.421 μg/kg bw/day), and HM-4 (1.597 μg/kg bw/day), at 359, 346, and 228 times, respectively.
+
+##### Figure 6.
+
+[![Figure 6](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1760/8000276/aefb77b84ee0/molecules-26-01648-g006.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=8000276_molecules-26-01648-g006.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/figure/molecules-26-01648-f006/)
+
+Estimated daily intake (EDI) values exceed the baseline for the consumption of PAs detected in Chinese herbal medicines. The red dashed line (- - -) in Figure represented the baseline 0.007 μg/kg bw/day.
+
+#### 2.5.2. Chronic Exposure Scenario
+
+Chronic exposure risk assessment was conducted on 271 PA-positive herbal materials. The MOE value was calculated according to the Equation (2) assuming daily lifetime consumption and Equation (3) assuming two weeks of daily use every year during a lifetime, and the results are depicted in [Table S8](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#app1-molecules-26-01648). EFSA classified the PAs materials into six priority bandings based on the MOE values \[ [28](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B28-molecules-26-01648)\], accordingly, the present study divided the herbal medicines into four grades: potentially toxic medicinal materials (MOE < 100); risk medicinal materials (100 ≤ MOE < 1000 ); low-risk medicinal materials (1000 ≤ MOE < 10,000); nonrisk medicinal materials (MOE ≥ 10,000). As shown in [Figure 7](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#molecules-26-01648-f007) A, for 10 out of 271 (3.6%) samples, the MOE values were below 10,000. There were three herbals with MOE values under 100, HM-1 (64.8), followed by HM-2 (94.2) and HM-3 (97.9), and just one sample with MOE value between 100 and 1000, HM-4 (148.3). Most respondents in China tended to take these herbal medicines only during a specified time period or when they had a worsened condition, therefore, the actual consumption periods of these herbals should be shorter, which was assumed to be two weeks/year. After correcting for shorter-than-life-time exposure, there were still four out of 271 (1.4%) herbal samples with MOE values below 10,000 ( [Figure 7](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#molecules-26-01648-f007) B), namely HM-1 (1687.0), HM-2 (2450.7), HM-3 (2545.7), and HM-4 (3857.4), indicating that these herbals may pose a potential risk for human health.
+
+##### Figure 7.
+
+[![Figure 7](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1760/8000276/2a208be962df/molecules-26-01648-g007.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=8000276_molecules-26-01648-g007.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/figure/molecules-26-01648-f007/)
+
+Margin of exposure (MOE) values obtained for the 271 PAs-positive herbal medicines ( **A**), and top 10 PAs-positive herbal medicines with MOE values below 10,000 ( **B**). Grey bars represent the MOE values calculated based on exposure for two weeks every year during a lifetime exposure, and the patterned bars represent daily lifetime exposure. The red solid line represents the MOE value of 10,000 (both for **A** and **B**) as a threshold for risk management action, and the red dash-dot line represents the MOE value of 1000 as a threshold for high priority, and the red dotted line (……) means the MOE value of 100 as top priority.
+
+## 3\. Discussion
+
+In the present study, we investigated the presence of PAs in 386 traditional Chinese herbal medicines recorded in the Chinese Pharmacopoeia (2020), with the aim to establish an efficient and sensitive analysis method and assess the potential health risk for consumers of these herbal medicines. 32 PAs standards can be well separated and maintain good peak shape by UPLC-MS/MS through the MRM mode, the sensitivity of all reference substances can reach 0.1 ng/mL, and some even up to 0.01 ng/mL.
+
+Based on the above-established pretreatment method and UPLC-MS/MS analysis method, a total of 386 kinds of Chinese herbal medicines were detected and analyzed. PAs were detected in 271 out of 386 herbal medicine samples, accounting for more than 70%, and the PAs content were not less than 0.1 μg/kg. Among them, there were 10 samples with total PAs content more than 100 μg/kg, ranged from 121.9 to 25,567.4 μg/kg, and _A. euchroma_ (25,567.4 μg/kg) was found to have the highest PA level. Senkirkine, intermedine and lycopsamine- _N_-oxide were the top three most frequently found PAs. Among these, the most widely distributed PAs was senkirkine, accounting for 69.7% (189/271) of the positive medicinal materials, followed by intermedine, which accounted for 45% (122/271). It was interesting to note that most of the high-content PAs samples are distributed in Compositae (38/271), Leguminosae (33/271), Ranunculaceae (11/271) and Labiatae (9/271); this finding is in general agreement with previous reports \[ [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B5-molecules-26-01648), [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B6-molecules-26-01648)\].
+
+Our study revealed that there was a very wide variation in the EDI of PAs in different herbal medicines. This is due to the difference in their total PAs levels, as well as a wide range in the recommended daily maximum doses of the herbals recorded in the Chinese Pharmacopoeia (2020), ranging from 1.2 to 60 g per day. The highest daily intake of PAs was _A. euchroma_ (255.6 μg/day), after calculation based on the EDI of 3.652 μg/kg bw/day and a body weight of 70 kg for adult \[ [31](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B31-molecules-26-01648)\]. There are 20 medicinal materials with EDI exceeded the limit 0.007 μg/kg bw/day, set by the EMA combined with the COT and BfR. The EDI of PAs from _A. euchroma_ (3.652 μg/kg bw/day) was more than 521 times the baseline, which contained the highest PAs content, followed by _Tussilago farfara_ ( _T. farfara_, 2.514 μg/kg bw/day), _Eupatorium fortunei_ ( _E. fortune_, 2.421 μg/kg bw/day), and _Eupatorium lindleyanum_ ( _E. lindleyanum_, 1.597 μg/kg bw/day), at 359, 346, and 228 times, respectively.
+
+When considering chronic exposure, the risk assessment was conducted on 271 PA-positive herbal medicines, and 10 out of 271 (3.6%) samples were below 10,000, and the MOE values for sample _A. euchroma_ (64.8), _T. farfara_ (94.2), and _E. fortunei_ (97.9) were even lower than 100, indicating there should be a priority for risk management upon daily lifetime exposure. However, people tend to use these products for a short-term treatment. Hence, here we adopted Haber’s rule to evaluate the risk for shorter-than-lifetime exposure (two weeks every year during a lifetime) and correspondingly the MOE values were 26 times higher than the lifetime daily exposure MOE values. Accordingly, there were still four out of the 271 (1.48%) herbal samples with MOE values < 10,000, namely _A. euchroma_ (1687.0), _T. farfara_ (2450.7), _E. fortunei_ (2545.7), and _E. lindleyanum_ (3857.4), indicating that these herbals may have underlying toxicity, and the strict regulatory and quality control should be carried out to reduce the related health risk for consumers.
+
+_A. euchroma_ is one of the most used herbs to treat wounds and inflammation in many countries. There are at least 15 kinds of prescription preparations consisting of _A. euchroma_ recorded in Chinese Pharmacopoeia (2020), e.g. Xiaoerfeireping Capsules. In this study, seven PAs were detected in _A. euchroma_, including europine, heliotrine, lycopsamine, echimidine, intermedine, echimidine- _N_-oxide, and intermedine- _N_-oxide, this finding is in line with the previous report \[ [32](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B32-molecules-26-01648)\]. As the commonly used herbs with the highest detected total PAs content (25,567.4 μg/kg), the potential hepatotoxicity of _A. euchroma_ should be taken seriously.
+
+_T. farfara_ has a long history of medicinal use. It is listed as an “intermediate” medicine in China’s oldest Chinese medicine book “Shen Nong’s Bencao” (Han Dynasty, 25–220 AD). It is also recorded in “Compendium of Materia Medica” (Ming Dynasty, 1368–1644 AD), which described _T. farfara_ as the drugs for treatment of chronic cough and phlegm syndrome with blood. Moreover, herbal preparations containing _T. farfara_, such as Ju Hong Tablets/Pills/Granula/Capsule, were frequently used to cure cough, asthma, and chronic bronchitis in China \[ [33](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B33-molecules-26-01648)\]. In this study, five PAs were detected in _T. farfara_ with a total content of 17600.1 μg/kg, however, the Chinese Pharmacopoeia (2020) recommended daily maximum consumption dosage is 10 g, EDI value was more than 358 times the baseline, and such a large dose presents a huge safety risk.
+
+_Gynura japonica_ ( _G. japonica_) has good effects of dispersing blood stasis, hemostasis and reducing swelling. Our present study revealed that six PAs were detected in _G. japonica_, with a total content of 531.0 μg/kg, and the Chinese Pharmacopoeia (2020) recommended daily maximum consumption dosage is 6 g, thus the obtained PAs daily maximum consumption is 3.1862 μg. _G. japonica_ is contained in several commonly used clinical medicines, such as Sanqi Tablets. In fact, 15 patients poisoning cases were reported after taking these PA-containing _G. japonica_ herbal products for five days up to two years, leading to HVOD, even death \[ [34](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B34-molecules-26-01648), [35](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B35-molecules-26-01648)\].
+
+The WHO concluded that daily intake of PAs exceeding 10 µg/kg (bw) would lead to HVOD. Germany and the Netherlands has established maximum daily intake of PAs, which are 1 μg/day and 0.1 μg/day, respectively. So far, it has been stipulated that the medicinal materials shall not contain adonifoline (one kind of PAs) or its content shall not exceed 0.004%, in “Senecio” of Chinese Pharmacopoeia (2020). However, most of the traditional Chinese medicine lack the limitation of PAs, even less research has been done on herbals that have both medicinal and dietary uses, which greatly increase the exposure risk. Since several PAs poisoning cases were reported, we strongly suggest to strengthen the quality control of PAs in Chinese Pharmacopoeia.
+
+However, it should be noted that, in the risk assessment of PAs, a worst-case approach is adopted, which assumes that the toxic potency of all PAs is similar to the highly toxic PA riddelliine \[ [28](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B28-molecules-26-01648)\]. In other words, this may result in an over-estimation of the risk assessment, because the existing in vivo and in vitro data \[ [33](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B33-molecules-26-01648), [36](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B36-molecules-26-01648)\] proposed that several PAs showed less toxic than riddelliine. The study \[ [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B27-molecules-26-01648)\] defined interim relative potency (iREP) factors for PAs, based on the available in vitro data of the genotoxicity potency in _Drosophila_, the different cytotoxicity in chicken hepatocellular carcinoma (CLR-2118) cells and in vivo data of acute toxicity in rodents. iREP describes the relative toxicity of each congener compared to the most toxic congener, the latter has a relative toxic efficacy (REP) coefficient of 1.0, which describes its toxic as 100%. For PAs, factors 1.0 is applied for cyclic diesters and heliotridine-type (7 _S_) open diesters, 0.3 for heliotridine-type (7 _S_) monoesters, 0.1 for retronecine-type (7 _R_) open diesters, 0.01 for retronecine-type (7 _R_) monoesters \[ [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B27-molecules-26-01648)\]. For PANOs, such as senecionine- _N_-oxide, retrorsine- _N_-oxide and lasiocarpine- _N_-oxide, iREP were equal to the corresponding free base PA. The recent study \[ [37](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B37-molecules-26-01648)\] based on the results of γH2AX analysis for 37 PAs in HepaRG human liver cells, showing that open chain diester and cyclic diester PAs have highest efficacy.
+
+Besides, we evaluated the MOE values according to the occurrence data obtained from comminuted herbal medicines extraction. However, a recent study showed that the PAs extraction efficiency from the comminuted tea leaves were 1.1–4.1 times higher than the intact form \[ [38](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B38-molecules-26-01648)\]. In view of the real life scenario that patients usually take these herbal medicines by hot water in partially intact form, the crushed form extraction may represent the worst case and does not show the real life consumption situation. As a result, our obtained PAs total content may higher than actual situation, and thus affecting the corresponding MOE values. Moreover, taking iREP factors into consideration in our further study may avoid overestimation of the risk assessment and promote more appropriate management measures for these traditional herbal medicines.
+
+## 4\. Materials and Methods
+
+### 4.1. Chemicals and Reagents
+
+Thirty-four PAs analytical standards were all sourced from Phytolab (Vestenbergsgreuth, Germany), the structures of these compounds are shown in [Figure S1 (Supplementary Material)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#app1-molecules-26-01648). Formic acid (HPLC grade) was obtained from DIKMA Technologies Inc. (Lake Forest, CA, USA) and ammonium bicarbonate (99% purity, HPLC grade) from MREDA Technologies Inc. (Beijing, China). Both ammonium hydroxide in water (NH4OH, 25%) and sulfuric acid (H2SO4, 98%) were purchased from Beijing Chemical Works (Beijing, China). Methanol (MeOH, UPLC/MS grade) was purchased from Thermo Fisher Scientific (Shanghai, China) and water from Wahaha Company (Hangzhou, China). Stock solutions of the 34 available PAs standards were prepared in acetonitrile (100 μg/mL) and stored at –20 °C. The standard working solution (1 µg/mL) consisted of mixed respective PAs reference standards in MeOH (HPLC grade) and stored at 4 °C.
+
+### 4.2. Collection and Preparation of Samples
+
+A total of 386 herbal medicines (100 g to 500 g each) were mainly purchased from three medicine markets and pharmacies of China (Anhui Bozhou Medicinal Materials Market, Hebei Baicao Kangshen Pharmaceutical Co., Ltd. (Hengshui City, China), and Beijing Tongrentang Pharmacy store). They were identified by Dr. Yulin Lin of Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences and Peking Union Medical College (Beijing, China). Voucher specimens were deposited at the Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences and Peking Union Medical College (Beijing, China). A summary of the source details is given in [Table S8](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#app1-molecules-26-01648).
+
+### 4.3. PAs Extraction
+
+All these 386 types of herbal samples were smashed by using a high-speed mixer and the obtained powder was separately sieved through 60 mesh (0.3 mm). 2.0000 ± 0.0005 g portion of each homogeneous sample was accurately weighed and dissolved with 40 mL of MeOH, and then extracted by ultrasonic for 30 min at room temperature. All extractions were centrifuged at 6000 rpm (4430× _g_) for 10 min. The obtained supernatant was transferred to a new beaker (50 mL) and concentrated up to dryness, then reconstituted in 10 mL of 0.05 M sulfuric acid before the SPE procedure.
+
+The types of cartridges, sample loading amount, and eluents used during the extraction procedures can highly affect the recoveries of PAs from samples. In our study, five different kinds of SPE cartridges (500 mg/6 mL) were investigated in the form of recoveries by adding 1 mL of 100 ng/mL blank mixed acid standard solution to each of them, and the results are shown in [Figure 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#molecules-26-01648-f003) (detailed recoveries are listed in the [Supplementary Materials, Table S6](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#app1-molecules-26-01648)). Compared to the widely fluctuated recoveries with Cleanert SCX and C8/SCX, Cleanert PCX had a more stable and higher recoveries ranged from 68.42% to 102.08% among the 34 PAs standards. Overall, Cleanert PCX was found to be the most appropriate clean-up cartridge. Hence, Cleanert PCX cartridges were used in the following LC-MS/MS analysis.
+
+The PCX-SPE cartridges (500 mg, 6 mL) were preconditioned with 5 mL of MeOH and 5 mL of 0.05 M sulfuric acid, respectively. 10 mL sample was loaded and then washed with 5 mL of 0.05 M H2SO4 and 10 mL of MeOH. After that, the target PAs compounds were eluted with 10 mL of NH4OH/MeOH solution (1:3, _v_/ _v_), which should be freshly prepared per working day. The obtained solutions were dried at 50 ℃ under nitrogen. The dried residues were reconstituted with 2 mL of MeOH/water (50:50, _v_/ _v_) and then directly filtered into an amber LC vial (2 mL) using a syringe filter (0.22 µm).
+
+### 4.4. LC-MS/MS Analysis
+
+All herbal samples were separated and analyzed using an Agilent 6470 triple quadrupole mass spectrometer with Agilent Jet Stream technology in ESI positive ionization mode and an Agilent Infinity II 1290 UPLC system (Agilent Technologies, Palo Alto, CA, USA). The analytes were separated on a Zorbax Eclipse Plus C18 column (3.0 mm × 150 mm, 1.8 µm, Agilent Technologies) (more details see [Table S1](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#app1-molecules-26-01648)), and the column temperature was maintained at 40 °C (±0.8 °C). The mobile phase consisted of solvent A (water) and solvent B (MeOH), both mixture with 0.05% formic acid and 2.5 mM ammonium formate (0.5 min 95%A/5%B, 1.0 min 80%A/20%B, 11.0 min 63%A/37%B, 13.0 min 5%A/95%B, 15.5 min 5%A/95%B, 16.0 min 95%A/5%B), the flow rate is 0.4 mL/min. 2 μL of each sample extract was injected. The configuration and parameters are summarized in [Tables S2 and S3](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#app1-molecules-26-01648).
+
+Matrix effects often cause significant interferences and influences during the analysis process. A major problem of this approach is that the matrixes of those 386 Chinese herbal medicines are complicated and the PA/ PANO-free materials are hardly available in some matrices, especially those for herbals. In this study, _Perilla frutescens_, _Rhodiola rosea_ L., _Syringa oblata_ Lindl, and _Chaenomeles sinensis_ were adopted as blank matrix samples, and mixed standards was added to these blank matrix samples. The matrix effect was calculated by comparison of the slopes of the calibration curve prepared by spiking blank herbal samples and calibration curve in solvent according to formula: ME = (slopematrix/slopesolvent − 1) ×100% \[ [39](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B39-molecules-26-01648)\]. According to the study \[ [40](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B40-molecules-26-01648), [41](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B41-molecules-26-01648)\], the matrix effects were considered to be soft if the values was in the range of 80–120%, the values above 120% indicated matrix effect was enhanced, while under 80% indicated matrix effect was suppressed. Consequently, as exhibited in [Table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#molecules-26-01648-t001), only Retronecine with ME under 50% showed suppressed effect, other components were all found to meet the requirements (80~120%).
+
+#### Table 1.
+
+Matrix effects of PAs/ pyrrolizidine alkaloid _N_-oxides (PANOs) in _P. frutescens_, _R. ro_ _sea_, _S. oblata_, _C. sinensis._
+
+| PAs |  | _P. frutescens_ |  | Average |  | _R. rosea_ |  | Average |  | _S. oblata_ |  | Average |  | _C. sinensis_ |  | Average |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| Abbr. | 50 μg/kg | 100 μg/kg | 200 μg/kg |  | 50 μg/kg | 100 g/kg | 200 μg/kg |  | 50 μg/kg | 100 μg/kg | 200 μg/kg |  | 50 μg/kg | 100 μg/kg | 200 μg/kg |  |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| Ret | 52.96 | 50.23 | 44.33 | **49.17** | 34.05 | 31.48 | 28.58 | **31.37** | 33.80 | 32.45 | 28.92 | **31.73** | 28.29 | 25.93 | 22.58 | **25.60** |
+| Mc | 87.51 | 81.26 | 76.29 | **81.69** | 93.52 | 83.99 | 81.09 | **86.20** | 80.36 | 77.07 | 73.45 | **76.96** | 91.93 | 87.35 | 83.57 | **87.62** |
+| Er | 92.22 | 82.64 | 79.19 | **84.68** | 92.24 | 83.75 | 80.78 | **85.59** | 82.58 | 77.49 | 75.82 | **78.63** | 95.34 | 89.42 | 86.64 | **90.47** |
+| McNO | 93.11 | 87.48 | 84.56 | **88.39** | 99.22 | 92.92 | 93.90 | **95.35** | 91.41 | 88.53 | 85.60 | **88.51** | 95.78 | 92.95 | 90.91 | **93.21** |
+| ErNO | 93.30 | 88.68 | 81.93 | **87.97** | 99.11 | 94.69 | 91.74 | **95.18** | 92.86 | 88.15 | 84.76 | **88.59** | 97.35 | 93.44 | 91.38 | **94.06** |
+| Jb | 95.29 | 89.09 | 84.03 | **89.47** | 95.34 | 87.42 | 83.72 | **88.83** | 87.94 | 82.76 | 80.34 | **83.68** | 96.02 | 90.20 | 87.06 | **91.09** |
+| Eu | 116.50 | 109.30 | 102.67 | **109.49** | 106.92 | 98.97 | 98.63 | **101.51** | 123.26 | 114.61 | 111.40 | **116.42** | 115.77 | 108.56 | 104.45 | **109.59** |
+| Im | 104.19 | 96.34 | 91.69 | **97.41** | 100.51 | 91.80 | 87.10 | **93.14** | 101.71 | 95.22 | 94.75 | **97.23** | 101.15 | 94.47 | 93.20 | **96.27** |
+| Ly | 112.08 | 99.29 | 91.32 | **100.90** | 118.46 | 102.36 | 97.05 | **105.96** | 119.29 | 108.72 | 107.15 | **111.72** | 117.58 | 105.60 | 104.14 | **109.11** |
+| JbNO | 92.05 | 86.68 | 83.15 | **87.29** | 95.84 | 91.72 | 93.77 | **93.77** | 90.24 | 87.77 | 86.67 | **88.23** | 99.58 | 93.67 | 93.10 | **95.45** |
+| EuNO | 113.80 | 106.74 | 102.79 | **107.77** | 112.71 | 103.62 | 106.20 | **107.51** | 111.69 | 108.06 | 106.05 | **108.60** | 111.70 | 103.73 | 105.91 | **107.11** |
+| ImNO | 136.31 | 125.89 | 120.85 | **127.68** | 127.33 | 115.07 | 119.21 | **120.54** | 133.24 | 122.01 | 123.50 | **126.25** | 129.96 | 116.92 | 120.13 | **122.34** |
+| LyNO | 114.13 | 106.84 | 103.62 | **108.20** | 111.30 | 105.04 | 108.91 | **108.41** | 112.67 | 106.88 | 106.47 | **108.67** | 114.17 | 106.61 | 107.32 | **109.37** |
+| Re | 88.24 | 85.83 | 81.80 | **85.29** | 98.16 | 92.80 | 87.90 | **92.95** | 96.13 | 94.37 | 91.86 | **94.12** | 99.43 | 96.15 | 93.41 | **96.33** |
+| ReNO | 97.58 | 92.65 | 88.85 | **93.03** | 101.48 | 96.09 | 98.72 | **98.76** | 101.12 | 93.88 | 94.61 | **96.53** | 103.04 | 97.81 | 97.75 | **99.53** |
+| Td | 98.47 | 93.47 | 87.79 | **93.25** | 99.88 | 92.35 | 92.91 | **95.05** | 96.87 | 93.51 | 92.58 | **94.32** | 98.56 | 94.97 | 94.82 | **96.12** |
+| Sp | 100.76 | 94.30 | 88.73 | **94.60** | 101.32 | 91.52 | 87.85 | **93.57** | 102.39 | 93.53 | 94.67 | **96.86** | 103.53 | 95.24 | 93.72 | **97.50** |
+| 7-Im | 108.18 | 101.53 | 94.91 | **101.54** | 107.08 | 98.40 | 96.02 | **100.50** | 107.56 | 104.56 | 100.25 | **104.12** | 103.72 | 100.51 | 96.29 | **100.17** |
+| He | 109.93 | 102.09 | 97.39 | **103.14** | 107.59 | 98.34 | 96.99 | **100.97** | 108.75 | 103.93 | 100.47 | **104.39** | 106.52 | 101.40 | 98.85 | **102.26** |
+| 7-Ly | 111.21 | 100.62 | 96.59 | **102.81** | 107.41 | 96.70 | 96.79 | **100.30** | 111.66 | 101.03 | 98.92 | **103.87** | 107.92 | 99.05 | 97.60 | **101.52** |
+| SpNO | 99.31 | 95.89 | 91.65 | **95.62** | 100.17 | 94.36 | 98.88 | **97.80** | 100.08 | 95.67 | 95.34 | **97.03** | 102.86 | 97.71 | 99.56 | **100.04** |
+| 7ImNO | 80.81 | 77.37 | 75.52 | **77.90** | 89.81 | 86.90 | 88.52 | **88.41** | 83.31 | 81.43 | 79.87 | **81.54** | 88.80 | 87.43 | 85.12 | **87.12** |
+| HeNO | 105.60 | 97.82 | 95.78 | **99.74** | 106.34 | 96.47 | 102.04 | **101.62** | 104.15 | 99.02 | 99.01 | **100.73** | 104.00 | 98.86 | 98.52 | **100.46** |
+| Sv | 100.08 | 93.29 | 87.62 | **93.66** | 99.35 | 89.16 | 85.48 | **91.33** | 99.25 | 93.91 | 92.12 | **95.09** | 99.89 | 91.94 | 91.49 | **94.44** |
+| Sn | 101.29 | 96.03 | 90.98 | **96.10** | 101.42 | 92.35 | 87.74 | **93.84** | 100.07 | 94.97 | 93.77 | **96.27** | 100.19 | 95.83 | 95.42 | **97.15** |
+| SvNO | 104.14 | 97.65 | 94.73 | **98.84** | 105.24 | 99.60 | 102.36 | **102.40** | 104.85 | 99.38 | 96.48 | **100.24** | 107.33 | 99.20 | 99.17 | **101.90** |
+| SnNO | 103.66 | 96.53 | 94.35 | **98.18** | 105.18 | 99.56 | 101.74 | **102.16** | 103.00 | 95.50 | 95.41 | **97.97** | 101.84 | 99.27 | 99.26 | **100.12** |
+| Em | 107.55 | 101.47 | 99.18 | **102.73** | 105.32 | 99.30 | 98.47 | **101.03** | 106.05 | 102.22 | 100.38 | **102.88** | 105.90 | 100.02 | 98.84 | **101.59** |
+| EmNO | 108.87 | 107.19 | 113.70 | **109.92** | 111.86 | 113.25 | 129.58 | **118.23** | 112.14 | 111.47 | 116.28 | **113.29** | 113.34 | 113.89 | 125.30 | **117.51** |
+| Sk | 105.56 | 100.38 | 95.60 | **100.51** | 105.89 | 100.33 | 104.05 | **103.42** | 105.62 | 101.63 | 99.82 | **102.36** | 106.31 | 101.57 | 101.08 | **102.99** |
+| Lc | 92.85 | 88.45 | 90.21 | **90.50** | 94.69 | 89.25 | 93.62 | **92.52** | 89.74 | 87.28 | 91.01 | **89.34** | 97.76 | 93.19 | 95.74 | **95.56** |
+| LcNO | 90.74 | 85.54 | 81.06 | **85.78** | 94.34 | 88.08 | 90.09 | **90.84** | 85.59 | 81.88 | 81.63 | **83.03** | 96.76 | 90.92 | 92.21 | **93.30** |
+| Ret | 52.96 | 50.23 | 44.33 | **49.17** | 34.05 | 31.48 | 28.58 | **31.37** | 33.80 | 32.45 | 28.92 | **31.73** | 28.29 | 25.93 | 22.58 | **25.60** |
+| Mc | 87.51 | 81.26 | 76.29 | **81.69** | 93.52 | 83.99 | 81.09 | **86.20** | 80.36 | 77.07 | 73.45 | **76.96** | 91.93 | 87.35 | 83.57 | **87.62** |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/table/molecules-26-01648-t001/)
+
+Besides, validation of the analytical method was performed according to the Commission Decision No.2002/657/EC. The following parameters were determined: linearity, precision, recovery, LOD, and LOQ. Linearity of this method was studied using seven different concentration levels: the range from 0.1 ng/mL to 10 ng/mL for low-level compounds and the range from 10 ng/mL to 500 ng/mL for the high level. The recoveries of PAs were studied by analyzing triplicate samples spiked with mixed standards at three concentration levels of 1.0, 10.0 and 100.0 ng/mL. The precision of the method was evaluated by performing tests on six replicated injections of the same spiked samples. The intra-day and interday repeatability were also estimated by analyzing spiked samples in a single day and for three different consecutive days, respectively. The LOD and LOQ were determined at the signal-to-noise (S/N) ratios of 3 and 10, respectively.
+
+### 4.5. Estimated Daily Intake (EDI) of PAs Resulting from the Consumption of Herbal Medicines
+
+EDI was calculated according to Equation (1)
+
+|     |     |
+| --- | --- |
+| EDI = (C × M)/(BW × 1000) | (1) |
+
+The EDI values are expressed in μg/kg bw/day. C is the total content of PAs detected in the PA-positive samples (271/386) by LC-MS/MS, expressed in μg/kg. M is the Chinese Pharmacopoeia (2020) recommended maximum daily consumption dosage of these herbal samples, expressed in g. The factor 1000 is used to convert M in g to kg. BW is body weight of 70 kg proposed by the European Food Safety Authority (EFSA) \[ [31](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B31-molecules-26-01648)\].
+
+To evaluate the noncancer effects of PAs, the British COT came to the conclusion that doses of PAs below 0.007 μg/kg bw/day, would unlikely be of concern \[ [42](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B42-molecules-26-01648)\]. Accordingly, the BfR identified that, for 1,2-unsaturated PAs, a daily intake of 0.007 μg/kg (0.42 μg/60 kg adult) should not be exceeded \[ [43](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B43-molecules-26-01648)\]. Also the Committee on Herbal Medicinal Products (HMPC) of the EMA concluded that the short-time (maximum 14 days) daily intake of 0.35 µg (50 kg adult) toxic unsaturated PAs/day from herbal medicinal products might be acceptable \[ [44](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B44-molecules-26-01648)\]. Based on these, the tolerable levels of exposure for PAs should not exceed 0.007 µg/kg bw/day, and 0.49 µg/day was adopted as the baseline value of risk assessment for adults with a body weight of 70 kg.
+
+The risk assessment of PAs was calculated using the recommended maximum daily intakes in the Chinese Pharmacopoeia (2020), and the ones exceeding the baseline value are shown in [Table 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#molecules-26-01648-t002).
+
+#### Table 2.
+
+The PA content detected in herbal medicines over the baseline, and the corresponding EDI and MOE values.
+
+| Sample ID | Herbal Samples | Numbers of PAs<br>Detected and Top Three | Total PAs Content<br>(μg/kg) | Recommended Maximum Daily Use (g) | PAs Maximum Daily Consumption (g) | EDI (μg/kg bw/<br>Day) | MOE Values<br>(Life Long Time) | MOE Values<br>(Shorter Exposure) |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| HM-1 | _Arnebia euchroma_ | 7 (LyNO, ImNO, EmNO) | 25567.4 | 10 | 255.6 | 3.652 | 64.8 | 1687.0 |
+| HM-2 | _Tussilago farfara_ | 10 (Sk, SnNO, Sn) | 17600.2 | 10 | 176.0 | 2.514 | 94.2 | 2450.7 |
+| HM-3 | _Eupatorium fortunei_ | 5 (Im, Ly, LyNO) | 16943.6 | 10 | 169.4 | 2.420 | 97.9 | 2545.7 |
+| HM-4 | _Eupatorium lindleyanum_ | 5 (LyNO, Im, Ly) | 1863.6 | 60 | 111.8 | 1.597 | 148.3 | 3857.4 |
+| HM-5 | _Senecio scandens_ | 12 (Sk, SnNO, SpNO) | 229.0 | 30 | 6.8 | 0.098 | 2414.5 | 62,777.8 |
+| HM-6 | _Laggera pterodonta_ | 9 (Im, ImNO, JbNO) | 198.5 | 15 | 2.9 | 0.042 | 5569.5 | 144,808.1 |
+| HM-7 | _Artemisia scoparia_ | 6 (Im, Ly, LyNO) | 233.6 | 10 | 3.5 | 0.033 | 7100.9 | 184,625.2 |
+| HM-8 | _Cassia angustifolia_ | 9 (Mc, McNO, Td) | 220.6 | 6 | 1.3 | 0.018 | 12,528.8 | 325,751.0 |
+| HM-9 | _Euphorbia hirta_ | 6 (Im, ImNO, LyNO) | 121.9 | 9 | 1.0 | 0.015 | 15,121.6 | 393,163.7 |
+| HM-10 | _Gynura japonica_ | 6 (SnNO, SpNO, Sk) | 531.0 | 6 | 3.1 | 0.045 | 5206.7 | 135,375.7 |
+| HM-11 | _Scutellaria barbata_ | 5 (LyNO, Ly, ImNO) | 61.7 | 30 | 1.8 | 0.026 | 8958.3 | 232,917.5 |
+| HM-12 | _Euphorbia humifusa_ | 6 (LyNO, Ly, ImNO) | 45.0 | 20 | 0.9 | 0.012 | 18,421.0 | 478,947.3 |
+| HM-13 | _Picria fel-terrae_ | 6 (LyNO, Ly, Im) | 58.2 | 15 | 0.8 | 0.012 | 18,983.8 | 493,580.5 |
+| HM-14 | _Cirsium japonicum_ | 7 (Im, Sk, LyNO) | 44.6 | 15 | 0.6 | 0.009 | 24,798.2 | 644,753.3 |
+| HM-15 | _Abrus cantoniensis_ | 6 (LyNO, Ly, ImNO) | 22.1 | 30 | 0.6 | 0.009 | 25,067.9 | 651,767.9 |
+| HM-16 | _Equisetum hyemale_ | 6 (LyNO, Ly, ImNO) | 66.6 | 9 | 0.5 | 0.008 | 27,677.6 | 719,619.6 |
+| HM-17 | _Apocynum venetum_ | 5(LyNO, Ly, ImNO) | 49.3 | 12 | 0.5 | 0.008 | 28,071.0 | 729,847.7 |
+| HM-18 | _Siphonostegia chinensis_ | 13 (Im, ImNO, LyNO) | 51.8 | 9 | 0.4 | 0.006 | 35,530.7 | 923,798.5 |
+| HM-19 | _Achillea alpina_ | 4 (Sk, Im, Ly) | 51.9 | 45 | 2.3 | 0.033 | 7103.4 | 184,688.5 |
+| HM-20 | _Phryma leptostachya_ | 6 (LyNO, Ly, ImNO) | 45.7 | 15 | 0.6 | 0.009 | 24,179.6 | 628,671.4 |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/table/molecules-26-01648-t002/)
+
+### 4.6. Calculation of MOE
+
+EFSA proposed that MOE approach can be applied for the risk assessment of substances that have both genotoxic and carcinogenic properties \[ [45](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B45-molecules-26-01648)\], as shown in Equation (2), the MOE value was calculated by dividing the reference point BMDL10 by the EDIz \[ [30](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B30-molecules-26-01648)\].
+
+|     |     |
+| --- | --- |
+| MOE = BMDL10/EDI | (2) |
+
+where the MOE is a ratio, the BMDL10 value used was 237 μg/kg bw/day originated from a chronic exposure experiment with riddelliine in rats \[ [24](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B24-molecules-26-01648)\]. MOE values below 10,000 indicate that there might be a potential concern for human health.
+
+### 4.7. Actual Life Exposure of Chinese Herbal Medicines
+
+The MOE values are based on chronic lifetime exposure. While most respondents in China tended to take these herbal medicines only during a specified time period or when they had a worsened condition, therefore, the actual consumption periods of these herbals should be shorter, which is assumed to be two weeks/year.
+
+Here we adopted Haber’s rule \[ [30](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B30-molecules-26-01648), [46](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B46-molecules-26-01648)\] to correct the EDI and thus the MOE approach, and the MOE (two weeks/year during a lifetime) of PAs can be expressed as follows \[ [38](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/#B38-molecules-26-01648)\]:
+
+|     |     |
+| --- | --- |
+| MOE (two weeks/year during a lifetime) = MOE × 26 | (3) |
+
+where the MOE on the right side of the equation is acquired by Equation (2).
+
+## 5\. Conclusions
+
+In conclusion, the established efficient and sensitive UPLC-MS/MS method could be used for the detection of toxic PAs in herbs. _A. euchroma_, _T. farfara_, _E. fortunei_, and _E. lindleyanum_ may pose a potential risk for human health, when consumed for two weeks a year at the dosage of Chinese Pharmacopoeia (2020) recommended maximum daily consumption. This study provides a meaningful reference for the rational use of Chinese herbal medicines, and the results of the risk assessment highlight the urgency for regulatory actions, with the aim to reduce the level of PAs that occur in these products. In addition, it is necessary to carry out more in-depth investigations to ensure the safe use of these Chinese herbal medicines.
+
+## Supplementary Materials
+
+The following are available online. Figure S1: Chemical structures of 34 PAs, Table S1: MS/MS compound information and retention time (RT) of the PAs analytes, Table S2: UPLC system Configuration and parameters, Table S3: UPLC triple quadrupole mass spectrometer configuration and parameters, Table S4: The concentrations of detected PAs in A. capillaris with different extractant solvents (n = 3, μg/kg), Table S5: The concentrations of detected PAs in S.scandens with different extractant solvents (n = 3, μg/kg), Table S6: The detailed recoveries of each PA with different SPE cartridges, Table S7: LOD, LOQ, recoveries, intra-day and inter-day repeatability obtained by UPLC-MS/MS method, Table S8: The PA content detected in all 386 herbal medicines, and the corresponding EDI and MOE values.
+
+[Click here for additional data file.](https://pmc.ncbi.nlm.nih.gov/articles/instance/8000276/bin/molecules-26-01648-s001.pdf) (1.2MB, pdf)
+
+## Author Contributions
+
+Conceptualization, D.S., J.S. and Y.L.; methodology, M.Z., L.C., Y.Q. and S.M.; formal analysis, M.Z. and L.C.; resources, L.C., Y.Q. and S.M.; data curation, J.W.; writing—original draft preparation, M.Z.; writing—review and editing, J.W.; visualization, J.W. and M.Z.; supervision, J.W.; project administration, J.S. and Y.L.; funding acquisition, J.S. All authors have read and agreed to the published version of the manuscript.
+
+## Funding
+
+This research was funded by the CAMS Innovation Fund for Medical Sciences (CIFMS, 2017-I2M-1-013).
+
+## Institutional Review Board Statement
+
+Not applicable.
+
+## Informed Consent Statement
+
+Not applicable.
+
+## Data Availability Statement
+
+Not applicable.
+
+## Conflicts of Interest
+
+The authors declare no conflict of interest.
+
+## Footnotes
+
+**Publisher’s Note:** MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+## References
+
+- 1.Mattocks A.R. Chemistry and Toxicology of Pyrrolizidine Alkaloids. Academic Press; London, UK: 1986.  \[ [Google Scholar](https://scholar.google.com/scholar_lookup?title=Chemistry%20and%20Toxicology%20of%20Pyrrolizidine%20Alkaloids&author=A.R.%20Mattocks&publication_year=1986&)\]
+- 2.Ma J., Xia Q., Fu P.P., Lin G. Pyrrole-protein adducts—A biomarker of pyrrolizidine alkaloid-induced hepatotoxicity. J. Food Drug Anal. 2018;26:965–972. doi: 10.1016/j.jfda.2018.05.005. \[ [DOI](https://doi.org/10.1016/j.jfda.2018.05.005)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9303027/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29976414/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Food%20Drug%20Anal.&title=Pyrrole-protein%20adducts%E2%80%94A%20biomarker%20of%20pyrrolizidine%20alkaloid-induced%20hepatotoxicity&author=J.%20Ma&author=Q.%20Xia&author=P.P.%20Fu&author=G.%20Lin&volume=26&publication_year=2018&pages=965-972&pmid=29976414&doi=10.1016/j.jfda.2018.05.005&)\]
+- 3.Roeder E. Medicinal plants in Europe containing pyrrolizidine alkaloids. Pharmazie. 1995;50:83–98. \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/7700976/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Pharmazie&title=Medicinal%20plants%20in%20Europe%20containing%20pyrrolizidine%20alkaloids&author=E.%20Roeder&volume=50&publication_year=1995&pages=83-98&pmid=7700976&)\]
+- 4.Stegelmeier B.L., Edgar J.A., Colegate S.M., Gardner D.R., Schoch T.K., Coulombe R.A., Molyneux R.J. Pyrrolizidine alkaloid plants, metabolism and toxicity. J. Nat. Toxins. 1999;8:95–116. \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/10091131/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Nat.%20Toxins&title=Pyrrolizidine%20alkaloid%20plants,%20metabolism%20and%20toxicity&author=B.L.%20Stegelmeier&author=J.A.%20Edgar&author=S.M.%20Colegate&author=D.R.%20Gardner&author=T.K.%20Schoch&volume=8&publication_year=1999&pages=95-116&pmid=10091131&)\]
+- 5.Haines J.A. International programme on chemical safety. Lancet. 1996;348:408–409. doi: 10.1016/S0140-6736(05)65029-5. \[ [DOI](https://doi.org/10.1016/S0140-6736(05)65029-5)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/8709757/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet&title=International%20programme%20on%20chemical%20safety&author=J.A.%20Haines&volume=348&publication_year=1996&pages=408-409&pmid=8709757&doi=10.1016/S0140-6736(05)65029-5&)\]
+- 6.Schramm S., Köhler N., Rozhon W. Pyrrolizidine Alkaloids: Biosynthesis, Biological Activities and Occurrence in Crop Plants. Molecules. 2019;24:498. doi: 10.3390/molecules24030498. \[ [DOI](https://doi.org/10.3390/molecules24030498)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6385001/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30704105/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Molecules&title=Pyrrolizidine%20Alkaloids:%20Biosynthesis,%20Biological%20Activities%20and%20Occurrence%20in%20Crop%20Plants&author=S.%20Schramm&author=N.%20K%C3%B6hler&author=W.%20Rozhon&volume=24&publication_year=2019&pages=498&pmid=30704105&doi=10.3390/molecules24030498&)\]
+- 7.Geburek I., Preiss-Weigert A., Lahrssen-Wiederholt M., Schrenk D., These A. In vitro metabolism of pyrrolizidine alkaloids—Metabolic degradation and GSH conjugate formation of different structure types. Food Chem. Toxicol. 2020;135:110868. doi: 10.1016/j.fct.2019.110868. \[ [DOI](https://doi.org/10.1016/j.fct.2019.110868)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31586656/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Food%20Chem.%20Toxicol.&title=In%20vitro%20metabolism%20of%20pyrrolizidine%20alkaloids%E2%80%94Metabolic%20degradation%20and%20GSH%20conjugate%20formation%20of%20different%20structure%20types&author=I.%20Geburek&author=A.%20Preiss-Weigert&author=M.%20Lahrssen-Wiederholt&author=D.%20Schrenk&author=A.%20These&volume=135&publication_year=2020&pages=110868&pmid=31586656&doi=10.1016/j.fct.2019.110868&)\]
+- 8.Kempf M., Beuerle T., Bühringer M., Denner M., Trost D., von der Ohe K., Bhavanam V.B., Schreier P. Pyrrolizidine alkaloids in honey: Risk analysis by gas chromatography-mass spectrometry. Mol. Nutr. Food Res. 2008;52:1193–1200. doi: 10.1002/mnfr.200800051. \[ [DOI](https://doi.org/10.1002/mnfr.200800051)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/18792927/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol.%20Nutr.%20Food%20Res.&title=Pyrrolizidine%20alkaloids%20in%20honey:%20Risk%20analysis%20by%20gas%20chromatography-mass%20spectrometry&author=M.%20Kempf&author=T.%20Beuerle&author=M.%20B%C3%BChringer&author=M.%20Denner&author=D.%20Trost&volume=52&publication_year=2008&pages=1193-1200&pmid=18792927&doi=10.1002/mnfr.200800051&)\]
+- 9.Moreira R., Pereira D.M., Valentão P., Andrade P.B. Pyrrolizidine Alkaloids: Chemistry, Pharmacology, Toxicology and Food Safety. Int. J. Mol. Sci. 2018;19:1668. doi: 10.3390/ijms19061668. \[ [DOI](https://doi.org/10.3390/ijms19061668)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6032134/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29874826/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int.%20J.%20Mol.%20Sci.&title=Pyrrolizidine%20Alkaloids:%20Chemistry,%20Pharmacology,%20Toxicology%20and%20Food%20Safety&author=R.%20Moreira&author=D.M.%20Pereira&author=P.%20Valent%C3%A3o&author=P.B.%20Andrade&volume=19&publication_year=2018&pages=1668&pmid=29874826&doi=10.3390/ijms19061668&)\]
+- 10.Cheeke P.R. Toxicity and metabolism of pyrrolizidine alkaloids. J. Anim. Sci. 1988;66:2343–2350. doi: 10.2527/jas1988.6692343x. \[ [DOI](https://doi.org/10.2527/jas1988.6692343x)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/3049495/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Anim.%20Sci.&title=Toxicity%20and%20metabolism%20of%20pyrrolizidine%20alkaloids&author=P.R.%20Cheeke&volume=66&publication_year=1988&pages=2343-2350&pmid=3049495&doi=10.2527/jas1988.6692343x&)\]
+- 11.Bensaude R.J., Monegier du Sorbier C., Jonville-Bera A.P., Autret E., Ouyahya F., Metman E.H. Veno-occlusive disease after prolonged treatment with senecionine (Hemoluol) Gastroenterol. Clin. Biol. 1998;22:363–364. \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/9762228/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Gastroenterol.%20Clin.%20Biol.&title=Veno-occlusive%20disease%20after%20prolonged%20treatment%20with%20senecionine%20(Hemoluol)&author=R.J.%20Bensaude&author=C.%20Monegier%20du%20Sorbier&author=A.P.%20Jonville-Bera&author=E.%20Autret&author=F.%20Ouyahya&volume=22&publication_year=1998&pages=363-364&pmid=9762228&)\]
+- 12.Dai N., Yu Y.C., Ren T.H., Wu J.G., Jiang Y., Shen L.G., Zhang J. Gynura root induces hepatic veno-occlusive disease: A case report and review of the literature. World J. Gastroenterol. 2007;13:1628–1631. doi: 10.3748/wjg.v13.i10.1628. \[ [DOI](https://doi.org/10.3748/wjg.v13.i10.1628)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4146912/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/17461462/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=World%20J.%20Gastroenterol.&title=Gynura%20root%20induces%20hepatic%20veno-occlusive%20disease:%20A%20case%20report%20and%20review%20of%20the%20literature&author=N.%20Dai&author=Y.C.%20Yu&author=T.H.%20Ren&author=J.G.%20Wu&author=Y.%20Jiang&volume=13&publication_year=2007&pages=1628-1631&pmid=17461462&doi=10.3748/wjg.v13.i10.1628&)\]
+- 13.Ka A.S., Michel G., Imbert P., Diakhaté I., Seye M.N. Hepatic veno-occlusive disease due to dietary toxins in a five-year-old child in Senegal. Med. Trop. 2006;66:514–515. \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/17201303/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Med.%20Trop&title=Hepatic%20veno-occlusive%20disease%20due%20to%20dietary%20toxins%20in%20a%20five-year-old%20child%20in%20Senegal&author=A.S.%20Ka&author=G.%20Michel&author=P.%20Imbert&author=I.%20Diakhat%C3%A9&author=M.N.%20Seye&volume=66&publication_year=2006&pages=514-515&pmid=17201303&)\]
+- 14.Edgar J.A., Roeder E., Molyneux R.J. Honey from plants containing pyrrolizidine alkaloids: A potential threat to health. J. Agric. Food Chem. 2002;50:2719–2730. doi: 10.1021/jf0114482. \[ [DOI](https://doi.org/10.1021/jf0114482)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11982390/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Agric.%20Food%20Chem.&title=Honey%20from%20plants%20containing%20pyrrolizidine%20alkaloids:%20A%20potential%20threat%20to%20health&author=J.A.%20Edgar&author=E.%20Roeder&author=R.J.%20Molyneux&volume=50&publication_year=2002&pages=2719-2730&pmid=11982390&doi=10.1021/jf0114482&)\]
+- 15.Ruan J., Yang M., Fu P., Ye Y., Lin G. Metabolic activation of pyrrolizidine alkaloids: Insights into the structural and enzymatic basis. Chem. Res. Toxicol. 2014;27:1030–1039. doi: 10.1021/tx500071q. \[ [DOI](https://doi.org/10.1021/tx500071q)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24836403/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Chem.%20Res.%20Toxicol.&title=Metabolic%20activation%20of%20pyrrolizidine%20alkaloids:%20Insights%20into%20the%20structural%20and%20enzymatic%20basis&author=J.%20Ruan&author=M.%20Yang&author=P.%20Fu&author=Y.%20Ye&author=G.%20Lin&volume=27&publication_year=2014&pages=1030-1039&pmid=24836403&doi=10.1021/tx500071q&)\]
+- 16.Hsu I.C., Allen J.R., Chesney C.F. Identification and toxicological effects of dehydroretronecine, a metabolite of monocrotaline. Proc. Soc. Exp. Biol. Med. 1973;144:834–838. doi: 10.3181/00379727-144-37693. \[ [DOI](https://doi.org/10.3181/00379727-144-37693)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/4543621/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Proc.%20Soc.%20Exp.%20Biol.%20Med.&title=Identification%20and%20toxicological%20effects%20of%20dehydroretronecine,%20a%20metabolite%20of%20monocrotaline&author=I.C.%20Hsu&author=J.R.%20Allen&author=C.F.%20Chesney&volume=144&publication_year=1973&pages=834-838&pmid=4543621&doi=10.3181/00379727-144-37693&)\]
+- 17.Qiu J. Traditional medicine: A culture in the balance. Nature. 2007;448:126–128. doi: 10.1038/448126a. \[ [DOI](https://doi.org/10.1038/448126a)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/17625539/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Traditional%20medicine:%20A%20culture%20in%20the%20balance&author=J.%20Qiu&volume=448&publication_year=2007&pages=126-128&pmid=17625539&doi=10.1038/448126a&)\]
+- 18.Avula B., Sagi S., Wang Y.H., Zweigenbaum J., Wang M., Khan I.A. Characterization and screening of pyrrolizidine alkaloids and N-oxides from botanicals and dietary supplements using UHPLC-high resolution mass spectrometry. Food Chem. 2015;178:136–148. doi: 10.1016/j.foodchem.2015.01.053. \[ [DOI](https://doi.org/10.1016/j.foodchem.2015.01.053)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25704694/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Food%20Chem.&title=Characterization%20and%20screening%20of%20pyrrolizidine%20alkaloids%20and%20N-oxides%20from%20botanicals%20and%20dietary%20supplements%20using%20UHPLC-high%20resolution%20mass%20spectrometry&author=B.%20Avula&author=S.%20Sagi&author=Y.H.%20Wang&author=J.%20Zweigenbaum&author=M.%20Wang&volume=178&publication_year=2015&pages=136-148&pmid=25704694&doi=10.1016/j.foodchem.2015.01.053&)\]
+- 19.Bodi D., Ronczka S., Gottschalk C., Behr N., Skibba A., Wagner M., Lahrssen-Wiederholt M., Preiss-Weigert A., These A. Determination of pyrrolizidine alkaloids in tea, herbal drugs and honey. Food Addit. Contam. A. 2014;31:1886–1895. doi: 10.1080/19440049.2014.964337. \[ [DOI](https://doi.org/10.1080/19440049.2014.964337)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25222912/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Food%20Addit.%20Contam.%20A&title=Determination%20of%20pyrrolizidine%20alkaloids%20in%20tea,%20herbal%20drugs%20and%20honey&author=D.%20Bodi&author=S.%20Ronczka&author=C.%20Gottschalk&author=N.%20Behr&author=A.%20Skibba&volume=31&publication_year=2014&pages=1886-1895&pmid=25222912&doi=10.1080/19440049.2014.964337&)\]
+- 20.Hsieh C.H., Chen H.W., Lee C.C., He B.J., Yang Y.C. Hepatotoxic pyrrolizidine alkaloids in Emilia sonchifolia from Taiwan. J. Food Compos. Anal. 2015;42:1–7. doi: 10.1016/j.jfca.2015.01.020. \[ [DOI](https://doi.org/10.1016/j.jfca.2015.01.020)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Food%20Compos.%20Anal.&title=Hepatotoxic%20pyrrolizidine%20alkaloids%20in%20Emilia%20sonchifolia%20from%20Taiwan&author=C.H.%20Hsieh&author=H.W.%20Chen&author=C.C.%20Lee&author=B.J.%20He&author=Y.C.%20Yang&volume=42&publication_year=2015&pages=1-7&doi=10.1016/j.jfca.2015.01.020&)\]
+- 21.Kaczyński P., Łozowicka B. A novel approach for fast and simple determination pyrrolizidine alkaloids in herbs by ultrasound-assisted dispersive solid phase extraction method coupled to liquid chromatography-tandem mass spectrometry. J. Pharm. Biomed. Anal. 2020;187:113351. doi: 10.1016/j.jpba.2020.113351. \[ [DOI](https://doi.org/10.1016/j.jpba.2020.113351)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32388321/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Pharm.%20Biomed.%20Anal.&title=A%20novel%20approach%20for%20fast%20and%20simple%20determination%20pyrrolizidine%20alkaloids%20in%20herbs%20by%20ultrasound-assisted%20dispersive%20solid%20phase%20extraction%20method%20coupled%20to%20liquid%20chromatography-tandem%20mass%20spectrometry&author=P.%20Kaczy%C5%84ski&author=B.%20%C5%81ozowicka&volume=187&publication_year=2020&pages=113351&pmid=32388321&doi=10.1016/j.jpba.2020.113351&)\]
+- 22.Luo Z., Li X., Wang L., Chang C., Fu Q. Development of UPLC-Q-TOF-MS Coupled with Cation-exchange Solid-phase Extraction Method for the Determination of Ten Pyrrolizidine Alkaloids in Herbal Medicines. Anal. Sci. 2019;35:1317–1325. doi: 10.2116/analsci.19P230. \[ [DOI](https://doi.org/10.2116/analsci.19P230)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31406026/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Anal.%20Sci.&title=Development%20of%20UPLC-Q-TOF-MS%20Coupled%20with%20Cation-exchange%20Solid-phase%20Extraction%20Method%20for%20the%20Determination%20of%20Ten%20Pyrrolizidine%20Alkaloids%20in%20Herbal%20Medicines&author=Z.%20Luo&author=X.%20Li&author=L.%20Wang&author=C.%20Chang&author=Q.%20Fu&volume=35&publication_year=2019&pages=1317-1325&pmid=31406026&doi=10.2116/analsci.19P230&)\]
+- 23.CONTAM Scientific Opinion on Pyrrolizidine alkaloids in food and feed. EFSA J. 2011;9:2406. doi: 10.2903/j.efsa.2011.2406. \[ [DOI](https://doi.org/10.2903/j.efsa.2011.2406)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=EFSA%20J.&title=Scientific%20Opinion%20on%20Pyrrolizidine%20alkaloids%20in%20food%20and%20feed&volume=9&publication_year=2011&pages=2406&doi=10.2903/j.efsa.2011.2406&)\]
+- 24.Chan P. NTP technical report on the toxicity studies of Riddelliine (CAS No. 23246-96-0) Administered by Gavage to F344 Rats and B6C3F1 Mice. Toxic. Rep. Ser. 1993;27:1–d9. \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12209179/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxic.%20Rep.%20Ser.&title=NTP%20technical%20report%20on%20the%20toxicity%20studies%20of%20Riddelliine%20(CAS%20No.%2023246-96-0)%20Administered%20by%20Gavage%20to%20F344%20Rats%20and%20B6C3F1%20Mice&author=P.%20Chan&volume=27&publication_year=1993&pages=1-d9&pmid=12209179&)\]
+- 25.Kaltner F., Rychlik M., Gareis M., Gottschalk C. Occurrence and Risk Assessment of Pyrrolizidine Alkaloids in Spices and Culinary Herbs from Various Geographical Origins. Toxins. 2020;12:155. doi: 10.3390/toxins12030155. \[ [DOI](https://doi.org/10.3390/toxins12030155)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7150964/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32121600/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxins&title=Occurrence%20and%20Risk%20Assessment%20of%20Pyrrolizidine%20Alkaloids%20in%20Spices%20and%20Culinary%20Herbs%20from%20Various%20Geographical%20Origins&author=F.%20Kaltner&author=M.%20Rychlik&author=M.%20Gareis&author=C.%20Gottschalk&volume=12&publication_year=2020&pages=155&pmid=32121600&doi=10.3390/toxins12030155&)\]
+- 26.Picron J.F., Herman M., Van Hoeck E., Goscinny S. Analytical strategies for the determination of pyrrolizidine alkaloids in plant based food and examination of the transfer rate during the infusion process. Food Chem. 2018;266:514–523. doi: 10.1016/j.foodchem.2018.06.055. \[ [DOI](https://doi.org/10.1016/j.foodchem.2018.06.055)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30381220/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Food%20Chem.&title=Analytical%20strategies%20for%20the%20determination%20of%20pyrrolizidine%20alkaloids%20in%20plant%20based%20food%20and%20examination%20of%20the%20transfer%20rate%20during%20the%20infusion%20process&author=J.F.%20Picron&author=M.%20Herman&author=E.%20Van%20Hoeck&author=S.%20Goscinny&volume=266&publication_year=2018&pages=514-523&pmid=30381220&doi=10.1016/j.foodchem.2018.06.055&)\]
+- 27.Merz K.H., Schrenk D. Interim relative potency factors for the toxicological risk assessment of pyrrolizidine alkaloids in food and herbal medicines. Toxicol. Lett. 2016;263:44–57. doi: 10.1016/j.toxlet.2016.05.002. \[ [DOI](https://doi.org/10.1016/j.toxlet.2016.05.002)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27157086/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxicol.%20Lett.&title=Interim%20relative%20potency%20factors%20for%20the%20toxicological%20risk%20assessment%20of%20pyrrolizidine%20alkaloids%20in%20food%20and%20herbal%20medicines&author=K.H.%20Merz&author=D.%20Schrenk&volume=263&publication_year=2016&pages=44-57&pmid=27157086&doi=10.1016/j.toxlet.2016.05.002&)\]
+- 28.Knutsen H.K., Alexander J., Barregård L., Bignami M., Brüschweiler B., Ceccatelli S., Cottrill B., Dinovi M., Edler L., Grasl Kraupp B. Risks for human health related to the presence of pyrrolizidine alkaloids in honey, tea, herbal infusions and food supplements. EFSA J. 2017;15:e04908. doi: 10.2903/j.efsa.2017.4908. \[ [DOI](https://doi.org/10.2903/j.efsa.2017.4908)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7010083/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32625569/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=EFSA%20J.&title=Risks%20for%20human%20health%20related%20to%20the%20presence%20of%20pyrrolizidine%20alkaloids%20in%20honey,%20tea,%20herbal%20infusions%20and%20food%20supplements&author=H.K.%20Knutsen&author=J.%20Alexander&author=L.%20Barreg%C3%A5rd&author=M.%20Bignami&author=B.%20Br%C3%BCschweiler&volume=15&publication_year=2017&pages=e04908&pmid=32625569&doi=10.2903/j.efsa.2017.4908&)\]
+- 29.WHO . Proceedings of World Health Organization for the International Programme on Chemical Safety. WHO; Geneva, Switzerland: 1989. Pyrrolizidine alkaloids health and safety guide. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?title=Proceedings%20of%20World%20Health%20Organization%20for%20the%20International%20Programme%20on%20Chemical%20Safety&publication_year=1989&)\]
+- 30.Suparmi S., Mulder P.P.J., Rietjens I. Detection of pyrrolizidine alkaloids in jamu available on the Indonesian market and accompanying safety assessment for human consumption. Food Chem. Toxicol. 2020;138:111230. doi: 10.1016/j.fct.2020.111230. \[ [DOI](https://doi.org/10.1016/j.fct.2020.111230)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32113951/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Food%20Chem.%20Toxicol.&title=Detection%20of%20pyrrolizidine%20alkaloids%20in%20jamu%20available%20on%20the%20Indonesian%20market%20and%20accompanying%20safety%20assessment%20for%20human%20consumption&author=S.%20Suparmi&author=P.P.J.%20Mulder&author=I.%20Rietjens&volume=138&publication_year=2020&pages=111230&pmid=32113951&doi=10.1016/j.fct.2020.111230&)\]
+- 31.EFSA Guidance on selected default values to be used by the EFSA Scientific Committee, Scientific Panels and Units in the absence of actual measured data. EFSA J. 2012;10:2579. doi: 10.2903/j.efsa.2012.2579. \[ [DOI](https://doi.org/10.2903/j.efsa.2012.2579)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC13151810/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/42112016/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=EFSA%20J.&title=Guidance%20on%20selected%20default%20values%20to%20be%20used%20by%20the%20EFSA%20Scientific%20Committee,%20Scientific%20Panels%20and%20Units%20in%20the%20absence%20of%20actual%20measured%20data&volume=10&publication_year=2012&pages=2579&pmid=42112016&doi=10.2903/j.efsa.2012.2579&)\]
+- 32.Tang J., Hattori M. Pyrrolizidine alkaloids-containing Chinese medicines in the Chinese pharmacopoeia and related safety concerns. Yao Xue Xue Bao Acta Pharm. Sin. 2011;46:762–772. \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22010344/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Yao%20Xue%20Xue%20Bao%20Acta%20Pharm.%20Sin.&title=Pyrrolizidine%20alkaloids-containing%20Chinese%20medicines%20in%20the%20Chinese%20pharmacopoeia%20and%20related%20safety%20concerns&author=J.%20Tang&author=M.%20Hattori&volume=46&publication_year=2011&pages=762-772&pmid=22010344&)\]
+- 33.Wu Q.Z., Zhao D.X., Xiang J., Zhang M., Zhang C.F., Xu X.H. Antitussive, expectorant, and anti-inflammatory activities of four caffeoylquinic acids isolated from Tussilago farfara. Pharm. Biol. 2016;54:1117–1124. doi: 10.3109/13880209.2015.1075048. \[ [DOI](https://doi.org/10.3109/13880209.2015.1075048)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26439905/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Pharm.%20Biol.&title=Antitussive,%20expectorant,%20and%20anti-inflammatory%20activities%20of%20four%20caffeoylquinic%20acids%20isolated%20from%20Tussilago%20farfara&author=Q.Z.%20Wu&author=D.X.%20Zhao&author=J.%20Xiang&author=M.%20Zhang&author=C.F.%20Zhang&volume=54&publication_year=2016&pages=1117-1124&pmid=26439905&doi=10.3109/13880209.2015.1075048&)\]
+- 34.Lin G., Wang J.Y., Li N., Li M., Gao H., Ji Y., Zhang F., Wang H., Zhou Y., Ye Y., et al. Hepatic sinusoidal obstruction syndrome associated with consumption of Gynura segetum. J. Hepatol. 2011;54:666–673. doi: 10.1016/j.jhep.2010.07.031. \[ [DOI](https://doi.org/10.1016/j.jhep.2010.07.031)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21146894/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Hepatol.&title=Hepatic%20sinusoidal%20obstruction%20syndrome%20associated%20with%20consumption%20of%20Gynura%20segetum&author=G.%20Lin&author=J.Y.%20Wang&author=N.%20Li&author=M.%20Li&author=H.%20Gao&volume=54&publication_year=2011&pages=666-673&pmid=21146894&doi=10.1016/j.jhep.2010.07.031&)\]
+- 35.Ruan J., Gao H., Li N., Xue J., Chen J., Ke C., Ye Y., Fu P.P., Zheng J., Wang J., et al. Blood Pyrrole-Protein Adducts--A Biomarker of Pyrrolizidine Alkaloid-Induced Liver Injury in Humans. J. Environ. Sci. Health C. 2015;33:404–421. doi: 10.1080/10590501.2015.1096882. \[ [DOI](https://doi.org/10.1080/10590501.2015.1096882)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26398275/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Environ.%20Sci.%20Health%20C&title=Blood%20Pyrrole-Protein%20Adducts--A%20Biomarker%20of%20Pyrrolizidine%20Alkaloid-Induced%20Liver%20Injury%20in%20Humans&author=J.%20Ruan&author=H.%20Gao&author=N.%20Li&author=J.%20Xue&author=J.%20Chen&volume=33&publication_year=2015&pages=404-421&pmid=26398275&doi=10.1080/10590501.2015.1096882&)\]
+- 36.Chen L., Mulder P.P.J., Louisse J., Peijnenburg A., Wesseling S., Rietjens I. Risk assessment for pyrrolizidine alkaloids detected in (herbal) teas and plant food supplements. Regul. Toxicol. Pharmacol. 2017;86:292–302. doi: 10.1016/j.yrtph.2017.03.019. \[ [DOI](https://doi.org/10.1016/j.yrtph.2017.03.019)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28347763/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Regul.%20Toxicol.%20Pharmacol.&title=Risk%20assessment%20for%20pyrrolizidine%20alkaloids%20detected%20in%20(herbal)%20teas%20and%20plant%20food%20supplements&author=L.%20Chen&author=P.P.J.%20Mulder&author=J.%20Louisse&author=A.%20Peijnenburg&author=S.%20Wesseling&volume=86&publication_year=2017&pages=292-302&pmid=28347763&doi=10.1016/j.yrtph.2017.03.019&)\]
+- 37.Louisse J., Rijkers D., Stoopen G., Holleboom W.J., Delagrange M., Molthof E., Mulder P.P.J., Hoogenboom R., Audebert M., Peijnenburg A. Determination of genotoxic potencies of pyrrolizidine alkaloids in HepaRG cells using the γH2AX assay. Food Chem. Toxicol. 2019;131:110532. doi: 10.1016/j.fct.2019.05.040. \[ [DOI](https://doi.org/10.1016/j.fct.2019.05.040)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31154085/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Food%20Chem.%20Toxicol.&title=Determination%20of%20genotoxic%20potencies%20of%20pyrrolizidine%20alkaloids%20in%20HepaRG%20cells%20using%20the%20%CE%B3H2AX%20assay&author=J.%20Louisse&author=D.%20Rijkers&author=G.%20Stoopen&author=W.J.%20Holleboom&author=M.%20Delagrange&volume=131&publication_year=2019&pages=110532&pmid=31154085&doi=10.1016/j.fct.2019.05.040&)\]
+- 38.Chen L., Mulder P.P.J., Peijnenburg A., Rietjens I. Risk assessment of intake of pyrrolizidine alkaloids from herbal teas and medicines following realistic exposure scenarios. Food Chem. Toxicol. 2019;130:142–153. doi: 10.1016/j.fct.2019.05.024. \[ [DOI](https://doi.org/10.1016/j.fct.2019.05.024)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31112705/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Food%20Chem.%20Toxicol.&title=Risk%20assessment%20of%20intake%20of%20pyrrolizidine%20alkaloids%20from%20herbal%20teas%20and%20medicines%20following%20realistic%20exposure%20scenarios&author=L.%20Chen&author=P.P.J.%20Mulder&author=A.%20Peijnenburg&author=I.%20Rietjens&volume=130&publication_year=2019&pages=142-153&pmid=31112705&doi=10.1016/j.fct.2019.05.024&)\]
+- 39.Kwon H., Lehotay S.J., Geis-Asteggiante L. Variability of matrix effects in liquid and gas chromatography-mass spectrometry analysis of pesticide residues after QuEChERS sample preparation of different food crops. J. Chromatogr. A. 2012;1270:235–245. doi: 10.1016/j.chroma.2012.10.059. \[ [DOI](https://doi.org/10.1016/j.chroma.2012.10.059)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23182936/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Chromatogr.%20A&title=Variability%20of%20matrix%20effects%20in%20liquid%20and%20gas%20chromatography-mass%20spectrometry%20analysis%20of%20pesticide%20residues%20after%20QuEChERS%20sample%20preparation%20of%20different%20food%20crops&author=H.%20Kwon&author=S.J.%20Lehotay&author=L.%20Geis-Asteggiante&volume=1270&publication_year=2012&pages=235-245&pmid=23182936&doi=10.1016/j.chroma.2012.10.059&)\]
+- 40.Frenich A.G., Romero-González R., Gómez-Pérez M.L., Vidal J.L. Multi-mycotoxin analysis in eggs using a QuEChERS-based extraction procedure and ultra-high-pressure liquid chromatography coupled to triple quadrupole mass spectrometry. J. Chromatogr. A. 2011;1218:4349–4356. doi: 10.1016/j.chroma.2011.05.005. \[ [DOI](https://doi.org/10.1016/j.chroma.2011.05.005)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21621786/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Chromatogr.%20A&title=Multi-mycotoxin%20analysis%20in%20eggs%20using%20a%20QuEChERS-based%20extraction%20procedure%20and%20ultra-high-pressure%20liquid%20chromatography%20coupled%20to%20triple%20quadrupole%20mass%20spectrometry&author=A.G.%20Frenich&author=R.%20Romero-Gonz%C3%A1lez&author=M.L.%20G%C3%B3mez-P%C3%A9rez&author=J.L.%20Vidal&volume=1218&publication_year=2011&pages=4349-4356&pmid=21621786&doi=10.1016/j.chroma.2011.05.005&)\]
+- 41.Wang C., Fan Y., He W., Hu D., Wu A., Wu W. Development and Application of a QuEChERS-Based Liquid Chromatography Tandem Mass Spectrometry Method to Quantitate Multi-Component Alternaria Toxins in Jujube. Toxins. 2018;10:382. doi: 10.3390/toxins10100382. \[ [DOI](https://doi.org/10.3390/toxins10100382)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6220753/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30248926/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxins&title=Development%20and%20Application%20of%20a%20QuEChERS-Based%20Liquid%20Chromatography%20Tandem%20Mass%20Spectrometry%20Method%20to%20Quantitate%20Multi-Component%20Alternaria%20Toxins%20in%20Jujube&author=C.%20Wang&author=Y.%20Fan&author=W.%20He&author=D.%20Hu&author=A.%20Wu&volume=10&publication_year=2018&pages=382&pmid=30248926&doi=10.3390/toxins10100382&)\]
+- 42.COT COT statement on pyrrolizidine alkaloids in food. 2008, p. 6. \[(accessed on 1 March 2021)\]; Available online: [https://cot.food.gov.uk/sites/default/files/cot/cotstatementpa200806.pdf](https://cot.food.gov.uk/sites/default/files/cot/cotstatementpa200806.pdf).
+- 43.BfR Updated risk assessment on levels of 1,2-unsaturated pyrrolizidine alkaloids (PAs) in foods. \[(accessed on 1 March 2021)\]; Available online: [https://www.bfr.bund.de/cm/349/updated-risk-assessment-on-levels-of-1-2-unsaturated-pyrrolizidine-alkaloids-pas-in-foods.pdf](https://www.bfr.bund.de/cm/349/updated-risk-assessment-on-levels-of-1-2-unsaturated-pyrrolizidine-alkaloids-pas-in-foods.pdf).
+- 44.HMPC Public Statement on Contamination of Herbal Medicinal products/Traditional Herbal Medicinal Products with Pyrrolizidine Alkaloids Transitional Recommendations for Risk Management and Quality Control. \[(accessed on 1 March 2021)\]; Available online: [https://www.ema.europa.eu/en/documents/public-statement/public-statement-contamination-herbal-medicinal-products/traditional-herbal-medicinal-products-pyrrolizidine-alkaloids\_en.pdf](https://www.ema.europa.eu/en/documents/public-statement/public-statement-contamination-herbal-medicinal-products/traditional-herbal-medicinal-products-pyrrolizidine-alkaloids_en.pdf).
+- 45.EFSA Opinion of the Scientific Committee on a request from EFSA related to a harmonised approach for risk assessment of substances which are both genotoxic and carcinogenic. EFSA J. 2005;282:1–31. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=EFSA%20J.&title=Opinion%20of%20the%20Scientific%20Committee%20on%20a%20request%20from%20EFSA%20related%20to%20a%20harmonised%20approach%20for%20risk%20assessment%20of%20substances%20which%20are%20both%20genotoxic%20and%20carcinogenic&volume=282&publication_year=2005&pages=1-31&)\]
+- 46.Doull J., Rozman K.K. Using Haber’s law to define the margin of exposure. Toxicology. 2000;149:1–2. doi: 10.1016/S0300-483X(00)00226-2. \[ [DOI](https://doi.org/10.1016/S0300-483X(00)00226-2)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/10963856/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxicology&title=Using%20Haber%E2%80%99s%20law%20to%20define%20the%20margin%20of%20exposure&author=J.%20Doull&author=K.K.%20Rozman&volume=149&publication_year=2000&pages=1-2&pmid=10963856&doi=10.1016/S0300-483X(00)00226-2&)\]
+
+## Associated Data
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Supplementary Materials
+
+[Click here for additional data file.](https://pmc.ncbi.nlm.nih.gov/articles/instance/8000276/bin/molecules-26-01648-s001.pdf) (1.2MB, pdf)
+
+### Data Availability Statement
+
+Not applicable.
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+## ACTIONS
+
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)View on publisher site](https://doi.org/10.3390/molecules26061648)
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)PDF (1.9 MB)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/pdf/molecules-26-01648.pdf)
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Collections
+- ![Permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+## RESOURCES
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+Back to Top![back to top icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg)

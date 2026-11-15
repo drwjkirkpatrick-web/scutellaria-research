@@ -1,0 +1,8 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/27370100/
+Accessed: 2026-11-14
+Title: Baicalein modulates stress-resistance and life span in C. elegans via SKN-1 but not DAF-16.
+Journal: Fitoterapia
+Year: 2016
+---
+
+The flavonoid baicalein has been demonstrated to be an activator of the transcription factor Nrf2 in mammalian cell lines. We show that it further modulates the Nrf2 homolog SKN-1 in Caenorhabditis elegans and by this pathway mediates beneficial effects in the nematode: baicalein enhances the resistance of C. elegans against lethal thermal and sodium arsenite stress and dose-dependently prolongs the life span of the nematode. Using RNA interference against SKN-1 we were able to show that the induction of longevity and the enhanced stress-resistance were dependent on this transcription factor. DAF-16 (homolog to mammalian FOXO) is another pivotal aging-related transcription factor in the nematode. We demonstrate that DAF-16 does not participate in the beneficial effects of baicalein: since baicalein causes no increase in the nuclear translocation of DAF-16 (DAF-16::GFP expressing strain, incubation time: 1h) and it still induces longevity even in a DAF-16 loss-of-function strain, we conclude, that baicalein increases stress-resistance and life span in C. elegans via SKN-1 but not DAF-16.

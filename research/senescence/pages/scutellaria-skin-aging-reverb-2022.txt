@@ -1,0 +1,8 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/36249807/
+Accessed: 2026-11-14
+Title: Scutellaria baicalensis Georgi regulates REV-ERBα/BMAL1 to protect against skin aging in mice.
+Journal: Frontiers in pharmacology
+Year: 2022
+---
+
+Scutellaria baicalensis Georgi (SBG) is a traditional Chinese medicine widely used to treat disorders such as hypertension, dysentery and hemorrhaging. Here, we aimed to assess the pharmacological effects of SBG on skin aging and to investigate the underlying mechanisms. Mice with skin aging were established by treatment with D-galactose and ultraviolet-B. SBG (topical application) showed a protective effect on skin aging in mice, as evidenced by less formation of skin wrinkles, higher levels of SOD (superoxide dismutase) and HYP (hydroxyproline) as well as a lower level of MDA (malondialdehyde). In the meantime, skin MMP-1 and p53 expression were lower, epidermis was thinner and collagen amount was higher in SBG-treated mice. Anti-skin aging effects of SBG were also confirmed in NIH3T3 and HaCaT cells, as well as in mouse primary dermal fibroblasts and human primary epidermal keratinocytes. Furthermore, we found that loss of Rev-erbα (a known repressor of Bmal1) up-regulated skin BMAL1 (a clock component and a known anti-aging factor) and ameliorated skin aging in mice. Moreover, SBG dose-dependently increased the expression of BMAL1 in the skin of aged mice and in senescent NIT3H3 cells. In addition, based on a combination of Gal4 chimeric, luciferase reporter and expression assays, SBG was identified as an antagonist of REV-ERBα and thus an inducer of BMAL1 expression. In conclusion, SBG antagonizes REV-ERBα to up-regulate BMAL1 and to protect against skin aging in mice.

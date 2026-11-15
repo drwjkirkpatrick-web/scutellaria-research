@@ -1,0 +1,406 @@
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/
+Fetched: 2026-11-14
+
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#main-content)
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** (
+Lock
+Locked padlock icon
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+[Home](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg)![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+Search PMC Full-Text Archive
+
+Search in PMC![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg)
+
+- [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+- [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+- ![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg)
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)](https://doi.org/10.7326/0003-4819-156-12-201206190-00006) View on publisher site
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/pdf/nihms520142.pdf) Download PDF
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Add to Collections
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg)
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+
+Learn more:
+[PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/)
+\|
+[PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![NIHPA Author Manuscripts logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-nihpa.png)
+
+Ann Intern Med
+
+. Author manuscript; available in PMC: 2013 Nov 12.
+
+_Published in final edited form as:_ Ann Intern Med. 2012 Jun 19;156(12):10.7326/0003-4819-156-12-201206190-00006. doi: [10.7326/0003-4819-156-12-201206190-00006](https://doi.org/10.7326/0003-4819-156-12-201206190-00006)
+
+# Acute liver injury due to flavocoxid (Limbrel®), a medical food for osteoarthritis: A case series
+
+[Naga Chalasani](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chalasani%20N%22[Author])
+
+### Naga Chalasani, MD
+
+1Indiana University School of Medicine, Indianapolis, IN
+
+Find articles by [Naga Chalasani](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chalasani%20N%22[Author])
+
+1, [Raj Vuppalanchi](https://pubmed.ncbi.nlm.nih.gov/?term=%22Vuppalanchi%20R%22[Author])
+
+### Raj Vuppalanchi, MD
+
+1Indiana University School of Medicine, Indianapolis, IN
+
+Find articles by [Raj Vuppalanchi](https://pubmed.ncbi.nlm.nih.gov/?term=%22Vuppalanchi%20R%22[Author])
+
+1, [Victor Navarro](https://pubmed.ncbi.nlm.nih.gov/?term=%22Navarro%20V%22[Author])
+
+### Victor Navarro, MD
+
+2Temple University School of Medicine, Philadelphia, PA
+
+Find articles by [Victor Navarro](https://pubmed.ncbi.nlm.nih.gov/?term=%22Navarro%20V%22[Author])
+
+2, [Robert Fontana](https://pubmed.ncbi.nlm.nih.gov/?term=%22Fontana%20R%22[Author])
+
+### Robert Fontana, MD
+
+3University of Michigan, Ann Arbor, MI
+
+Find articles by [Robert Fontana](https://pubmed.ncbi.nlm.nih.gov/?term=%22Fontana%20R%22[Author])
+
+3, [Herbert Bonkovsky](https://pubmed.ncbi.nlm.nih.gov/?term=%22Bonkovsky%20H%22[Author])
+
+### Herbert Bonkovsky, MD
+
+4Carolinas Medical Center, Charlotte, NC
+
+Find articles by [Herbert Bonkovsky](https://pubmed.ncbi.nlm.nih.gov/?term=%22Bonkovsky%20H%22[Author])
+
+4, [Huiman Barnhart](https://pubmed.ncbi.nlm.nih.gov/?term=%22Barnhart%20H%22[Author])
+
+### Huiman Barnhart, PhD
+
+5Duke Clinical Research Institute, Durham, NC
+
+Find articles by [Huiman Barnhart](https://pubmed.ncbi.nlm.nih.gov/?term=%22Barnhart%20H%22[Author])
+
+5, [David E Kleiner](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kleiner%20DE%22[Author])
+
+### David E Kleiner, MD
+
+6National Cancer Institute, Bethesda, MD
+
+Find articles by [David E Kleiner](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kleiner%20DE%22[Author])
+
+6, [Jay H Hoofnagle](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hoofnagle%20JH%22[Author])
+
+### Jay H Hoofnagle, MD
+
+7National Institute of Diabetes and Digestive and Kidney Diseases, Bethesda, MD
+
+Find articles by [Jay H Hoofnagle](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hoofnagle%20JH%22[Author])
+
+7; for the Drug Induced Liver Injury Network (DILIN)
+
+- Author information
+- Copyright and License information
+
+1Indiana University School of Medicine, Indianapolis, IN
+
+2Temple University School of Medicine, Philadelphia, PA
+
+3University of Michigan, Ann Arbor, MI
+
+4Carolinas Medical Center, Charlotte, NC
+
+5Duke Clinical Research Institute, Durham, NC
+
+6National Cancer Institute, Bethesda, MD
+
+7National Institute of Diabetes and Digestive and Kidney Diseases, Bethesda, MD
+
+✉
+
+**Author for Correspondence** Naga Chalasani, MD, Professor and Director, Division of Gastroenterology and Hepatology, Indiana University School of Medicine, 1050 Wishard Boulevard; RG 4100, Indianapolis, IN 46202, Tel: (317) 278-0414, Fax: (317) 278-1949, nchalasa@iupui.edu
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC3825458  NIHMSID: NIHMS520142  PMID: [22711078](https://pubmed.ncbi.nlm.nih.gov/22711078/)
+
+The publisher's version of this article is available at [Ann Intern Med](https://doi.org/10.7326/0003-4819-156-12-201206190-00006)
+
+See the article on page I.
+
+## Abstract
+
+### Background
+
+Flavocoxid is a medical food that is available with prescription for dietary management of osteoarthritis. It is a proprietary blend of two flavonoids, baicalin and catechins which are derived from botanicals _Scutellaria baicalensis_ and _Acacia catechu_ respectively.
+
+### Objective
+
+To describe characteristics of patients with acute liver injury suspected due to flavocoxid.
+
+### Design
+
+Case series
+
+### Setting
+
+Prospective Study of the Drug Induced Liver Injury Network (DILIN) initiated at multiple academic medical centers in 2004.
+
+### Patients
+
+4 patients with liver injury suspected due to flavocoxid.
+
+### Measurements
+
+Clinical characteristics, liver biochemistries, histology, and outcomes.
+
+### Results
+
+Among 877 patients enrolled in the DILIN Prospective Study, 4 were attributed to flavocoxid. All 4 were women with a mean age of 61 years. The time to onset averaged 11.2 weeks (range 5–16) after initiating therapy with flavocoxid. Liver injury was characterized by marked elevations in alanine aminotransferase (mean peak ALT 1268 U/L, range 741 to 1540 U/L), with moderate elevations in alkaline phosphatase (mean peak 510 U/L, range 286 to 770 U/L) and serum bilirubin (mean peak 9.4 mg/dL, range 2.0 to 20.8 mg/dL). Liver biochemistries fell into the normal range within 3 to 12 weeks of stopping. The causality was adjudicated as highly likely in three and as possible in one patient. All recovered uneventfully with no evidence acute liver failure or chronic liver injury.
+
+### Limitations
+
+The frequency or mechanism of liver injury caused by flavocoxid cannot be assessed.
+
+### Conclusion
+
+Flavocoxid can cause significant liver injury which appears to resolve within weeks after its cessation.
+
+**Keywords:** DILI: Drug Induced Liver Injury, DILIN: Drug Induced Liver Injury Network, COX: Cyclooxygenase
+
+## Introduction
+
+Flavocoxid is a proprietary blend of purified plant-derived bioflavonoids including baicalin and catechins that is marketed as a medical food used for therapy of arthritis.[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#R1) Flavocoxid is a medical food that was approved for use in chronic osteoarthritis in the United States in 2004, and it is available only by prescription in tablets of 250 mg and 500 mg under the brand name Limbrel®. The term medical food, as defined in section 5(b) of the Orphan Drug Act (21 U.S.C. 360ee (b) (3)) is "a food which is formulated to be consumed or administered enterally under the supervision of a physician and which is intended for the specific dietary management of a disease or condition for which distinctive nutritional requirements, based on recognized scientific principles, are established by medical evaluation.[2](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#R2) Medical foods differ from dietary supplements in that they are not designed for consumption by healthy individuals, but as a treatment for a specific medical condition.
+
+According to the product labeling, flavocoxid has few side effects and in double-blind controlled trials its adverse event profile was similar to placebo.[3](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#R3) Although mild elevations in serum liver enzymes were reported in the clinical trials of flavocoxid, there have been no published reports of clinically apparent liver injury linked to flavocoxid. Here, we report 4 cases of suspected liver injury due to flavocoxid enrolled in the DILIN Prospective Study.
+
+## Methods
+
+The Drug Induced Liver Injury Network (DILIN) is a consortium of 8 clinical centers and one data coordinating center established in 2004 to conduct a prospective observational study of individuals suspected to have liver injury due to prescription agents or herbal supplements.[4](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#R4) The DILIN Prospective Study is a multicenter observational study that enrolls patients with suspected drug induced liver injury and collects clinical, biochemical, histological data along with serum, urine and DNA for mechanistic studies. A thorough evaluation for competing or co-existing causes for liver injury is conducted on each participant. A causality assessment is performed in a structured fashion based on expert consensus as well as the commonly utilized Roussel Uclaf Causality Assessment Method (RUCAM).[5](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#R5) The DILIN causality scores range from 1 (definite) to 5 (unlikely). In addition, the severity of each liver injury event was adjudicated according to a strictly defined severity scale.[4](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#R4) The design and preliminary results of the Prospective study have been described in detail elsewhere.[4](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#R4) The DILIN Prospective Study was approved by the Institutional Review Boards at all participating centers and all participants provided a written informed consent.
+
+## Results
+
+Between 2004 and 2010, 877 cases of suspected drug induced liver injury were enrolled in the DILIN Prospective study, four of which were attributed, at least in part, to use of flavocoxid. The four cases were all women, ages 57 to 68 years who were treated with flavocoxid in doses of 250 to 500 mg twice daily for arthritis or musculo-skeletal pain symptoms (osteoarthritis, fibromyalgia, chronic low back pain) ( [Table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#T1)). All four women developed symptoms of liver injury within 1 to 3 months of starting flavocoxid; jaundice (n=3), pruritus (n=3), abdominal pain (n=3), fever (2) and rash (1). Initial total serum bilirubin levels ranged from 1.9 to 11.9 mg/dL and were accompanied by marked elevations in serum aminotransferase levels (ALT 741 to 1375 U/L) and mild-to-moderate increases in alkaline phosphatase (Alk P: 286 to 530 U/L). Flavocoxid was stopped promptly in all four patients and the liver injury began to resolve within a few days, the peak serum bilirubin being 2.0 to 20.8 mg/dL which was reached 2 to 13 days after initial presentation.
+
+### Table 1.
+
+Demographic and clinical features, laboratory test results, time to improvement, causality assessment and severity scores for four patients with flavocoxid hepatotoxicity enrolled into the DILIN Prospective Study
+
+| Case # | Sex | Age<br>(years) | Latency<br>(days) | R | Peak<br>ALT<br>(U/L) | Peak<br>Alk P<br>(U/L) | Peak<br>bilirubin<br>(mg/dL) | Time to improve ≥ 50%<br>from peak<br>(days) | RUCAM<br>score | DILIN<br>Causality<br>Score | Severity<br>Score |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| ALT<br>(U/L) | T. Bili<br>(mg/dL) | Alk P<br>(U/L) |
+| :-: | :-: | :-: |
+| 1 | F | 58 | 96 | 5.9 | 1540 | 530 | 7.3 | 12 | 12 | 22 | 8 | 2 | 2 |
+| 2 | F | 57 | 76 | 8.4 | 741 | 286 | 2.0 | 13 | 13 | 13 | 8 | 2 | 1 |
+| 3 [¶](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#TFN2) | F | 61 | 110 | 9.3 | 1414 | 455 | 20.8 | n/a | n/a | n/a | 2 | 4 | 2 |
+| 4 | F | 68 | 32 | 4.5 | 1375 | 770 | 7.5 | 20 | 15 | 28 | 9 | 2 | 2 |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/table/T1/)
+
+F, female; ALT, Alanine aminotransferase; Alk P, alkaline phosphatase
+
+RUCAM: Roussel Uclaf Causality Assessment Method
+
+DILIN: Drug Induced Liver Injury Network
+
+R: Ratio of ALT to Alk P, both expressed as multiples of ULN. R < 2 = Cholestatic liver injury, > 5 Hepatocellular liver injury, 2–5 Mixed pattern
+
+¶
+
+For subject # 3, time to improve ≥ 50% from peak could not be calculated because laboratories between day #9 following enrollment and at 6 month visit were not available. At day # 9, her ALT was 789 U/L, Alk P 455 U/L, and bilirubin 19.30 mg/dL. At 6th month visit, her liver biochemistries normalized \[ALT: 12 U/L, Alk P: 57 U/L, Bilirubin 0.5 mg/Dl; See the case history in the [supplementary material](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#SD1)\].
+
+Tests for acute viral hepatitis (including IgM antibody to hepatitis E virus)[6](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#R6) and chronic viral hepatitis and imaging studies for biliary obstruction were negative. No patient was hospitalized although two underwent liver biopsy. No patient developed prolongation of the prothrombin time or signs or symptoms of hepatic failure, and serum enzyme elevations fell to normal within 1 to 3 months of onset. No patient had evidence of chronic or ongoing liver injury and none were rechallenged with flavocoxid.
+
+The causality assessment of the four cases was scored as very likely due to flavocoxid in three and possibly in one. The case scored as only possible was complicated by exposure to multiple other agents that might have caused the injury including pregabalin, duloxetine and tizanidine. Severity assessment ranked three cases as moderate (2+: jaundice, but not hospitalized) and one as mild (1+: serum enzyme elevations without jaundice). Detailed case histories of all 4 patients are provided as [supplementary material](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#SD1).
+
+## Discussion
+
+A MEDLINE search of the literature published up to February 2012 revealed no specific reports of liver injury due to flavocoxid, but published clinical trials of flavocoxid report rare instances of hepatotoxicity. In a randomized controlled study that compared flavocoxid (500 mg twice daily) to naproxen (500 mg twice daily) for 12 weeks to treat osteoarthritis in 220 Russian patients[8](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#R8), there were 16 subjects with mild elevations in serum aminotransferase levels at week 12 (11 flavocoxid, 5 naproxen, p=0.08) and 12 patients had elevated bilirubin levels (5 flavocoxid, 7 naproxen, p=0.18). More recently, Pillai et al., reported the results of a post-marketing, open-label study of flavocoxid (500 mg twice daily) for 60 days in 1067 individuals with osteoarthritis and found liver test abnormalities in only one patient (0.1%), but details were not provided.[9](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#R9)
+
+The post-marketing surveillance of flavocoxid by Primus Pharmaceuticals revealed 31 hepatic adverse events (22 reports of elevated liver function tests, 6 reports of jaundice, and 3 cases of hepatitis) among 284,399 users, suggesting that the incidence rate was 0.011%.[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#R1) As a personal communication, the manufacturer provided the clinical and biochemical features of 8 cases of clinically apparent liver injury and their results are shown as [supplemental material](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#SD1). The pattern of liver injury among these 8 cases was hepatocellular in two, cholestatic in one, “mixed hepatocellular-cholestatic” in three, and was unknown in two. Two patients had eosinophilia and fever, suggesting drug hypersensitivity but skin rash was not reported. No patient developed signs or symptoms of acute liver failure, and the injury improved rapidly upon stopping flavocoxid in all cases. One patient restarted flavocoxid on her own and rapidly redeveloped liver injury.
+
+The current report provides convincing evidence that flavocoxid is capable of causing clinically apparent, acute liver injury. In all four cases, other common diagnoses were excluded and the injury resolved promptly once flavocoxid was stopped. The clinical signature of flavocoxid-induced liver injury appears to be a mild-to-moderate, mixed hepatocellular-cholestatic hepatitis that arises 2 to 12 weeks after starting the medication and which resolves rapidly once it is stopped. No reported cases were associated with signs of liver failure or death, and no patient was found to have evidence of residual or chronic injury. A proportion of the clinically apparent cases had mild evidence of hypersensitivity early in the course of illness as marked by low-grade fever, rash and eosinophilia, but these features were not prominent and not present in all cases
+
+The mechanism of liver injury due to flavocoxid is not known. Hypersensivity may play a role in that immunoallergic features occurred in some patients and flavocoxid is also associated with a hypersensivity pneumonitis.[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#R1), [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#R10) The primary ingredients of flavocoxid are baicalin and catechins which are concentrated and standardized to greater than 90% purity. Baicalin is a free-B ring flavonoid derived from the root of _Scutellaria baicalensis_ (Chinese skullcap), and multiple _in-vitro_ and animal experiments showed its hepatoprotective activity against a variety of hepatotoxic insults.[11](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#R11)– [14](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#R14) Catechin is a flavan flavonoid and is the stereoisomer epicatechin and derived from the bark of _Acacia catechu_ (Mimosa catechu). The hepatotoxic potential of the green tea extracts that contain catechins in humans is well recognized.[17](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#R17)– [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#R19) Two catechins contained within the green tea are epigallocatechin gallate (EGCG) and epicatechin gallate (ECG), and it is generally believed that EGCG is responsible for the hepatotoxicity due to green tea extracts. It is interesting that epicatechin is the flavonoid in that is common to both green tea and flavocoxid, raising the suspicion if it is the culprit ingredient for causing liver injury.
+
+Flavocoxid differs from dietary supplements in that it was approved and marketed as a medical food. However, like dietary supplements, medical foods do not require formal premarketing safety and efficacy studies.[21](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/#R21) Moreover, given its botanical ingredients, there is the theoretical possibility of variation in the concentration of substances due to various factors such as harvesting conditions, seasonal variations, and geographical origin. It stands to reason, therefore, that unpredictable or unregulated concentration of polyphenolic substances, such as catechins, may set the stage for toxicity.
+
+In summary, flavocoxid, a medical food used to treat osteoarthritis, is capable of causing acute liver injury manifested typically by a mixed hepatocellular-cholestatic hepatitis arising after 1 to 3 months of use and is rapidly reversible upon stopping the medication.
+
+## Supplementary Material
+
+Supplementary Material
+
+[NIHMS520142-supplement-Supplementary\_Material.docx](https://pmc.ncbi.nlm.nih.gov/articles/instance/3825458/bin/NIHMS520142-supplement-Supplementary_Material.docx) (31.4KB, docx)
+
+## Acknowledgements
+
+The DILIN is supported by the National Institute of Diabetes and Digestive and Kidney Diseases ( [https://dilin.dcri.duke.edu/](https://dilin.dcri.duke.edu/)). This research was supported in part by the Intramural Research Program of the NIH, National Cancer Institute. Authors sincerely appreciate the cooperation of Primus Pharmaceuticals and its Chief Medical Officer (Dr. Robert Levy) and for providing the case histories of 8 subjects with suspected DILI due to flavocoxid reported to them.
+
+Dr. Chalasani, over the last 3 years, has received compensation for providing consultation related to drug hepatotoxicity from J & J, Merck, GlaxoSmithKline, Karo Bio, Salix, Advanced Life Sciences, BMS, Teva Pharmaceuticals, Abbott, Biolex, and Vertex. He has received compensation for providing consulting related to NAFLD and NASH from Amylin, Gilead, Genentech, and Mochida and he has received research support from Amylin, Lilly, Cumberland Pharmaceuticals, and Intercept in the last 3 years.
+
+Dr. Victor Navarro received compensation from Merck for serving as a consultant.
+
+Dr. Herbert Bonkovsky has received compensation from Boehringer-Ingelham, Clinuvel, Novartis, and Lundbeck for serving as a consultant.
+
+Dr. Raj Vuppalanchi has received compensation for providing consulting related to drug hepatotoxicity from BMS and received fees for speaking for Roche Diagnostics, Genentech, and
+
+Dr. Robert Fontana has received compensation for serving as a consultant from BMS, GSK, Abbott, and Bayer/Siemens.
+
+## Abbreviations
+
+DILI
+
+Drug Induced Liver Injury
+
+DILIN
+
+Drug Induced Liver Injury Network
+
+COX
+
+Cyclooxygenase
+
+LOX
+
+Lipoxygenase
+
+OTC
+
+Over the counter
+
+ALT
+
+Alanine aminotransferase
+
+AST
+
+Aspartate aminotransferase
+
+Alk P
+
+Alkaline Phosphatase
+
+GERD
+
+Gastroesophageal Reflux Disease
+
+EGCG
+
+Epigallocatechin gallate
+
+ECG
+
+Epicatechin gallate
+
+## Footnotes
+
+Drs. Jay Hoofnagle, David Kleiner, and Huiman Barnhart declared no financial conflicts of interest.
+
+## References
+
+- 1. \[accessed on 12/29/2012\]; [http://www.limbrel.com/](http://www.limbrel.com/)
+- 2. \[accessed on 12/29/2012\]; [http://www.fda.gov/food/foodsafety/product-specificinformation/medicalfoods/default.htm](http://www.fda.gov/food/foodsafety/product-specificinformation/medicalfoods/default.htm).
+- 3.Limbrel® Package Insert. \[accessed on 12/29/2012\]; [http://www.limbrel.com/downloads/limbrel\_pi.pdf](http://www.limbrel.com/downloads/limbrel_pi.pdf).
+- 4.Fontana RJ, Watkins PB, Bonkovsky HL, Chalasani N, Davern T, Serrano J, et al. Drug induced liver Injury network (DILIN) prospective study: rationale, design and conduct. Drug Safety. 2009;32:55–68. doi: 10.2165/00002018-200932010-00005. \[ [DOI](https://doi.org/10.2165/00002018-200932010-00005)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3637941/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/19132805/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Drug%20Safety&title=Drug%20induced%20liver%20Injury%20network%20(DILIN)%20prospective%20study:%20rationale,%20design%20and%20conduct&author=RJ%20Fontana&author=PB%20Watkins&author=HL%20Bonkovsky&author=N%20Chalasani&author=T%20Davern&volume=32&publication_year=2009&pages=55-68&pmid=19132805&doi=10.2165/00002018-200932010-00005&)\]
+- 5.Rockey DC, Seeff LB, Rochon J, Freston J, Chalasani N, Bonacini m, Fontana RR, Hayashi P for the Drug-Induced Liver Injury Network. Casuality assessment in drug-induced liver injury using a structured expert opinion process: comparison to the Roussel-Uclaf causality assessment method. Hepatology. 2010;51:2117–2126. doi: 10.1002/hep.23577. \[ [DOI](https://doi.org/10.1002/hep.23577)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3249230/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20512999/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Hepatology&title=Casuality%20assessment%20in%20drug-induced%20liver%20injury%20using%20a%20structured%20expert%20opinion%20process:%20comparison%20to%20the%20Roussel-Uclaf%20causality%20assessment%20method&author=DC%20Rockey&author=LB%20Seeff&author=J%20Rochon&author=J%20Freston&author=N%20Chalasani&volume=51&publication_year=2010&pages=2117-2126&pmid=20512999&doi=10.1002/hep.23577&)\]
+- 6.Davern TJ, Chalasani N, Fontana RJ, Hayashi PH, Protiva P, Kleiner DE, Engle RE, et al. Drug-Induced Liver Injury Network (DILIN) Acute hepatitis e infection accounts for some cases of suspected drug-induced liver injury. Gastroenterology. 2011;141:1665–1672. doi: 10.1053/j.gastro.2011.07.051. \[ [DOI](https://doi.org/10.1053/j.gastro.2011.07.051)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3654540/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21855518/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Gastroenterology&title=Acute%20hepatitis%20e%20infection%20accounts%20for%20some%20cases%20of%20suspected%20drug-induced%20liver%20injury&author=TJ%20Davern&author=N%20Chalasani&author=RJ%20Fontana&author=PH%20Hayashi&author=P%20Protiva&volume=141&publication_year=2011&pages=1665-1672&pmid=21855518&doi=10.1053/j.gastro.2011.07.051&)\]
+- 7.Morgan SL, Baggott JE, Moreland L, Desmond R, Kendrach AC. The safety of flavocoxid, a medical food, in the dietary management of knee osteoarthritis. J Med Food. 2009;12:1143–1148. doi: 10.1089/jmf.2008.0244. \[ [DOI](https://doi.org/10.1089/jmf.2008.0244)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC2784890/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/19857081/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Med%20Food&title=The%20safety%20of%20flavocoxid,%20a%20medical%20food,%20in%20the%20dietary%20management%20of%20knee%20osteoarthritis&author=SL%20Morgan&author=JE%20Baggott&author=L%20Moreland&author=R%20Desmond&author=AC%20Kendrach&volume=12&publication_year=2009&pages=1143-1148&pmid=19857081&doi=10.1089/jmf.2008.0244&)\]
+- 8.Levy RM, Khokhlov A, Kopenkin S, Bart B, Ermolova T, Kantemirova R, Mazurov V, et al. Efficacy and safety of flavocoxid, a novel therapeutic, compared with naproxen: a randomized multicenter controlled trial in subjects with osteoarthritis of the knee. Adv Ther. 2010;27:731–742. doi: 10.1007/s12325-010-0064-z. \[ [DOI](https://doi.org/10.1007/s12325-010-0064-z)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20845002/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Adv%20Ther&title=Efficacy%20and%20safety%20of%20flavocoxid,%20a%20novel%20therapeutic,%20compared%20with%20naproxen:%20a%20randomized%20multicenter%20controlled%20trial%20in%20subjects%20with%20osteoarthritis%20of%20the%20knee&author=RM%20Levy&author=A%20Khokhlov&author=S%20Kopenkin&author=B%20Bart&author=T%20Ermolova&volume=27&publication_year=2010&pages=731-742&pmid=20845002&doi=10.1007/s12325-010-0064-z&)\]
+- 9.Pillai L, Burnett BP, Levy RM GOAL Study Cooperative Group. GOAL: multicenter, open-label, post-marketing study of flavocoxid, a novel dual pathway inhibitor anti-inflammatory agent of botanical origin. Curr Med Res Opin. 2010;26:1055–1063. doi: 10.1185/03007991003694522. \[ [DOI](https://doi.org/10.1185/03007991003694522)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20225990/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Curr%20Med%20Res%20Opin&title=GOAL:%20multicenter,%20open-label,%20post-marketing%20study%20of%20flavocoxid,%20a%20novel%20dual%20pathway%20inhibitor%20anti-inflammatory%20agent%20of%20botanical%20origin&author=L%20Pillai&author=BP%20Burnett&author=RM%20Levy&volume=26&publication_year=2010&pages=1055-1063&pmid=20225990&doi=10.1185/03007991003694522&)\]
+- 10.Levy RM. Flavocoxid and hypersensitivity pneumonitis. Chest. 2011;140:827–828. doi: 10.1378/chest.11-0632. author reply 828. \[ [DOI](https://doi.org/10.1378/chest.11-0632)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21896531/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Chest&title=Flavocoxid%20and%20hypersensitivity%20pneumonitis&author=RM%20Levy&volume=140&publication_year=2011&pages=827-828&pmid=21896531&doi=10.1378/chest.11-0632&)\]
+- 11.Kim SJ, Moon YJ, Lee SM. Protective effects of baicalin against ischemia/reperfusion injury in rat liver. J Nat Prod. 2010;73(12):2003–2008. doi: 10.1021/np100389z. \[ [DOI](https://doi.org/10.1021/np100389z)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21087019/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Nat%20Prod&title=Protective%20effects%20of%20baicalin%20against%20ischemia/reperfusion%20injury%20in%20rat%20liver&author=SJ%20Kim&author=YJ%20Moon&author=SM%20Lee&volume=73&issue=12&publication_year=2010&pages=2003-2008&pmid=21087019&doi=10.1021/np100389z&)\]
+- 12.Qiao H, Han H, Hong D, Ren Z, Chen Y, Zhou C. Protective effects of baicalin on carbon tetrachloride induced liver injury by activating PPARγ and inhibiting TGFβ1. Pharm Biol. 2011;49:38–45. doi: 10.3109/13880209.2010.493179. \[ [DOI](https://doi.org/10.3109/13880209.2010.493179)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20687787/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Pharm%20Biol&title=Protective%20effects%20of%20baicalin%20on%20carbon%20tetrachloride%20induced%20liver%20injury%20by%20activating%20PPAR%CE%B3%20and%20inhibiting%20TGF%CE%B21&author=H%20Qiao&author=H%20Han&author=D%20Hong&author=Z%20Ren&author=Y%20Chen&volume=49&publication_year=2011&pages=38-45&pmid=20687787&doi=10.3109/13880209.2010.493179&)\]
+- 13.Guo HX, Liu DH, Ma Y, Liu JF, Wang Y, Du ZY, Wang X, et al. Long-term baicalin administration ameliorates metabolic disorders and hepatic steatosis in rats given a high-fat diet. Acta Pharmacol Sin. 2009;30:1505–1512. doi: 10.1038/aps.2009.150. \[ [DOI](https://doi.org/10.1038/aps.2009.150)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4003011/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/19890358/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Acta%20Pharmacol%20Sin&title=Long-term%20baicalin%20administration%20ameliorates%20metabolic%20disorders%20and%20hepatic%20steatosis%20in%20rats%20given%20a%20high-fat%20diet&author=HX%20Guo&author=DH%20Liu&author=Y%20Ma&author=JF%20Liu&author=Y%20Wang&volume=30&publication_year=2009&pages=1505-1512&pmid=19890358&doi=10.1038/aps.2009.150&)\]
+- 14.Park SW, Lee CH, Kim YS, Kang SS, Jeon SJ, Son KH, Lee SM. Protective effect of baicalin against carbon tetrachloride-induced acute hepatic injury in mice. J Pharmacol Sci. 2008 Jan;106(1):136–143. doi: 10.1254/jphs.fp0071392. \[ [DOI](https://doi.org/10.1254/jphs.fp0071392)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/18187930/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Pharmacol%20Sci&title=Protective%20effect%20of%20baicalin%20against%20carbon%20tetrachloride-induced%20acute%20hepatic%20injury%20in%20mice&author=SW%20Park&author=CH%20Lee&author=YS%20Kim&author=SS%20Kang&author=SJ%20Jeon&volume=106&issue=1&publication_year=2008&pages=136-143&pmid=18187930&doi=10.1254/jphs.fp0071392&)\]
+- 15.Ren Y, Deng F, Zhu H, Wan W, Ye J, Luo B. Effect of epigallocatechin-3-gallate on iron overload in mice with alcoholic liver disease. Mol Biol Rep. 2011;38:879–886. doi: 10.1007/s11033-010-0180-5. \[ [DOI](https://doi.org/10.1007/s11033-010-0180-5)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20490691/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol%20Biol%20Rep&title=Effect%20of%20epigallocatechin-3-gallate%20on%20iron%20overload%20in%20mice%20with%20alcoholic%20liver%20disease&author=Y%20Ren&author=F%20Deng&author=H%20Zhu&author=W%20Wan&author=J%20Ye&volume=38&publication_year=2011&pages=879-886&pmid=20490691&doi=10.1007/s11033-010-0180-5&)\]
+- 16.Tipoe GL, Leung TM, Liong EC, Lau TY, Fung ML, Nanji AA. Epigallocatechin-3-gallate (EGCG) reduces liver inflammation, oxidative stress and fibrosis in carbon tetrachloride (CCl4)-induced liver injury in mice. Toxicology. 2010;273(1–3):45–52. doi: 10.1016/j.tox.2010.04.014. \[ [DOI](https://doi.org/10.1016/j.tox.2010.04.014)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20438794/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxicology&title=Epigallocatechin-3-gallate%20(EGCG)%20reduces%20liver%20inflammation,%20oxidative%20stress%20and%20fibrosis%20in%20carbon%20tetrachloride%20(CCl4)-induced%20liver%20injury%20in%20mice&author=GL%20Tipoe&author=TM%20Leung&author=EC%20Liong&author=TY%20Lau&author=ML%20Fung&volume=273&issue=1%E2%80%933&publication_year=2010&pages=45-52&pmid=20438794&doi=10.1016/j.tox.2010.04.014&)\]
+- 17.Bonkovsky HL. Hepatotoxicity associated with supplements containing Chinese green tea (camella Sinensis) Annals of Internal Medicine. 2006;144:68–71. doi: 10.7326/0003-4819-144-1-200601030-00020. \[ [DOI](https://doi.org/10.7326/0003-4819-144-1-200601030-00020)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16389263/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Annals%20of%20Internal%20Medicine&title=Hepatotoxicity%20associated%20with%20supplements%20containing%20Chinese%20green%20tea%20(camella%20Sinensis)&author=HL%20Bonkovsky&volume=144&publication_year=2006&pages=68-71&pmid=16389263&doi=10.7326/0003-4819-144-1-200601030-00020&)\]
+- 18.Molinari M, Watt KDS, Kruszyna T, Nelson R, Walsh M, Huang WY, Nashan B, et al. Acute liver failure induced by green tea extracts: case report and review of the literature. Liver Transplantation. 2006;12:1892–1895. doi: 10.1002/lt.21021. \[ [DOI](https://doi.org/10.1002/lt.21021)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/17133573/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Liver%20Transplantation&title=Acute%20liver%20failure%20induced%20by%20green%20tea%20extracts:%20case%20report%20and%20review%20of%20the%20literature&author=M%20Molinari&author=KDS%20Watt&author=T%20Kruszyna&author=R%20Nelson&author=M%20Walsh&volume=12&publication_year=2006&pages=1892-1895&pmid=17133573&doi=10.1002/lt.21021&)\]
+- 19.Mazzanti G, Menniti-Ippolito F, Angela Moro P, Casetti F, Raschetti R, Santuccio C, Mastrangelo S. Hepatotoxicity from green tea: a review of the literature and two unpublished cases. Eur J Clin Pharmacol. 2009;65:331–341. doi: 10.1007/s00228-008-0610-7. \[ [DOI](https://doi.org/10.1007/s00228-008-0610-7)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/19198822/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Eur%20J%20Clin%20Pharmacol&title=Hepatotoxicity%20from%20green%20tea:%20a%20review%20of%20the%20literature%20and%20two%20unpublished%20cases&author=G%20Mazzanti&author=F%20Menniti-Ippolito&author=P%20Angela%20Moro&author=F%20Casetti&author=R%20Raschetti&volume=65&publication_year=2009&pages=331-341&pmid=19198822&doi=10.1007/s00228-008-0610-7&)\]
+- 20.Schmidt M, Schmitz HJ, Baumgart A, Guedon D, Netsch MI, Kreuter MH, Schmidlin CB, et al. Toxicity of green tea extracts and their constituents in rat hepatocytes in primary culture. Food Chem Toxicol. 2005;43:307–314. doi: 10.1016/j.fct.2004.11.001. \[ [DOI](https://doi.org/10.1016/j.fct.2004.11.001)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15621343/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Food%20Chem%20Toxicol&title=Toxicity%20of%20green%20tea%20extracts%20and%20their%20constituents%20in%20rat%20hepatocytes%20in%20primary%20culture&author=M%20Schmidt&author=HJ%20Schmitz&author=A%20Baumgart&author=D%20Guedon&author=MI%20Netsch&volume=43&publication_year=2005&pages=307-314&pmid=15621343&doi=10.1016/j.fct.2004.11.001&)\]
+- 21. \[Accessed on 1/2/12\]; [http://www.fda.gov/Food/GuidanceComplianceRegulatoryInformation/GuidanceDocuments/MedicalFoods/ucm054048.htm](http://www.fda.gov/Food/GuidanceComplianceRegulatoryInformation/GuidanceDocuments/MedicalFoods/ucm054048.htm).
+
+## Associated Data
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Supplementary Materials
+
+Supplementary Material
+
+[NIHMS520142-supplement-Supplementary\_Material.docx](https://pmc.ncbi.nlm.nih.gov/articles/instance/3825458/bin/NIHMS520142-supplement-Supplementary_Material.docx) (31.4KB, docx)
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+## ACTIONS
+
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)View on publisher site](https://doi.org/10.7326/0003-4819-156-12-201206190-00006)
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)PDF (44.6 KB)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/pdf/nihms520142.pdf)
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Collections
+- ![Permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+## RESOURCES
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+Back to Top![back to top icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg)

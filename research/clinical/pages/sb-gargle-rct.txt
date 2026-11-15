@@ -1,0 +1,14 @@
+PMID: 39183390
+Title: A study on the impact of gargling with compound Scutellaria baicalensis Georgi on oral health and microflora changes in fixed orthodontic patients: An experimental study.
+Authors: Zhang, Peng, Chen, Shen Guo, Wang, Jia Ting, Wang, Jin Dong, Chen, Zai Hong, Lin, Hai Sheng
+Journal: Medicine
+ISOAbbrev: Medicine (Baltimore)
+Year: 2024
+Volume: 103  Issue: 34  Pages: e39397
+DOI: 10.1097/MD.0000000000039397
+URL: https://pubmed.ncbi.nlm.nih.gov/39183390/
+Fetched: 2026-11-14 via NCBI E-utilities (efetch db=pubmed)
+--- Abstract ---
+PURPOSE: To investigate the effect of Scutellaria baicalensis Georgi gargle on oral health and changes in oral bacteria among orthodontic patients.
+METHODS: About 110 cases of oral fixed orthodontic patients were screened from January 2020 to June 2022 at Taizhou Hospital in Zhejiang Province. They were randomly divided into the experimental group (receiving compound S. baicalensis Georgi gargle once a day) and the control group (receiving 0.9% NS gargle once a day), with 55 cases in each group. Gingival samples were collected from both groups before and 3 months after the orthodontic surgery for bacterial culture, and the differences between the 2 groups of patients in Plaque Index (PLI), gingival bleeding index (sBl), and periodontal depth (PD) before and after the operation were compared. Results: The detection levels of PLI, PD, and sBI in the experimental group were lower than those in the control group (P < .05) 3 months after orthodontic surgery (P < .05); after orthodontic correction for 3 months, there was a significant difference in coccus, bacillus, Campylobacter, Clostridium, Helicobacter, and filamentous bacteria between the experimental group and the control group (P < .05); and Porphyromonas gingivalis, Fusobacterium nucleatum, Bacteroides forsythus (B.f), and Agglomerata actinomycetes in the 2 groups were statistically significant after 3 months of orthodontic treatment (P < .05).
+CONCLUSION SUBSECTIONS: In fixed orthodontic treatment, S. baicalensis Georgi gargle can effectively inhibit oral pathogens and maintain periodontal health.

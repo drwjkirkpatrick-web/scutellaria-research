@@ -1,0 +1,12 @@
+PMID: 9549431
+Title: [The chemical structure of new substance as the metabolite of baicalin and time profiles for the plasma concentration after oral administration of sho-saiko-to in human].
+Authors: Muto, R, Motozuka, T, Nakano, M, Tatsumi, Y, Sakamoto, F, Kosaka, N
+Journal: Yakugaku zasshi : Journal of the Pharmaceutical Society of Japan
+ISOAbbrev: Yakugaku Zasshi
+Year: 1998
+Volume: 118  Issue: 3  Pages: 79-87
+DOI: 10.1248/yakushi1947.118.3_79
+URL: https://pubmed.ncbi.nlm.nih.gov/9549431/
+Fetched: 2026-11-14 via NCBI E-utilities (efetch db=pubmed)
+--- Abstract ---
+Baicalin (BG) is one of the major components of Sho-Saiko-To. We found a new substance as the metabolite of BG in human plasma after oral administration of Sho-Saiko-To. The metabolite was identified as baicalein 6-O-sulfate (BS) by comparing its retention time in HPLC and electrospray ionization mass spectra (ESI-MS)/MS methods with that of an authentic sample. Time profiles for the plasma concentrations of BS and BG after oral administration of Sho-Saiko-To (EK-9) at a daily dose (6 g), were investigated in 14 healthy male volunteers. The determination for the concentrations of BS and BG in human plasma was developed by the HPLC method using electrochemical detector (ECD). Each 1 ml of the plasma specimen was used for the solid phase extraction. The calibration curves of BS and BG showed a good linearity between 5 and 300 ng/ml. The quantitative limits of BS and BG in human plasma were 5 ng/ml. Using this method, BS was detected after 1 h, reached a maximum level at 5 h and then decreased to the level less than the quantitative limit after 36 h, and the plasma level of BS showed a slight peak at 24 h. BG was detected after 1 h, reached a maximum level at 5 h and then decreased to the level less than the quantitative limit after 36 h, and the plasma level of BG showed two peaks at 12 h and 24 h.

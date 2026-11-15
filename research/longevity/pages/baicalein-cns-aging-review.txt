@@ -1,0 +1,8 @@
+Source: https://pubmed.ncbi.nlm.nih.gov/28634902/
+Fetched: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract)
+Title: Therapeutic Potential of Baicalein in Alzheimer's Disease and Parkinson's Disease.
+Authors: Li Y; Zhao J; Hölscher C
+Journal: CNS Drugs 2017;31(8):639-652
+DOI: 10.1007/s40263-017-0451-y
+PMID: 28634902
+Abstract: Alzheimer's disease and Parkinson's disease are the two most common, progressive central neurodegenerative diseases affecting the population over the age of 60 years. Apart from treatments that temporarily improve symptoms, there is no medicine currently available to inhibit or reverse the progression of Alzheimer's disease and Parkinson's disease. In traditional Chinese medicine, the root of Scutellaria baicalensis Georgi is a classic compatible component in the decoction of herbal medicine used for treating central nervous system diseases. Modern pharmacokinetic studies have confirmed that baicalein (5,6,7-trihydroxyflavone) is a major bioactive flavone constituent root of S. baicalensis Georgi. Studies showed that baicalein possesses a range of key pharmacological properties, such as reducing oxidative stress, anti-inflammatory properties, inhibiting aggregation of disease-specific amyloid proteins, inhibiting excitotoxicity, stimulating neurogenesis and differentiation action, and anti-apoptosis effects. Based on these properties, baicalein shows therapeutic potential for Alzheimer's disease and Parkinson's disease. In this review, we summarize the pharmacological protective actions of baicalein that make it suitable for the treatment of Alzheimer's disease and Parkinson's disease, and discuss the potential mechanisms underlying the effects.

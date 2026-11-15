@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/14994190/
+PMID: 14994190
+Title: Significant decrease of cyclosporine bioavailability in rats caused by a decoction of the roots of Scutellaria baicalensis.
+Authors: Miao-Ying Lai; Su-Lan Hsiu; Yu-Chi Hou; Sang-Yuan Tsai; Pei-Dawn Lee Chao
+Journal: Planta medica (2004)
+DOI: 10.1055/s-2004-815489
+Fetched: 2026-11-14
+
+ABSTRACT
+Scutellariae Radix (SR), the root of Scutellaria baicalensis (Labiatae), is widely used in clinical Chinese medicine. In order to investigate the effect of SR on the absorption and disposition of cyclosporine, rats were administered with cyclosporine orally (in the form of the microemulsion Neoral and intravenously with and without coadministration of SR decoction in randomized cross-over designs, respectively. Furthermore, the effects of the major constituents, e. g., baicalin and its aglycone baicalein on cyclosporine pharmacokinetics were also investigated in rats. A specific monoclonal fluorescence polarization immunoassay was used to determine the blood concentration of cyclosporine. Our results indicated that coadministration of SR decoction at doses of 1 g/kg and 2 g/kg significantly decreased the C (max) of cyclosporine by 62.9 % and 79.6 % and reduced the AUC (0 - 540) by 55.2 % and 82.0 %, respectively. On the contrary, coadministration of baicalin and baicalein at doses of 112 micromol/kg markedly elevated the C (max) of cyclosporine by 408.1 % and 87.5 % and increased the AUC (0 - 540) by 685.3 % and 150.2 %, respectively. Nevertheless, SR decoction did not alter the pharmacokinetics of intravenous cyclosporine. These results indicate that a profound interaction between SR decoction and cyclosporine occurred at the absorption site. In order to ensure the efficacy and safety of cyclosporine, the coadministration of SR and its preparations with oral cyclosporine should be avoided.

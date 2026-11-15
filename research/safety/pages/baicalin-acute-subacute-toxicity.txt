@@ -1,0 +1,14 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/40918531/
+PMID: 40918531
+Title: Integrated neurobehavioral and organ-specific safety profiling of baicalin: acute/subacute toxicity studies.
+Authors: Jiali Yang; Mengyu Chen; Wan Zhang; Jia Liu; Jing Zhao; Xin Ping; Ye Lu; Pei He
+Journal: Frontiers in pharmacology (2025)
+DOI: 10.3389/fphar.2025.1607919
+Fetched: 2026-11-14
+
+ABSTRACT
+ETHNOPHARMACOLOGICAL RELEVANCE: Baicalin, an extract derived from the dried root of Scutellaria baicalensis Georgi (Huang Qin), has demonstrated neuroprotective properties. Nonetheless, the safety profile of baicalin has not yet been fully elucidated.
+AIM OF THE STUDY: The objective was to characterize the acute and subacute toxicity profiles of baicalin across various organ systems, thereby establishing safe therapeutic windows for its clinical application in the treatment of chronic neurodegenerative disorders.
+MATERIALS AND METHODS: Acute toxicity was assessed at 4,000 mg/kg (OECD 423), while subacute toxicity evaluated escalating doses (1,000-4,000 mg/kg; OECD 407). Endpoints included survival, general behaviours, behavioral alterations, hematological/biochemical parameters, organ coefficients, and histopathology of brain, liver, and kidney.
+RESULTS: Acute exposure showed no mortality (LD50 > 4,000 mg/kg) or lasting physiological effects, with only transient gastrointestinal symptoms in one subject. Subacute administration caused temporary gastrointestinal issues and occasional compulsive behaviors, all resolving within 24 h. Behavioral assessments indicated intact neurocognitive function and emotional stability. Hematological profiles revealed sex-specific responses, with males showing higher lymphocyte percentages and females demonstrating renal changes. Biochemical analyses indicated liver metabolic changes, including alkaline phosphatase suppression and reduced triglycerides, along with mild nephrotoxic signs. Histopathological evaluations confirmed non-necrotic liver stress and unchanged hippocampal structure.
+CONCLUSION: Baicalin showed high acute safety with an LD50 over 4,000 mg/kg in mice, and a subacute no-observed-adverse-effect level (NOAEL) of 2,000 mg/kg, indicating its potential as a neuroprotective agent. However, 4,000 mg/kg doses led to reversible hepatorenal toxicity and biochemical alterations, highlighting the need to monitor organ function during extended high-dose use.

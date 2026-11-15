@@ -1,0 +1,16 @@
+PMID: 40903694
+Title: Safety and pharmacokinetics evaluation of oroxylin A in Chinese healthy volunteers: a phase I, double-blind, placebo-controlled, single ascending dose, multiple dose, and food effect study.
+Authors: Yang, Fan, Meng, Xianmin, Qin, Shukui, Guo, Qinglong, Wei, Libin, Zhao, Di
+Journal: Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico
+ISOAbbrev: Clin Transl Oncol
+Year: 2026
+Volume: 28  Issue: 3  Pages: 1016-1029
+DOI: 10.1007/s12094-025-04017-6
+URL: https://pubmed.ncbi.nlm.nih.gov/40903694/
+Fetched: 2026-11-14 via NCBI E-utilities (efetch db=pubmed)
+--- Abstract ---
+PURPOSE: Oroxylin A (OA) is a flavonoid, obtained from the root of Scutellaria baicalensis Georgi which is a traditional Chinese herbal, with antitumor and other pharmacological activities. OA tablets are an innovative drug, and a formal single ascending and multiple dose pharmacokinetic (PK) trial was conducted in humans to evaluate the required to determine the safety and tolerability of OA as well as the effect of food on its PK parameters profile.
+METHODS: This clinical study consisted of three parts: single ascending dose (400[n = 3], 800, 1600 and 2400 mg OA [n = 8/group] and placebo [n = 6]), multiple dose (1600 or 2400 mg OA [n = 8 / group] and placebo [n = 4] once daily), and food effects (1600 mg OA single dose [n = 12]).
+RESULTS: No dose-limiting toxic events (DLT), no serious adverse events (SAEs) or death occurred, and incidence of gastrointestinal AEs were higher in multiple doses than in single dose. OA appeared rapidly in plasma; tmax was approximately 0.17 ~ 5.0 h. The Cmax of OA approximately increased in dose-proportional manner (Cmax slope 1.114), and the AUC0-t increased less than dose increasing (AUC0-t slope 0.7513). After 10 days of continuous administration, OA presented a moderate cumulative effect (1.51-1.73-fold). High-fat diet can increase the Cmax of OA (1.6-fold), and its metabolites increased more significantly (p < 0.05), there was no effect of food on tmax or terminal half-life.
+CONCLUSIONS: The safety and PK profile support once-daily administration of OA, and considering the effects of food, it is recommended to administrate OA tablet after meals in further clinical studies.
+TRIAL REGISTRATION NUMBER: ChiCTR2100051434 http://www.chictr.org/cn/ ; Date of registration: 23 Sep., 2021.

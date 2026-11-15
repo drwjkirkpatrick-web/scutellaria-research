@@ -1,0 +1,15 @@
+PMID: 26043563
+Title: [Effect of baicalin on signal transduction and activating transcription factor expression in ulcerative colitis patients].
+Authors: Yu, Feng-yan, Huang, Shao-gang, Zhang, Hai-yan, Chi, Hong-gang, Zou, Ying, Lu, Ru-xi, Zheng, Xue-bao
+Journal: Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine
+ISOAbbrev: Zhongguo Zhong Xi Yi Jie He Za Zhi
+Year: 2015
+Volume: 35  Issue: 4  Pages: 419-24
+DOI: 
+URL: https://pubmed.ncbi.nlm.nih.gov/26043563/
+Fetched: 2026-11-14 via NCBI E-utilities (efetch db=pubmed)
+--- Abstract ---
+OBJECTIVE: To explore the intervention of baicalin on signal transduction and activating transcription factor expression of ulcerative colitis (UC) patients.
+METHODS: Recruited were UC patients at Outpatient Department of Digestive Disease, Inpatient Department of Digestive Disease, Center for Digestive Endoscopy of College City Branch, Guangdong Provincial Hospital of Traditional Chinese Medicine, and Southern Hospital affiliated to Southern Medical University from June 2010 to January 2011. They were assigned to the UC group (33 cases) and the diarrhea-predominant irritable bowel syndrome (IBS-D) group (30 cases). Another 30 healthy subjects were recruited as a healthy control group. Peripheral blood mononuclear cells (PBMCs) in vitro intervened by different concentrations baicalin were taken from UC patients. IL23R gene expressions in vitro intervened by different concentrations baicalin were detected using Q-PCR. Expressions of signal transducer and activator of transcription 4 (STAT4) , STAT6, phosphorylated-STAT4 (p-STAT4), and p-STAT6 were detected using Western blot. Serum levels of IFN-γ, IL-4, IL-6, and IL-10 were measured by ELISA. Effects of different concentrations baicalin on expressions of PBMCs, and levels of IFN-γ, IL-4, IL-10 of UC patients were also detected.
+RESULTS: Compared with the negative control group, 40 µmol baicalin obviously decreased IL23R gene expression of UC patients (P <0. 01). Compared with the healthy control group and the IBS-D group, p-STAT4/STAT4 ratios increased, p-STAT6/STAT6 ratios decreased, levels of IFN-γ, IL-4, IL-10 all increased in the US group (all P <0. 05). Compared with the negative control, 5 and 10 µmol baicalin groups, 20 and 40 moL baicalin obviously decreased p-STAT4/STAT4 ratios (all P <0. 05); 20 and 40 µmoL baicalin obviously increased p-STAT6/STAT6 ratios (all P <0. 05); 20 and 40 µmoL baicalin obviously lowered levels of IFN-γ and IL-4, and elevated IL-10 levels (all P <0. 05).
+CONCLUSION: 40 µmoL baicalin could in vitro inhibit p-STAT4/STAT4 ratios, adjust p-STAT6/STAT6 ratios and related cytokines, thereby balancing the immunity and relieving inflammatory reactions of UC.

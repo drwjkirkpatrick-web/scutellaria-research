@@ -1,0 +1,15 @@
+PMID: 20556559
+Title: Flavocoxid, an anti-inflammatory agent of botanical origin, does not affect coagulation or interact with anticoagulation therapies.
+Authors: Pillai, Lakshmi, Levy, Robert M, Yimam, Mesfin, Zhao, Yuan, Jia, Qi, Burnett, Bruce P
+Journal: Advances in therapy
+ISOAbbrev: Adv Ther
+Year: 2010
+Volume: 27  Issue: 6  Pages: 400-11
+DOI: 10.1007/s12325-010-0040-7
+URL: https://pubmed.ncbi.nlm.nih.gov/20556559/
+Fetched: 2026-11-14 via NCBI E-utilities (efetch db=pubmed)
+--- Abstract ---
+INTRODUCTION: Flavocoxid, a botanical, anti-inflammatory agent, nonspecifically inhibits the peroxidase activity of cyclooxygenase (COX-1 and COX-2) enzymes and 5-lipooxygenase (5-LOX). Due to the concomitant use of aspirin or warfarin in many osteoarthritis (OA) patients with increased cardiovascular risk, we felt it necessary to assess the anticoagulation properties of flavocoxid.
+METHODS: Three different studies were used: 1) a mouse model to assess effects on bleeding times when combined with aspirin; 2) the effect on platelet function as evaluated by platelet aggregation and bleed times in healthy human subjects; and 3) the effect on international normalized ratio in previously warfarinized patients with OA.
+RESULTS: Flavocoxid at a human equivalent dose (HED) of 569 mg (within the standard human dosing range of 500 mg) produced no significant increases in bleeding time in mice. There was also no inhibition or synergistic increase in bleed times when flavocoxid was combined with aspirin (370 mg HED). Flavocoxid did not significantly inhibit thromboxane production or platelet aggregation, and did not increase bleeding times in healthy volunteers. Finally, flavocoxid did not inhibit or potentiate the anticoagulant effect of warfarin.
+CONCLUSION: These results suggest that flavocoxid does not affect the primary or extrinsic pathways of secondary hemostasis and, by not inhibiting the anticoagulation effects of aspirin, may have utility in cardiovascular patients with OA.

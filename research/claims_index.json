@@ -1,0 +1,1411 @@
+[
+ {
+  "claim": "Scutellaria baicalensis Georgi, the Chinese huang qin (黄芩), was first validly published by Georgi in 1775 (Flora of China treatment).",
+  "url": "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200020285",
+  "quote": "**Scutellaria baicalensis** Georgi, Bemerk. Reise Russ. Reich. 1: 223. 1775. 黄芩 huang qin",
+  "strength": "review",
+  "theme": "phytochemistry",
+  "id": 76,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baikal skullcap is a perennial herb of the Lamiaceae (mint family) whose dried root is used as a famous traditional Chinese medicine (huangqin).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33162677",
+  "quote": "Baikal Skullcap (Scutellaria baicalensis Georgi) is a perennial herb in the Lamiaceae family and its dried root is used as a famous traditional Chinese medicine (TCM).",
+  "strength": "review",
+  "theme": "phytochemistry",
+  "id": 73,
+  "quote_verified": true
+ },
+ {
+  "claim": "The medicinal use of the root first enters the written record in the Shennong Ben Cao Jing (Shennong's Classic of Materia Medica) around 200 AD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31070530",
+  "quote": "Huang-Qin was first recorded in _Shennong’s Classic of Materia Medica_ (Shennong Bencao Jing in Chinese) in around 200 AD.",
+  "strength": "traditional",
+  "theme": "phytochemistry",
+  "id": 101,
+  "quote_verified": true
+ },
+ {
+  "claim": "In TCM theory the root is bitter and cold in nature, enters the lung, gallbladder, spleen, large intestine and small intestine meridians, and clears heat and dries dampness, purges fire and detoxifies.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41684516",
+  "quote": "Scutellariae radix\\] (SR) is bitter and cold in nature. It enters the lung, gallbladder, spleen, large intestine, and small intestine meridians. It clears heat and dries dampness, purges fire and detoxifies, stops bleeding, and stabilizes pregnancy. It excels at clearing lung fire and upper-body heat.",
+  "strength": "traditional",
+  "theme": "phytochemistry",
+  "id": 79,
+  "quote_verified": true
+ },
+ {
+  "claim": "Many Eastern-Han prescriptions containing huangqin are recorded in the Shanghan Zabing Lun, including Gegen Qinlian decoction, Huangqin decoction, Huanglian Ejiao decoction and Banxia Xiexin decoction.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39262990",
+  "quote": "As early as the Eastern Han Dynasty, there were many prescriptions involving SR recorded in _Shanghan Zabing Lun_, such as Gegenqinlian decoction, Huangqin decoction, Huanglian Ejiao decoction, and Banxia Xiexin decoction \\[ [15](https://pmc.ncbi.nlm.nih.gov/articles/PMC11388511/#bib15)\\].",
+  "strength": "traditional",
+  "theme": "phytochemistry",
+  "id": 93,
+  "quote_verified": true
+ },
+ {
+  "claim": "Huang-Qin is an important ingredient of Xiaochai Hutang (Xiao Chai Hu Tang; Japanese Sho-saiko-to), first described in the Shanghan Lun (On Cold Damage) written by Zhang Zhongjing around 200 AD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27730005",
+  "quote": "Huang-Qin is an important ingredient of Xiaochai Hutang (Chinese) or Sho-saiko-to (SST, Japanese) preparations, first described in _Shanghan Lun_ (On Cold Damage), written by Zhang Zhongjing around 200 AD \\[ [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC5031759/#CR9)\\].",
+  "strength": "traditional",
+  "theme": "phytochemistry",
+  "id": 81,
+  "quote_verified": true
+ },
+ {
+  "claim": "More than 30 flavone types are found in the roots, including baicalin, baicalein, chrysin, oroxylin A, oroxylin A 7-O-glucuronide, wogonin and wogonoside.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27730005",
+  "quote": "More than 30 types of flavones can be found in its roots (Fig. [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC5031759/#Fig3)), including baicalin, baicalein, chrysin, oroxylin A, oroxylin A 7-O-glucuronide, wogonin and wogonoside",
+  "strength": "review",
+  "theme": "phytochemistry",
+  "id": 81,
+  "quote_verified": true
+ },
+ {
+  "claim": "The six major bioactive flavones of Radix Scutellariae exist in two forms - aglycones (baicalein, wogonin, oroxylin A) and their glycosides (baicalin, wogonoside, oroxylin A-7-glucuronide) - and all six are pharmacologically active.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21928297",
+  "quote": "Six flavones are proven to be the major bioactive flavones in Radix Scutellariae existing in the forms of aglycones (baicalein, wogonin, oroxylin A) and glycosides (baicalin, wogonoside, oroxylin A-7-glucuronide).",
+  "strength": "review",
+  "theme": "phytochemistry",
+  "id": 88,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalin is baicalein-7-O-glucuronide (C21H18O11) and is metabolized to baicalein in animals.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11625591",
+  "quote": "Baicalin (baicalein-7-O-glucuronide, C21H18O11) is metabolized to baicalein in animals ( [Kang MJ et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC11625591/#B65)).",
+  "strength": "review",
+  "theme": "phytochemistry",
+  "id": 54,
+  "quote_verified": true
+ },
+ {
+  "claim": "4'-Deoxyflavones accumulate at relatively high concentrations in root tissues compared with aerial tissues in all Scutellaria species examined except S. lateriflora; baicalin was localized in the roots of S. baicalensis but in the leaves of S. lateriflora.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35915209",
+  "quote": "4'-deoxyflavones accumulated in relatively high concentrations in root tissues compared to aerial tissues in all species except S. lateriflora. Baicalin, the most abundant 4'-deoxyflavone detected, was localized in the roots of S. baicalensis and leaves of S. lateriflora, indicating differential accumulation patterns be",
+  "strength": "in-vitro",
+  "theme": "phytochemistry",
+  "id": 75,
+  "quote_verified": true
+ },
+ {
+  "claim": "The four major root flavonoids of S. baicalensis are absent from its aerial parts, whereas in American skullcap (S. lateriflora) the aerial parts contain larger amounts than the root.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/18404307",
+  "quote": "These flavonoids were found in the root of S. baicalensis; its aerial parts, however, did not contain them. On the other hand, the amounts of those flavonoids in the aerial parts of S. lateriflora were larger than in the root. Herbal tea and dietary supplements of S. lateriflora obtained commercially also contained those flavonoids, and the dietary supplements contained amounts of them comparable with that in kampo medicine.",
+  "strength": "in-vitro",
+  "theme": "phytochemistry",
+  "id": 94,
+  "quote_verified": true
+ },
+ {
+  "claim": "Teucrium chamaedrys (germander) has been reported as a hepatotoxic adulterant of American skullcap (S. lateriflora) preparations, and an HPTLC method was developed to detect T. chamaedrys in S. baicalensis (Chinese skullcap) extract used in a proprietary blend product.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19610368",
+  "quote": "Teucrium chamaedrys (Gemander) has been reported as an adulterant of Scutellaria lateriflora (American skullcap) herbal preparations and is also known to be hepatotoxic. A quick and simple high-performance thin-layer chromatographic (HPTLC) method was developed for the detection of T. chamaedrys (Germander) in S. baicalensis (Chinese skullcap) extract",
+  "strength": "in-vitro",
+  "theme": "phytochemistry",
+  "id": 82,
+  "quote_verified": true
+ },
+ {
+  "claim": "Skullcapflavone I (5,2'-dihydroxy-7,8-dimethoxyflavone, C17H14O6) is recorded among the root flavonoids of S. baicalensis, as is skullcapflavone II (5,6'-dihydroxy-6,7,8,2'-tetramethoxyflavone).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32994803",
+  "quote": "Skullcapflavone I (5,2′-Dihydroxy-7,8-dimethoxyflavone) | C17H14O6 | 314 | Root<br>Hairy Root",
+  "strength": "review",
+  "theme": "phytochemistry",
+  "id": 99,
+  "quote_verified": true
+ },
+ {
+  "claim": "Scutellarin and its aglycone scutellarein are among the eight active flavonoids quantified in S. baicalensis roots (together with baicalin, wogonoside, baicalein, wogonin, apigenin and chrysin).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33162677",
+  "quote": "The contents of eight active ingredients (baicalin, wogonoside, baicalein, wogonin, scutellarin, scutellarein, apigenin, and chrysin) in roots of S. baicalensis of different growth years (ranging from 1 year to 15 years) were estimated using high performance liquid chromatography (HPLC) and further analyzed to determine the optimal harvest period.",
+  "strength": "in-vitro",
+  "theme": "phytochemistry",
+  "id": 73,
+  "quote_verified": true
+ },
+ {
+  "claim": "The Chinese Pharmacopoeia (2015 edition) requires the baicalin content of Huang-Qin to be no less than 9%.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31070530",
+  "quote": "Chinese Pharmacopoeia requires the content of baicalin in Huang-Qin should be no less than 9% (Chinese Pharmacopoeia Commission [2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC6292351/#CIT0021)).",
+  "strength": "review",
+  "theme": "phytochemistry",
+  "id": 101,
+  "quote_verified": true
+ },
+ {
+  "claim": "The comparative literature reports the Scutellariae Radix assay across standards as: baicalin ≥9.0% (ChP 2015), ≥10.0% (JP), ≥10.0% total baicalin+baicalein+wogonin (KP), ≥9.0% (EP 9.0), ≥11.0% baicalin+wogonin-7-O-glucuronide and ≥3.50% baicalin+wogonin (USP), ≥9.0% (WHO monograph), ≥8.0% (ISO).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32653649",
+  "quote": "Assay | Baicalin: ≥9.0 % | Baicalin: ≥10.0 % | ≥10.0 % (total of Baicalin, baicalein and wogonin) | Baicalin: ≥9.0 % | ≥11.0 % (total of Baicalin and wogonin-7-O-glucuronide);<br>≥3.50 % (total of Baicalin and wogonin) | Baicalin: ≥9.0 % | Baicalin: ≥8.0 %",
+  "strength": "review",
+  "theme": "phytochemistry",
+  "id": 100,
+  "quote_verified": true
+ },
+ {
+  "claim": "In HPLC screening of 38 samples from seven main cultivated areas, baicalin, wogonoside and baicalein were the three main flavonoids with the highest contents, and flavonoid content differed markedly between cultivation regions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36820244",
+  "quote": "baicalin, wogonoside, and baicalein were the three main flavonoids with the highest contents in Radix Scutellaria. The content of flavonoids in different cultivated areas was very different, which had significant regionality and was closely related to the natural conditions of various places.",
+  "strength": "in-vitro",
+  "theme": "phytochemistry",
+  "id": 104,
+  "quote_verified": true
+ },
+ {
+  "claim": "Growth year determines quality: the best harvesting period for S. baicalensis is 2-3 years, and the root cortex contains significantly more baicalin, wogonoside, baicalein and wogonin than the stele.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33162677",
+  "quote": "The results showed that the best harvesting period for S. baicalensis should be determined as 2-3 years based on comprehensive evaluation of active ingredient content, annual yield increment, and land use efficiency. The contents of active ingredients including baicalin, wogonoside, baicalein, and wogonin in cortex were significantly higher than those in stele (P ≤ 0.05).",
+  "strength": "in-vitro",
+  "theme": "phytochemistry",
+  "id": 73,
+  "quote_verified": true
+ },
+ {
+  "claim": "Traditional wine-processing (pao zhi) changes the dissolution of compounds from Radix Scutellariae by altering the pore structure of the material.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32730879",
+  "quote": "The data indicated that wine-processing would affect the dissolution of compounds by changing the pore structure of RS.",
+  "strength": "animal",
+  "theme": "phytochemistry",
+  "id": 92,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalin shows a distinct pharmacokinetic profile including gastrointestinal hydrolysis, enterohepatic recycling, carrier-mediated transport and complicated metabolism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30209794",
+  "quote": "Baicalin displays a distinct pharmacokinetic profile including gastrointestinal hydrolysis, enterohepatic recycling, carrier-mediated transport, and complicated metabolism.",
+  "strength": "review",
+  "theme": "phytochemistry",
+  "id": 83,
+  "quote_verified": true
+ },
+ {
+  "claim": "Probiotic fermentation markedly modifies the bioactive components of S. baicalensis (flavonoids such as baicalin, baicalein and wogonin), augmenting its medicinal potency.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38903628",
+  "quote": "Evidence suggests that probiotic fermentation markedly modifies the bioactive components of Scutellaria baicalensis Georgi, thereby augmenting its medicinal potency.",
+  "strength": "review",
+  "theme": "phytochemistry",
+  "id": 77,
+  "quote_verified": true
+ },
+ {
+  "claim": "S. baicalensis has been officially listed in the Chinese Pharmacopoeia for a long time, and chromatographic fingerprints combined with quantitative multi-component analysis can be used for its quality evaluation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16989969",
+  "quote": "_Scutellaria baicalensis_ Georgi (Labiatae) is one commonly used herbal medicine in China and other East Asian countries, and it has been officially listed in the Chinese Pharmacopoeia for a long time [\\[19\\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC7125791/#bib19).",
+  "strength": "in-vitro",
+  "theme": "phytochemistry",
+  "id": 78,
+  "quote_verified": true
+ },
+ {
+  "claim": "Four highly variable chloroplast genome regions (matK-rps16, ndhC-trnV-UAC, psbE-petL, rps16-trnQ-UUG) are candidate DNA barcode markers for differentiating S. baicalensis from its adulterants; substitution with comparable species occurs in local markets.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38191291",
+  "quote": "Four highly variable regions (matK-rps16, ndhC-trnV-UAC, psbE-petL, and rps16-trnQ-UUG) may function as potential molecular markers for differentiating S. baicalensis from its adulterants.",
+  "strength": "in-vitro",
+  "theme": "phytochemistry",
+  "id": 89,
+  "quote_verified": true
+ },
+ {
+  "claim": "Commercial S. baicalensis extracts vary widely: of 10 commercial extracts analyzed, 4 contained no baicalin at all, and growth-inhibition potency varied more than 11-fold between products.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/15489215",
+  "quote": "However, significant product-to-product and batch-to-batch variation of these marker components was observed with 4 products containing no baicalin at all and baicalein concentration ranging from 0 to 52.3 g/mg. The 50% growth inhibition concentration of the extracts ranged from 0.18 to 2.0 mg/ml, more than an 11-fold variation. PGE2 levels varied from 19.5 to 111.1 pg/106 cells, more than a 5.7-fold difference.",
+  "strength": "in-vitro",
+  "theme": "phytochemistry",
+  "id": 102,
+  "quote_verified": true
+ },
+ {
+  "claim": "In a randomized, double-blind, placebo-controlled trial, 85 healthy adults taking 240 mg/day of a Scutellaria baicalensis stem extract combined with Acacia catechu for four weeks showed enhanced cognitive function overall but without significant advantage over placebo, and the supplement was well tolerated.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39701593",
+  "quote": "Four-week daily TP supplementation significantly enhanced cognitive function without difference from placebo.",
+  "strength": "human",
+  "theme": "phytochemistry",
+  "id": 86,
+  "quote_verified": true
+ },
+ {
+  "claim": "In imatinib-resistant chronic myeloid leukemia CD34+ cells, baicalein induced DNMT1-mediated demethylation of the SHP-1 promoter, restoring SHP-1 re-expression and inhibiting JAK2/STAT5 signaling.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36869331",
+  "quote": "Baicalein induced DNMT1-mediated demethylation of the SHP-1 promoter region, and subsequently activated SHP-1 re-expression, which resulted in an inhibition of JAK2/STAT5 signaling in resistant CML CD34+ cells.",
+  "strength": "in-vitro",
+  "theme": "epigenetics",
+  "id": 142,
+  "quote_verified": true
+ },
+ {
+  "claim": "In a rat lithium-pilocarpine model of status epilepticus, baicalein interacted with DNMT1 to suppress methylation of the GABRD promoter, increasing GABRD protein in hippocampus.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40569104",
+  "quote": "Mechanistically, baicalein interacted with DNMT1 to suppress GABRD promoter region methylation, thus increasing GABRD protein level in the hippocampus of rats induced by LiCl-PILO.",
+  "strength": "animal",
+  "theme": "epigenetics",
+  "id": 154,
+  "quote_verified": true
+ },
+ {
+  "claim": "In hepatic stellate cells and mouse fibrosis models, baicalein targeted DNMT1-facilitated methylation of the CpG-island-bearing SCARA5 promoter, promoting SCARA5 expression and HSC ferroptosis to alleviate liver fibrosis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41270385",
+  "quote": "The SCARA5 promoter harbored a CpG island, and its methylation was facilitated by DNMT1, which could be targeted by baicalein.",
+  "strength": "animal",
+  "theme": "epigenetics",
+  "id": 157,
+  "quote_verified": true
+ },
+ {
+  "claim": "In hepatic stellate cells, baicalin (with rosmarinic acid) epigenetically derepressed Pparγ by reducing MeCP2 expression and recruitment to the Pparγ promoter and suppressing the PRC2 methyltransferase EZH2 with reduced H3K27 dimethylation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22095555",
+  "quote": "Here we demonstrate YGW prevents and reverses HSC activation by way of epigenetic derepression of Pparγ involving reductions in MeCP2 expression and its recruitment to Pparγ promoter, suppressed expression of PRC2 methyltransferase EZH2, and consequent reduction of H2K27di-methylation at the 3' exon.",
+  "strength": "in-vitro",
+  "theme": "epigenetics",
+  "id": 108,
+  "quote_verified": true
+ },
+ {
+  "claim": "In breast cancer models, wogonin reduced CpG methylation in the promoter region of the KEAP1 gene, enhancing Keap1 protein and thereby inhibiting the Nrf2/HIF-1α pathway to diminish radioresistance.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37903716",
+  "quote": "Mechanistically, WG enhanced the level of the Nrf2 inhibitor Keap1 through reducing CpG methylation in the promoter region of the Keap1 gene.",
+  "strength": "in-vitro",
+  "theme": "epigenetics",
+  "id": 145,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalein was characterized as a natural HDAC-1/8 inhibitor in core binding factor AML, triggering growth suppression and differentiation of AML cell lines and primary AML cells.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32898337",
+  "quote": "Baicalein showed HDAC-1/8 inhibition to trigger growth suppression and differentiation induction of AML cell lines and primary AML cells.",
+  "strength": "in-vitro",
+  "theme": "epigenetics",
+  "id": 131,
+  "quote_verified": true
+ },
+ {
+  "claim": "In cutaneous T-cell lymphoma cells, baicalein exhibited inhibitory activity against HDAC1 and HDAC8 and promoted proteasomal HDAC1 degradation, upregulating histone H3 acetylation without inducing ABC transporter genes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32119867",
+  "quote": "Moreover, we discovered that Baicalein, a natural product, exhibited an inhibitory effect on HDAC1 and HDAC8.",
+  "strength": "in-vitro",
+  "theme": "epigenetics",
+  "id": 126,
+  "quote_verified": true
+ },
+ {
+  "claim": "In A549 lung adenocarcinoma cells, wogonin decreased c-Myc/SKP2 and HDAC1/HDAC2 pathway activity, with its anti-cancer effects associated with degradation of c-Myc, SKP2, HDAC1 and HDAC2.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24265759",
+  "quote": "The present results suggest that wogonin has multiple anti-cancer effects associated with degradation of c-Myc, SKP2, HDAC1 and HDAC2.",
+  "strength": "in-vitro",
+  "theme": "epigenetics",
+  "id": 113,
+  "quote_verified": true
+ },
+ {
+  "claim": "Wogonin suppressed latent HIV-1 reactivation in cellular models and in primary CD4+ T cells from ART-suppressed individuals ex vivo by inhibiting expression of the histone acetyltransferase p300 and decreasing histone H3/H4 crotonylation at the HIV-1 promoter.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37172478",
+  "quote": "Mechanistically, wogonin inhibited the reactivation of latent HIV-1 by inhibiting the expression of p300, a histone acetyltransferase, and decreasing the crotonylation of histone H3/H4 in the HIV-1 promoter region.",
+  "strength": "human",
+  "theme": "epigenetics",
+  "id": 143,
+  "quote_verified": true
+ },
+ {
+  "claim": "In microsatellite-instability colorectal cancer, baicalein directly inhibited adenosylhomocysteinase (AHCY), triggering S-adenosylhomocysteine accumulation, decreased histone H3K4me3, and downregulated OCT4/Nanog stemness, validated in patient tissues and PDX models.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41038143",
+  "quote": "This inhibition triggered S-adenosylhomocysteine (SAH) accumulation, decreased histone H3 lysine 4 trimethylation (H3K4me3), and downregulated stemness markers OCT4 and Nanog.",
+  "strength": "animal",
+  "theme": "epigenetics",
+  "id": 156,
+  "quote_verified": true
+ },
+ {
+  "claim": "In triple-negative breast cancer cells, baicalein enhanced KDM4E protein expression and stability, and KDM4E induced BICD1 by reducing H3K9me3 deposition at the BICD1 promoter, blocking PAR1 signaling.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38607237",
+  "quote": "KDM4E activated protein bicaudal D homolog 1 (BICD1) expression by reducing the deposition of histone H3 lysine 9 trimethylation (H3K9me3) in its promoter, whereas BICD1 promoted protease-activated receptor-1 (PAR1) endocytosis and blocked PAR1 signaling through physical interaction with PAR1.",
+  "strength": "in-vitro",
+  "theme": "epigenetics",
+  "id": 147,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalin was first characterized as a natural inhibitor of lysine-specific demethylase 1 (LSD1) with an IC50 of 3.01 μM and strong LSD1 inhibitory effect in cells.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27814566",
+  "quote": "In our study, baicalin was first characterized as a LSD1 inhibitor with an IC50 of 3.01μM and showed strong LSD1 inhibitory effect in cells.",
+  "strength": "in-vitro",
+  "theme": "epigenetics",
+  "id": 117,
+  "quote_verified": true
+ },
+ {
+  "claim": "In osteoarthritis models, wogonin bound LSD1/KDM1A and disrupted LSD1-mediated NF-κB p65 demethylation, enhancing p65 methylation and inhibiting JNK/NF-κB activation to rebalance macrophage polarization.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40818185",
+  "quote": "Mechanistically, wogonin disrupted LSD1-mediated NF-κB p65 demethylation, enhancing p65 methylation and inhibiting JNK/NF-κB activation.",
+  "strength": "animal",
+  "theme": "epigenetics",
+  "id": 155,
+  "quote_verified": true
+ },
+ {
+  "claim": "The protective effects of baicalein in C. elegans aging (one of six glucose-toxicity-protective drugs that increased lifespan) were blocked by RNAi inhibition of cbp-1, the worm ortholog of the CBP/p300 histone acetyltransferase.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22114686",
+  "quote": "These protective effects were blocked by RNAi inhibition of cbp-1 in adults only, which also blocks protective effects of dietary restriction.",
+  "strength": "animal",
+  "theme": "epigenetics",
+  "id": 109,
+  "quote_verified": true
+ },
+ {
+  "claim": "In olfactory bulbectomized rats and LPS-stimulated BV-2 microglia, baicalin regulated SIRT1 and decreased NF-κB p65 acetylation, including p65 acetylation at lysine 310, reducing pro-inflammatory cytokines.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30848526",
+  "quote": "Moreover, in lipopolysaccharides-induced BV-2 cells, the levels of inflammatory factors (IL-1β), p65 acetylation at lysine 310, and SIRT1 expression were different in the group treated with both baicalin and nicotinamide compared with the group treated with baicalin, which suggests that baicalin regulates SIRT1 and thereby inhibits p65 acetylation.",
+  "strength": "animal",
+  "theme": "epigenetics",
+  "id": 122,
+  "quote_verified": true
+ },
+ {
+  "claim": "In collagen-induced arthritis rats and human rheumatoid arthritis fibroblast-like synoviocytes, baicalin downregulated NF-κB p65 acetylation in association with upregulated sirt1 expression.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24893986",
+  "quote": "Moreover, the acetylation of NF-κB p65 was downregulated by baicalin, which negatively correlates with the baicalin-induced upregulation of sirt1 expression in the same conditions.",
+  "strength": "animal",
+  "theme": "epigenetics",
+  "id": 114,
+  "quote_verified": true
+ },
+ {
+  "claim": "In TGF-β1-treated human lung fibroblasts, baicalein diminished miR-21 expression (via inhibition of the miR-21 transcription factor STAT3), and miR-21 mimics partially antagonized baicalein's anti-fibrotic effects.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30201452",
+  "quote": "Baicalein diminished the expression of miR-21, and miR-21 mimics partially antagonized the effects of baicalein.",
+  "strength": "in-vitro",
+  "theme": "epigenetics",
+  "id": 121,
+  "quote_verified": true
+ },
+ {
+  "claim": "In bleomycin-induced pulmonary fibrosis in rats, orally administered baicalein remarkably decreased miR-21 levels and inhibited TGF-β1 and p-Smad-2/3 expression, attenuating fibrosis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23523661",
+  "quote": "Baicalein remarkably decreased miR-21 levels and inhibited the increased expression of TGF-β1 and p-Smad-2/3 in bleomycin-treated rats.",
+  "strength": "animal",
+  "theme": "epigenetics",
+  "id": 111,
+  "quote_verified": true
+ },
+ {
+  "claim": "By high-throughput miRNA sequencing in baicalein-treated Panc-1 pancreatic cancer cells, miR-139-3p was the most up-regulated and miR-196b-5p the most down-regulated miRNA, acting through NOB1 and ING5 respectively.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33996574",
+  "quote": "Quantitative PCR analysis confirmed that miR-139-3p was the most up-regulated miRNA after baicalein treatment, while miR-196b-5p was the most down-regulated miRNA.",
+  "strength": "in-vitro",
+  "theme": "epigenetics",
+  "id": 136,
+  "quote_verified": true
+ },
+ {
+  "claim": "Microarray profiling showed baicalein broadly alters microRNA expression profiles in Bel-7402 hepatocellular carcinoma cells, with putative targets enriched in MAPK, PI3K-Akt, Wnt, Hippo and mTOR signaling pathways.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28351032",
+  "quote": "Putative target genes for differentially expressed miRNAs could be enriched in terms of cell proliferation regulation, cell cycle arrest and were mainly involved in MAPK, PI3K-Akt, Wnt, Hippo and mTOR signaling pathways.",
+  "strength": "in-vitro",
+  "theme": "epigenetics",
+  "id": 119,
+  "quote_verified": true
+ },
+ {
+  "claim": "In colon cancer cells and xenograft mice, baicalin increased miR-139-3p expression while decreasing its direct target CDK16, blocking the cell cycle and inhibiting proliferation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36599649",
+  "quote": "The results showed that baicalin increased miR-139-3p expression while also decreasing CDK16 levels, blocking the cell cycle, and inhibiting cell proliferation in colon cancer cells.",
+  "strength": "animal",
+  "theme": "epigenetics",
+  "id": 141,
+  "quote_verified": true
+ },
+ {
+  "claim": "By small-RNA sequencing, wogonin up-regulated miR-27b-5p (among 70 miRNAs changing more than twofold) in Huh7 hepatoma cells, and miR-27b-5p directly targeted YWHAZ to mediate wogonin's anti-proliferative activity.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37623816",
+  "quote": "Wogonin exerted antitumor activity through multiple signaling molecules, such as focal adhesion kinase, protein kinase B, mammalian target of rapamycin and molecules related to apoptosis and cell cycle by upregulating miR-27b-5p and downregulating YWHAZ.",
+  "strength": "in-vitro",
+  "theme": "epigenetics",
+  "id": 144,
+  "quote_verified": true
+ },
+ {
+  "claim": "MiR array screening and qPCR identified miR-155-5p as a candidate regulated by oroxylin A, targeting IRF2BP2 and modulating NFAT1/iNOS inflammatory signaling in LPS-induced acute lung injury models.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33052070",
+  "quote": "An miR array screening and quantitative polymerase chain reaction identified that miR-155-5p could be a candidate regulated by OroA.",
+  "strength": "in-vitro",
+  "theme": "epigenetics",
+  "id": 132,
+  "quote_verified": true
+ },
+ {
+  "claim": "In breast cancer cells, baicalin treatment significantly down-regulated lncRNA-MALAT1 and up-regulated miR-200c, suppressing TGF-β/ZEB1/N-cadherin expression, migration and invasion.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36401368",
+  "quote": "Additionally, baicalin treatment significantly downregulated the expression of lncRNA-MALAT1 and upregulated that of miR-200c.",
+  "strength": "in-vitro",
+  "theme": "epigenetics",
+  "id": 140,
+  "quote_verified": true
+ },
+ {
+  "claim": "In cisplatin-resistant A2780/CDDP ovarian cancer cells and nude-mouse xenografts, baicalein acted through the circular RNA CirSLC7A6/miR-2682-5p/SLC7A6 axis to improve chemoresistance.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37940982",
+  "quote": "The rates of inhibition and apoptosis in the group treated with a combination of cisplatin and baicalein were significantly higher than those of the cisplatin and baicalein groups of A2780/CDDP shCirSLC7A6 cells.",
+  "strength": "animal",
+  "theme": "epigenetics",
+  "id": 146,
+  "quote_verified": true
+ },
+ {
+  "claim": "Affymetrix 42K microarray analysis of baicalein-treated HepG2 cells showed 440 up-regulated and 254 down-regulated gene probes, and an ARE-reporter assay demonstrated that baicalein stimulated Nrf2-mediated ARE transactivation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22265932",
+  "quote": "Moreover, the ARE-reporter gene assay demonstrated that baicalein stimulated Nrf2-mediated ARE transactivation.",
+  "strength": "in-vitro",
+  "theme": "epigenetics",
+  "id": 110,
+  "quote_verified": true
+ },
+ {
+  "claim": "Transcriptomics in senescence-accelerated SAMP8 mice showed baicalein regulated fifty hub differentially expressed genes, and baicalein prevented JAK2/STAT1 activation and decreased Aβ1-42 and RAGE levels in cortex, improving learning and memory impairment.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31715136",
+  "quote": "Our results suggest that baicalein prevented the activation of JAK2/STAT1 signaling pathway and decreased the levels of Aβ1-42 and RAGE in the cortex of SAMP8 mice.",
+  "strength": "animal",
+  "theme": "epigenetics",
+  "id": 124,
+  "quote_verified": true
+ },
+ {
+  "claim": "In pancreatic ductal adenocarcinoma cells, baicalein down-regulated the m6A demethylase FTO, enhancing m6A modification of ZEB1 mRNA and decreasing its stability, thereby disrupting TGF-β-induced EMT.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40262723",
+  "quote": "It also downregulated FTO, an enzyme critical for m6A RNA demethylation.",
+  "strength": "in-vitro",
+  "theme": "epigenetics",
+  "id": 153,
+  "quote_verified": true
+ },
+ {
+  "claim": "In patient-derived colorectal liver metastasis specimens, pharmacological inhibition of LSD1 using baicalin reduced expression of CD206 and the immune checkpoint molecule PD-L1 in tumor-associated macrophages.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42900293",
+  "quote": "Pharmacological inhibition of LSD1 using baicalin or INCB059872 reduced the expression of CD206 and the immune checkpoint molecule PD-L1, consistent with macrophage reprogramming away from a tumour-promoting state.",
+  "strength": "human",
+  "theme": "epigenetics",
+  "id": 162,
+  "quote_verified": true
+ },
+ {
+  "claim": "A PRISMA-guided systematic review of fifteen studies concluded that baicalein modulates miRNA expression across hepatocellular, breast, cervical, ovarian and gastric cancers, affecting PI3K/AKT, Wnt/β-catenin and mTOR pathways.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40153015",
+  "quote": "Fifteen studies meeting the inclusion criteria were included in the systematic review.",
+  "strength": "review",
+  "theme": "epigenetics",
+  "id": 152,
+  "quote_verified": true
+ },
+ {
+  "claim": "In Caenorhabditis elegans, baicalein significantly extended lifespan and improved healthspan markers (motility, oxidative-stress resistance, lipofuscin accumulation) by suppressing DAF-2-mediated insulin/IGF-1 signaling and promoting nuclear translocation of the FOXO homolog DAF-16.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41415716",
+  "quote": "Mechanistically, baicalein suppressed the DAF-2-mediated insulin/IGF-1 signaling pathway and promoted the nuclear translocation of DAF-16, a pivotal longevity transcription factor.",
+  "strength": "animal",
+  "theme": "longevity",
+  "id": 167,
+  "quote_verified": true
+ },
+ {
+  "claim": "In a natural rodent model of aging, baicalein supplementation improved the antioxidant profile and the authors concluded it maintains redox homeostasis during aging similarly to caloric restriction, proposing baicalein as a caloric-restriction-mimetic (CRM) candidate.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35316094",
+  "quote": "Based on the aforementioned observations we conclude that Baicalein has the potential to maintain extracellular reactive oxygen species levels and redox homeostasis during the aging process, an effect that is similar to CR.",
+  "strength": "animal",
+  "theme": "longevity",
+  "id": 169,
+  "quote_verified": true
+ },
+ {
+  "claim": "In high-fat-diet-fed and fasted mice, baicalin restrained excessive hepatic glucose production by decreasing the fasting-induced SirT1 rise (via reduced NAD+ accumulation) and preserving STAT3 acetylation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30144531",
+  "quote": "Fasting increased SirT1 protein in STAT3 immunoprecipitation products and less in the liver of baicalin-treated mice, indicating that baicalin blocked the binding of SirT1 to STAT3 and thus preserved STAT3 acetylation.",
+  "strength": "animal",
+  "theme": "longevity",
+  "id": 192,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalin (20 and 40 mg/kg) reversed depressive-like behavior in olfactory bulbectomized rats while upregulating SIRT1 and reducing NF-κB p65 acetylation, with parallel reductions of hippocampal and hypothalamic IL-1β, IL-6 and TNF-α.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30848526",
+  "quote": "Furthermore, baicalin regulated Sirtuin 1 (SIRT1) and decreased the levels of p65 acetylation (ac-p65) in the hippocampus and hypothalamus.",
+  "strength": "animal",
+  "theme": "longevity",
+  "id": 122,
+  "quote_verified": true
+ },
+ {
+  "claim": "In mouse cerebral ischemia-reperfusion (MCAO/R) and OGD/R-treated HT22 cells, baicalein upregulated SIRT6, which deacetylated FOXA2 and thereby promoted SLC7A11 expression, limiting ferroptosis and apoptosis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39299807",
+  "quote": "Baicalein promoted FOXA2 deacetylation by upregulating SIRT6 expression.",
+  "strength": "animal",
+  "theme": "longevity",
+  "id": 178,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalein (100 mg/kg/day orally) attenuated bleomycin-induced lung fibroblast senescence and fibrosis in mice via restoration of Sirt3, and Sirt3 silencing abolished its anti-fibrotic and anti-senescence effect.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36815239",
+  "quote": "Baicalein restored the BLM-induced downregulation of Sirt3 expression in lung tissues and silencing of Sirt3 abolished the inhibitory role of baicalein against BLM-induced lung fibrosis, fibroblast senescence and activation of TGF-β1/Smad signalling pathway.",
+  "strength": "animal",
+  "theme": "longevity",
+  "id": 177,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalein reduced hepatic fat accumulation by activating AMPK and suppressing SREBP1 cleavage and transcriptional activity in oleic acid-treated HepG2 cells and high-fat-diet-fed mice.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31909773",
+  "quote": "In this study, we characterized the hepatic fat-lowering activity of baicalein and found that baicalein reduced hepatic fat accumulation by activating AMPK and suppressing SREBP1 cleavage, thus consequently inhibiting the transcriptional activity of SREBP1 and the synthesis of hepatic fat in oleic acid-induced HepG2 cells and high-fat diet-induced non-insulin-resistant mice.",
+  "strength": "animal",
+  "theme": "longevity",
+  "id": 163,
+  "quote_verified": true
+ },
+ {
+  "claim": "In human cancer cells, baicalein induced autophagic (rather than apoptotic) cell death through AMPK/ULK1 activation with downregulation of mTORC1 complex components, and the death was completely reversed by Beclin-1/Vps34/Atg5/Atg7 knockdown but not by pan-caspase inhibition, proving autophagy dependence.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25132405",
+  "quote": "Here, we show that baicalein leads to human cancer cell death by inducing autophagy rather than apoptosis, because cell death induced by baicalein was completely reversed by suppressing the expression levels of key molecules in autophagy such as Beclin 1, vacuolar protein sorting 34 (Vps34), autophagy-related (Atg)5 and Atg7, but not by pan-caspase inhibitor.",
+  "strength": "in-vitro",
+  "theme": "longevity",
+  "id": 165,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalin (20 mg/kg oral gavage for 4 weeks) ameliorated depression-like behavior in chronically stressed mice by activating the hippocampal AMPK/PGC-1α pathway and enhancing NIX-mediated mitophagy, with docking indicating direct AMPK binding.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36463946",
+  "quote": "In conclusion, the present study suggested that the antidepressant effect of baicalin may be related to the enhancement of NIX-mediated mitophagy through activating the AMPK/PGC-1α pathway by directly binding to AMPK.",
+  "strength": "animal",
+  "theme": "longevity",
+  "id": 182,
+  "quote_verified": true
+ },
+ {
+  "claim": "In bleomycin-induced pulmonary fibrosis in mice, baicalin (50 and 100 mg/kg) activated protective autophagy by inhibiting the Akt/mTOR/ULK1 pathway, and autophagy inhibitors (3-MA, hydroxychloroquine) counteracted its anti-fibrotic effect.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41308360",
+  "quote": "Mechanistically, autophagy inhibitors (3-MA, HCQ) counteracted Baicalin's anti-fibrotic effects.",
+  "strength": "animal",
+  "theme": "longevity",
+  "id": 188,
+  "quote_verified": true
+ },
+ {
+  "claim": "In 6-hydroxydopamine-lesioned Parkinsonian rats, baicalein alleviated neuronal injury and recovered mitochondrial dysfunction by inducing mitochondrial autophagy via miR-30b and the SIRT1/AMPK/mTOR pathway, and 3-methyladenine inhibited this protection.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35237220",
+  "quote": "PD rats elicited decreased neurological score and DA secretion of the striatum, increased neuronal apoptosis, and injury, and reduced number of mitochondria and autophagy, whereas baicalein alleviated neuronal injury and partly recovered mitochondrial dysfunction, 3-methyladenine inhibited the protection of baicalein. miR-30b-5p was elevated and SIRT1 was diminished in PD rats and inhibited by baicalein. miR-30b-5p targeted SIRT1. miR-30b-5p overexpression or SIRT1 silencing annulled the protection of baicalein.",
+  "strength": "animal",
+  "theme": "longevity",
+  "id": 172,
+  "quote_verified": true
+ },
+ {
+  "claim": "In glucocorticoid-treated MC3T3-E1 osteoblastic cells, baicalein inhibited AKT and thereby upregulated FOXO1, enhancing bone turnover markers (ALP, OCN, Runx2, Col 1) and extracellular matrix mineralization.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34198266",
+  "quote": "In addition, glucocorticoid-induced osteoporosis in MC3T3-E1 cells was partially reversed by BN through inhibition of AKT, which, by upregulating FOXO1, enhanced expression of bone turnover markers (ALP, OCN, Runx2, and Col 1) and extracellular matrix mineralization.",
+  "strength": "in-vitro",
+  "theme": "longevity",
+  "id": 170,
+  "quote_verified": true
+ },
+ {
+  "claim": "In diet-induced obese mice given baicalin 50 mg/kg i.p. for 21 days (and C2C12 myotubes), skeletal-muscle pAKT, pAS160, GLUT4 and PGC-1α increased while HOMA-IR, body weight and glucose/insulin intolerance fell, supporting an AKT/AS160/GLUT4 mechanism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28359800",
+  "quote": "We discovered that administration of baicalin decreased food intake, body weight, HOMA-IR and NT-PGC-1α levels, but enhanced GLUT4, PGC-1α, pP38MAPK, pAKT and pAS160 contents, as well as GLUT4 mRNA, PGC-1α mRNA, PPARγ mRNA, GLUT1 mRNA expression in skeletal muscles of obese mice and myotubes of C2C12 cells, and reversed high fat diet-induced glucose and insulin intolerance, hyperglycemia and insulin resistance in the mice.",
+  "strength": "animal",
+  "theme": "longevity",
+  "id": 180,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalin dose-dependently protected rat stomachs against stress-, ethanol- and indomethacin-induced ulcers (72% effectiveness versus ranitidine, 80% against ethanol ulcers), attributed by the authors to Nrf2-mediated anti-secretory actions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29128794",
+  "quote": "CONCLUSION: The present findings suggest that the protective effects of baicalin may be regulated via Nrf2-mediated anti-secretory actions.",
+  "strength": "animal",
+  "theme": "longevity",
+  "id": 190,
+  "quote_verified": true
+ },
+ {
+  "claim": "In Hct116 colon cells, baicalein activated Nrf2 signalling with no detectable change in Nrf2 ubiquitinylation, proteasomal activity or NRF2 gene transcription, indicating activation independent of ubiquitin-proteasomal and redox modulation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27143122",
+  "quote": "RESULTS: No change in the ubiquitinylation of Nrf2, proteasomal activity and transcription of the NRF2 gene were detectable.",
+  "strength": "in-vitro",
+  "theme": "longevity",
+  "id": 116,
+  "quote_verified": true,
+  "quote_source_file": "/home/walker/projects/scutellaria-research/research/longevity/pages/baicalein-nrf2-hct116.txt"
+ },
+ {
+  "claim": "In LPS-stimulated RAW264.7 macrophages, baicalin pretreatment (12.5-50 µM) dose-dependently attenuated MyD88/NF-κB p65 activation and IL-6 secretion, and prevented LPS-induced inflammation in mice by suppressing CD14 expression.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32457419",
+  "quote": "These changes were dose-dependently attenuated by pretreatment baicalin (12.5-50 μM), but not by baicalin post-treatment.",
+  "strength": "animal",
+  "theme": "longevity",
+  "id": 189,
+  "quote_verified": true
+ },
+ {
+  "claim": "In hyperuricemic nephropathy mice and MSU-treated HK-2 cells, baicalin and baicalein both bound PI3K, AKT, p65 and IκBα in molecular docking, reduced p-PI3K, p-AKT and p-p65, and blunted TNF-α, IL-1β and IL-18 expression.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36974463",
+  "quote": "RESULTS: Molecular docking results showed that BA and BAI had good binding ability with PI3K, AKT, p65 and IκBα.",
+  "strength": "animal",
+  "theme": "longevity",
+  "id": 186,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalin (125 µM in C2C12 cells; supplementation in mice and piglets) directly bound and activated p38 MAPK, activating the p38MAPK/PGC-1α pathway and shifting skeletal muscle fibers from glycolytic toward oxidative with increased mitochondrial complex expression.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40103396",
+  "quote": "Mechanistic studies revealed that baicalin, as a small molecule, could target and bind to the p38 MAPK protein, increase its expression and phosphorylation levels, and activate the p38 MAPK/PGC-1α signaling pathway.",
+  "strength": "animal",
+  "theme": "longevity",
+  "id": 191,
+  "quote_verified": true
+ },
+ {
+  "claim": "In rotenone-induced Parkinsonian rats, baicalein attenuated behavioral impairment and dopaminergic neuron depletion while restoring mitochondrial function and mitochondrial biogenesis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28855526",
+  "quote": "Furthermore, in rotenone-induced parkinsonian rats, baicalein treatment effectively restored mitochondrial function and improved mitobiogenesis, as determined by measuring the mitochondrial density and key regulators involved in mitobiogenesis.",
+  "strength": "animal",
+  "theme": "longevity",
+  "id": 176,
+  "quote_verified": true
+ },
+ {
+  "claim": "In vitro, wogonin from S. baicalensis reversibly and competitively inhibited human MAO-A and MAO-B with IC50 values of 6.35 and 20.8 µM (Ki 0.56 and 1.96 µM), while baicalein selectively and moderately inhibited MAO-A.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28109809",
+  "quote": "Wogonin (11) effectively inhibited MAO-A and MAO-B (IC50=6.35 and 20.8μM, respectively).",
+  "strength": "in-vitro",
+  "theme": "longevity",
+  "id": 196,
+  "quote_verified": true
+ },
+ {
+  "claim": "Against human recombinant MAO-B in vitro, baicalin inhibited with an IC50 of 6.262 µM and baicalein with an IC50 of 21.01 µM (the latter closely aligning with a previously reported 22.1 µM).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983",
+  "quote": "We observed that baicalin and baicalein showed potential MAO‐B inhibition effects with IC50 values of 6.262 and 21.01 μM, respectively (Figure [3B](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0003)).",
+  "strength": "in-vitro",
+  "theme": "longevity",
+  "id": 185,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalein inhibited BACE1 with an IC50 of 23.71 ± 1.91 µM and acetylcholinesterase with 45.95 ± 3.44 µM in vitro, with molecular docking consistent with the enzyme-kinetic results.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31703329",
+  "quote": "Baicalein exhibited strong BACE1 and AChE inhibitory properties (IC50 23.71 ± 1.91 µM and 45.95 ± 3.44 µM, respectively) and reacted in non-competitive and competitive manners with substrates, respectively. in Silico docking analysis was in full agreement with the in vitro results, demonstrating that the compound exhibited powerful binding interaction with target enzymes.",
+  "strength": "in-vitro",
+  "theme": "longevity",
+  "id": 166,
+  "quote_verified": true
+ },
+ {
+  "claim": "In a 12-week randomized, double-blind, placebo-controlled trial of 374 patients with coexisting coronary artery disease and rheumatoid arthritis, oral baicalin 500 mg/day significantly improved triglycerides, LDL-cholesterol, cardiotrophin-1 and hs-CRP versus placebo.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29935544",
+  "quote": "RESULTS: After 12 week treatment, levels of triglycerides, total cholesterol, LDL-cholesterol and apolipoproteins, as well as CT-1 and hs-CRP, were all significantly improved in the baicalin group compared to the placebo group (1.12 ± 0.36 vs 1.87 ± 0.46 mmol/L, 2.87 ± 1.23 vs 3.22 ± 1.07 mmol/L, 1.38 ± 0.41 vs 1.16 ± 0.32 mmol/L, 1.31 ± 0.41 vs 1.23 ± 0.29 g/L, 42.9 ± 13.7 vs 128.4 ± 24.3 ng/mL, 1.64 ± 0.38 vs 3.9 ± 1.4 mg/dL, respectively).",
+  "strength": "human",
+  "theme": "longevity",
+  "id": 187,
+  "quote_verified": true
+ },
+ {
+  "claim": "In healthy Chinese volunteers, multiple-ascending-dose oral baicalein (200-800 mg/day chewable tablets) was safe and well tolerated without serious accumulation, supporting clinical development for Parkinson's disease.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27352310",
+  "quote": "CONCLUSION: In dose range of 200-800 mg, multiple-dose oral baicalein administration was safe and well tolerated, dose proportionality was inconclusive, and no serious accumulation of baicalein was observed.",
+  "strength": "human",
+  "theme": "longevity",
+  "id": 38,
+  "quote_verified": true
+ },
+ {
+  "claim": "In a randomized crossover trial, type 2 diabetes patients already on metformin received additional S. baicalensis (3.52 g/day, 8 weeks), which the authors conclude may improve glucose tolerance and inflammation with gut-microbiota shifts (Lactobacillus, Akkermansia), though some subjects showed elevated liver enzymes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31770016",
+  "quote": "These results suggest that SB with metformin treatment may improve the glucose tolerance and inflammation and influence the gut microbiota community in T2D.",
+  "strength": "human",
+  "theme": "longevity",
+  "id": 195,
+  "quote_verified": true
+ },
+ {
+  "claim": "In wild-type Caenorhabditis elegans, baicalein extended mean, median and maximum lifespan by 45%, 57% and 24%, respectively, attributed to activation of the Nrf2/SKN-1 signaling pathway.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23339711",
+  "quote": "Lifespan analysis revealed that baicalein extends the mean, median, and maximum lifespans of the nematode by 45, 57 and 24%, respectively.",
+  "strength": "animal",
+  "theme": "senescence",
+  "id": 200,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalein dose-dependently prolongs C. elegans lifespan and enhances resistance to thermal and sodium arsenite stress via the Nrf2 homolog SKN-1, not DAF-16, since baicalein still induces longevity in a DAF-16 loss-of-function strain.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27370100",
+  "quote": "baicalein enhances the resistance of C. elegans against lethal thermal and sodium arsenite stress and dose-dependently prolongs the life span of the nematode.",
+  "strength": "animal",
+  "theme": "senescence",
+  "id": 203,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalein prolonged C. elegans lifespan by up to 18.6% in a manner dependent on the SKN-1/Nrf2 pathway, and microarray analysis showed baicalein downregulates age-related genes including mTOR and PARP.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33809299",
+  "quote": "The results showed that chrysin, 6-hydroxyflavone and baicalein prolonged C. elegans' lifespan by up to 8.5%, 11.8% and 18.6%, respectively.",
+  "strength": "animal",
+  "theme": "senescence",
+  "id": 212,
+  "quote_verified": true
+ },
+ {
+  "claim": "In wild-type N2 C. elegans maintained on 100 µM baicalein (0.1% DMSO vehicle on NGM/OP50), baicalein extended median lifespan to 22 days versus 20 days in controls across three independent experiments, improved motility and oxidative stress resistance, and reduced lipofuscin, acting through suppression of DAF-2-mediated insulin/IGF-1 signaling, DAF-16 nuclear translocation, and sod-3 upregulation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41415716",
+  "quote": "extended the median lifespan of wild‐type N2 _C. elegans_ to 22 days (vs. 20 days in controls)",
+  "strength": "animal",
+  "theme": "senescence",
+  "id": 167,
+  "quote_verified": true,
+  "quote_source_file": "/home/walker/projects/scutellaria-research/research/senescence/pages/baicalein-elegans-healthspan-2025.txt"
+ },
+ {
+  "claim": "Baicalein enhanced C. elegans lifespan via the ELT-3 and SKN-1 transcription factors after downregulating Wnt ligands and upregulating ELT-3 and the antiaging gene Klotho, while protection against external oxidative stress involved ELT-3 and DAF-16.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37463652",
+  "quote": "it was observed that BAI could enhance the worm's lifespan via ELT-3 and SKN-1 transcription factors",
+  "strength": "animal",
+  "theme": "senescence",
+  "id": 218,
+  "quote_verified": true
+ },
+ {
+  "claim": "In female Drosophila melanogaster, baicalein at 0.04 and 0.2 mg/mL extended mean and maximum lifespan in a natural aging model and reduced oxidative-stress damage in H2O2- and paraquat-induced aging models.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29924517",
+  "quote": "Baicalein at concentrations of 0.04 mg·m L-1 and 0.2 mg·m L-1 extended the mean and maximum lifespans in the natural aging model, and effectively reduced the damages of oxidative stress by H2O2 and paraquat.",
+  "strength": "animal",
+  "theme": "senescence",
+  "id": 209,
+  "quote_verified": true
+ },
+ {
+  "claim": "In Drosophila, Scutellaria lateriflora extracts improved age-related mobility (attributed mainly to baicalin) and sleep fragmentation (a wogonin mix), but neither the extracts nor the compounds extended lifespan.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41516334",
+  "quote": "the beneficial effects on mobility were mainly due to baicalin, whereas sleep was improved by a wogonin mix.",
+  "strength": "animal",
+  "theme": "senescence",
+  "id": 226,
+  "quote_verified": true
+ },
+ {
+  "claim": "In senescence-accelerated SAMP8 mice, baicalein ameliorated senescence status (grading score) and improved spatial learning, object recognition memory and olfactory memory while inhibiting cortical IL-6, IL-1β and TNF-α release.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29668250",
+  "quote": "treatment with baicalein ameliorated the senescence status of the SAMP8 mice, as manifested by reducing the grading score of senescence.",
+  "strength": "animal",
+  "theme": "senescence",
+  "id": 207,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalein improved learning and memory impairment in SAMP8 mice by preventing JAK2/STAT1 activation and decreasing Aβ1-42 and RAGE levels in the cortex.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31715136",
+  "quote": "Our results suggest that baicalein prevented the activation of JAK2/STAT1 signaling pathway and decreased the levels of Aβ1-42 and RAGE in the cortex of SAMP8 mice.",
+  "strength": "animal",
+  "theme": "senescence",
+  "id": 124,
+  "quote_verified": true
+ },
+ {
+  "claim": "In aged male Wistar rats, baicalein supplementation alleviated pro-oxidant markers, improved the antioxidant profile, and improved age-induced alterations in membrane transporters and eryptosis, supporting the authors' proposal of baicalein as a caloric restriction mimetic candidate.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35316094",
+  "quote": "Thus, Baicalein may be a potent CRM candidate for antiaging interventions.",
+  "strength": "animal",
+  "theme": "senescence",
+  "id": 169,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalein protected T98G human astrocyte cells and primary rat astrocytes from H2O2-induced damage, delaying senescence and inhibiting SASP secretion (IL-6, IL-8, TNF-α, CXCL1, MMP-1) via suppression of NF-κB and JAK2/STAT1 plus regulation of leucine metabolism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34152720",
+  "quote": "treatment with baicalein protects T98G cells from H2O2-induced damage, delays cell senescence, inhibits the secretion of SASP (IL-6, IL-8, TNF-α, CXCL1, and MMP-1), and inhibits SASP-related pathways NF-κB and JAK2/STAT1.",
+  "strength": "in-vitro",
+  "theme": "senescence",
+  "id": 213,
+  "quote_verified": true
+ },
+ {
+  "claim": "Of 17 flavonoids isolated from Scutellaria radix, five compounds — including oroxylin A and 2'-hydroxylated flavones, not baicalein or baicalin — potently reduced IL-6 and IL-8 production and SASP gene expression in bleomycin-induced senescent cells, and the strongest inhibitors acted by decreasing IκBζ and C/EBPβ without affecting BrdU uptake or senescence markers such as pRb and p21.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32554301",
+  "quote": "compounds 8 and 11, the strongest SASP inhibitors, decreased the expression of IκBζ and C/EBPβ protein without affecting either BrdU uptake or the expression of senescence markers, such as pRb and p21.",
+  "strength": "in-vitro",
+  "theme": "senescence",
+  "id": 211,
+  "quote_verified": true
+ },
+ {
+  "claim": "Oral administration of compound 8 (2',5,7-trihydroxyflavone) at 2 and 4 mg/kg/day for 10 days significantly inhibited SASP and IκBζ gene expression in the kidneys of 21-month-old rats.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32554301",
+  "quote": "the oral administration of compound 8 to aged rats at 2 and 4 mg/kg/day for 10 days significantly inhibited the gene expression of SASP and IκBζ in kidneys.",
+  "strength": "animal",
+  "theme": "senescence",
+  "id": 211,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalein (100 mg/kg/day oral) attenuated bleomycin-induced lung fibroblast senescence and fibrosis in ICR mice — reducing collagen deposition, p53, p21, p16, MCP-1, PAI-1, TNF-α, MMP-10 and MMP-12 — by restoring Sirt3 expression; Sirt3 silencing abolished the effect.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36815239",
+  "quote": "silencing of Sirt3 abolished the inhibitory role of baicalein against BLM-induced lung fibrosis, fibroblast senescence and activation of TGF-β1/Smad signalling pathway.",
+  "strength": "animal",
+  "theme": "senescence",
+  "id": 177,
+  "quote_verified": true,
+  "quote_source_file": "/home/walker/projects/scutellaria-research/research/longevity/pages/baicalein-senescence-fibrosis.txt"
+ },
+ {
+  "claim": "Wogonin protected against bleomycin-induced pulmonary fibrosis in mice by inhibiting CDK9/p53-mediated cell senescence, attenuating γ-H2AX, phosphorylated p53, p21, pRB and SA-β-gal in lung tissue and in bleomycin- or H2O2-stimulated epithelial cells.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39040475",
+  "quote": "wogonin attenuated the expressions of DNA damage marker γ-H2AX and senescence-related markers including phosphorylated p53, p21, retinoblastoma protein (pRB), and senescence-associated β-galactosidase (SA-β-gal).",
+  "strength": "animal",
+  "theme": "senescence",
+  "id": 221,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalein induces — rather than delays — senescence in activated hepatic stellate cells, driving G1-phase cell cycle arrest through CEBPZ/p53/HK2-mediated glycolysis inhibition, and this pro-senescence effect attenuates CCl4-induced liver fibrosis in mice.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41075517",
+  "quote": "BA suppressed cellular activation while inducing senescence through G1-phase cell cycle arrest (P < 0.001) and glycolysis inhibition (lactate decreasing: P < 0.001).",
+  "strength": "animal",
+  "theme": "senescence",
+  "id": 225,
+  "quote_verified": true
+ },
+ {
+  "claim": "In human colon cancer, baicalein induced apoptosis whereas baicalin induced senescence, and baicalin-induced tumor-cell senescence was attributed to inhibition of telomerase reverse transcriptase expression, with both effects confirmed in mouse xenograft models.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29732005",
+  "quote": "baicalin-induced senescence in tumor cells is due to its inhibition of telomerase reverse transcriptase expression in tumor cells,",
+  "strength": "animal",
+  "theme": "senescence",
+  "id": 208,
+  "quote_verified": true
+ },
+ {
+  "claim": "Wogonin and aqueous Scutellaria baicalensis extract down-regulated telomerase activity in HL-60 leukemia cells through inhibition of hTERT, hTP1 and c-myc mRNA expression, and baicalin/wogonoside convert to baicalein/wogonin after beta-glucuronidase treatment.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19577445",
+  "quote": "treatment of HL-60 cells with wogonin or S. baicalensis led to the inhibition of human telomerase reverse transcriptase (hTERT), human telomerase-associated protein 1 (hTP1) and c-myc messenger ribonucleic acid (m-RNA) expression.",
+  "strength": "in-vitro",
+  "theme": "senescence",
+  "id": 199,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalein has been identified only by in silico screening — comparing fingerprints of 40,383 natural and semi-synthetic products against reference senolytics — as one of six potential senolytic candidates; no experimental senolytic validation has been published.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36278464",
+  "quote": "Six drug-like candidates (3,4'-dihydroxypropiophenone, baicalein, α, β-dehydrocurvularin, lovastatin, luteolin, and phloretin) were identified.",
+  "strength": "in-silico",
+  "theme": "senescence",
+  "id": 217,
+  "quote_verified": true
+ },
+ {
+  "claim": "Wogonin ameliorated osteoarthritis in destabilization-of-medial-meniscus mice and IL-1β-induced C28/I2 chondrocytes, retarding SA-β-gal, SASP, γ-H2A.X, p16, p21 and p53, with STAT3 identified as a direct target.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41722125",
+  "quote": "concomitantly retarded SA-β-gal, senescence-associated secretory phenotype (SASP), γ-H2A.X, P16, P21 and P53.",
+  "strength": "animal",
+  "theme": "senescence",
+  "id": 227,
+  "quote_verified": true
+ },
+ {
+  "claim": "In destabilization-of-medial-meniscus-induced osteoarthritis, intra-articular wogonin bound the histone demethylase LSD1/KDM1A, disrupting LSD1-mediated NF-κB p65 demethylation, suppressing M1 macrophage polarization, reducing serum IL-6, and improving cartilage integrity and subchondral bone.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40818185",
+  "quote": "wogonin bound lysine-specific histone demethylase 1A (LSD1/KDM1A), suppressing LPS-induced M1 polarization, while increasing CD163+ M2 macrophages in OA joints.",
+  "strength": "animal",
+  "theme": "senescence",
+  "id": 155,
+  "quote_verified": true,
+  "quote_source_file": "/home/walker/projects/scutellaria-research/research/epigenetics/pages/wogonin-modulates-macrophage-polarization-inflammatory-signaling-2025.txt"
+ },
+ {
+  "claim": "Topical baicalin reduced UVB-induced epidermal thickening and raised collagen I/III with lower MMP-1/MMP-3 in mouse skin, and in UVB-irradiated human dermal fibroblasts baicalin decreased SA-β-gal expression, G1 arrest, p16, p21, p53 and γ-H2AX.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24949843",
+  "quote": "the irradiated fibroblasts additionally treated with baicalin demonstrated a decrease in the expression of SA-β-gal, a increase in the cell viability, a decrease in the G1 phase cell proportion, a downregulation in the level of senescence-associated and γ-H2AX proteins.",
+  "strength": "animal",
+  "theme": "senescence",
+  "id": 201,
+  "quote_verified": true
+ },
+ {
+  "claim": "In ovariectomized estrogen-deficient Sprague-Dawley rats, oral baicalein (10 mg/kg for 13 weeks) showed no musculoskeletal benefit, and combined baicalein plus zileuton induced even more bone loss than ovariectomy alone.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34354672",
+  "quote": "Oral administration of Baicalein did not confirm the reported favorable cortical effects in neither vertebra nor femur.",
+  "strength": "animal",
+  "theme": "senescence",
+  "id": 214,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalein promoted ferroptosis of activated hepatic stellate cells by targeting DNMT1, which methylates the SCARA5 promoter CpG island, thereby derepressing SCARA5 and suppressing GPX4.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41270385",
+  "quote": "The SCARA5 promoter harbored a CpG island, and its methylation was facilitated by DNMT1, which could be targeted by baicalein.",
+  "strength": "in-vitro",
+  "theme": "senescence",
+  "id": 157,
+  "quote_verified": true
+ },
+ {
+  "claim": "In a 1-month double-blind randomized pilot study, 103 subjects with moderate knee osteoarthritis received flavocoxid (a proprietary baicalin plus catechin mixture, 500 mg twice daily) or naproxen (500 mg twice daily), and flavocoxid was as effective as naproxen in controlling the signs and symptoms of knee osteoarthritis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19555810",
+  "quote": "flavocoxid was as effective as naproxen in controlling the signs and symptoms of OA of the knee",
+  "strength": "human",
+  "theme": "senescence",
+  "id": 198,
+  "quote_verified": true
+ },
+ {
+  "claim": "In a 12-week randomized multicenter double-blind trial in 220 subjects with moderate-to-severe knee osteoarthritis, flavocoxid 500 mg twice daily was as effective as naproxen 500 mg twice daily, with no statistically significant efficacy differences in the intent-to-treat population.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/20845002",
+  "quote": "There were no statistically significant differences in efficacy between the flavocoxid and naproxen groups when the entire intent-to-treat population was analyzed.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 241,
+  "quote_verified": true
+ },
+ {
+  "claim": "The flavocoxid group had significantly fewer upper gastrointestinal and renal (edema) adverse events than the naproxen group in the 220-subject knee osteoarthritis trial.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/20845002",
+  "quote": "The flavocoxid group had significantly fewer upper gastrointestinal (UGI) and renal (edema) adverse events (AEs) as well as a strong trend toward fewer respiratory AEs.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 241,
+  "quote_verified": true
+ },
+ {
+  "claim": "In a one-month randomized double-blind pilot study, 103 subjects with moderate knee osteoarthritis received flavocoxid or naproxen 500 mg twice daily, and there were no statistically detectable between-group differences in any outcome variable.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19555810",
+  "quote": "There were no statistically detectable differences between the flavocoxid and naproxen groups with respect to any of the outcome variables.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 198,
+  "quote_verified": true,
+  "quote_source_file": "/home/walker/projects/scutellaria-research/research/senescence/pages/flavocoxid-naproxen-oa-rct-2009.txt"
+ },
+ {
+  "claim": "In a 12-week randomized double-blind placebo-controlled trial in 59 patients with moderate knee osteoarthritis, flavocoxid 250 mg twice daily produced no intra- or inter-group differences in any laboratory parameter versus placebo.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19857081",
+  "quote": "There were no intra- or inter-group differences in any of the laboratory parameters from study baseline to completion.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 238,
+  "quote_verified": true
+ },
+ {
+  "claim": "Flavocoxid did not increase bleeding times or inhibit platelet aggregation in healthy volunteers and did not inhibit or potentiate the anticoagulant effect of warfarin in warfarinized osteoarthritis patients.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/20556559",
+  "quote": "Finally, flavocoxid did not inhibit or potentiate the anticoagulant effect of warfarin.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 242,
+  "quote_verified": true
+ },
+ {
+  "claim": "In the open-label multicenter post-marketing GOAL study, 1067 patients at 41 rheumatology practices took flavocoxid 500 mg twice daily for 60 days, and completers' physician-assessed disease VAS improved from 60.1 at baseline to 42.5 at 8 weeks with an approximately 10 percent adverse-event incidence.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/20225990",
+  "quote": "RESULTS: Of the 1005 patients who completed all follow-up visits, physicians recorded an average improvement in VAS scores from 60.1 +/- 18.8 at baseline to 42.5 +/- 21.9 at 8 weeks (p < 0.001) in 65.8% of patients.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 244,
+  "quote_verified": true
+ },
+ {
+  "claim": "In a US claims-data cohort of 3337 flavocoxid initiators propensity-matched 1:2 to 6674 prescription NSAID users, hospitalized liver injury rates were 3.2 versus 2.4 per 1000 person-years (adjusted HR 1.16, 95% CI 0.23-6.01) and flavocoxid users had a significantly lower risk of hospitalized gastrointestinal bleeding.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32305527",
+  "quote": "Flavocoxid users had a significantly lower risk for hospitalized GI bleeding.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 210,
+  "quote_verified": true,
+  "quote_source_file": "/home/walker/projects/scutellaria-research/research/senescence/pages/flavocoxid-nsaid-safety-oa-2020.txt"
+ },
+ {
+  "claim": "In a phase 1/2 study, 17 boys with Duchenne muscular dystrophy took oral flavocoxid 250 or 500 mg for one year with good tolerability and no dropouts, and add-on flavocoxid significantly reduced serum IL-1 beta and TNF-alpha.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33467104",
+  "quote": "The treatment was well tolerated and nobody dropped out.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 239,
+  "quote_verified": true
+ },
+ {
+  "claim": "In a randomized triple-blind placebo-controlled trial in 50 healthy adults aged 40-80 years, 56 days of supplementation with the Scutellaria baicalensis and Acacia catechu blend UP446 increased total IgA and IgG after influenza vaccination.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36413261",
+  "quote": "RESULTS: In the post-vaccination period, total IgA and IgG levels increased in participants supplemented with UP446 vs.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 87,
+  "quote_verified": true,
+  "quote_source_file": "/home/walker/projects/scutellaria-research/research/clinical/pages/up446-flu-vaccine-rct.txt"
+ },
+ {
+  "claim": "In a 2025 randomized double-blind placebo-controlled trial in 85 healthy adults, four weeks of an Acacia catechu and Scutellaria baicalensis blend (UP326) enhanced cognitive function over time but with no difference from placebo.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39701593",
+  "quote": "DISCUSSION: Four-week daily TP supplementation significantly enhanced cognitive function without difference from placebo.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 86,
+  "quote_verified": true,
+  "quote_source_file": "/home/walker/projects/scutellaria-research/research/clinical/pages/up446-cognition-rct.txt"
+ },
+ {
+  "claim": "The Drug-Induced Liver Injury Network case series described four adults with acute hepatocellular liver injury within 1-3 months of starting flavocoxid, all recovering after cessation, and concluded that flavocoxid can cause clinically significant liver injury.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22711078",
+  "quote": "CONCLUSION: Flavocoxid can cause clinically significant liver injury, which seems to resolve within weeks after cessation.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 240,
+  "quote_verified": true
+ },
+ {
+  "claim": "In an uncontrolled monitoring study, 17 patients took 1335 mg of dried Scutellaria baicalensis root daily for an average of 444 days with no significant changes in ALT, AST, alkaline phosphatase, or bilirubin, the longest documented single-herb human exposure.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31557595",
+  "quote": "ssays of alanine transaminase, aspartate transaminase, alkaline phosphatase and bilirubin were carried out in 17 patients (16 female) of average age 38.6 (standard error 4.4) years who had each taken 1335 mg dried root daily for an average of 444 (71) days.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 249,
+  "quote_verified": true
+ },
+ {
+  "claim": "A six-month randomized double-blind placebo-controlled trial in 85 children with asthma receiving a five-herb formula containing Radix scutellariae (CUF2) found no significant benefit over placebo and provided no evidence to support its use.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19821718",
+  "quote": "CONCLUSIONS: This study provides no evidence to support the use of the herbal formula of CUF2 in children with asthma.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 237,
+  "quote_verified": true
+ },
+ {
+  "claim": "In a 12-week randomized double-blind placebo-controlled trial, 374 patients with coexisting coronary artery disease and rheumatoid arthritis received baicalin 500 mg daily, with a significantly higher good or moderate EULAR response rate (71% versus 53%) and improved hs-CRP and lipids versus placebo.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29935544",
+  "quote": "Significantly higher proportion of patients in the baicalin group (71%) reported good/moderate EULAR response than the placebo group (53%).",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 187,
+  "quote_verified": true
+ },
+ {
+  "claim": "In a crossover trial in metformin-treated type 2 diabetes patients, adding 3.52 g per day of Scutellaria baicalensis for 8 weeks improved glucose tolerance and reduced TNF-alpha expression versus placebo.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31770016",
+  "quote": "Glucose tolerance was lower in the SB group than the placebo group.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 195,
+  "quote_verified": true,
+  "quote_source_file": "/home/walker/projects/scutellaria-research/research/longevity/pages/scutellaria-metformin-human.txt"
+ },
+ {
+  "claim": "In the same type 2 diabetes crossover trial, Scutellaria baicalensis treatment produced remarkable increases in gut Lactobacillus and Akkermansia, and some subjects developed high liver enzyme levels during treatment.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31770016",
+  "quote": "SB treatment influenced the gut microbiota, especially Lactobacillus and Akkermansia, which showed remarkable increases after SB treatment.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 195,
+  "quote_verified": true,
+  "quote_source_file": "/home/walker/projects/scutellaria-research/research/longevity/pages/scutellaria-metformin-human.txt"
+ },
+ {
+  "claim": "In 110 fixed-orthodontic patients randomized to a compound Scutellaria baicalensis gargle or saline gargle for three months, plaque index, probing depth, and bleeding index were significantly lower in the Scutellaria gargle group.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39183390",
+  "quote": "Results: The detection levels of PLI, PD, and sBI in the experimental group were lower than those in the control group (P < .05) 3 months after orthodontic surgery (P < .05); after orthodontic correction for 3 months, there was a significant difference in coccus, bacillus, Campylobacter, Clostridium, Helicobacter, and filamentous bacteria between",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 248,
+  "quote_verified": true
+ },
+ {
+  "claim": "In a 21-day experimental gingivitis model in 40 subjects, a toothpaste containing Scutellaria baicalensis extract significantly reduced gingival index, plaque development, and vital flora compared with placebo.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/20936314",
+  "quote": "The results suggest that the new toothpaste formulation was able to significantly reduce the extent of gingivitis, plaque development, and vital flora.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 251,
+  "quote_verified": true
+ },
+ {
+  "claim": "A phase I single-ascending-dose trial found single oral doses of baicalein from 100 to 2800 mg safe and well tolerated in 72 healthy subjects, with less than 1 percent urinary clearance and about 27 percent eliminated unchanged in feces.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25219601",
+  "quote": "CONCLUSIONS: Single oral doses of 100-2800 mg of baicalein were safe and well tolerated by healthy subjects.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 228,
+  "quote_verified": true
+ },
+ {
+  "claim": "In a multiple-ascending-dose phase I study of baicalein chewable tablets (200-800 mg) in healthy Chinese volunteers, steady-state plasma concentrations were achieved by day 8 with accumulation indices of 1.66 to 2.45 and no serious accumulation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27352310",
+  "quote": "A steady-state concentration of analytes in plasma was achieved on day 8 after repeated dosing.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 38,
+  "quote_verified": true,
+  "quote_source_file": "/home/walker/projects/scutellaria-research/research/longevity/pages/baicalein-pk-human.txt"
+ },
+ {
+  "claim": "In a phase I study, single oral doses of baicalein tablets (200-800 mg) in healthy Chinese subjects produced Cmax values of roughly 280-845 ng/mL with terminal half-lives of 7.8-14.9 hours and less-than-dose-proportional exposure.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33753147",
+  "quote": "After a single administration of baicalein tablets (200 mg, 400 mg, 600 mg, or 800 mg), Cmax were 280.44, 628.80, 845.20, 489.55 ng/mL; AUC0-∞ were 2035.57, 2939.31, 4494.88, and 3754.43 h*ng/mL, respectively.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 37,
+  "quote_verified": true
+ },
+ {
+  "claim": "A 2026 phase I study of purified oroxylin A tablets (400-2400 mg) in Chinese healthy volunteers found no dose-limiting toxicity, approximately dose-proportional Cmax, moderate accumulation (1.51-1.73-fold), and a 1.6-fold higher Cmax with a high-fat meal.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40903694",
+  "quote": "The Cmax of OA approximately increased in dose-proportional manner (Cmax slope 1.114), and the AUC0-t increased less than dose increasing (AUC0-t slope 0.7513).",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 246,
+  "quote_verified": true
+ },
+ {
+  "claim": "After oral Sho-saiko-to in 14 healthy male volunteers, baicalein 6-O-sulfate was identified as a baicalin metabolite in human plasma, and plasma baicalin concentrations showed secondary peaks at 12 and 24 hours.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/9549431",
+  "quote": "BG was detected after 1 h, reached a maximum level at 5 h and then decreased to the level less than the quantitative limit after 36 h, and the plasma level of BG showed two peaks at 12 h and 24 h.",
+  "strength": "human",
+  "theme": "clinical",
+  "id": 229,
+  "quote_verified": true
+ },
+ {
+  "claim": "In an in vitro colon model seeded with microbiota from healthy volunteers, baicalin was metabolized to baicalein only when microbiota were present, confirming that colonic beta-glucuronidases hydrolyze baicalin to its aglycone.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39152558",
+  "quote": "Enzymes of the colonic microbiota, namely β-glucuronidases, hydrolyze baicalin to the aglycone baicalein.",
+  "strength": "in-vitro",
+  "theme": "clinical",
+  "id": 235,
+  "quote_verified": true
+ },
+ {
+  "claim": "In mice, all six Scutellariae Radix flavones tested (baicalein, wogonin, oroxylin A and their glucuronides baicalin, wogonoside, oroxyloside) crossed the blood-brain barrier, with oroxylin A showing the highest brain uptake.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28426226",
+  "quote": "Our results indicated that all six SR flavones including three aglycons (baicalein, wogonin, and oroxylin A) and three glucuronides (baicalin, wogonoside, and oroxyloside) could pass through the blood-brain barrier, with brain concentrations ranging from 7.9 to 224.0 pmol/g.",
+  "strength": "animal",
+  "theme": "clinical",
+  "id": 243,
+  "quote_verified": true
+ },
+ {
+  "claim": "Four cases of acute liver injury among 877 patients in the DILIN prospective study were attributed to flavocoxid (Limbrel), a baicalin-catechin prescription medical food for osteoarthritis, all recovering after cessation.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458",
+  "quote": "Among 877 patients enrolled in the DILIN Prospective Study, 4 were attributed to flavocoxid.",
+  "strength": "human",
+  "theme": "safety",
+  "id": 256,
+  "quote_verified": true
+ },
+ {
+  "claim": "The primary ingredients of flavocoxid are baicalin and catechins concentrated and standardized to greater than 90% purity, linking the DILI signal to a concentrated flavonoid pair rather than to whole Scutellaria baicalensis root.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458",
+  "quote": "The primary ingredients of flavocoxid are baicalin and catechins which are concentrated and standardized to greater than 90% purity.",
+  "strength": "human",
+  "theme": "safety",
+  "id": 256,
+  "quote_verified": true
+ },
+ {
+  "claim": "FDA received 194 adverse event reports associated with Limbrel products between January 2007 and November 2017, identified a close relationship with drug-induced liver injury, pancreatitis, and hypersensitivity pneumonitis, and requested a recall of all lots in December 2017.",
+  "url": "https://www.fda.gov/media/109965/download",
+  "quote": "Between January 1, 2007, and November 9, 2017, FDA received 194 adverse event reports associated with the use of Limbrel products. The adverse event reports identified a close relationship between the use of Limbrel and adverse events involving the development of drug-induced liver injury (DILI), pancreatitis, and hypersensitivity pneumonitis (HP).",
+  "strength": "review",
+  "theme": "safety",
+  "id": 258,
+  "quote_verified": true
+ },
+ {
+  "claim": "In a US claims cohort of 3,337 new flavocoxid users and 6,674 matched NSAID users, hospitalized liver injury occurred at 3.2 versus 2.4 per 1,000 person-years (adjusted HR 1.16, 95% CI 0.23-6.01), a low and statistically indistinguishable rate.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32305527",
+  "quote": "For hospitalized liver injury, it was 3.2 (95% CI 0.7-9.3) for flavocoxid and 2.4 (95% CI 0.7-6.1) for NSAIDs, aHR = 1.16, 95% CI 0.23-6.01.",
+  "strength": "human",
+  "theme": "safety",
+  "id": 210,
+  "quote_verified": true,
+  "quote_source_file": "/home/walker/projects/scutellaria-research/research/senescence/pages/flavocoxid-nsaid-safety-oa-2020.txt"
+ },
+ {
+  "claim": "LiverTox states that skullcap has been implicated in rare instances of clinically apparent liver injury but that in most cases multiple herbal medications were being taken, and that in some instances phytochemical analysis identified germander adulterants or mislabeling.",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK548757",
+  "quote": "Skullcap has been implicated in rare instances of clinically apparent liver injury, although in most cases multiple herbal medications were being taken and the role of skullcap in the hepatic damage was unclear.",
+  "strength": "review",
+  "theme": "safety",
+  "id": 64,
+  "quote_verified": true
+ },
+ {
+  "claim": "Published analytical methods document Teucrium chamaedrys (germander) as a potential adulterant detectable in Scutellaria baicalensis raw material and extracts at levels as low as 0.5% (w/w).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19610368",
+  "quote": "The method is sensitive and can detect T. chamaedrys at levels as low as 0.5% (w/w).",
+  "strength": "in-vitro",
+  "theme": "safety",
+  "id": 82,
+  "quote_verified": true,
+  "quote_source_file": "/home/walker/projects/scutellaria-research/research/phytochemistry/pages/hong-2009-teucrium-adulterant-detection.txt"
+ },
+ {
+  "claim": "Hepatotoxicity case reports implicate Chinese skullcap in multi-ingredient US joint supplements, including two Move Free Advanced cases scored probable on the Naranjo scale and a 2012 case with an inadvertent positive rechallenge.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/20586134",
+  "quote": "Use of the Naranjo adverse drug reaction probability scale indicated a probable relationship (score of 6 for both patients) between the patients' development of hepatotoxicity and the Move Free Advanced supplement.",
+  "strength": "human",
+  "theme": "safety",
+  "id": 264,
+  "quote_verified": true
+ },
+ {
+  "claim": "A Japanese case report documents recurrent drug-induced liver injury after incidental readministration of two different Kampo formulas (shosaikoto and saikokeishikankyoto), both containing Scutellariae Radix.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29434136",
+  "quote": "Both shosaikoto and saikokeishikankyoto contain Scutellariae Radix. This case is thought to be one of recurrent drug-induced liver injury caused by the incidental readministration of a Kampo formula containing Scutellariae Radix.",
+  "strength": "human",
+  "theme": "safety",
+  "id": 263,
+  "quote_verified": true
+ },
+ {
+  "claim": "A large Chinese multicenter study estimated a confirmed SBG-DILI incidence of 0.095% (72 of 75,564 outpatients), with risk significantly increased above 10 g/day (adjusted OR 2.210) and the ABCB1 rs2032582 C/C genotype overrepresented among cases (58.3% vs 16.3% of controls).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42665171",
+  "quote": "the confirmed clinical incidence of SBG-DILI was 0.095% (72/75,564).",
+  "strength": "human",
+  "theme": "safety",
+  "id": 261,
+  "quote_verified": true
+ },
+ {
+  "claim": "In a small uncontrolled series, 17 patients supplemented with 1,335 mg dried S. baicalensis root daily for an average of 444 days showed no significant change in ALT, AST, alkaline phosphatase, or bilirubin.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31557595",
+  "quote": "Pre- and post-supplementation serum assays of alanine transaminase, aspartate transaminase, alkaline phosphatase and bilirubin were carried out in 17 patients (16 female) of average age 38.6 (standard error 4.4) years who had each taken 1335 mg dried root daily for an average of 444 (71) days.",
+  "strength": "human",
+  "theme": "safety",
+  "id": 249,
+  "quote_verified": true,
+  "quote_source_file": "/home/walker/projects/scutellaria-research/research/clinical/pages/sb-hepatic-function-study.txt"
+ },
+ {
+  "claim": "A GLP-compliant 26-week repeated-dose rat study of S. baicalensis root extract found no mortality, no target organ of toxicity, a NOEL of 1,000 mg/kg/day, and a NOAEL of 2,000 mg/kg/day, with an acute minimum lethal dose above 5,000 mg/kg.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42931707",
+  "quote": "The no-observed-effect level and no-observed-adverse-effect level were 1000 and 2000 mg/kg/day, respectively, and no target organ of toxicity was identified.",
+  "strength": "animal",
+  "theme": "safety",
+  "id": 267,
+  "quote_verified": true
+ },
+ {
+  "claim": "The 2,000 mg/kg/day NOAEL corresponds to roughly 75 g/day of raw Scutellariae Radix for a 60-kg adult, approximately 7.5-25 times the 3-10 g daily raw-material dose described in the Chinese Pharmacopoeia.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419",
+  "quote": "This raw-material-equivalent amount is approximately 7.5–25 times the daily raw-material dose of 3–10 g described in the Chinese Pharmacopoeia.",
+  "strength": "animal",
+  "theme": "safety",
+  "id": 45,
+  "quote_verified": true
+ },
+ {
+  "claim": "A 2024 systematic review and meta-analysis of 936 herb-induced liver injury cases reported a 14.2% mortality rate among published skullcap-HILI cases, with occasional transplantation, although publication bias favoring severe outcomes was noted.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10941739",
+  "quote": "reveals a considerable mortality rate of 14.2% was described, and in some severe cases, liver transplantation was necessary, potentially influenced by publication bias favoring the reporting of more severe outcomes.",
+  "strength": "review",
+  "theme": "safety",
+  "id": 260,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalin is hepatoprotective in classic injury models: 300 mg/kg given 0.5 h after acetaminophen significantly prevented hepatic necrosis and reduced mortality from 43% to 0% in mice.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/14686800",
+  "quote": "Treatment with BA (300 mg/kg, p.o.) 0.5 h after AP administration significantly prevented an increase in plasma alanine aminotransferase and aspartate aminotransferase activities and AP-induced hepatic necrosis, and also reduced AP-induced mortality from 43% to 0%.",
+  "strength": "animal",
+  "theme": "safety",
+  "id": 269,
+  "quote_verified": true
+ },
+ {
+  "claim": "In a randomized crossover study in 18 healthy volunteers, baicalin 50 mg three times daily for 14 days reduced rosuvastatin AUC(0-72) by 47.0% in OATP1B1*1b/*1b homozygotes, with smaller reductions in other haplotypes — a documented transporter-mediated herb-drug interaction in humans.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17851565",
+  "quote": "After baicalin treatment, the area under the plasma concentration-time curve (AUC)(0-72) and AUC(0-infinity) of rosuvastatin decreased by 47.0+/-11.0% (P=0.001) and 41.9+/-7.19% (P=0.001) in OATP1B1*1b/*1b,",
+  "strength": "human",
+  "theme": "safety",
+  "id": 271,
+  "quote_verified": true
+ },
+ {
+  "claim": "In the only human cyclosporine interaction study, a single 500 mg baicalin dose had no clinically significant effect on cyclosporine A pharmacokinetics in 16 healthy volunteers and both treatments were well tolerated.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31156436",
+  "quote": "No clinically relevant effect of 500 mg BG co-administration on CsA pharmacokinetics was identified and both treatments were well tolerated.",
+  "strength": "human",
+  "theme": "safety",
+  "id": 232,
+  "quote_verified": true
+ },
+ {
+  "claim": "In rats, coadministration of Scutellariae Radix decoction at 1-2 g/kg significantly decreased oral cyclosporine Cmax by 62.9-79.6% and AUC by 55.2-82.0%, and the authors advise avoiding coadministration with oral cyclosporine.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/14994190",
+  "quote": "coadministration of SR decoction at doses of 1 g/kg and 2 g/kg significantly decreased the C (max) of cyclosporine by 62.9 % and 79.6 % and reduced the AUC (0 - 540) by 55.2 % and 82.0 %, respectively.",
+  "strength": "animal",
+  "theme": "safety",
+  "id": 272,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalein and wogonin are among flavones shown to competitively inhibit CYP2C9-mediated diclofenac 4-prime hydroxylation with Ki values at or below 2.2 microM, a mechanistic basis for interactions with narrow-therapeutic-index substrates.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19074529",
+  "quote": "This article describes an in vitro investigation of the inhibition of cytochrome P450 (P450) 2C9 by a series of flavonoids made up of flavones (flavone, 6-hydroxyflavone, 7-hydroxyflavone, chrysin, baicalein, apigenin, luteolin, scutellarein, and wogonin) and flavonols (galangin, fisetin, kaempferol, morin, and quercetin). With the exception of flavone, all flavonoids were shown to inhibit CYP2C9-mediated diclofenac 4'-hydroxylation in the CYP2C9 RECO system, with K(i) value <or= 2.2 microM.",
+  "strength": "in-vitro",
+  "theme": "safety",
+  "id": 275,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalein inhibits CYP3A4 with an IC50 of 12.03 uM and raised simvastatin AUC about three-fold in rats, prompting a recommendation for dose adjustment on coadministration.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34214011",
+  "quote": "Baicalein showed an inhibitory effect on the activity of CYP3A4 with the IC50 value of 12.03 μM, which is responsible for the metabolism of simvastatin.",
+  "strength": "animal",
+  "theme": "safety",
+  "id": 276,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalin exhibits antiplatelet, anticoagulant, and profibrinolytic activities, inhibiting thrombin-catalyzed fibrin polymerization, platelet function, and thrombin/FXa activities, and prolonging in vivo bleeding time in mice.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24849036",
+  "quote": "Our data showed that baicalin inhibited thrombin-catalyzed fibrin polymerization and platelet functions, prolonged aPTT and PT significantly and inhibited the activities and production of thrombin and FXa.",
+  "strength": "in-vitro",
+  "theme": "safety",
+  "id": 279,
+  "quote_verified": true
+ },
+ {
+  "claim": "Wogonin inhibits human MAO-A and MAO-B in vitro (IC50 6.35 and 20.8 uM, respectively) while baicalein selectively and moderately inhibits MAO-A — in vitro enzymology with no clinical MAO-inhibitor-type interaction data.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28109809",
+  "quote": "Wogonin (11) effectively inhibited MAO-A and MAO-B (IC50=6.35 and 20.8μM, respectively).",
+  "strength": "in-vitro",
+  "theme": "safety",
+  "id": 196,
+  "quote_verified": true
+ },
+ {
+  "claim": "Baicalein significantly reduces blood glucose in alloxan-diabetic rats, warranting awareness of potential hypoglycemic additivity with antidiabetic drugs despite the absence of clinical reports.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42170474",
+  "quote": "TXN and BCN significantly reduced blood glucose levels, improved lipid profiles, and decreased oxidative stress in diabetic rats.",
+  "strength": "animal",
+  "theme": "safety",
+  "id": 282,
+  "quote_verified": true
+ },
+ {
+  "claim": "Classic developmental-toxicity studies found a significant dose-dependent increase in fetal skeletal variations (lumbar rib) in rats given Scutellariae Radix water extract during organogenesis, although follow-up work characterized the lumbar rib as a transient fetal variation at 100-fold typical human intake.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/8448419",
+  "quote": "There was a significant (P < 0.05) dose-dependent increase in the incidence of skeletal variations (presence of lumbar rib).",
+  "strength": "animal",
+  "theme": "safety",
+  "id": 284,
+  "quote_verified": true
+ },
+ {
+  "claim": "A UPLC-MS/MS survey of 386 Chinese Pharmacopoeia herbal medicines detected pyrrolizidine alkaloids in 271 samples (0.1-25,567.4 ug/kg), with 20 samples above the 0.007 ug/kg bw/day baseline and 10 with lifetime MOE below 10,000.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276",
+  "quote": "Results showed that PAs was detected in 271 out of 386 samples with a content of 0.1–25,567.4 μg/kg, and there were 20 samples with EDI values above the baseline, 0.007 μg/kg bw/day.",
+  "strength": "in-vitro",
+  "theme": "safety",
+  "id": 287,
+  "quote_verified": true
+ },
+ {
+  "claim": "Scutellaria barbata was among the PA-positive herbs in that survey (total PAs 61.7 ug/kg; EDI 0.026 ug/kg bw/day at the 30 g/day pharmacopoeial maximum; lifetime MOE 8,958; two-weeks-per-year MOE 232,918), whereas Scutellaria baicalensis is not among the herbs named in the publication.",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276",
+  "quote": "HM-11 | _Scutellaria barbata_ | 5 (LyNO, Ly, ImNO) | 61.7 | 30 | 1.8 | 0.026 | 8958.3 | 232,917.5",
+  "strength": "in-vitro",
+  "theme": "safety",
+  "id": 287,
+  "quote_verified": true
+ }
+]

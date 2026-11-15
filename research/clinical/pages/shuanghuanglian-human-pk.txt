@@ -1,0 +1,12 @@
+PMID: 35713475
+Title: Qualitative and quantitative determination of the primary active components and metabolites in human plasma after oral administration of Shuanghuanglian liquid.
+Authors: Zhang, Shengman, Liu, Ying, Peng, Ni, Chen, Xiaoyan
+Journal: Journal of separation science
+ISOAbbrev: J Sep Sci
+Year: 2022
+Volume: 45  Issue: 15  Pages: 2956-2967
+DOI: 10.1002/jssc.202200121
+URL: https://pubmed.ncbi.nlm.nih.gov/35713475/
+Fetched: 2026-11-14 via NCBI E-utilities (efetch db=pubmed)
+--- Abstract ---
+Shuanghuanglian oral liquid is a common traditional Chinese medicine used to treat respiratory tract infections. Its major components are baicalin, chlorogenic acid, and forsythin. In this study, the main drug-related components in human plasma after oral administration of Shuanghuanglian were initially identified using ultra-performance liquid chromatography-ultraviolet detector/quadrupole time-of-flight mass spectrometry. Thirteen components from baicalin were identified, including the parent drug baicalin and aglycone baicalein. Only one metabolite related to chlorogenic acid, a sulfate conjugate formed after hydrolysis, and one metabolite related to forsythin, a sulfate conjugate of forsythin aglycone, were detected. Subsequently, a liquid chromatography-tandem mass spectrometry method was established and validated to simultaneously determine baicalin and baicalein, the primary active components. After simple protein precipitation, the analytes were separated on a BEH C18 column using a 5 min-gradient elution to avoid interference from baicalin isomers and their in-source dissociation. Excellent linearity was observed over the concentration ranges of 5.00-2000 ng/ml for baicalin and 1.00-100 ng/ml for baicalein. The validated method was successfully applied to a pharmacokinetic study of an oral administration of 60 ml Shuanghuanglian in healthy subjects. This study provided a foundation to investigate the clinical efficacy and safety of Shuanghuanglian further.

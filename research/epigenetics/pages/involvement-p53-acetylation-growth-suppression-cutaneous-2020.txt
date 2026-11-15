@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/32119867/
+TITLE: Involvement of p53 Acetylation in Growth Suppression of Cutaneous T-Cell Lymphomas Induced by HDAC Inhibition.
+AUTHORS: Xiaoxuan Yu; Hui Li; Mengyuan Zhu; Po Hu; Xiao Liu; Yingjie Qing; Xiangyuan Wang; Hongzheng Wang
+JOURNAL: The Journal of investigative dermatology
+YEAR: 2020
+VOL_PAGES: 140; 2009-2022.e4
+DOI: 10.1016/j.jid.2019.12.041
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Cutaneous T-cell lymphomas (CTCLs) represent a rare form of non-Hodgkin lymphomas characterized by an accumulation of malignant CD4+ T cells in the skin. TP53 genetic alteration is one of the most prevalent genetic abnormalities in CTCLs. Therefore, it is a promising target for innovative therapeutic approaches. We found that p53 could physically interact with histone deacetylase (HDAC) 1 and HDAC8, and was subsequently deacetylated to lose its function in CTCL cells, and the p53 downstream apoptosis-associated genes were repressed. Thus, the anti-CTCL activity displayed by HDAC inhibitors depends on p53 status. However, recent studies have reported that HDAC inhibitors could induce a wide variety of drug-resistant characteristics in cancer cells by regulating ATP-binding cassette transporters. Moreover, we discovered that Baicalein, a natural product, exhibited an inhibitory effect on HDAC1 and HDAC8. Though the inhibition of HDAC1 was mild, Baicalein could induce the degradation of HDAC1 through the ubiquitin proteasome pathway, thereby markedly upregulating the acetylation of histone H3 without promoting ATP-binding cassette transporter gene expression. In terms of the mechanism, Baicalein showed better growth inhibition than traditional HDAC inhibitors in CTCLs. This study indicates a special mechanism of HDAC1 and HDAC8 and p53 in T-cell lymphoma cells and identifies a potential and safe natural HDAC inhibitor for the treatment of CTCLs.

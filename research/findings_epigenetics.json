@@ -1,0 +1,1121 @@
+{
+ "sources": [
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11331078/",
+   "title": "Wogonin, baicalin, and baicalein inhibition of inducible nitric oxide synthase and cyclooxygenase-2 gene expressions induced by nitric oxide synthase inhibitors and lipopolysaccharide.",
+   "authors": "Y C Chen; S C Shen; L G Chen; T J Lee; L L Yang",
+   "year": "2001",
+   "journal_or_publisher": "Biochemical pharmacology",
+   "vol_pages": "61; 1417-27",
+   "doi": "10.1016/s0006-2952(01)00594-9",
+   "pmid": "11331078",
+   "page_file": "research/epigenetics/pages/wogonin-baicalin-baicalein-inhibition-inducible-nitric-2001.txt",
+   "quotes": [
+    "Wogonin, but not baicalin or baicalein, similarly inhibited PGE2 production and COX-2 protein expression in NLA/LPS or L-NAME/LPS-co-treated RAW 264.7 cells.",
+    "The results indicated that these three polyphenolic compounds inhibited LPS-induced NO production in a concentration-dependent manner without a notable cytotoxic effect on these cells."
+   ],
+   "notes": "RAW 264.7 macrophages; seminal 2001 anchor: baicalein/baicalin/wogonin all inhibit iNOS gene expression; only wogonin additionally inhibits COX-2 gene expression.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11513834/",
+   "title": "Baicalein induces a dual growth arrest by modulating multiple cell cycle regulatory molecules.",
+   "authors": "S L Hsu; Y C Hsieh; W C Hsieh; C J Chou",
+   "year": "2001",
+   "journal_or_publisher": "European journal of pharmacology",
+   "vol_pages": "425; 165-71",
+   "doi": "10.1016/s0014-2999(01)01144-x",
+   "pmid": "11513834",
+   "page_file": "research/epigenetics/pages/baicalein-induces-dual-growth-arrest-modulating-2001.txt",
+   "quotes": [
+    "These results suggest that baicalein inhibits the proliferation of rat heart endothelial cells via G1 and G2 arrest in association with the down-regulation of the expression and function of Cdk1, Cdk2, cyclin D2 and cyclin A proteins, and up-regulation of cyclin E, p15(Ink4B), p53 and p21(CIP1/Waf1)."
+   ],
+   "notes": "Primary cultured rat heart endothelial cells (2001); baicalein up-regulated p15(Ink4B), p21(CIP1/Waf1), p53 and cyclin E at protein level; gene-expression (not epigenetic) anchor.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21659383/",
+   "title": "Baicalein potently suppresses angiogenesis induced by vascular endothelial growth factor through the p53/Rb signaling pathway leading to G1/S cell cycle arrest.",
+   "authors": "Yun Ling; Yan Chen; Pu Chen; Hui Hui; Xiuming Song; Zhijian Lu; Chenglin Li; Na Lu",
+   "year": "2011",
+   "journal_or_publisher": "Experimental biology and medicine (Maywood, N.J.)",
+   "vol_pages": "236; 851-8",
+   "doi": "10.1258/ebm.2011.010395",
+   "pmid": "21659383",
+   "page_file": "research/epigenetics/pages/baicalein-potently-suppresses-angiogenesis-vascular-endothelial-2011.txt",
+   "quotes": [
+    "In contrast, several proteins upstream of cdks and cyclins, including p16, p21, p27 and p53, were up-regulated by baicalein, indicating that baicalein may inhibit angiogenesis, at least in part, by effects on the p53/Rb signaling pathway."
+   ],
+   "notes": "HUVECs; p16 (and p21/p27/p53) protein up-regulated by baicalein WITHOUT any promoter-demethylation mechanism shown; documents that the p16-re-expression-via-demethylation hint is NOT verified epigenetically.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22095555/",
+   "title": "Rosmarinic acid and baicalin epigenetically derepress peroxisomal proliferator-activated receptor γ in hepatic stellate cells for their antifibrotic effect.",
+   "authors": "Melissa D Yang; Yi-Ming Chiang; Reiichi Higashiyama; Kinji Asahina; Derek A Mann; Jelena Mann; Clay C C Wang; Hidekazu Tsukamoto",
+   "year": "2012",
+   "journal_or_publisher": "Hepatology (Baltimore, Md.)",
+   "vol_pages": "55; 1271-81",
+   "doi": "10.1002/hep.24792",
+   "pmid": "22095555",
+   "page_file": "research/epigenetics/pages/rosmarinic-acid-baicalin-epigenetically-derepress-peroxisomal-2012.txt",
+   "quotes": [
+    "Here we demonstrate YGW prevents and reverses HSC activation by way of epigenetic derepression of Pparγ involving reductions in MeCP2 expression and its recruitment to Pparγ promoter, suppressed expression of PRC2 methyltransferase EZH2, and consequent reduction of H2K27di-methylation at the 3' exon."
+   ],
+   "notes": "Non-malignant hepatic stellate cells; baicalin tested WITH rosmarinic acid (Yang-Gan-Wan herbal formula), not as a single constituent; MeCP2/EZH2/H3K27 dimethylation readouts; in vivo fibrosis reversal shown for rosmarinic acid alone.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22114686/",
+   "title": "FDA-approved drugs that protect mammalian neurons from glucose toxicity slow aging dependent on cbp and protect against proteotoxicity.",
+   "authors": "Alex Lublin; Fumiko Isoda; Harshil Patel; Kelvin Yen; Linda Nguyen; Daher Hajje; Marc Schwartz; Charles Mobbs",
+   "year": "2011",
+   "journal_or_publisher": "PloS one",
+   "vol_pages": "6; e27762",
+   "doi": "10.1371/journal.pone.0027762",
+   "pmid": "22114686",
+   "page_file": "research/epigenetics/pages/fda-approved-drugs-protect-mammalian-neurons-glucose-2011.txt",
+   "quotes": [
+    "These protective effects were blocked by RNAi inhibition of cbp-1 in adults only, which also blocks protective effects of dietary restriction.",
+    "Subsequent screening demonstrated that 6 of these 30 drugs increase lifespan in C. elegans: caffeine, ciclopirox olamine, tannic acid, acetaminophen, bacitracin, and baicalein."
+   ],
+   "notes": "C. elegans lifespan experiment; baicalein one of six screened drugs that extended lifespan; effects of all six were blocked by cbp-1 RNAi (CBP/p300 ortholog); invertebrate in vivo longevity endpoint.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22265932/",
+   "title": "Gene expression profiling and pathway network analysis of hepatic metabolic enzymes targeted by baicalein.",
+   "authors": "Si Qin; Jihua Chen; Shunsuke Tanigawa; De-Xing Hou",
+   "year": "2012",
+   "journal_or_publisher": "Journal of ethnopharmacology",
+   "vol_pages": "140; 131-40",
+   "doi": "10.1016/j.jep.2011.12.046",
+   "pmid": "22265932",
+   "page_file": "research/epigenetics/pages/gene-expression-profiling-pathway-network-analysis-2012.txt",
+   "quotes": [
+    "Moreover, the ARE-reporter gene assay demonstrated that baicalein stimulated Nrf2-mediated ARE transactivation."
+   ],
+   "notes": "HepG2 cells; Affymetrix 42K microarray; Nrf2/ARE pathway top hit; confirmed by qPCR, Western blot and ARE-luciferase reporter.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23523661/",
+   "title": "Baicalein attenuates bleomycin-induced pulmonary fibrosis in rats through inhibition of miR-21.",
+   "authors": "Yan Gao; Jia Lu; Yu Zhang; Yafen Chen; Zhenlun Gu; Xiaogang Jiang",
+   "year": "2013",
+   "journal_or_publisher": "Pulmonary pharmacology & therapeutics",
+   "vol_pages": "26; 649-54",
+   "doi": "10.1016/j.pupt.2013.03.006",
+   "pmid": "23523661",
+   "page_file": "research/epigenetics/pages/baicalein-attenuates-bleomycin-induced-pulmonary-fibrosis-rats-2013.txt",
+   "quotes": [
+    "Baicalein remarkably decreased miR-21 levels and inhibited the increased expression of TGF-β1 and p-Smad-2/3 in bleomycin-treated rats."
+   ],
+   "notes": "In vivo rat bleomycin pulmonary fibrosis; oral baicalein 50-100 mg/kg, days 1-28.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23554741/",
+   "title": "Baicalin modulates microRNA expression in UVB irradiated mouse skin.",
+   "authors": "Yang Xu; Bingrong Zhou; Di Wu; Zhiqiang Yin; Dan Luo",
+   "year": "2012",
+   "journal_or_publisher": "Journal of biomedical research",
+   "vol_pages": "26; 125-34",
+   "doi": "10.1016/S1674-8301(12)60022-0",
+   "pmid": "23554741",
+   "page_file": "research/epigenetics/pages/baicalin-modulates-microrna-expression-uvb-irradiated-2012.txt",
+   "quotes": [
+    "Three miRNAs (mmu-miR-378, mmu-miR-199a-3p and mmu-miR-181b) were downregulated and one (mmu-miR-23a) was upregulated in baicalin treated mice compared with UVB irradiated mice, and they were predicted to be related to DNA repair signaling pathway."
+   ],
+   "notes": "UVB-irradiated mouse skin in vivo; baicalin shifted miRNA profiles (miR-199a-3p/miR-181b/miR-378 down, miR-23a up) predicted to relate to DNA repair; cutaneous photo-damage context.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24265759/",
+   "title": "Wogonin has multiple anti-cancer effects by regulating c-Myc/SKP2/Fbw7α and HDAC1/HDAC2 pathways and inducing apoptosis in human lung adenocarcinoma cell line A549.",
+   "authors": "Xin-mei Chen; Yang Bai; Yu-jian Zhong; Xiao-lin Xie; Han-wu Long; Yu-yin Yang; Shi-gen Wu; Qiang Jia",
+   "year": "2013",
+   "journal_or_publisher": "PloS one",
+   "vol_pages": "8; e79201",
+   "doi": "10.1371/journal.pone.0079201",
+   "pmid": "24265759",
+   "page_file": "research/epigenetics/pages/wogonin-has-multiple-anti-cancer-effects-regulating-2013.txt",
+   "quotes": [
+    "The present results suggest that wogonin has multiple anti-cancer effects associated with degradation of c-Myc, SKP2, HDAC1 and HDAC2."
+   ],
+   "notes": "A549 lung adenocarcinoma cells; protein-level decreases in HDAC1/HDAC2 (and c-Myc/SKP2); no enzymatic IC50 reported.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24893986/",
+   "title": "Inhibitory effect of baicalin on collagen-induced arthritis in rats through the nuclear factor-κB pathway.",
+   "authors": "Hong-Zhi Wang; Hai-He Wang; Shi-Shun Huang; Hong Zhao; Yong-Gang Cao; Guang-Zhi Wang; Dong Wang; Zhi-Gang Wang",
+   "year": "2014",
+   "journal_or_publisher": "The Journal of pharmacology and experimental therapeutics",
+   "vol_pages": "350; 435-43",
+   "doi": "10.1124/jpet.114.215145",
+   "pmid": "24893986",
+   "page_file": "research/epigenetics/pages/inhibitory-effect-baicalin-collagen-induced-arthritis-rats-2014.txt",
+   "quotes": [
+    "Moreover, the acetylation of NF-κB p65 was downregulated by baicalin, which negatively correlates with the baicalin-induced upregulation of sirt1 expression in the same conditions."
+   ],
+   "notes": "Collagen-induced arthritis rats in vivo + human RA fibroblast-like synoviocytes; baicalin-driven sirt1 up-regulation associated with p65 deacetylation.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26885187/",
+   "title": "Baicaleininhibits VSMCs proliferation via regulating LncRNAAK021954 gene expression.",
+   "authors": "Yan Zhang; Guangtao Ma; Chenlong Li; Zhenyu Cao; Fuzhong Qie; Xinmiao Xu",
+   "year": "2015",
+   "journal_or_publisher": "International journal of clinical and experimental medicine",
+   "vol_pages": "8; 22129-38",
+   "doi": "",
+   "pmid": "26885187",
+   "page_file": "research/epigenetics/pages/baicaleininhibits-vsmcs-proliferation-regulating-lncrnaak021954-gene-2015.txt",
+   "quotes": [
+    "Microarray analysis showed that long non-coding RNA (lncRNA) AK021954 gene expression was significantly increased in the baicalein treated group compared with the control group."
+   ],
+   "notes": "Vascular smooth muscle cells (non-cancer); microarray showed baicalein increased lncRNA AK021954; anti-proliferative; atherosclerosis context.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27143122/",
+   "title": "Modulation of the Nrf2 signalling pathway in Hct116 colon carcinoma cells by baicalein and its methylated derivative negletein.",
+   "authors": "Susannah Havermann; Yvonni Chovolou; Hans-Ulrich Humpf; Wim Wätjen",
+   "year": "2016",
+   "journal_or_publisher": "Pharmaceutical biology",
+   "vol_pages": "54; 1491-502",
+   "doi": "10.3109/13880209.2015.1104703",
+   "pmid": "27143122",
+   "page_file": "research/epigenetics/pages/modulation-nrf2-signalling-pathway-hct116-colon-2016.txt",
+   "quotes": [
+    "No change in the ubiquitinylation of Nrf2, proteasomal activity and transcription of the NRF2 gene were detectable.",
+    "Baicalein decreased the phosphorylation of Nrf2 (IC50-value approximately 20 μM) suggesting an inhibitory effect of the flavonoid on protein kinases."
+   ],
+   "notes": "Hct116 cells; baicalein activates Nrf2 via decreased Nrf2 phosphorylation (kinase inhibition) with no change in NRF2 gene transcription, ubiquitinylation or proteasomal activity - a negative finding relevant to the NRF2-promoter-demethylation hint.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27814566/",
+   "title": "Baicalin, a natural LSD1 inhibitor.",
+   "authors": "Yi-Chao Zheng; Dan-Dan Shen; Meng Ren; Xue-Qi Liu; Zhi-Ru Wang; Ying Liu; Qian-Na Zhang; Li-Juan Zhao",
+   "year": "2016",
+   "journal_or_publisher": "Bioorganic chemistry",
+   "vol_pages": "69; 129-131",
+   "doi": "10.1016/j.bioorg.2016.10.004",
+   "pmid": "27814566",
+   "page_file": "research/epigenetics/pages/baicalin-natural-lsd1-inhibitor-2016.txt",
+   "quotes": [
+    "In our study, baicalin was first characterized as a LSD1 inhibitor with an IC50 of 3.01μM and showed strong LSD1 inhibitory effect in cells."
+   ],
+   "notes": "Biochemical LSD1 enzymatic assay (IC50 3.01 uM) plus cellular LSD1 inhibition; short communication characterizing baicalin as an LSD1 inhibitor.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28222771/",
+   "title": "Wogonin as a targeted therapeutic agent for EBV (+) lymphoma cells involved in LMP1/NF-κB/miR-155/PU.1 pathway.",
+   "authors": "Xue Wu; Ping Liu; Haijun Zhang; Yuan Li; Jumah Masoud Mohammad Salmani; Fei Wang; Ke Yang; Rong Fu",
+   "year": "2017",
+   "journal_or_publisher": "BMC cancer",
+   "vol_pages": "17; 147",
+   "doi": "10.1186/s12885-017-3145-4",
+   "pmid": "28222771",
+   "page_file": "research/epigenetics/pages/wogonin-targeted-therapeutic-agent-ebv-lymphoma-2017.txt",
+   "quotes": [
+    "In vitro, wogonin induced the apoptosis of Raji cells by downregulating the expression of NF-κB through LMP1/miR-155/NF-κB/PU.1 pathway, which was in a dose and time-dependent manner."
+   ],
+   "notes": "EBV+ Raji lymphoma cells + xenografts; wogonin acts via the LMP1/miR-155/NF-kB/PU.1 pathway (miR-155 down-regulation).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28351032/",
+   "title": "Baicalein, a Natural Anti-Cancer Compound, Alters MicroRNA Expression Profiles in Bel-7402 Human Hepatocellular Carcinoma Cells.",
+   "authors": "Beibei Bie; Jin Sun; Jun Li; Ying Guo; Wei Jiang; Chen Huang; Jun Yang; Zongfang Li",
+   "year": "2017",
+   "journal_or_publisher": "Cellular physiology and biochemistry : international journal of experimental cellular physiology, biochemistry, and pharmacology",
+   "vol_pages": "41; 1519-1531",
+   "doi": "10.1159/000470815",
+   "pmid": "28351032",
+   "page_file": "research/epigenetics/pages/baicalein-natural-anti-cancer-compound-alters-microrna-2017.txt",
+   "quotes": [
+    "Putative target genes for differentially expressed miRNAs could be enriched in terms of cell proliferation regulation, cell cycle arrest and were mainly involved in MAPK, PI3K-Akt, Wnt, Hippo and mTOR signaling pathways."
+   ],
+   "notes": "Bel-7402 and Hep3B HCC cells; miRNA microarray plus qRT-PCR validation; miR-3127-5p gain-of-function.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29392841/",
+   "title": "Baicalein inhibits cell growth and increases cisplatin sensitivity of A549 and H460 cells via miR-424-3p and targeting PTEN/PI3K/Akt pathway.",
+   "authors": "Chunya Lu; Huaqi Wang; Shanshan Chen; Rui Yang; Hui Li; Guojun Zhang",
+   "year": "2018",
+   "journal_or_publisher": "Journal of cellular and molecular medicine",
+   "vol_pages": "22; 2478-2487",
+   "doi": "10.1111/jcmm.13556",
+   "pmid": "29392841",
+   "page_file": "research/epigenetics/pages/baicalein-inhibits-cell-growth-increases-cisplatin-2018.txt",
+   "quotes": [
+    "Taken together, we concluded that baicalein inhibits cell growth and increases cisplatin sensitivity to A549 and H460 cells via down-regulation of miR-424-3p and targeting the PTEN/PI3K/Akt pathway."
+   ],
+   "notes": "A549/H460 NSCLC cells + normal NHBE comparator; baicalein down-regulates miR-424-3p, up-regulating its validated target PTEN.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30201452/",
+   "title": "Baicalein represses TGF-β1-induced fibroblast differentiation through the inhibition of miR-21.",
+   "authors": "Xinjian Cui; Xionghua Sun; Fanqing Lu; Xiaogang Jiang",
+   "year": "2018",
+   "journal_or_publisher": "Toxicology and applied pharmacology",
+   "vol_pages": "358; 35-42",
+   "doi": "10.1016/j.taap.2018.09.007",
+   "pmid": "30201452",
+   "page_file": "research/epigenetics/pages/baicalein-represses-tgf--1-induced-fibroblast-differentiation-2018.txt",
+   "quotes": [
+    "Baicalein diminished the expression of miR-21, and miR-21 mimics partially antagonized the effects of baicalein."
+   ],
+   "notes": "Human lung fibroblasts (non-cancer); baicalein suppresses miR-21 via its transcription factor STAT3; Spry1 (miR-21 target) rescued.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30848526/",
+   "title": "Baicalin reverse depressive-like behaviors through regulation SIRT1-NF-kB signaling pathway in olfactory bulbectomized rats.",
+   "authors": "Haiyang Yu; Fangfang Zhang; Xidong Guan",
+   "year": "2019",
+   "journal_or_publisher": "Phytotherapy research : PTR",
+   "vol_pages": "33; 1480-1489",
+   "doi": "10.1002/ptr.6340",
+   "pmid": "30848526",
+   "page_file": "research/epigenetics/pages/baicalin-reverse-depressive-like-behaviors-through-regulation-2019.txt",
+   "quotes": [
+    "Moreover, in lipopolysaccharides-induced BV-2 cells, the levels of inflammatory factors (IL-1β), p65 acetylation at lysine 310, and SIRT1 expression were different in the group treated with both baicalin and nicotinamide compared with the group treated with baicalin, which suggests that baicalin regulates SIRT1 and thereby inhibits p65 acetylation.",
+    "Furthermore, baicalin regulated Sirtuin 1 (SIRT1) and decreased the levels of p65 acetylation (ac-p65) in the hippocampus and hypothalamus."
+   ],
+   "notes": "Olfactory bulbectomized rats in vivo + LPS-stimulated BV-2 microglia; baicalin deacetylates p65 at Lys310 in a SIRT1-dependent manner.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31081145/",
+   "title": "Baicalein retards proliferation and collagen deposition by activating p38MAPK-JNK via microRNA-29.",
+   "authors": "Xiaoliang Yang; Chunyan Zhang; Jinjie Jiang; Yinghao Li",
+   "year": "2019",
+   "journal_or_publisher": "Journal of cellular biochemistry",
+   "vol_pages": "120; 15625-15634",
+   "doi": "10.1002/jcb.28829",
+   "pmid": "31081145",
+   "page_file": "research/epigenetics/pages/baicalein-retards-proliferation-collagen-deposition-activating-2019.txt",
+   "quotes": [
+    "Mechanically, BAI activates the p38MAPK/JNK pathway by promoting miR-29."
+   ],
+   "notes": "NIH-3T3 fibroblasts (non-cancer, scar model); baicalein up-regulates miR-29, activating p38MAPK/JNK and repressing collagen.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31715136/",
+   "title": "Integration of transcriptomics and network analysis deciphers the mechanisms of baicalein in improving learning and memory impairment in senescence-accelerated mouse prone 8 (SAMP8).",
+   "authors": "Jiaqi Li; Yuzhi Zhou; Guanhua Du; Xuemei Qin; Li Gao",
+   "year": "2019",
+   "journal_or_publisher": "European journal of pharmacology",
+   "vol_pages": "865; 172789",
+   "doi": "10.1016/j.ejphar.2019.172789",
+   "pmid": "31715136",
+   "page_file": "research/epigenetics/pages/integration-transcriptomics-network-analysis-deciphers-mechanisms-2019.txt",
+   "quotes": [
+    "Our results suggest that baicalein prevented the activation of JAK2/STAT1 signaling pathway and decreased the levels of Aβ1-42 and RAGE in the cortex of SAMP8 mice."
+   ],
+   "notes": "SAMP8 senescence-accelerated mice in vivo; aging-relevant whole-transcriptome study; JAK-STAT hub; cognitive endpoints.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31984561/",
+   "title": "Baicalin relieves lipopolysaccharide-evoked inflammatory injury through regulation of miR-21 in H9c2 cells.",
+   "authors": "Xiangyu Liu; Shengli Wang; Guoan Zhao",
+   "year": "2020",
+   "journal_or_publisher": "Phytotherapy research : PTR",
+   "vol_pages": "34; 1134-1141",
+   "doi": "10.1002/ptr.6583",
+   "pmid": "31984561",
+   "page_file": "research/epigenetics/pages/baicalin-relieves-lipopolysaccharide-evoked-inflammatory-injury-through-2020.txt",
+   "quotes": [
+    "Additionally, the enhanced expression of miR-21 triggered by LPS was further elevated by Baicalin."
+   ],
+   "notes": "H9c2 cardiomyoblasts; baicalin further ELEVATED LPS-induced miR-21 (anti-inflammatory via PDCD4) - opposite direction to baicalein's miR-21 suppression in fibrosis; context-dependence.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32119867/",
+   "title": "Involvement of p53 Acetylation in Growth Suppression of Cutaneous T-Cell Lymphomas Induced by HDAC Inhibition.",
+   "authors": "Xiaoxuan Yu; Hui Li; Mengyuan Zhu; Po Hu; Xiao Liu; Yingjie Qing; Xiangyuan Wang; Hongzheng Wang",
+   "year": "2020",
+   "journal_or_publisher": "The Journal of investigative dermatology",
+   "vol_pages": "140; 2009-2022.e4",
+   "doi": "10.1016/j.jid.2019.12.041",
+   "pmid": "32119867",
+   "page_file": "research/epigenetics/pages/involvement-p53-acetylation-growth-suppression-cutaneous-2020.txt",
+   "quotes": [
+    "Moreover, we discovered that Baicalein, a natural product, exhibited an inhibitory effect on HDAC1 and HDAC8."
+   ],
+   "notes": "Human cutaneous T-cell lymphoma cell lines; same group as PMID 32898337; p53 acetylation restored via HDAC8 inhibition.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32141657/",
+   "title": "Skullcapflavone I has a potent anti-pancreatic cancer activity by targeting miR-23a.",
+   "authors": "Jing Cui; Hao Li; Ying Wang; Tian Tian; Chao Liu; Yanan Wang; Shukai Sun; Baisui Feng",
+   "year": "2020",
+   "journal_or_publisher": "BioFactors (Oxford, England)",
+   "vol_pages": "46; 821-830",
+   "doi": "10.1002/biof.1621",
+   "pmid": "32141657",
+   "page_file": "research/epigenetics/pages/skullcapflavone-i-has-potent-anti-pancreatic-cancer-2020.txt",
+   "quotes": [
+    "MiR-23a, miR-21, and miR-155 were lowly expressed while miR-145 and miR-146a were highly expressed in SFI-treated cell."
+   ],
+   "notes": "Panc-1 cells; Skullcapflavone I (an additional S. baicalensis flavone) down-regulates miR-23a; also lowered miR-21/miR-155, raised miR-145/miR-146a.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32500512/",
+   "title": "Baicalin suppresses renal fibrosis through microRNA-124/TLR4/NF-κB axis in streptozotocin-induced diabetic nephropathy mice and high glucose-treated human proximal tubule epithelial cells.",
+   "authors": "Shefeng Zhang; Li Xu; Ruifeng Liang; Chenhua Yang; Peiren Wang",
+   "year": "2020",
+   "journal_or_publisher": "Journal of physiology and biochemistry",
+   "vol_pages": "76; 407-416",
+   "doi": "10.1007/s13105-020-00747-z",
+   "pmid": "32500512",
+   "page_file": "research/epigenetics/pages/baicalin-suppresses-renal-fibrosis-through-microrna-124-2020.txt",
+   "quotes": [
+    "Baicalin prevented renal fibrosis by increasing miR-124 and inactivating downstream TLR4/NF-κB pathway in DN, hinting the pivotal values of baicalin and miR-124 in the management of DN and renal fibrosis."
+   ],
+   "notes": "STZ diabetic nephropathy mice in vivo + HK-2 human proximal tubule cells; baicalin up-regulates miR-124 (validated TLR4 target), suppressing TLR4/NF-kB; non-cancer organ-protection miRNA evidence.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32519231/",
+   "title": "The effect of baicalin on microRNA expression profiles in porcine aortic vascular endothelial cells infected by Haemophilus parasuis.",
+   "authors": "Shulin Fu; Jun Liu; Jianfeng Xu; Sanling Zuo; Yunfei Zhang; Ling Guo; Yinsheng Qiu; Chun Ye",
+   "year": "2020",
+   "journal_or_publisher": "Molecular and cellular biochemistry",
+   "vol_pages": "472; 45-56",
+   "doi": "10.1007/s11010-020-03782-y",
+   "pmid": "32519231",
+   "page_file": "research/epigenetics/pages/effect-baicalin-microrna-expression-profiles-porcine-2020.txt",
+   "quotes": [
+    "In addition, when the PAVECs were pretreated with baicalin, mismatch repair, peroxisome, oxidative phosphorylation, DNA replication, and ABC transporters were the most predominant signaling pathways."
+   ],
+   "notes": "Porcine aortic vascular endothelial cells (normal primary cells); high-throughput sequencing of baicalin-shifted miRNA profiles; non-malignant normal-cell evidence.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32883110/",
+   "title": "SNHG1 represses the anti-cancer roles of baicalein in cervical cancer through regulating miR-3127-5p/FZD4/Wnt/β-catenin signaling.",
+   "authors": "Xiaolan Yu; Jiyi Xia; Yong Cao; Li Tang; Xiaoping Tang; Zhengyu Li",
+   "year": "2021",
+   "journal_or_publisher": "Experimental biology and medicine (Maywood, N.J.)",
+   "vol_pages": "246; 20-30",
+   "doi": "10.1177/1535370220955139",
+   "pmid": "32883110",
+   "page_file": "research/epigenetics/pages/snhg1-represses-anti-cancer-roles-baicalein-cervical-2021.txt",
+   "quotes": [
+    "Here, we provide convincing evidences that lncRNA SNHG1 attenuates the tumor-suppressive roles of baicalein in CC cell viability, apoptosis, migration, and CC tumor growth."
+   ],
+   "notes": "Cervical cancer cells; tumor-associated lncRNA SNHG1 attenuates baicalein's anti-cancer effect via miR-3127-5p/FZD4/Wnt/beta-catenin; ncRNA state determines drug response.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32898337/",
+   "title": "Natural HDAC-1/8 inhibitor baicalein exerts therapeutic effect in CBF-AML.",
+   "authors": "Xiaoxuan Yu; Hui Li; Po Hu; Yingjie Qing; Xiangyuan Wang; Mengyuan Zhu; Hongzheng Wang; Zhanyu Wang",
+   "year": "2020",
+   "journal_or_publisher": "Clinical and translational medicine",
+   "vol_pages": "10; e154",
+   "doi": "10.1002/ctm2.154",
+   "pmid": "32898337",
+   "page_file": "research/epigenetics/pages/natural-hdac-1-8-inhibitor-baicalein-exerts-2020.txt",
+   "quotes": [
+    "Baicalein showed HDAC-1/8 inhibition to trigger growth suppression and differentiation induction of AML cell lines and primary AML cells."
+   ],
+   "notes": "CBF-AML cell lines, primary AML cells, and NOD/SCID mouse model; HDAC enzyme activity assay; direct HDAC-1 inhibition described as mild, with ubiquitin-proteasome HDAC1 degradation.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33052070/",
+   "title": "Inhibition of miR-155 potentially protects against lipopolysaccharide-induced acute lung injury through the IRF2BP2-NFAT1 pathway.",
+   "authors": "Hsiao-Fen Li; Yueh-Lin Wu; Tzu-Ling Tseng; Shih-Wei Chao; Heng Lin; Hsi-Hsien Chen",
+   "year": "2020",
+   "journal_or_publisher": "American journal of physiology. Cell physiology",
+   "vol_pages": "319; C1070-C1081",
+   "doi": "10.1152/ajpcell.00116.2020",
+   "pmid": "33052070",
+   "page_file": "research/epigenetics/pages/inhibition-mir-155-potentially-protects-lipopolysaccharide-induced-acute-2020.txt",
+   "quotes": [
+    "An miR array screening and quantitative polymerase chain reaction identified that miR-155-5p could be a candidate regulated by OroA."
+   ],
+   "notes": "Oroxylin A; miR-array screening in LPS acute lung injury context; in vivo arm used shRNA-miR-155 delivery rather than oroxylin A dosing.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33511213/",
+   "title": "Functional lncRNA-miRNA-mRNA Networks in Response to Baicalein Treatment in Hepatocellular Carcinoma.",
+   "authors": "Xin Zhao; Dongyang Tang; Xiaofei Chen; Shaoqing Chen; Cheng Wang",
+   "year": "2021",
+   "journal_or_publisher": "BioMed research international",
+   "vol_pages": "2021; 8844261",
+   "doi": "10.1155/2021/8844261",
+   "pmid": "33511213",
+   "page_file": "research/epigenetics/pages/functional-lncrna-mirna-mrna-networks-response-baicalein-treatment-2021.txt",
+   "quotes": [
+    "Here, we identified 14 overlapping DELs and 26 overlapping DEMs in the baicalein treatment group than those in the DMSO treatment group."
+   ],
+   "notes": "In-silico reanalysis of public datasets GSE95504/GSE85511; lncRNA-miRNA-mRNA ceRNA networks after baicalein in HCC (hsa-miR-4443/AKT1 axis).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33831503/",
+   "title": "The flavonoid quercetin reduces cell migration and increases NIS and E-cadherin mRNA in the human thyroid cancer cell line BCPAP.",
+   "authors": "Carlos Frederico Lima Gonçalves; Fabio Hecht; Juliana Cazarin; Rodrigo Soares Fortunato; Mario Vaisman; Denise Pires de Carvalho; Andrea Claudia Freitas Ferreira",
+   "year": "2021",
+   "journal_or_publisher": "Molecular and cellular endocrinology",
+   "vol_pages": "529; 111266",
+   "doi": "10.1016/j.mce.2021.111266",
+   "pmid": "33831503",
+   "page_file": "research/epigenetics/pages/flavonoid-quercetin-reduces-cell-migration-increases-2021.txt",
+   "quotes": [
+    "Herein, we evaluated the effect of the flavonoid quercetin on EMT and NIS expression in BCPAP, a papillary thyroid carcinoma cell line."
+   ],
+   "notes": "The only PubMed hit for baicalein+NIS+thyroid searches is this QUERCETIN study in BCPAP cells (NIS mRNA up, no demethylation mechanism); documents the NIS hint as NOT FOUND for baicalein.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33838155/",
+   "title": "MiR-3663-3p participates in the anti-hepatocellular carcinoma proliferation activity of baicalein by targeting SH3GL1 and negatively regulating EGFR/ERK/NF-κB signaling.",
+   "authors": "Jing Tian; Jun Li; Beibei Bie; Jin Sun; Yanhua Mu; Mengjiao Shi; Shuqun Zhang; Guangyao Kong",
+   "year": "2021",
+   "journal_or_publisher": "Toxicology and applied pharmacology",
+   "vol_pages": "420; 115522",
+   "doi": "10.1016/j.taap.2021.115522",
+   "pmid": "33838155",
+   "page_file": "research/epigenetics/pages/mir-3663-3p-participates-anti-hepatocellular-carcinoma-proliferation-activity-2021.txt",
+   "quotes": [
+    "After baicalein treatment, miR-3663-3p expression was upregulated in HCC cells."
+   ],
+   "notes": "HCC cells + in vivo xenograft; baicalein up-regulates miR-3663-3p targeting SH3GL1, down-regulating EGFR/ERK/NF-kB.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33996574/",
+   "title": "Baicalein Induces Apoptosis of Pancreatic Cancer Cells by Regulating the Expression of miR-139-3p and miR-196b-5p.",
+   "authors": "Danhui Ma; Sinuo Chen; Heming Wang; Jiayi Wei; Hao Wu; Hong Gao; Xinlai Cheng; Taotao Liu",
+   "year": "2021",
+   "journal_or_publisher": "Frontiers in oncology",
+   "vol_pages": "11; 653061",
+   "doi": "10.3389/fonc.2021.653061",
+   "pmid": "33996574",
+   "page_file": "research/epigenetics/pages/baicalein-induces-apoptosis-pancreatic-cancer-cells-2021.txt",
+   "quotes": [
+    "Quantitative PCR analysis confirmed that miR-139-3p was the most up-regulated miRNA after baicalein treatment, while miR-196b-5p was the most down-regulated miRNA."
+   ],
+   "notes": "Panc-1 cells + in vivo xenograft; high-throughput miRNA sequencing; NOTE the isomiR reported is miR-139-3p (the hint said miR-139-5p); miR-196b-5p down-regulated.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34029124/",
+   "title": "Effect of Baicalin on Transcriptome Changes in Piglet Vascular Endothelial Cells Induced by a Combination of Glaesserella parasuis and Lipopolysaccharide.",
+   "authors": "Shulin Fu; Qingyan Meng; Dan Zhang; Sanling Zuo; Jing He; Ling Guo; Yinsheng Qiu; Chun Ye",
+   "year": "2021",
+   "journal_or_publisher": "DNA and cell biology",
+   "vol_pages": "40; 776-790",
+   "doi": "10.1089/dna.2020.6442",
+   "pmid": "34029124",
+   "page_file": "research/epigenetics/pages/effect-baicalin-transcriptome-changes-piglet-vascular-2021.txt",
+   "quotes": [
+    "parasuis and LPS, whereas 107 lncRNAs and 936 genes were differentially expressed when PAVECs were stimulated with the combination of G. parasuis and LPS after pretreatment with baicalin."
+   ],
+   "notes": "Piglet aortic vascular endothelial cells; baicalin pretreatment changed 107 lncRNAs and 936 genes under bacterial+LPS stimulation; normal-cell lncRNA/mRNA transcriptomics.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34337018/",
+   "title": "Systematic Understanding of the Mechanism of Baicalin against Gastric Cancer Using Transcriptome Analysis.",
+   "authors": "Wenqu Zhou; Mi Gao; Chunxiao Liang; Biting Lin; Qinghua Wu; Ruikun Chen; Xiaoxiao Xiong; Xing Chen",
+   "year": "2021",
+   "journal_or_publisher": "BioMed research international",
+   "vol_pages": "2021; 5521058",
+   "doi": "10.1155/2021/5521058",
+   "pmid": "34337018",
+   "page_file": "research/epigenetics/pages/systematic-understanding-mechanism-baicalin-gastric-cancer-2021.txt",
+   "quotes": [
+    "A total of 68 lncRNAs, 20 miRNAs, and 1648 mRNAs were differentially expressed in baicalin-treated SGC-7901 GC cells."
+   ],
+   "notes": "SGC-7901 gastric cancer cells RNA-seq; 68 lncRNAs, 20 miRNAs, 1648 mRNAs differentially expressed after baicalin; p53 pathway dominant; ceRNA network validated.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35955525/",
+   "title": "Regulation of Cell Signaling Pathways and Non-Coding RNAs by Baicalein in Different Cancers.",
+   "authors": "Ammad Ahmad Farooqi; Gulnara Kapanova; Sundetgali Kalmakhanov; Gulnur Tanbayeva; Kairat S Zhakipbekov; Venera S Rakhmetova; Marat K Syzdykbayev",
+   "year": "2022",
+   "journal_or_publisher": "International journal of molecular sciences",
+   "vol_pages": "23",
+   "doi": "10.3390/ijms23158377",
+   "pmid": "35955525",
+   "page_file": "research/epigenetics/pages/regulation-cell-signaling-pathways-non-coding-rnas-2022.txt",
+   "quotes": [
+    "We also critically analyze how baicalein regulates non-coding RNAs (microRNAs and long non-coding RNAs) in different cancers."
+   ],
+   "notes": "2022 review: baicalein regulation of non-coding RNAs (microRNAs and lncRNAs) and signaling pathways across cancers.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36401368/",
+   "title": "Baicalin suppresses the migration and invasion of breast cancer cells via the TGF-β/lncRNA-MALAT1/miR-200c signaling pathway.",
+   "authors": "Jiafeng Li; Huixin Liu; Qiwang Lin; Huajiao Chen; Liya Liu; Hongjuan Liao; Ying Cheng; Xiuli Zhang",
+   "year": "2022",
+   "journal_or_publisher": "Medicine",
+   "vol_pages": "101; e29328",
+   "doi": "10.1097/MD.0000000000029328",
+   "pmid": "36401368",
+   "page_file": "research/epigenetics/pages/baicalin-suppresses-migration-invasion-breast-cancer-2022.txt",
+   "quotes": [
+    "Additionally, baicalin treatment significantly downregulated the expression of lncRNA-MALAT1 and upregulated that of miR-200c."
+   ],
+   "notes": "Breast cancer cell lines; TGF-beta/lncRNA-MALAT1/miR-200c EMT axis; baicalin down-regulates MALAT1.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36599649/",
+   "title": "Baicalin Blocks Colon Cancer Cell Cycle and Inhibits Cell Proliferation through miR-139-3p Upregulation by Targeting CDK16.",
+   "authors": "Rong Cai; Yan-Ping Zhou; Yun-Hai Li; Jin-Jin Zhang; Zuo-Wei Hu",
+   "year": "2023",
+   "journal_or_publisher": "The American journal of Chinese medicine",
+   "vol_pages": "51; 189-203",
+   "doi": "10.1142/S0192415X23500118",
+   "pmid": "36599649",
+   "page_file": "research/epigenetics/pages/baicalin-blocks-colon-cancer-cell-cycle-2023.txt",
+   "quotes": [
+    "The results showed that baicalin increased miR-139-3p expression while also decreasing CDK16 levels, blocking the cell cycle, and inhibiting cell proliferation in colon cancer cells."
+   ],
+   "notes": "Colon cancer cells + xenograft mice; miR-139-3p/CDK6 dual-luciferase validation; baicalin up-regulates miR-139-3p.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36869331/",
+   "title": "Induction of DNMT1-dependent demethylation of SHP-1 by the natural flavonoid compound Baicalein overcame Imatinib-resistance in CML CD34+ cells.",
+   "authors": "Xuefen Xu; Shufan Ji; Yuan Chen; Siwei Xia; Yang Li; Li Chen; Yujia Li; Feng Zhang",
+   "year": "2023",
+   "journal_or_publisher": "Cell communication and signaling : CCS",
+   "vol_pages": "21; 47",
+   "doi": "10.1186/s12964-023-01049-9",
+   "pmid": "36869331",
+   "page_file": "research/epigenetics/pages/induction-dnmt1-dependent-demethylation-shp-1-natural-flavonoid-2023.txt",
+   "quotes": [
+    "Baicalein induced DNMT1-mediated demethylation of the SHP-1 promoter region, and subsequently activated SHP-1 re-expression, which resulted in an inhibition of JAK2/STAT5 signaling in resistant CML CD34+ cells."
+   ],
+   "notes": "CML CD34+ primary cells co-cultured with bone marrow stromal cells; MSP/BSP promoter methylation assays; DNMT1 docking; decitabine comparator; in-vitro primary-cell study.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37172478/",
+   "title": "Wogonin inhibits latent HIV-1 reactivation by downregulating histone crotonylation.",
+   "authors": "Haitao Zhang; Jinfeng Cai; Chunna Li; Lisi Deng; Hongqiong Zhu; Ting Huang; Jiacong Zhao; Jiasheng Zhou",
+   "year": "2023",
+   "journal_or_publisher": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+   "vol_pages": "116; 154855",
+   "doi": "10.1016/j.phymed.2023.154855",
+   "pmid": "37172478",
+   "page_file": "research/epigenetics/pages/wogonin-inhibits-latent-hiv-1-reactivation-downregulating-2023.txt",
+   "quotes": [
+    "Mechanistically, wogonin inhibited the reactivation of latent HIV-1 by inhibiting the expression of p300, a histone acetyltransferase, and decreasing the crotonylation of histone H3/H4 in the HIV-1 promoter region."
+   ],
+   "notes": "HIV latency cell models plus primary CD4+ T cells ex vivo from ART-suppressed individuals (human material, ex vivo - not a clinical trial); p300 down-regulation and histone H3/H4 crotonylation at the HIV-1 promoter.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37623816/",
+   "title": "Wogonin inhibits hepatoma cell proliferation by targeting miR-27b-5p/YWHAZ axis.",
+   "authors": "Ming-Yue Ma; Qian Wang; Shou-Mei Wang; Xiao-Jun Feng; Zhi-Hong Xian; Shu-Hui Zhang",
+   "year": "2023",
+   "journal_or_publisher": "Journal of biochemical and molecular toxicology",
+   "vol_pages": "37; e23508",
+   "doi": "10.1002/jbt.23508",
+   "pmid": "37623816",
+   "page_file": "research/epigenetics/pages/wogonin-inhibits-hepatoma-cell-proliferation-targeting-2023.txt",
+   "quotes": [
+    "Wogonin exerted antitumor activity through multiple signaling molecules, such as focal adhesion kinase, protein kinase B, mammalian target of rapamycin and molecules related to apoptosis and cell cycle by upregulating miR-27b-5p and downregulating YWHAZ."
+   ],
+   "notes": "Huh7 hepatoma cells + in vivo; small-RNA sequencing (70 miRNAs >2-fold change); miR-27b-5p/YWHAZ validated.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37903716/",
+   "title": "Wogonin Diminishes Radioresistance of Breast Cancer via Inhibition of the Nrf2/HIF-1[Formula: see text] Pathway.",
+   "authors": "Ting Wang; Pinghan Wang; Song Wang; Yu Ma; Ziqiao Zhao; Fangyi Long",
+   "year": "2023",
+   "journal_or_publisher": "The American journal of Chinese medicine",
+   "vol_pages": "51; 2243-2262",
+   "doi": "10.1142/S0192415X23500969",
+   "pmid": "37903716",
+   "page_file": "research/epigenetics/pages/wogonin-diminishes-radioresistance-breast-cancer-inhibition-2023.txt",
+   "quotes": [
+    "Mechanistically, WG enhanced the level of the Nrf2 inhibitor Keap1 through reducing CpG methylation in the promoter region of the Keap1 gene.",
+    "Taken together, our findings demonstrate that WG can epigenetically regulate the Keap1 gene, inhibit the Nrf2/HIF-1[Formula: see text] pathway, induce apoptosis in breast cancer cells, and diminish acquired radioresistance."
+   ],
+   "notes": "Breast cancer cell lines + xenograft mice; wogonin demethylates the KEAP1 promoter (the negative regulator of Nrf2), not the NRF2 promoter itself.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37940982/",
+   "title": "Baicalein improves the chemoresistance of ovarian cancer through regulation of CirSLC7A6.",
+   "authors": "Shuqing Li; Zhihui Yi; Mingqing Li; Zhiling Zhu",
+   "year": "2023",
+   "journal_or_publisher": "Journal of ovarian research",
+   "vol_pages": "16; 212",
+   "doi": "10.1186/s13048-023-01285-0",
+   "pmid": "37940982",
+   "page_file": "research/epigenetics/pages/baicalein-improves-chemoresistance-ovarian-cancer-through-2023.txt",
+   "quotes": [
+    "The rates of inhibition and apoptosis in the group treated with a combination of cisplatin and baicalein were significantly higher than those of the cisplatin and baicalein groups of A2780/CDDP shCirSLC7A6 cells.",
+    "CirSLC7A6 was markedly upregulated in A2780/CDDP cells compared with the A2780 cells."
+   ],
+   "notes": "A2780/CDDP ovarian cancer cells + nude-mouse xenografts; transcriptomic sequencing identified CirSLC7A6; circRNA evidence for baicalein.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38607237/",
+   "title": "Baicalein promotes KDM4E to induce BICD1 and inhibit triple-negative breast cancer progression by blocking PAR1 signaling.",
+   "authors": "Yun Dong; Gaojian He; Kun Chen; Xuefeng He; Meitong Pan; Xuemei Huang; Xiaolan Yu; Jiyi Xia",
+   "year": "2024",
+   "journal_or_publisher": "Molecular carcinogenesis",
+   "vol_pages": "63; 1288-1302",
+   "doi": "10.1002/mc.23724",
+   "pmid": "38607237",
+   "page_file": "research/epigenetics/pages/baicalein-promotes-kdm4e-induce-bicd1-inhibit-2024.txt",
+   "quotes": [
+    "KDM4E activated protein bicaudal D homolog 1 (BICD1) expression by reducing the deposition of histone H3 lysine 9 trimethylation (H3K9me3) in its promoter, whereas BICD1 promoted protease-activated receptor-1 (PAR1) endocytosis and blocked PAR1 signaling through physical interaction with PAR1."
+   ],
+   "notes": "Triple-negative breast cancer cells; baicalein stabilizes KDM4E, which removes H3K9me3 from the BICD1 promoter.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38850656/",
+   "title": "The most recent progress of baicalein in its anti-neoplastic effects and mechanisms.",
+   "authors": "Chenjing Lei; Yaya Yu; Yanjuan Zhu; Yanan Li; Changju Ma; Lina Ding; Ling Han; Haibo Zhang",
+   "year": "2024",
+   "journal_or_publisher": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+   "vol_pages": "176; 116862",
+   "doi": "10.1016/j.biopha.2024.116862",
+   "pmid": "38850656",
+   "page_file": "research/epigenetics/pages/most-recent-progress-baicalein-anti-neoplastic-effects-2024.txt",
+   "quotes": [
+    "Besides, baicalein can regulate the relevant non-coding RNAs, such as lncRNAs, miRNAs and circ-RNAs, to inhibit tumorigenesis and progression."
+   ],
+   "notes": "2024 review: baicalein anti-neoplastic mechanisms including regulation of lncRNAs, miRNAs, circRNAs.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39061086/",
+   "title": "Baicalin promotes the sensitivity of NSCLC to cisplatin by regulating ferritinophagy and macrophage immunity through the KEAP1-NRF2/HO-1 pathway.",
+   "authors": "Yang Chen; Shujun Bao; Zhongzhao Wang; Zheng Fang; Hao Tang",
+   "year": "2024",
+   "journal_or_publisher": "European journal of medical research",
+   "vol_pages": "29; 387",
+   "doi": "10.1186/s40001-024-01930-4",
+   "pmid": "39061086",
+   "page_file": "research/epigenetics/pages/baicalin-promotes-sensitivity-nsclc-cisplatin-regulating-2024.txt",
+   "quotes": [
+    "BA induced accumulation of KEAP1 and reduction of NRF2 and HO-1."
+   ],
+   "notes": "A549/DDP + xenograft mice; baicalin induced KEAP1 accumulation and reduced NRF2/HO-1 to sensitize NSCLC to cisplatin - Nrf2 direction opposite to baicalein in non-cancer contexts; chemo-sensitization framing.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39235466/",
+   "title": "Suppression of neuronal CDK9/p53/VDAC signaling provides bioenergetic support and improves post-stroke neuropsychiatric outcomes.",
+   "authors": "Jing Xia; Tingting Zhang; Ying Sun; Zhu Huang; Dingfang Shi; Dongshen Qin; Xuejun Yang; Hao Liu",
+   "year": "2024",
+   "journal_or_publisher": "Cellular and molecular life sciences : CMLS",
+   "vol_pages": "81; 384",
+   "doi": "10.1007/s00018-024-05428-4",
+   "pmid": "39235466",
+   "page_file": "research/epigenetics/pages/suppression-neuronal-cdk9-p53-vdac-signaling-2024.txt",
+   "quotes": [
+    "Post-treatment with the CDK9 inhibitor oroxylin A promoted neuronal ATP production mainly through suppressing the miR-183 cluster/VDAC axis, further improved long-term sensorimotor abilities and spatial memory, and alleviated depressive-like behaviors in mice following stroke."
+   ],
+   "notes": "Post-stroke mouse model + neuronal cultures; oroxylin A as CDK9 inhibitor suppresses p53-driven miR-183/96/182 cluster biogenesis (transcriptional regulation of miRNA production rather than miRNA abundance alone); non-cancer neurological model.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39362328/",
+   "title": "Scutellaria baicalensis ameliorates allergic airway inflammation through agonism and transcriptional regulation of TAS2Rs.",
+   "authors": "Liansheng Qiao; Kaiyang Liu; Yue Ren; Yanxia Liu; Zhenzhen Xu; Shifeng Wang; Yanling Zhang",
+   "year": "2025",
+   "journal_or_publisher": "Journal of ethnopharmacology",
+   "vol_pages": "337; 118881",
+   "doi": "10.1016/j.jep.2024.118881",
+   "pmid": "39362328",
+   "page_file": "research/epigenetics/pages/scutellaria-baicalensis-ameliorates-allergic-airway-inflammation-2025.txt",
+   "quotes": [
+    "Baicalein was the main active component for TAS2R4 agonism activity, and scutellarin and oroxylin A had weak agonism activity of TAS2R4 and TAS2R14 through calcium mobilization assay and molecular docking."
+   ],
+   "notes": "Whole S. baicalensis extract + scutellarin and oroxylin A in OVA rats; transcriptional regulation of TAS2R bitter-taste receptors (baicalein main TAS2R4 agonist component); extract-level transcriptional evidence, not a purified-constituent epigenetic study.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40153015/",
+   "title": "The effects of flavonoid baicalein on miRNA expressions in cancer: a systematic review.",
+   "authors": "Mohanna Khandan; Mohammad Amin Khazeei Tabari; Seyed Mostafa Rahimi; Mahmoud Hassani; Abouzar Bagheri",
+   "year": "2025",
+   "journal_or_publisher": "Naunyn-Schmiedeberg's archives of pharmacology",
+   "vol_pages": "398; 11331-11348",
+   "doi": "10.1007/s00210-025-04078-y",
+   "pmid": "40153015",
+   "page_file": "research/epigenetics/pages/effects-flavonoid-baicalein-mirna-expressions-cancer-2025.txt",
+   "quotes": [
+    "Fifteen studies meeting the inclusion criteria were included in the systematic review."
+   ],
+   "notes": "PRISMA systematic review (15 included studies, SYRCLE risk-of-bias) of baicalein effects on miRNA expression in cancer.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40262723/",
+   "title": "Baicalein disrupts TGF-β-induced EMT in pancreatic cancer by FTO-dependent m6A demethylation of ZEB1.",
+   "authors": "Lian Zhao; Gong Chen; Dan Li; Kangtao Wang; Michael Schaefer; Ingrid Herr; Bin Yan",
+   "year": "2025",
+   "journal_or_publisher": "Biochimica et biophysica acta. Molecular cell research",
+   "vol_pages": "1872; 119969",
+   "doi": "10.1016/j.bbamcr.2025.119969",
+   "pmid": "40262723",
+   "page_file": "research/epigenetics/pages/baicalein-disrupts-tgf---induced-emt-pancreatic-2025.txt",
+   "quotes": [
+    "It also downregulated FTO, an enzyme critical for m6A RNA demethylation."
+   ],
+   "notes": "PDAC cell lines + one nonmalignant line; MeRIP-qPCR m6A readout; epitranscriptomic (RNA m6A) rather than DNA methylation.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40569104/",
+   "title": "Baicalein Alleviates Lithium-Pilocarpine-Induced Status Epilepticus by Regulating DNMT1/GABRD Pathway in Rats.",
+   "authors": "Zhenggang Wu; Jing Liu; Deju Yin; Jing Huang; Yujing Huang; Pengfei Wang",
+   "year": "2025",
+   "journal_or_publisher": "Organogenesis",
+   "vol_pages": "21; 2519607",
+   "doi": "10.1080/15476278.2025.2519607",
+   "pmid": "40569104",
+   "page_file": "research/epigenetics/pages/baicalein-alleviates-lithium-pilocarpine-induced-status-epilepticus-regulating-2025.txt",
+   "quotes": [
+    "Mechanistically, baicalein interacted with DNMT1 to suppress GABRD promoter region methylation, thus increasing GABRD protein level in the hippocampus of rats induced by LiCl-PILO."
+   ],
+   "notes": "In vivo rat lithium-pilocarpine status epilepticus; ChIP and western blot for DNMT1-mediated GABRD promoter methylation; non-cancer neurological model.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40818185/",
+   "title": "Wogonin modulates macrophage polarization and inflammatory signaling through the LSD1-p65 axis to alleviate osteoarthritis.",
+   "authors": "Zhe Cai; Chengyu Lu; Dehui Chen; Song Zhang; Juan Zhou; Shuilian Yu; Chun Kwok Wong; Zhaojun Jia",
+   "year": "2025",
+   "journal_or_publisher": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+   "vol_pages": "146; 157149",
+   "doi": "10.1016/j.phymed.2025.157149",
+   "pmid": "40818185",
+   "page_file": "research/epigenetics/pages/wogonin-modulates-macrophage-polarization-inflammatory-signaling-2025.txt",
+   "quotes": [
+    "Mechanistically, wogonin disrupted LSD1-mediated NF-κB p65 demethylation, enhancing p65 methylation and inhibiting JNK/NF-κB activation."
+   ],
+   "notes": "DMM osteoarthritis mice in vivo + RAW264.7 macrophages/primary chondrocytes; CRISPR-edited macrophages, RNA-seq, docking, DARTS; wogonin binds LSD1 and blocks p65 demethylation.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41038143/",
+   "title": "Baicalein specifically suppresses microsatellite instability colorectal cancer by targeting adenosylhomocysteinase to inhibit histone H3 lysine 4 trimethylation-mediated cancer stemness.",
+   "authors": "Yaqiu Zheng; Yu Li; Minling Lu; Zhen Jia; Ting Wan; Zizheng Li; Yukai Huang; Chishun Zhou",
+   "year": "2025",
+   "journal_or_publisher": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+   "vol_pages": "148; 157291",
+   "doi": "10.1016/j.phymed.2025.157291",
+   "pmid": "41038143",
+   "page_file": "research/epigenetics/pages/baicalein-specifically-suppresses-microsatellite-instability-colorectal-2025.txt",
+   "quotes": [
+    "This inhibition triggered S-adenosylhomocysteine (SAH) accumulation, decreased histone H3 lysine 4 trimethylation (H3K4me3), and downregulated stemness markers OCT4 and Nanog.",
+    "Mechanistically, adenosylhomocysteinase (AHCY) was identified as a key direct target of baicalein."
+   ],
+   "notes": "MSI CRC cell lines, xenografts, patient-derived xenografts and clinical patient tissues; AHCY is a direct binding target; histone H3K4me3 readout ties baicalein to one-carbon/methyl metabolism.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41270385/",
+   "title": "Baicalein facilitates hepatic stellate cell ferroptosis via the DNMT1/SCARA5/GPX4 axis.",
+   "authors": "Mengyuan Li; Yuhang Hu; Jinglu Yu; Mengting Shen; Weizhi Zhang; Jianjian Zheng; Zhenxu Zhou",
+   "year": "2025",
+   "journal_or_publisher": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+   "vol_pages": "149; 157554",
+   "doi": "10.1016/j.phymed.2025.157554",
+   "pmid": "41270385",
+   "page_file": "research/epigenetics/pages/baicalein-facilitates-hepatic-stellate-cell-ferroptosis-2025.txt",
+   "quotes": [
+    "The SCARA5 promoter harbored a CpG island, and its methylation was facilitated by DNMT1, which could be targeted by baicalein."
+   ],
+   "notes": "Hepatic stellate cell line + mouse liver fibrosis in vivo; Co-IP and molecular docking; DNMT1/SCARA5/GPX4 axis.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42251782/",
+   "title": "Integrative single-cell and spatial transcriptomics analysis reveals a baicalein-responsive 10-gene signature for non-small cell lung cancer.",
+   "authors": "Donghao Wu; Cheng Liu; Longsheng Zhan; Min Liang; Qianqian Li; Qinghai Lian",
+   "year": "2026",
+   "journal_or_publisher": "Translational oncology",
+   "vol_pages": "70; 102853",
+   "doi": "10.1016/j.tranon.2026.102853",
+   "pmid": "42251782",
+   "page_file": "research/epigenetics/pages/integrative-single-cell-spatial-transcriptomics-analysis-reveals-2026.txt",
+   "quotes": [
+    "Single‑cell analysis resolved 21 cell populations, revealing that baicalein targets were enriched in a 32‑gene core set."
+   ],
+   "notes": "Mostly in-silico (single-cell + spatial transcriptomics, machine learning, docking) with in vitro endpoint validation; baicalein-responsive 10-gene NSCLC signature (TOP2A etc.).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42292404/",
+   "title": "Baicalin improves the inflammatory response of RA-FLS by targeting the circ_0000734/miR-197-5p/IKBKB axis.",
+   "authors": "Yanqiu Sun; Jian Liu; Mingyu He; Xiaolu Chen",
+   "year": "2026",
+   "journal_or_publisher": "Frontiers in immunology",
+   "vol_pages": "17; 1828868",
+   "doi": "10.3389/fimmu.2026.1828868",
+   "pmid": "42292404",
+   "page_file": "research/epigenetics/pages/baicalin-improves-inflammatory-response-ra-fls-targeting-2026.txt",
+   "quotes": [
+    "Baicalin, a naturally derived small molecule, has been shown to improve inflammatory responses in RA by regulating circRNAs; however, the underlying regulatory mechanism remains unclear."
+   ],
+   "notes": "Human RA fibroblast-like synoviocytes + PBMCs from RA patients (circ_0000734 correlated with RF, anti-CCP, CRP, ESR, DAS28); baicalin targets circ_0000734/miR-197-5p/IKBKB; human-sample correlation data.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42501551/",
+   "title": "Baicalin aggravates isoproterenol-induced myocardial fibrosis via LSD1/AP-1 pathways.",
+   "authors": "Xiuying Chen; Xin Wang; Tian Tian; Xin Deng; Mengying Ding; Ziqiao Yuan; Yizhuo Li; Hongjuan Wang",
+   "year": "2026",
+   "journal_or_publisher": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+   "vol_pages": "159; 158591",
+   "doi": "10.1016/j.phymed.2026.158591",
+   "pmid": "42501551",
+   "page_file": "research/epigenetics/pages/baicalin-aggravates-isoproterenol-induced-myocardial-fibrosis-lsd1-2026.txt",
+   "quotes": [
+    "The data showed that baicalin acted as an independent fibrogenic factor, significantly aggravating ISO-induced ventricular remodeling, particularly myocardial fibrosis, both in vivo and in vitro."
+   ],
+   "notes": "Mouse in vivo + neonatal rat cardiac fibroblasts; adverse-direction finding: baicalin AGGRAVATED isoproterenol-induced myocardial fibrosis via LSD1/AP-1 with histone H3 Ser10 phosphorylation readout; context/dose caveat for epigenetic framing.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42511738/",
+   "title": "Baicalein Attenuates High Glucose and Sodium Palmitate-Induced Ferroptosis in Cardiomyocytes via the Nrf2/SLC7A11/GPX4 Signaling Pathway.",
+   "authors": "Huan Wang; Yuhan Xu; Lei Wang; Wanting Meng; Yanwu Xu; Haidong Guo",
+   "year": "2026",
+   "journal_or_publisher": "International journal of molecular sciences",
+   "vol_pages": "27",
+   "doi": "10.3390/ijms27146391",
+   "pmid": "42511738",
+   "page_file": "research/epigenetics/pages/baicalein-attenuates-high-glucose-sodium-palmitate-induced-2026.txt",
+   "quotes": [
+    "In conclusion, baicalein protects cardiomyocytes from HG + PA-induced injury by activating the Nrf2/SLC7A11/GPX4 signaling pathway and inhibiting ferroptosis."
+   ],
+   "notes": "H9c2/AC16 cardiomyocytes + complementary diabetic-rat cardiac datasets (transcriptomic data mining); baicalein activates Nrf2/SLC7A11/GPX4 and inhibits ferroptosis; non-cancer cardiometabolic context.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42900293/",
+   "title": "Lysine-specific demethylase 1 (LSD1) regulates macrophage plasticity and immune checkpoint expression in colorectal liver metastases.",
+   "authors": "Candela Cives-Losada; Cristiana Soldani; Michela Anna Polidoro; Barbara Franceschini; Flavio Milana; Aurora Gazzillo; Antonella Cammarota; Chiara Camisaschi",
+   "year": "2026",
+   "journal_or_publisher": "Molecular biomedicine",
+   "vol_pages": "7",
+   "doi": "10.1186/s43556-026-00602-5",
+   "pmid": "42900293",
+   "page_file": "research/epigenetics/pages/lysine-specific-demethylase-1-lsd1-regulates-macrophage-2026.txt",
+   "quotes": [
+    "Pharmacological inhibition of LSD1 using baicalin or INCB059872 reduced the expression of CD206 and the immune checkpoint molecule PD-L1, consistent with macrophage reprogramming away from a tumour-promoting state."
+   ],
+   "notes": "Human patient-derived colorectal liver metastasis specimens (flow cytometry, IHC, transcriptional profiling); baicalin used as pharmacological LSD1 inhibitor alongside INCB059872; ex vivo human data, no interventional trial.",
+   "extract_status": "ok"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "In imatinib-resistant chronic myeloid leukemia CD34+ cells, baicalein induced DNMT1-mediated demethylation of the SHP-1 promoter, restoring SHP-1 re-expression and inhibiting JAK2/STAT5 signaling.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36869331/",
+   "quote": "Baicalein induced DNMT1-mediated demethylation of the SHP-1 promoter region, and subsequently activated SHP-1 re-expression, which resulted in an inhibition of JAK2/STAT5 signaling in resistant CML CD34+ cells.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "In a rat lithium-pilocarpine model of status epilepticus, baicalein interacted with DNMT1 to suppress methylation of the GABRD promoter, increasing GABRD protein in hippocampus.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40569104/",
+   "quote": "Mechanistically, baicalein interacted with DNMT1 to suppress GABRD promoter region methylation, thus increasing GABRD protein level in the hippocampus of rats induced by LiCl-PILO.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In hepatic stellate cells and mouse fibrosis models, baicalein targeted DNMT1-facilitated methylation of the CpG-island-bearing SCARA5 promoter, promoting SCARA5 expression and HSC ferroptosis to alleviate liver fibrosis.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41270385/",
+   "quote": "The SCARA5 promoter harbored a CpG island, and its methylation was facilitated by DNMT1, which could be targeted by baicalein.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In hepatic stellate cells, baicalin (with rosmarinic acid) epigenetically derepressed Pparγ by reducing MeCP2 expression and recruitment to the Pparγ promoter and suppressing the PRC2 methyltransferase EZH2 with reduced H3K27 dimethylation.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22095555/",
+   "quote": "Here we demonstrate YGW prevents and reverses HSC activation by way of epigenetic derepression of Pparγ involving reductions in MeCP2 expression and its recruitment to Pparγ promoter, suppressed expression of PRC2 methyltransferase EZH2, and consequent reduction of H2K27di-methylation at the 3' exon.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "In breast cancer models, wogonin reduced CpG methylation in the promoter region of the KEAP1 gene, enhancing Keap1 protein and thereby inhibiting the Nrf2/HIF-1α pathway to diminish radioresistance.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37903716/",
+   "quote": "Mechanistically, WG enhanced the level of the Nrf2 inhibitor Keap1 through reducing CpG methylation in the promoter region of the Keap1 gene.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "Baicalein was characterized as a natural HDAC-1/8 inhibitor in core binding factor AML, triggering growth suppression and differentiation of AML cell lines and primary AML cells.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32898337/",
+   "quote": "Baicalein showed HDAC-1/8 inhibition to trigger growth suppression and differentiation induction of AML cell lines and primary AML cells.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "In cutaneous T-cell lymphoma cells, baicalein exhibited inhibitory activity against HDAC1 and HDAC8 and promoted proteasomal HDAC1 degradation, upregulating histone H3 acetylation without inducing ABC transporter genes.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32119867/",
+   "quote": "Moreover, we discovered that Baicalein, a natural product, exhibited an inhibitory effect on HDAC1 and HDAC8.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "In A549 lung adenocarcinoma cells, wogonin decreased c-Myc/SKP2 and HDAC1/HDAC2 pathway activity, with its anti-cancer effects associated with degradation of c-Myc, SKP2, HDAC1 and HDAC2.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24265759/",
+   "quote": "The present results suggest that wogonin has multiple anti-cancer effects associated with degradation of c-Myc, SKP2, HDAC1 and HDAC2.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "Wogonin suppressed latent HIV-1 reactivation in cellular models and in primary CD4+ T cells from ART-suppressed individuals ex vivo by inhibiting expression of the histone acetyltransferase p300 and decreasing histone H3/H4 crotonylation at the HIV-1 promoter.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37172478/",
+   "quote": "Mechanistically, wogonin inhibited the reactivation of latent HIV-1 by inhibiting the expression of p300, a histone acetyltransferase, and decreasing the crotonylation of histone H3/H4 in the HIV-1 promoter region.",
+   "strength": "human"
+  },
+  {
+   "claim": "In microsatellite-instability colorectal cancer, baicalein directly inhibited adenosylhomocysteinase (AHCY), triggering S-adenosylhomocysteine accumulation, decreased histone H3K4me3, and downregulated OCT4/Nanog stemness, validated in patient tissues and PDX models.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41038143/",
+   "quote": "This inhibition triggered S-adenosylhomocysteine (SAH) accumulation, decreased histone H3 lysine 4 trimethylation (H3K4me3), and downregulated stemness markers OCT4 and Nanog.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In triple-negative breast cancer cells, baicalein enhanced KDM4E protein expression and stability, and KDM4E induced BICD1 by reducing H3K9me3 deposition at the BICD1 promoter, blocking PAR1 signaling.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38607237/",
+   "quote": "KDM4E activated protein bicaudal D homolog 1 (BICD1) expression by reducing the deposition of histone H3 lysine 9 trimethylation (H3K9me3) in its promoter, whereas BICD1 promoted protease-activated receptor-1 (PAR1) endocytosis and blocked PAR1 signaling through physical interaction with PAR1.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "Baicalin was first characterized as a natural inhibitor of lysine-specific demethylase 1 (LSD1) with an IC50 of 3.01 μM and strong LSD1 inhibitory effect in cells.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27814566/",
+   "quote": "In our study, baicalin was first characterized as a LSD1 inhibitor with an IC50 of 3.01μM and showed strong LSD1 inhibitory effect in cells.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "In osteoarthritis models, wogonin bound LSD1/KDM1A and disrupted LSD1-mediated NF-κB p65 demethylation, enhancing p65 methylation and inhibiting JNK/NF-κB activation to rebalance macrophage polarization.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40818185/",
+   "quote": "Mechanistically, wogonin disrupted LSD1-mediated NF-κB p65 demethylation, enhancing p65 methylation and inhibiting JNK/NF-κB activation.",
+   "strength": "animal"
+  },
+  {
+   "claim": "The protective effects of baicalein in C. elegans aging (one of six glucose-toxicity-protective drugs that increased lifespan) were blocked by RNAi inhibition of cbp-1, the worm ortholog of the CBP/p300 histone acetyltransferase.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22114686/",
+   "quote": "These protective effects were blocked by RNAi inhibition of cbp-1 in adults only, which also blocks protective effects of dietary restriction.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In olfactory bulbectomized rats and LPS-stimulated BV-2 microglia, baicalin regulated SIRT1 and decreased NF-κB p65 acetylation, including p65 acetylation at lysine 310, reducing pro-inflammatory cytokines.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30848526/",
+   "quote": "Moreover, in lipopolysaccharides-induced BV-2 cells, the levels of inflammatory factors (IL-1β), p65 acetylation at lysine 310, and SIRT1 expression were different in the group treated with both baicalin and nicotinamide compared with the group treated with baicalin, which suggests that baicalin regulates SIRT1 and thereby inhibits p65 acetylation.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In collagen-induced arthritis rats and human rheumatoid arthritis fibroblast-like synoviocytes, baicalin downregulated NF-κB p65 acetylation in association with upregulated sirt1 expression.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24893986/",
+   "quote": "Moreover, the acetylation of NF-κB p65 was downregulated by baicalin, which negatively correlates with the baicalin-induced upregulation of sirt1 expression in the same conditions.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In TGF-β1-treated human lung fibroblasts, baicalein diminished miR-21 expression (via inhibition of the miR-21 transcription factor STAT3), and miR-21 mimics partially antagonized baicalein's anti-fibrotic effects.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30201452/",
+   "quote": "Baicalein diminished the expression of miR-21, and miR-21 mimics partially antagonized the effects of baicalein.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "In bleomycin-induced pulmonary fibrosis in rats, orally administered baicalein remarkably decreased miR-21 levels and inhibited TGF-β1 and p-Smad-2/3 expression, attenuating fibrosis.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23523661/",
+   "quote": "Baicalein remarkably decreased miR-21 levels and inhibited the increased expression of TGF-β1 and p-Smad-2/3 in bleomycin-treated rats.",
+   "strength": "animal"
+  },
+  {
+   "claim": "By high-throughput miRNA sequencing in baicalein-treated Panc-1 pancreatic cancer cells, miR-139-3p was the most up-regulated and miR-196b-5p the most down-regulated miRNA, acting through NOB1 and ING5 respectively.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33996574/",
+   "quote": "Quantitative PCR analysis confirmed that miR-139-3p was the most up-regulated miRNA after baicalein treatment, while miR-196b-5p was the most down-regulated miRNA.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "Microarray profiling showed baicalein broadly alters microRNA expression profiles in Bel-7402 hepatocellular carcinoma cells, with putative targets enriched in MAPK, PI3K-Akt, Wnt, Hippo and mTOR signaling pathways.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28351032/",
+   "quote": "Putative target genes for differentially expressed miRNAs could be enriched in terms of cell proliferation regulation, cell cycle arrest and were mainly involved in MAPK, PI3K-Akt, Wnt, Hippo and mTOR signaling pathways.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "In colon cancer cells and xenograft mice, baicalin increased miR-139-3p expression while decreasing its direct target CDK16, blocking the cell cycle and inhibiting proliferation.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36599649/",
+   "quote": "The results showed that baicalin increased miR-139-3p expression while also decreasing CDK16 levels, blocking the cell cycle, and inhibiting cell proliferation in colon cancer cells.",
+   "strength": "animal"
+  },
+  {
+   "claim": "By small-RNA sequencing, wogonin up-regulated miR-27b-5p (among 70 miRNAs changing more than twofold) in Huh7 hepatoma cells, and miR-27b-5p directly targeted YWHAZ to mediate wogonin's anti-proliferative activity.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37623816/",
+   "quote": "Wogonin exerted antitumor activity through multiple signaling molecules, such as focal adhesion kinase, protein kinase B, mammalian target of rapamycin and molecules related to apoptosis and cell cycle by upregulating miR-27b-5p and downregulating YWHAZ.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "MiR array screening and qPCR identified miR-155-5p as a candidate regulated by oroxylin A, targeting IRF2BP2 and modulating NFAT1/iNOS inflammatory signaling in LPS-induced acute lung injury models.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33052070/",
+   "quote": "An miR array screening and quantitative polymerase chain reaction identified that miR-155-5p could be a candidate regulated by OroA.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "In breast cancer cells, baicalin treatment significantly down-regulated lncRNA-MALAT1 and up-regulated miR-200c, suppressing TGF-β/ZEB1/N-cadherin expression, migration and invasion.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36401368/",
+   "quote": "Additionally, baicalin treatment significantly downregulated the expression of lncRNA-MALAT1 and upregulated that of miR-200c.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "In cisplatin-resistant A2780/CDDP ovarian cancer cells and nude-mouse xenografts, baicalein acted through the circular RNA CirSLC7A6/miR-2682-5p/SLC7A6 axis to improve chemoresistance.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37940982/",
+   "quote": "The rates of inhibition and apoptosis in the group treated with a combination of cisplatin and baicalein were significantly higher than those of the cisplatin and baicalein groups of A2780/CDDP shCirSLC7A6 cells.",
+   "strength": "animal"
+  },
+  {
+   "claim": "Affymetrix 42K microarray analysis of baicalein-treated HepG2 cells showed 440 up-regulated and 254 down-regulated gene probes, and an ARE-reporter assay demonstrated that baicalein stimulated Nrf2-mediated ARE transactivation.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22265932/",
+   "quote": "Moreover, the ARE-reporter gene assay demonstrated that baicalein stimulated Nrf2-mediated ARE transactivation.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "Transcriptomics in senescence-accelerated SAMP8 mice showed baicalein regulated fifty hub differentially expressed genes, and baicalein prevented JAK2/STAT1 activation and decreased Aβ1-42 and RAGE levels in cortex, improving learning and memory impairment.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31715136/",
+   "quote": "Our results suggest that baicalein prevented the activation of JAK2/STAT1 signaling pathway and decreased the levels of Aβ1-42 and RAGE in the cortex of SAMP8 mice.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In pancreatic ductal adenocarcinoma cells, baicalein down-regulated the m6A demethylase FTO, enhancing m6A modification of ZEB1 mRNA and decreasing its stability, thereby disrupting TGF-β-induced EMT.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40262723/",
+   "quote": "It also downregulated FTO, an enzyme critical for m6A RNA demethylation.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "In patient-derived colorectal liver metastasis specimens, pharmacological inhibition of LSD1 using baicalin reduced expression of CD206 and the immune checkpoint molecule PD-L1 in tumor-associated macrophages.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42900293/",
+   "quote": "Pharmacological inhibition of LSD1 using baicalin or INCB059872 reduced the expression of CD206 and the immune checkpoint molecule PD-L1, consistent with macrophage reprogramming away from a tumour-promoting state.",
+   "strength": "human"
+  },
+  {
+   "claim": "A PRISMA-guided systematic review of fifteen studies concluded that baicalein modulates miRNA expression across hepatocellular, breast, cervical, ovarian and gastric cancers, affecting PI3K/AKT, Wnt/β-catenin and mTOR pathways.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40153015/",
+   "quote": "Fifteen studies meeting the inclusion criteria were included in the systematic review.",
+   "strength": "review"
+  }
+ ]
+}

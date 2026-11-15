@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/26885187/
+TITLE: Baicaleininhibits VSMCs proliferation via regulating LncRNAAK021954 gene expression.
+AUTHORS: Yan Zhang; Guangtao Ma; Chenlong Li; Zhenyu Cao; Fuzhong Qie; Xinmiao Xu
+JOURNAL: International journal of clinical and experimental medicine
+YEAR: 2015
+VOL_PAGES: 8; 22129-38
+DOI: 
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Atherosclerosis is responsible for the global medical burden of cardiovascular diseases, of which the proliferation of vascular smooth muscle cells (VSMCs) plays a key role in the development. Recent evidences demonstrated that baicalein could attenuate the proliferation of VSMCs and had no influence on VSMCs migration. However, the precise molecular mechanisms of baicalein inhibiting the proliferation of VSMCs were not clear. In this study, we investigated the viability and apoptosis behaviour of VSMCs and its downstream molecular changes with exposed to different dose of baicalein. Firstly, we observed significant reducing in the VSMCs proliferation and decreasing of FGF18 expression in a dose dependent manner after addition of baicalein for 24 h and 72 h. Moreover, the mRNA expression profile of VSMCs after treatments was evaluated by microarray analysis. Microarray analysis showed that long non-coding RNA (lncRNA) AK021954 gene expression was significantly increased in the baicalein treated group compared with the control group. Inversely, the VSMCs proliferation showed a notable increase after small silent RNA of lncRNAAK021954 treatment. These results indicated that lncRNAAK021954 gene and FGF18 involved in baicalein inhibiting the proliferation of VSMCs. It may provide a promising method in treatment of atherosclerosis.

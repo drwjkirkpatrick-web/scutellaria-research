@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/38607237/
+TITLE: Baicalein promotes KDM4E to induce BICD1 and inhibit triple-negative breast cancer progression by blocking PAR1 signaling.
+AUTHORS: Yun Dong; Gaojian He; Kun Chen; Xuefeng He; Meitong Pan; Xuemei Huang; Xiaolan Yu; Jiyi Xia
+JOURNAL: Molecular carcinogenesis
+YEAR: 2024
+VOL_PAGES: 63; 1288-1302
+DOI: 10.1002/mc.23724
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Baicalein has been implicated in the chemotherapy overcoming triple-negative breast cancer (TNBC). However, many unanswered questions remain regarding its role in treating TNBC. Here, we sought to demonstrate the molecular pathway mediated by baicalein in TNBC. Lysine-specific demethylase 4E (KDM4E), reduced in TNBC cells, was identified as a target protein of baicalein, and baicalein enhanced the protein expression and stability of KDM4E in TNBC cells. Knockdown of KDM4E attenuated the inhibitory effect of baicalein on TNBC cell activity, as demonstrated by intensified mobility, viability, and apoptosis resistance in TNBC cells. KDM4E activated protein bicaudal D homolog 1 (BICD1) expression by reducing the deposition of histone H3 lysine 9 trimethylation (H3K9me3) in its promoter, whereas BICD1 promoted protease-activated receptor-1 (PAR1) endocytosis and blocked PAR1 signaling through physical interaction with PAR1. Knockdown of KDM4E strengthened the PAR1-dependent activity of TNBC cells in response to thrombin activation, whereas TNBC progression activated by PAR1 signaling was blocked by combined overexpression of BICD1. Taken together, our data indicate that baicalein-promoted KDM4E enhanced the expression of BICD1 and activated the inhibitory effect of BICD1 on PAR1 signaling, thereby inhibiting TNBC progression.

@@ -1,0 +1,8 @@
+Source: https://pubmed.ncbi.nlm.nih.gov/28109809/
+Fetched: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract)
+Title: Potent inhibition of monoamine oxidase A by decursin from Angelica gigas Nakai and by wogonin from Scutellaria baicalensis Georgi.
+Authors: Lee HW; Ryu HW; Kang MG; Park D; Lee H; Shin HM; Oh SR; Kim H
+Journal: Int J Biol Macromol 2017;97():598-605
+DOI: 10.1016/j.ijbiomac.2017.01.080
+PMID: 28109809
+Abstract: During the ongoing search for new monoamine oxidase (MAO) inhibitors, five coumarin derivatives and eight flavonoids were isolated from the roots of Angelica gigas Nakai and Scutellaria baicalensis Georgi, respectively. Of the phytochemicals, decursin (4) was found to potently and selectively inhibit human MAO-A (IC50=1.89μM). The IC50 value of 4 for MAO-A belonged to the lowest group in herbal sources and was similar to that of toloxatone (1.78μM), a marketed drug. Wogonin (11) effectively inhibited MAO-A and MAO-B (IC50=6.35 and 20.8μM, respectively). Furthermore, compounds 5 (decursinol angelate) and 10 (baicalein) were observed to selectively and moderately inhibit MAO-A. In addition, compound 4 reversibly and competitively inhibited MAO-A with a Ki of 0.17μM. Compound 11 also competitively inhibited MAO-A and MAO-B (Ki=0.56 and 1.96μM, respectively). Molecular docking simulation revealed that 4 interacts with Asn181 residue of MAO-A or Asn116 residue of MAO-B by formation of hydrogen bond. The findings suggest compounds 4 and 11 be considered as new potent and reversible MAO-A inhibitors or useful lead compounds for the developments of MAO inhibitors for the treatment of disorders like depression, Parkinson's disease and Alzheimer disease.

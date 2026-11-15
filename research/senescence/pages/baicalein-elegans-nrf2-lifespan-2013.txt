@@ -1,0 +1,8 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/23339711/
+Accessed: 2026-11-14
+Title: Molecular effects of baicalein in Hct116 cells and Caenorhabditis elegans : activation of the Nrf2 signaling pathway and prolongation of lifespan.
+Journal: Journal of agricultural and food chemistry
+Year: 2013
+---
+
+Baicalein is a major compound of extracts derived from Scutellaria baicalensis Lamiaceae, which are used as food supplements. Baicalein possesses a high radical scavenging activity and decreases intracellular reactive oxygen species in Hct116 human colon carcinoma cells and in Caenorhabditis elegans . It activates Nrf2, a key transcription factor that binds to the antioxidant responsive element (ARE): Baicalein causes a nuclear accumulation of Nrf2, increases ARE-dependent luciferase activity, and enhances the expression of heme oxygenase-1 in Hct116 cells. Additionally, accumulation of the Nrf2 homologue SKN-1 in nuclei of intestinal cells of C. elegans was observed. Lifespan analysis revealed that baicalein extends the mean, median, and maximum lifespans of the nematode by 45, 57 and 24%, respectively. Because SKN-1 activation is associated with prolongation of lifespan, the results suggest that baicalein increases the lifespan of C. elegans by activation of the Nrf2/SKN-1 signaling pathway.

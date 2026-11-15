@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/34666128/
+PMID: 34666128
+Title: Baicalein protects against MPP
+Authors: Qingxin Song; Shanxin Peng; Xiaosong Zhu
+Journal: Neurotoxicology (2021)
+DOI: 10.1016/j.neuro.2021.10.003
+Fetched: 2026-11-14
+
+ABSTRACT
+Baicalein, a major bioactive flavone constituent isolated from Scutellaria baicalensis Georgi, has neuroprotective properties in several neurological disorders. Many studies suggest that oxidative stress plays a central role in the pathogenesis of Parkinson's disease (PD). Baicalein has also been shown to have antioxidant effects. Therefore, the current study was designed to investigate whether baicalein could protect against MPP+/MPTP-induced neurotoxicity via suppressing oxidative stress in vitro and in vivo. In vitro, our results showed that baicalein increased cell viability in MPP+-treated SH-SY5Y cells. Treatment with baicalein could reversed the increased MDA and ROS levels, and the decreased GSH levels in MPP+-treated SH-SY5Y cells. In MPTP-treated mice, baicalein ameliorated MPTP-induced motor impairment and suppressed the MPTP-induced accumulation of iron and lipid peroxides. Besides, baicalein improved the neurotoxicity induced by MPTP as seen by a significant raise of tyrosine hydroxylase (TH) and simultaneous decrease of monoamine-oxidase-B (MAO-B). The inhibitory effect of baicalein on oxidative stress probably was partially governed by inhibition of ERK activation. In conclusion, our results suggest that baicalein could prevent MPP+/MPTP-induced neurotoxicity via suppressing oxidative stress.

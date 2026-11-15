@@ -1,0 +1,8 @@
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.lof
+paper/*.lot
+__pycache__/
+*.pyc

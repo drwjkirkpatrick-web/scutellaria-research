@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/30201452/
+TITLE: Baicalein represses TGF-β1-induced fibroblast differentiation through the inhibition of miR-21.
+AUTHORS: Xinjian Cui; Xionghua Sun; Fanqing Lu; Xiaogang Jiang
+JOURNAL: Toxicology and applied pharmacology
+YEAR: 2018
+VOL_PAGES: 358; 35-42
+DOI: 10.1016/j.taap.2018.09.007
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Fibroblast-to-myofibroblast differentiation is a highly important pathological characteristic of pulmonary fibrosis. In this study, we aimed to investigate the effects and mechanisms of baicalein on the differentiation of human lung fibroblasts. Baicalein reduced the levels of α-smooth muscle actin (α-SMA) mRNA and protein expression in TGF-β1-treated human lung fibroblasts. It also decreased the contents of collagen type I and fibronectin in time- and dose-dependent manners, and retarded TGF-β1-stimulated α-SMA filament formation. Baicalein diminished the expression of miR-21, and miR-21 mimics partially antagonized the effects of baicalein. Additionally, Baicalein inhibited the miR-21 transcriptor STAT3 activity but not AP-1 activity. Moreover, the expression of Spry 1 protein, a miR-21 known target, was improved by baicalein treatment, but the level of Smurf2 protein, another miR-21 target, was not interfered. Collectively, these results demonstrated that baicalein can attenuate TGF-β1-induced human lung fibroblast differentiation by inhibiting the miR-21 expression.

@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/33996574/
+TITLE: Baicalein Induces Apoptosis of Pancreatic Cancer Cells by Regulating the Expression of miR-139-3p and miR-196b-5p.
+AUTHORS: Danhui Ma; Sinuo Chen; Heming Wang; Jiayi Wei; Hao Wu; Hong Gao; Xinlai Cheng; Taotao Liu
+JOURNAL: Frontiers in oncology
+YEAR: 2021
+VOL_PAGES: 11; 653061
+DOI: 10.3389/fonc.2021.653061
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Pancreatic cancer is a common malignant tumor with a high incidence and mortality rate. The prognosis of patients with pancreatic cancer is considerably poor due to the lack of effective treatment in clinically. Despite numerous studies have revealed that baicalein, a natural product, is responsible for suppressing multiple cancer cells proliferation, motility and invasion. The mechanism by which baicalein restraining pancreatic cancer progression remains unclear. In this study, we firstly verified that baicalein plays a critical role in inhibiting pancreatic tumorigenesis in vitro and in vivo. Then we analyzed the alteration of microRNAs (miRNAs) expression levels in Panc-1 cells incubated with DMSO, 50 and 100 μM baicalein by High-Throughput sequencing. Intriguingly, we observed that 20 and 39 miRNAs were accordingly up- and down-regulated through comparing Panc-1 cells exposed to 100 μM baicalein with the control group. Quantitative PCR analysis confirmed that miR-139-3p was the most up-regulated miRNA after baicalein treatment, while miR-196b-5p was the most down-regulated miRNA. Further studies showed that miR-139-3p induced, miR-196b-5p inhibited the apoptosis of Panc-1 cells via targeting NOB1 and ING5 respectively. In conclusion, we demonstrated that baicalein is a potent inhibitor against pancreatic cancer by modulating the expression of miR-139-3p or miR-196b-5p.

@@ -1,0 +1,465 @@
+URL: https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=classic
+Fetched: 2026-11-14
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+LiverTox: Clinical and Research Information on Drug-Induced Liver Injury \[Internet\]. Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases; 2012-.
+
+[![Cover of LiverTox](https://cdn.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/bookshelf/thumbs/th-livertox-lrg.png)](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/ "All Drug Records")
+
+## LiverTox: Clinical and Research Information on Drug-Induced Liver Injury \[Internet\].
+
+[Show details](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=classic#__NBK548757_dtls__)
+
+Bethesda (MD): [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/); 2012-.
+
+- [Drug Records](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/)
+
+Search term
+
+[![Clear input](https://www.ncbi.nlm.nih.gov/core/jig/1.15.2/img/clear.png)](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=classic#)
+
+# Skullcap
+
+Last Update: March 28, 2020.
+
+## OVERVIEW
+
+### Introduction
+
+Skullcap is Native American plant, the dried leaves and stems of which are used as an herbal medication and in teas to treat anxiety, stress and insomnia. Skullcap has been linked to several instances of clinically apparent liver injury, but usually in combination with other botanicals.
+
+### Background
+
+Skullcap is a flowering perennial plant native to North America (Scutellaria lateriflora) used for centuries by Native Americans to treat menstrual disorders, nervousness, digestive and kidney problems. The name skullcap refers to the flower’s resemblance to helmets worn by European soldiers. Skullcap was used formerly for nervous disorders, including hysteria, nervous tension, epilepsy and chorea. It is now used largely as a sedative and sleeping pill, often in combination with other herbs such as valerian. Skullcap extracts are prepared from the aerial parts of the Scutellaria lateriflora plant and contain large amounts of flavonoids, including scutellarin and baicalin, which are believed to be the active components accounting for its sedative and antispasmodic activity. It is thought that the flavonoid compounds may act as gamma amino butyric acid (GABA) agonists similar to the benzodiazepines. There are more than 200 species of Scutellaria which have different components and activities as well as potential toxicities. Skullcap is available as a powder to prepare in tea, as a liquid solution and in capsules. Scutellaria is listed as a component in many commercially available, over-the-counter herbal mixtures.
+
+### Hepatotoxicity
+
+Skullcap has been implicated in rare instances of clinically apparent liver injury, although in most cases multiple herbal medications were being taken and the role of skullcap in the hepatic damage was unclear. Furthermore, in some instances phytochemical analysis has identified significant adulterants (germander) or mislabeling in cases of suspected skullcap hepatotoxicity. In reported cases, the onset of symptoms and jaundice occurred within 1 to 12 weeks of starting skullcap, and the serum enzyme pattern was typically hepatocellular. Immunoallergic and autoimmune features were usually absent, although low titers of autoantibodies were not infrequent. Recovery was rapid once the herbal was discontinued, but some cases have resulted in acute liver failure. Chinese skullcap is a different species, but may also have adverse effects on the liver. There have been several reports and small case series of acute liver injury with jaundice arising after 1 to 3 months of starting herbals or dietary supplements with Chinese skullcap (Scutellaria baicalensis), the liver injury resembling that associated with North American skullcap (Scutellaria lateriflora).
+
+[Likelihood score](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/def-item/glossary.likelihood-score/): B (very likely but rare cause of clinically apparent liver injury).
+
+### Mechanism of Injury
+
+The mechanism of skullcap hepatotoxicity is not known.
+
+### Outcome and Management
+
+[Hepatotoxicity](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/def-item/glossary.hepatotoxicity/) from skullcap is rare, and is usually mild-to-moderate in severity and resolves rapidly once the botanical is stopped. At least one case of acute liver failure has been reported with skullcap, but there have been no instances of chronic liver disease, cirrhosis or vanishing bile duct syndrome linked to skullcap administration.
+
+Other Names: Blue pimpernel, Helmet flower, Hoodwort, Mad weed, Quaker bonnet, Scullcap, Scutellaria
+
+Drug Class: [Herbal and Dietary Supplements](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/HerbalDietarySuppl/)
+
+## CASE REPORT
+
+### Case 1. Acute hepatitis due to combination of skullcap and valerian.( [1](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=classic\#))
+
+A 53 year old woman developed worsening insomnia, anxiety and jaundice 4 weeks after starting an herbal preparation for sleep that contained skullcap (Scutellaria lateriflora) and valerian root (Valeriana officianalis) for sleep. She had no history of liver disease, alcohol abuse or risk factors for viral hepatitis. She took no other medications except for a cup of herbal tea 2 to 3 times weekly which contained chaparral leaf (Larrea tridentate), and rare use of other miscellaneous herbals. On examination, she was jaundiced but had no fever, rash or signs of chronic liver disease. Laboratory testing showed a serum bilirubin of 9.0 mg/dL with marked increases in serum aminotransferase levels ( [ALT](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/def-item/glossary.alanine-aminotransferase-alt-/) 1208 U/L, [AST](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/def-item/glossary.aspartate-aminotransferase-ast-/) 1082 U/L), and modest increase in alkaline phosphatase (298 U/L) and normal prothrombin time and serum albumin (Table). The white count and differential were normal. Tests for hepatitis A, B and C were negative as were autoantibodies. [Immunoglobulin](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/def-item/glossary.immunoglobulin/) levels revealed a slight increase in IgG (2240 mg/dL), but normal IgA and IgM. An anti-CMV IgM assay was positive, but urine cultures were negative and serial titers of anti-CMV were stable. Abdominal ultrasound showed no evidence of gallstones or biliary obstruction. A liver biopsy was not done. She was monitored on no therapy and improved steadily. One month later, the jaundice had resolved and 3 months after stopping the herbal, all liver tests were normal.
+
+#### Key Points
+
+[View in own window](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/table/Skullcap.Tc/?report=objectonly)
+
+| Medication: | Skullcap and valerian (4 capsules nightly) |
+| Pattern: | Hepatocellular (R=8.5) |
+| Severity: | 3+ (jaundice, hospitalization) |
+| [Latency](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/def-item/glossary.latency/): | 4 weeks |
+| Recovery: | 12 weeks |
+| Other medications: | None, except occasional herbal tea containing chaparral leaf |
+
+#### Laboratory Values
+
+[View in own window](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/table/Skullcap.Td/?report=objectonly)
+
+| Time After<br>Starting | Time After<br>Stopping | [ALT](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/def-item/glossary.alanine-aminotransferase-alt-/)<br>(U/L) | Alk P<br>(U/L) | [Bilirubin](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/def-item/glossary.bilirubin/)<br>(mg/dL) | Comments |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Started sleeping aid with skullcap and valerian root |
+| 4 weeks | 0 | 1208 | 298 | 9.0 | Admission, herbals stopped |
+| 8 weeks | 4 weeks | 161 |  | Normal |  |
+| 16 weeks | 12 weeks | Normal | Normal | Normal |  |
+| **Normal Values** | **<65** | **<136** | **<1.2** |  |
+
+#### Comment
+
+The case history is entirely compatible with drug induced liver injury caused by one of the several botanicals that she was taking. Skullcap (Scutellaria lateriflora) has been associated with cases of clinically apparent liver injury, but largely in association with other botanicals that have also been implicated in causing hepatotoxicity. Valerian has been reported to cause an acute hepatitis-like syndrome alone or in combination with skullcap, both of which have purported sedative qualities leading to their mixture in herbal preparations claimed to help sleep.
+
+## PRODUCT INFORMATION
+
+**REPRESENTATIVE TRADE NAMES**
+
+Skullcap – Generic
+
+**DRUG CLASS**
+
+Herbal and [Dietary Supplements](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/def-item/glossary.dietary-supplements/)
+
+## CHEMICAL FORMULA AND STRUCTURE
+
+[View in own window](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/table/Skullcap.Te/?report=objectonly)
+
+| DRUG | CAS REGISTRY NUMBER | MOLECULAR FORMULA | STRUCTURE |
+| --- | --- | --- | --- |
+| Skullcap | [94279-99-9](https://pubchem.ncbi.nlm.nih.gov/substance/135316960) | Herbal mixture | Not applicable |
+
+## CITED REFERENCE
+
+1.
+
+Caldwell SH, Feeley JW, Wieboldt TF, Featherston PL, Dickson RC. Acute hepatitis with use of over-the-counter herbal remedies. Va Med Q. 1994 Winter;121(1):31–3. \[ [PubMed: 8142493](https://pubmed.ncbi.nlm.nih.gov/8142493)\]
+
+## ANNOTATED BIBLIOGRAPHY
+
+References updated: 28 March 2020
+
+- Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999: pp. 731-4.
+
+_(Expert review of hepatotoxicity published in 1999; hepatotoxicity of herbals is discussed, but skullcap is not specifically mentioned)._
+
+- Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 631-58.
+
+_(Review of hepatotoxicity of herbal and dietary supplements \[HDS\])._
+
+- Scullcap. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc. 2007: pp. 739.
+
+_(Compilation of short monographs on herbal medications and dietary supplements)._
+
+- Harvey J, Colin-Jones DG. Mistletoe hepatitis. Br Med J(Clin Res Ed). 1981;282:186–7. \[ [PMC free article: PMC1503991](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1503991/)\] \[ [PubMed: 6779941](https://pubmed.ncbi.nlm.nih.gov/6779941)\]
+
+_(49 year old woman developed fatigue and abdominal pain on two occasions after a few weeks of taking an herbal containing mistletoe and skullcap \[bilirubin 2.5 mg/dL, ALT >250 U/L, Alk P 123 U/L\], resolving in 6-24 weeks, the authors attributed the injury to mistletoe)._
+
+- Mizoguchi Y, Miyajima K, Sakagami Y, Yamamoto S. Nippon Naika Gakkai Zasshi. 1986;75:1453–6. \[A severe case of drug-induced allergic hepatitis in herbal medicine\] Japanese. \[ [PubMed: 3805846](https://pubmed.ncbi.nlm.nih.gov/3805846)\]
+
+_(A 27 year old developed jaundice 6 weeks after taking Kinshigan, a Kampo herb with rapid recovery, but recurring with a more severe course 2 weeks after restarting \[bilirubin 28.5 mg/dL, ALT 166 U/L, Alk P 1.5 times ULN, 1% eosinophils\]; among 18 ingredients of the product was Scuttelariae radix)._
+
+- MacGregor FB, Abernethy VE, Dahabra S, Cobden I, Hayes PC. Hepatotoxicity of herbal remedies. BMJ. 1989;299:1156–7. \[ [PMC free article: PMC1838039](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838039/)\] \[ [PubMed: 2513032](https://pubmed.ncbi.nlm.nih.gov/2513032)\]
+
+_(Four cases of hepatitis attributed to herbals, all women, ages 41-57, developed jaundice 2 to 8 weeks after starting herbals for stress \[“Neurelax” and “Kalms”\] believed to contain skullcap and/or valerian \[bilirubin 13.5-28.3 mg/dL, ALT 293-1165 U/L, Alk P 97-730 U/L\], resolving 2-19 months after stopping)._
+
+- Miskelly FG, Goodyer LI. Hepatic and pulmonary complications of herbal medicines. Postgrad Med J. 1992;68:935. \[ [PMC free article: PMC2399476](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2399476/)\] \[ [PubMed: 1494520](https://pubmed.ncbi.nlm.nih.gov/1494520)\]
+
+_(77 year old woman developed fatigue followed by jaundice 6 months after starting an herbal product with comfrey and skullcap \[bilirubin 3.5 mg/dL, AST 520 U/L, Alk P 390 U/L\], resolving within 6 months of stopping)._
+
+- Bruseth S, Enge A. Tidsskr Nor Laegeforen. 1992;112:2389–90. \[Scullcap—liver damage. Mistletoe hepatitis\] Norwegian. \[ [PubMed: 1369618](https://pubmed.ncbi.nlm.nih.gov/1369618)\]
+
+_(Letter mentioning that mistletoe has been implicated in causing liver injury, but that the patient was also taking skullcap; mistletoe has been used in more than 30,000 cancer patients with no evidence of liver injury, although allergic reactions have been reported)._
+
+- Caldwell SH, Feeley JW, Wieboldt TF, Featherston PL, Dickson RC. Acute hepatitis with use of over-the-counter herbal remedies. Va Med Q. 1994;121:31–3. \[ [PubMed: 8142493](https://pubmed.ncbi.nlm.nih.gov/8142493)\]
+
+_(53 year old woman developed jaundice 4 weeks after starting an herbal for sleep containing skullcap and valerian given as 4 capsules nightly \[bilirubin 9 mg/dL, ALT 1208 U/L, Alk P 298 U/L, protime 13.5 sec\], resolving within 3 months of stopping: Case 1)._
+
+- Hullar TE, Sapers BL, Ridker PM, Jenkins RL, Huth TS, Farraye FA. Herbal toxicity and fatal hepatic failure. Am J Med. 1999;106:267–8. \[ [PubMed: 10230761](https://pubmed.ncbi.nlm.nih.gov/10230761)\]
+
+_(28 year old man developed jaundice after taking skullcap and pau d’arco for 6 months for his multiple sclerosis \[bilirubin 29.0 mg/dL, ALT 3917 U/L, Alk P 106 U/L, protime 20 seconds, ANA 1:640\], progressing to liver failure and liver transplant 5 weeks later, dying shortly thereafter; explant showed sinusoidal obstruction syndrome)._
+
+- Stickel F, Seitz HK, Hahn EG, Schuppan D. Z Gastroenterol. 2001;39:225–32, 234-7. \[Liver toxicity of drugs of plant origin\] German. \[ [PubMed: 11324140](https://pubmed.ncbi.nlm.nih.gov/11324140)\]
+
+_(Review of hepatotoxicity of botanicals including pyrrolizidine alkaloids, germander, celandine, chaparral, Chinese herbs and pennyroyal)._
+
+- Stedman C. Herbal hepatotoxicity. Semin Liver Dis. 2002;22:195–206. \[ [PubMed: 12016550](https://pubmed.ncbi.nlm.nih.gov/12016550)\]
+
+_(Review and description of patterns of liver injury, including discussion of potential risk factors, and herb-drug interactions; skullcap is listed as potentially causing veno-occlusive disease)._
+
+- Whiting PW, Clouston A, Kerlin P. Black cohosh and other herbal remedies associated with acute hepatitis. Med J Aust. 2002;177:440–3. \[ [PubMed: 12381254](https://pubmed.ncbi.nlm.nih.gov/12381254)\]
+
+_(6 cases of severe hepatitis in patients taking herbal medications, including one on black cohosh alone and 5 taking multiple herbals including skullcap \[n=3\], valerian \[n=2\], chaparral \[n=1\] and greater celandine \[n=1\] for 1-14 weeks, presenting with jaundice \[bilirubin 9.9-62.7 mg/dL, ALT 1293-3764 U/L, Alk P 80-219 U/L\], 1 on black cohosh alone requiring liver transplantation, the other 5 resolving in 7-25 weeks; 3 were treated with prednisone for prolonged cholestasis)._
+
+- Schiano TD. Hepatotoxicity and complementary and alternative medicines. Clin Liver Dis. 2003;7:453–73. \[ [PubMed: 12879994](https://pubmed.ncbi.nlm.nih.gov/12879994)\]
+
+_(Comprehensive review of herbal associated hepatotoxicity, including common patterns of presentation; mentions two reports of hepatotoxicity due to skullcap)._
+
+- Pittler MH, Ernest E. Systematic review: hepatotoxic events associated with herbal medicinal products. Aliment Pharmacol Ther. 2003;18:451–71. \[ [PubMed: 12950418](https://pubmed.ncbi.nlm.nih.gov/12950418)\]
+
+_(Systematic review of published cases of hepatotoxicity due to herbal medications listing 52 case reports or case series, most common agents being celandine \[3\], chaparral \[3\], germander \[8\], Jin Bu Huan \[3\], kava \[1\], Ma Huang \[3\], pennyroyal \[1\], skullcap \[2\], Chinese herbs \[9\], valerian \[1\])._
+
+- Estes JD, Stolpman D, Olyaei A, Corless CL, Ham JM, Schwartz JM, Orloff SL. High prevalence of potentially hepatotoxic herbal supplement use in patients with fulminant hepatic failure. Arch Surg. 2003;138:852–8. \[ [PubMed: 12912743](https://pubmed.ncbi.nlm.nih.gov/12912743)\]
+
+_(Among 20 patients undergoing liver transplantation for acute liver failure during 2001-2, 10 were potentially caused by herbals: 3 Ma Huang, 3 kava, 2 LipoKinetix, 1 chaparral, 1 skullcap and 2 miscellaneous Chinese herbs)._
+
+- Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl. 2004;10:1018–23. \[ [PubMed: 15390328](https://pubmed.ncbi.nlm.nih.gov/15390328)\]
+
+_(Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 \[0.5%\] were done for drug induced acute liver failure, including 7 \[5%\] for herbal medications, but skullcap not mentioned as a cause)._
+
+- Seeff LB. Herbal hepatotoxicity. Clin Liver Dis. 2007;11:577–96. \[ [PubMed: 17723921](https://pubmed.ncbi.nlm.nih.gov/17723921)\]
+
+_(Review of herbal induced hepatotoxicity, with a review of two reports of acute liver injury attributed to skullcap in the literature)._
+
+- García-Cortés M, Borraz Y, Lucena MI, Peláez G, Salmerón J, Diago M, Martínez-Sierra MC, et al. Rev Esp Enferm Dig. 2008;100:688–95. \[Liver injury induced by “natural remedies”: an analysis of cases submitted to the Spanish Liver Toxicity Registry\] Spanish. \[ [PubMed: 19159172](https://pubmed.ncbi.nlm.nih.gov/19159172)\]
+
+_(Among 521 cases of drug induced liver injury submitted to Spanish registry, 13 \[2%\] were due to herbals, but none were attributed to skullcap)._
+
+- Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J., Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology. 2008;135:1924–34. \[ [PMC free article: PMC3654244](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3654244/)\] \[ [PubMed: 18955056](https://pubmed.ncbi.nlm.nih.gov/18955056)\]
+
+_(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, 9% of cases were attributed to herbal medications, skullcap is not listed)._
+
+- Lin LZ, Harnly JM, Upton R. Comparison of the phenolic component profiles of skullcap (Scutellaria lateriflora) and germander (Teucrium canadense and T. chamaedrys), a potentially hepatotoxic adulterant. Phytochem Anal. 2009;20:298–306. \[ [PMC free article: PMC3583524](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3583524/)\] \[ [PubMed: 19402188](https://pubmed.ncbi.nlm.nih.gov/19402188)\]
+
+_(Herbal extracts of skullcap \[S. lateriflora\]) have occasionally been contaminated with germander \[T. chamaedrys\], but mass spectrometry can separate the two by demonstration of phenylethanoid components of germander)._
+
+- Navarro VJ. Herbal and dietary supplement hepatotoxicity. Semin Liver Dis. 2009;29:373–82. \[ [PubMed: 19826971](https://pubmed.ncbi.nlm.nih.gov/19826971)\]
+
+_(Overview of the regulatory environment, clinical patterns, and future directions in research with HDS; skullcap is not discussed)._
+
+- Morgan SL, Baggott JE, Moreland L, Desmond R, Kendrach AC. The safety of flavocoxid, a medical food, in the dietary management of knee osteoarthritis. J Med Food. 2009;12:1143–8. \[ [PMC free article: PMC2784890](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2784890/)\] \[ [PubMed: 19857081](https://pubmed.ncbi.nlm.nih.gov/19857081)\]
+
+_(Among 59 patients with osteoarthritis treated with flavocoxid \[a medical food that contains baicalin extracted from Scutellaria baicalensis\] vs placebo for 12 weeks, side effects were minor, and mean ALT or AST values did not change)._
+
+- Levy R, Khokhlov A, Kopenkin S, Bart B, Ermolova T, Kantemirova R, Mazurov V, Bell M, Caldron P, Pillai L, Burnett B. Efficacy and safety of flavocoxid compared with naproxen in subjects with osteoarthritis of the knee- a subset analysis. Adv Ther. 2010;27:953–62. \[ [PubMed: 20972845](https://pubmed.ncbi.nlm.nih.gov/20972845)\]
+
+_(Among 220 patients with osteoarthritis treated with flavocoxid \[a medical food that contains baicalin\] or naproxen for 12 weeks, rates of ALT elevations were similar and none were >5 times ULN or associated with symptoms or jaundice)._
+
+- Pillai L, Burnett BP, Levy RM., GOAL Study Cooperative Group. GOAL: multicenter, open-label, post-marketing study of flavocoxid, a novel dual pathway inhibitor anti-inflammatory agent of botanical origin. Curr Med Res Opin. 2010;26:1055–63. \[ [PubMed: 20225990](https://pubmed.ncbi.nlm.nih.gov/20225990)\]
+
+_(Among 1005 patients with osteoarthritis treated with flavocoxid \[a medical food that contains baicalin\] in an open label study, only one subject had liver test abnormalities, but no details given)._
+
+- Reuben A, Koch DG, Lee WM., Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology. 2010;52:2065–76. \[ [PMC free article: PMC3992250](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3992250/)\] \[ [PubMed: 20949552](https://pubmed.ncbi.nlm.nih.gov/20949552)\]
+
+_(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 \[11%\] were attributed to drug induced liver injury of which 12 \[9%\] were due to herbals, but none were attributed to skullcap)._
+
+- Linnebur SA, Rapacchietta OC, Vejar M. Hepatotoxicity associated with Chinese skullcap contained in Move Free Advanced dietary supplement: two case reports and review of the literature. Pharmacotherapy 2010; 3(7): 750, 258e-262e. \[ [PubMed: 20586134](https://pubmed.ncbi.nlm.nih.gov/20586134)\]
+
+_(Two patients developed liver injury within weeks of taking “Move Free Advanced”, which contains Chinese skullcap \[Scutellaria baicalensis\] for arthralgias, resolving upon stopping)._
+
+- Stickel F, Kessebohm K, Weimann R, Seitz HK. Review of liver injury associated with dietary supplements. Liver Int. 2011;31:595–605. \[ [PubMed: 21457433](https://pubmed.ncbi.nlm.nih.gov/21457433)\]
+
+_(Review of current understanding of liver injury from herbals and dietary supplements focusing upon herbalife and hydroxycut products, green tea, usnic acid, noni juice, Chinese herbs, vitamin A and anabolic steroids; skullcap is not discussed)._
+
+- Yang L, Aronsohn A, Hart J, Jensen D. Herbal hepatoxicity from Chinese skullcap: A case report. World J Hepatol. 2012;4:231–3. \[ [PMC free article: PMC3409358](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3409358/)\] \[ [PubMed: 22855699](https://pubmed.ncbi.nlm.nih.gov/22855699)\]
+
+_(78 year old woman developed jaundice 3 weeks after starting an herbal mixture of glucosamine, chondroitin, black catechu and Chinese skullcap \[Scutellaria baicalensis\] \[bilirubin 7.2 mg/dL, ALT 1626 U/L, Alk P 354 U/L\], resolving on stopping and recurring within 2 weeks of restarting)._
+
+- Kwon H, Lee SH, Kim SE, Lee JH, Jee YK, Kang HR, Park BJ, et al. Spontaneously reported hepatic adverse drug events in Korea: multicenter study. J Korean Med Sci. 2012;27:268–73. \[ [PMC free article: PMC3286773](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3286773/)\] \[ [PubMed: 22379337](https://pubmed.ncbi.nlm.nih.gov/22379337)\]
+
+_(Among 9360 drug adverse reports made during 2007 and 2008 to a Korean pharmacovigilance center, 567 were hepatic of which only 3 were due to herbal medications, specific ingredients of which were not given)._
+
+- Chalasani N, Vuppalanchi R, Navarro V, Fontana R, Bonkovsky H, Barnhart H, Kleiner DE, et al. Acute liver injury due to flavocoxid (Limbrel), a medical food for osteoarthritis: a case series. Ann Intern Med. 2012;156:857–60. \[ [PMC free article: PMC3825458](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3825458/)\] \[ [PubMed: 22711078](https://pubmed.ncbi.nlm.nih.gov/22711078)\]
+
+_(Flavocoxid, a medical food that contains Scutelleria baicalensis and Acacia catechu, was implicated in 4 cases of clinically apparent liver injury in women, ages 57 to 68 years, arising within 1-3 months of starting \[bilirubin 2.0-20.8 mg/dL, ALT 741-1540 U/L, Alk P 286-770 U/L\], resolving within 1-3 months of stopping)._
+
+- Teschke R, Wolff A, Frenzel C, Schulze J, Eickhoff A. Herbal hepatotoxicity: a tabular compilation of reported cases. Liver Int. 2012;32:1543–56. \[ [PubMed: 22928722](https://pubmed.ncbi.nlm.nih.gov/22928722)\]
+
+_(A systematic compilation of all publications on the hepatotoxicity of specific herbals identified 185 publications on 60 different herbs, including 4 reports that mention skullcap: MacGregor \[1989\], Calwell \[1994\], Hullar \[1999\], Estes \[2003\])._
+
+- Bunchorntavakul C, Reddy KR. Review article: herbal and dietary supplement hepatotoxicity. Aliment Pharmacol Ther. 2013;37:3–17. \[ [PubMed: 23121117](https://pubmed.ncbi.nlm.nih.gov/23121117)\]
+
+_(Review of literature on hepatotoxicity due to herbals and dietary supplements; skullcap is mentioned, but not specifically discussed)._
+
+- Dhanasekaran R, Owens V, Sanchez W. Chinese skullcap in move free arthritis supplement causes drug induced liver injury and pulmonary infiltrates. Case Reports Hepatol. 2013;2013:965092\.  \[ [PMC free article: PMC4238172](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4238172/)\] \[ [PubMed: 25431706](https://pubmed.ncbi.nlm.nih.gov/25431706)\]
+
+_(62 year old woman developed pneumonitis and jaundice 2-3 weeks after starting Move Free, a supplement that contained glucosamine, chondroitin, MSM, skullcap and black catechu \[bilirubin 2.9 rising to 6.9 mg/dL, ALT 700 U/L, Alk P 250 U/L\], worsening for 2 weeks and then resolving 4-8 weeks after stopping)._
+
+- Björnsson ES, Bergmann OM, Björnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology. 2013;144:1419–25. \[ [PubMed: 23419359](https://pubmed.ncbi.nlm.nih.gov/23419359)\]
+
+_(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including 15 \[16%\] due to herbal and dietary supplements, none of which were attributed to skullcap)._
+
+- Teschke R, Genthner A, Wolff A, Frenzel C, Schulze J, Eickhoff A. Herbal hepatotoxicity: Analysis of cases with initially reported positive re-exposure tests. Dig Liver Dis. 2014;46:264–9. \[ [PubMed: 24315480](https://pubmed.ncbi.nlm.nih.gov/24315480)\]
+
+_(Reanalysis of 34 published cases of liver injury due to herbal medications in which there was a reported positive rechallenge, finding only 21 \[62%\] fulfilled the criteria of a positive rechallenge using RUCAM, the others having inconsistent \[18%\] or incomplete data \[21%\]; among 2 cases attributed to skullcap, the response to reexposure was scored as negative)._
+
+- Navarro VJ, Barnhart H, Bonkovsky HL, Davern T, Fontana RJ, Grant L, Reddy KR, et al. Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network. Hepatology. 2014;60:1399–408. \[ [PMC free article: PMC4293199](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4293199/)\] \[ [PubMed: 25043597](https://pubmed.ncbi.nlm.nih.gov/25043597)\]
+
+_(Among 85 cases of HDS associated liver injury \[not due to anabolic steroids\] enrolled in a US prospective study between 2004 and 2013, skullcap was not specifically implicated in any case)._
+
+- Woo HJ, Kim HY, Choi ES, Cho YH, Kim Y, Lee JH, Jang E. Drug-induced liver injury: A 2-year retrospective study of 1169 hospitalized patients in a single medical center. Phytomedicine. 2015;22:1201–5. \[ [PubMed: 26598920](https://pubmed.ncbi.nlm.nih.gov/26598920)\]
+
+_(Over a 2.5 year period and among 1169 hospitalized patients at a Korean medical center, 3 cases of liver injury possibly due to Scutellariae Radix were identified, all 3 hepatocellular arising after 33-48 days)._
+
+- Seeff LB, Bonkovsky HL, Navarro VJ, Wang G. Herbal products and the liver: a review of adverse effects and mechanisms. Gastroenterology. 2015;148:517–532.e3. \[ [PubMed: 25500423](https://pubmed.ncbi.nlm.nih.gov/25500423)\]
+
+_(Extensive review of possible beneficial as well as harmful effects of herbal products on the liver lists skullcap as a potential cause of cholestasis and acute liver failure)._
+
+- Papafragkakis C, Ona MA, Reddy M, Anand S. Acute hepatitis after ingestion of a preparation of Chinese skullcap and black catechu for joint pain. Case Reports Hepatol. 2016;2016:4356749\.  \[ [PMC free article: PMC4842037](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4842037/)\] \[ [PubMed: 27144042](https://pubmed.ncbi.nlm.nih.gov/27144042)\]
+
+_(54 year old woman developed pruritus, diarrhea and jaundice 2-4 weeks after starting skullcap and black catechu for joint pains \[bilirubin 12.8 mg/dL, ALT 2312 U/L, Alk P 285 U/L, INR 1.0\], resolving upon stopping the supplement)._
+
+- García-Cortés M, Robles-Díaz M, Ortega-Alonso A, Medina-Caliz I, Andrade RJ. Hepatotoxicity by dietary supplements: A tabular listing and clinical characteristics. Int J Mol Sci. 2016;17:537. \[ [PMC free article: PMC4848993](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4848993/)\] \[ [PubMed: 27070596](https://pubmed.ncbi.nlm.nih.gov/27070596)\]
+
+_(Listing of published cases of liver injury from HDS products, but does not list or discuss skullcap)._
+
+- Brown AC. Liver toxicity related to herbs and dietary supplements: Online table of case reports. Part 2 of 5 series. Food Chem Toxicol 2017; 107 (Pt A): 472-501. \[ [PubMed: 27402097](https://pubmed.ncbi.nlm.nih.gov/27402097)\]
+
+_(Description of an online compendium of cases of liver toxicity attributed to HDS products, 2 reports of liver injury attributed to Scutellaria lateriflora \[Estes 2003\]\[Hullar 1999\])._
+
+- Wong LL, Lacar L, Roytman M, Orloff SL. Urgent liver transplantation for dietary supplements: an under-recognized problem. Transplant Proc. 2017;49:322–5. \[ [PubMed: 28219592](https://pubmed.ncbi.nlm.nih.gov/28219592)\]
+
+_(Among 2048 adult liver transplants recipients enrolled in the Scientific Registry of Transplant Recipients \[SRTR\] between 2003 and 2015, 625 were done for acute hepatic necrosis due to drug induced liver injury, half being due to acetaminophen and the 4th most frequent cause \[n=21\] being HDS products, but specific ingredients were not listed; skullcap is mentioned as a cause of acute liver failure as documented in the literature \[Estes 2003\])._
+
+- de Boer YS, Sherker AH. Herbal and dietary supplement-induced liver injury. Clin Liver Dis. 2017;21:135–49. \[ [PMC free article: PMC5117680](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5117680/)\] \[ [PubMed: 27842768](https://pubmed.ncbi.nlm.nih.gov/27842768)\]
+
+_(Review of the frequency, clinical features, patterns of injury and outcomes of HDS hepatotoxicity with specific mention of anabolic steroids, black cohosh, Chinese skullcap, germander, green tea, kava, pyrrolizidine alkaloids and proprietary multiingredient nutrition supplements \[MINS\])._
+
+- Shimada Y, Fujimoto M, Nogami T, Watari H, Kitahara H, Misawa H, Kimbara Y, Kita KI. Recurrent drug-induced liver injury caused by the incidental readministration of a Kampo Formula containing Scutellariae radix. Intern Med. 2018;57:1733–40. \[ [PMC free article: PMC6047989](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6047989/)\] \[ [PubMed: 29434136](https://pubmed.ncbi.nlm.nih.gov/29434136)\]
+
+_(67 year old woman had two episodes of liver injury having received different Kampo herbal regimens both of which contained Scuttellariae radix \[bilirubin 1.1 and 1.3 mg/dL, ALT 139 and 880 U/L and Alk P 362 and 691 U/L\], resolving rapidly each time upon stopping the herbal mixtures)._
+
+- Wang ZL, Wang S, Kuang Y, Hu ZM, Qiao X, Ye M. A comprehensive review on phytochemistry, pharmacology, and flavonoid biosynthesis of Scutellaria baicalensis. Pharm Biol. 2018;56:465–84. \[ [PMC free article: PMC6292351](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6292351/)\] \[ [PubMed: 31070530](https://pubmed.ncbi.nlm.nih.gov/31070530)\]
+
+_(Extensive review of the chemical composition, in vitro activities of Scutellaria baicalensis with discussion of the in vitro and in vivo evidence for its potential antibacterial, antiviral, antiinflammatory, antitumor, antioxidant and hepato- and neuro-protective activities; no discussion of toxicities)._
+
+- Braude MR, Bassily R. Drug-induced liver injury secondary to Scutellaria baicalensis (Chinese skullcap). Intern Med J. 2019;49:544–6. \[ [PubMed: 30957370](https://pubmed.ncbi.nlm.nih.gov/30957370)\]
+
+_(51 year old man developed abdominal pain followed by jaundice 10 days after starting a herbal supplement that contained Scutellariae baicalensis \[400 mg\] \[bilirubin 2.6 rising to 24.0 mg/dL, ALT 147 U/L, Alk P 147 U/L, INR 1.0\], worsening for 3 weeks but then resolving within 12 weeks of stopping)._
+
+- Puri BK, White N, Monro JA. The effect of supplementation with Scutellaria baicalensis on hepatic function. Med Hypotheses. 2019;133:109402\.  \[ [PubMed: 31557595](https://pubmed.ncbi.nlm.nih.gov/31557595)\]
+
+_(The authors review the literature on hepatotoxicity of Scutellaria baicalensis \[Chinese skullcap\] and conclude that there is no convincing evidence that it causes liver injury)._
+
+- Zhao T, Tang H, Xie L, Zheng Y, Ma Z, Sun Q, Li X. Scutellaria baicalensis Georgi. (Lamiaceae): a review of its traditional uses, botany, phytochemistry, pharmacology and toxicology. J Pharm Pharmacol. 2019;71:1353–69. \[ [PubMed: 31236960](https://pubmed.ncbi.nlm.nih.gov/31236960)\]
+
+_(Review of the chemistry, clinical uses and toxicity of Scutellaria Baicalensis, a major ingredient in many traditional Chinese medicines, which contains more than 40 compounds including flavonoids \[baicalin, mogonin\], terpenoids, volatile acids and polysaccharides, used for liver protection, and treatment of diarrhea, vomiting, and high blood pressure, known as Huang Qin \[yellow reed\]; “there is no obvious adverse reaction in the oral preparation of Scutellaria baicalensis”, but it may cause stomach discomfort, diarrhea and other minor symptoms in some patients)._
+
+
+[Copyright Notice](https://www.ncbi.nlm.nih.gov/sites/books/about/copyright/)
+
+Bookshelf ID: NBK548757PMID: [31644066](https://pubmed.ncbi.nlm.nih.gov/31644066 "PubMed record of this page")
+
+[Drug Records](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/)
+
+[Share](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=classic#)
+
+### Views
+
+[Show/hide content](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=classic# "Show/hide content")
+
+- [PubReader](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=reader)
+- [Print View](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=printable)
+- [Cite this Page](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=classic#_ncbi_dlg_citbx_NBK548757)
+- [PDF version of this page](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/pdf/Bookshelf_NBK548757.pdf) (130K)
+- [Disable Glossary Links](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=classic# "Enable/disable links to the glossary")
+
+### New and Updated
+
+[Show/hide content](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=classic# "Show/hide content")
+
+- [In PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22LiverTox%22+AND+pmcbook&sort=date&size=200)
+
+### Bulk Download
+
+[Show/hide content](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=classic# "Show/hide content")
+
+- [Bulk download LiverTox data from FTP](https://ftp.ncbi.nlm.nih.gov/pub/litarch/29/31/)
+
+### Overviews
+
+[Show/hide content](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=classic# "Show/hide content")
+
+- [Introduction](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/intro/)
+- [Clinical Course](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/ClinicalCourse/)
+- [Clinical Outcomes](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/ClinicalOutcome/)
+- [Immune Features](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/ImmuneFeatures/)
+- [Phenotypes](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/Phenotypes_intro/)
+- [Causality](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/Causality/)
+- [Likelihood Scale](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/DrugCategory/)
+- [Severity Grading](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/Severity/)
+- [Writing a Case Report](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/CaseReport/)
+
+### Support Links
+
+[Show/hide content](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=classic# "Show/hide content")
+
+- [LiverTox Homepage](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/)
+- [Master List of LiverTox Drugs \[with Metadata\]](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/masterlistintro/)
+- [LiverTox Drugs by Drug Class](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/drugliverinjury/)
+- [About LiverTox](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/aboutus/)
+- [New in LiverTox - Last updated 05 Nov 2026](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/updates/)
+- [Editors and Review Committee](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/editorsandreviewers/)
+- [Meetings and News](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/alert/)
+- [Abbreviations Used](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/abbreviation/)
+- [Glossary](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/)
+- [Information Resources](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/resource/)
+- [User/Medical Advice Disclaimer](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/disclaimer/)
+- [Contact Us](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/Contactus/)
+
+### OTHER REFERENCE LINKS
+
+[Show/hide content](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=classic# "Show/hide content")
+
+- [Recent References on Skullcap: from PubMed.gov](https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&pubmedfilters=true&term=Skullcap+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D))
+- [Trials on Skullcap: from ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?term=Skullcap)
+
+### Related information
+
+[Show/hide content](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=classic# "Show/hide content")
+
+- [PMC](https://www.ncbi.nlm.nih.gov/books/?Db=pmc&DbFrom=books&Cmd=Link&LinkName=books_pmc_refs&IdsFromResult=4860952)
+PubMed Central citations
+
+- [PubChem Substance](https://www.ncbi.nlm.nih.gov/books/?Db=pcsubstance&DbFrom=books&Cmd=Link&LinkName=books_pcsubstance&IdsFromResult=4860952)
+Related PubChem Substances
+
+- [PubMed](https://www.ncbi.nlm.nih.gov/books/?Db=pubmed&DbFrom=books&Cmd=Link&LinkName=books_pubmed_refs&IdsFromResult=4860952)
+Links to PubMed
+
+
+### Similar articles in PubMed
+
+[Show/hide content](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=classic# "Show/hide content")
+
+- [Review Bacopa monnieri.](https://www.ncbi.nlm.nih.gov/pubmed/38718157)\[LiverTox: Clinical and Researc...\]
+Review Bacopa monnieri.
+
+_._ _LiverTox: Clinical and Research Information on Drug-Induced Liver Injury. 2012_
+
+- [Review Buchu.](https://www.ncbi.nlm.nih.gov/pubmed/37011126)\[LiverTox: Clinical and Researc...\]
+Review Buchu.
+
+_._ _LiverTox: Clinical and Research Information on Drug-Induced Liver Injury. 2012_
+
+- [Insights into skullcap herb-induced liver injury.](https://www.ncbi.nlm.nih.gov/pubmed/38495279)\[World J Hepatol. 2024\]
+Insights into skullcap herb-induced liver injury.
+
+_Soldera J._ _World J Hepatol. 2024 Feb 27; 16(2):120-122._
+
+- [Drug induced autoimmune hepatitis: An unfortunate case of herbal toxicity from Skullcap supplement: A case report.](https://www.ncbi.nlm.nih.gov/pubmed/38223420)\[World J Hepatol. 2023\]
+Drug induced autoimmune hepatitis: An unfortunate case of herbal toxicity from Skullcap supplement: A case report.
+
+_Thakral N, Konjeti VR, Salama FW._ _World J Hepatol. 2023 Dec 27; 15(12):1333-1337._
+
+- [Characterization of chemical ingredients and anticonvulsant activity of American skullcap (Scutellaria lateriflora).](https://www.ncbi.nlm.nih.gov/pubmed/18786819)\[Phytomedicine. 2009\]
+Characterization of chemical ingredients and anticonvulsant activity of American skullcap (Scutellaria lateriflora).
+
+_Zhang Z, Lian XY, Li S, Stringer JL._ _Phytomedicine. 2009 May; 16(5):485-93. Epub 2008 Sep 10._
+
+
+[See reviews...](https://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=link&linkname=pubmed_pubmed_reviews&uid=31644066) [See all...](https://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=link&linkname=pubmed_pubmed&uid=31644066)
+
+### Recent Activity
+
+[Show/hide content](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=classic# "Show/hide content")
+
+ClearTurn OffTurn On
+
+- [Skullcap - LiverTox](https://www.ncbi.nlm.nih.gov/portal/utils/pageresolver.fcgi?recordid=6af93f63ed261e63e520fa4f)
+Skullcap - LiverTox
+
+
+Your browsing activity is empty.
+
+Activity recording is turned off.
+
+Turn recording back on
+
+[See more...](https://www.ncbi.nlm.nih.gov/sites/myncbi/recentactivity)
+
+[Preferences](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=classic#) [Turn off](https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=classic#)
+
+External link. Please review our [privacy policy](https://www.nlm.nih.gov/privacy.html).
+
+Cite this PageClose
+
+LiverTox: Clinical and Research Information on Drug-Induced Liver Injury \[Internet\]. Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases; 2012-. Skullcap. \[Updated 2020 Mar 28\]. Available from: https://www.ncbi.nlm.nih.gov/sites/books/NBK548757/?report=classic
+
+Making content easier to read in BookshelfClose
+
+We are experimenting with display styles that make it easier to read books and documents in Bookshelf. Our first effort uses ebook readers, which have several "ease of reading" features already built in.
+
+The content is best viewed in the _iBooks reader_. You may notice problems with the display of some features of books or documents in other eReaders.
+
+CancelDownload
+
+Share
+
+- Share on Facebook
+- Share on Twitter
+
+URL

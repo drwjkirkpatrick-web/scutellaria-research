@@ -1,0 +1,12 @@
+PMID: 41847306
+Title: Baicalin as a Multifunctional Regulator of Gut Health: Integrative Mechanisms Involving Inflammation, Barrier Integrity, and Gut-Organ Axis.
+Authors: Zhu, Weiyu, Jia, Chaoyi, Fei, Tianyuan, Chen, Zhaoyue, Lin, Zhanyu, Pan, Yu, Ma, Guobing, Ma, Fengjun
+Journal: Drug design, development and therapy
+ISOAbbrev: Drug Des Devel Ther
+Year: 2026
+Volume: 20  Issue:   Pages: 585486
+DOI: 10.2147/DDDT.S585486
+URL: https://pubmed.ncbi.nlm.nih.gov/41847306/
+Fetched: 2026-11-14 via NCBI E-utilities (efetch db=pubmed)
+--- Abstract ---
+Intestinal health is sustained by coordinated control of mucosal immunity, epithelial barrier integrity, and the gut microbiota and its metabolites. Disruption of these tightly coupled systems contributes to a wide spectrum of disorders, ranging from infectious enteritis and inflammatory bowel disease (IBD) to ischemia-reperfusion injury and metabolic dysfunction with extra-intestinal sequelae. Baicalin (BAI), a major flavonoid from Scutellaria baicalensis, has emerged as a multi-level regulator of gut homeostasis. Across diverse preclinical models, BAI attenuates inflammatory signaling and frequently converges on NF-κB-centered networks; it also rebalances immune responses by modulating macrophage polarization and T-cell subsets, limits oxidative and ferroptotic damage through cytoprotective programs, and restores barrier function by preserving tight junctions and mucus-layer defenses. In parallel, BAI remodels microbial community structure and microbial metabolites, including short-chain fatty acids and bile-acid signaling, providing a plausible basis for benefits along gut-organ axes such as the gut-liver and gut-metabolic axes. This review integrates mechanistic evidence across these three pillars and highlights key translational gaps, including limited oral bioavailability, incomplete causal validation of proposed targets, and the need to disentangle BAI from active metabolites. We further discuss derivative design, formulation, and combination strategies to improve exposure and accelerate clinical translation.

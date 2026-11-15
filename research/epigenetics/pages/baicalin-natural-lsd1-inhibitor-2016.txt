@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/27814566/
+TITLE: Baicalin, a natural LSD1 inhibitor.
+AUTHORS: Yi-Chao Zheng; Dan-Dan Shen; Meng Ren; Xue-Qi Liu; Zhi-Ru Wang; Ying Liu; Qian-Na Zhang; Li-Juan Zhao
+JOURNAL: Bioorganic chemistry
+YEAR: 2016
+VOL_PAGES: 69; 129-131
+DOI: 10.1016/j.bioorg.2016.10.004
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Baicalin is one of the active ingredients in the skullcap, with a variety of pharmacological effects, such as blood pressure reduction, sedation, liver-protection, gallbladder-protection, anti-bacteria, and anti-inflammation. In our study, baicalin was first characterized as a LSD1 inhibitor with an IC50 of 3.01μM and showed strong LSD1 inhibitory effect in cells. Baicalin may serve as a template for designing flavone-based LSD1 inhibitors.

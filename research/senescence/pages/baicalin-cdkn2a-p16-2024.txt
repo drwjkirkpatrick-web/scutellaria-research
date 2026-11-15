@@ -1,0 +1,11 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/38941045/
+Accessed: 2026-11-14
+Title: Baicalin Prevents Colon Cancer by Suppressing CDKN2A Protein Expression.
+Journal: Chinese journal of integrative medicine
+Year: 2024
+---
+
+OBJECTIVE: To observe the therapeutic effects and underlying mechanism of baicalin against colon cancer.
+METHODS: The effects of baicalin on the proliferation and growth of colon cancer cells MC38 and CT26. WT were observed and predicted potential molecular targets of baicalin for colon cancer therapy were studied by network pharmacology. Furthermore, molecular docking and drug affinity responsive target stability (DARTS) analysis were performed to confirm the interaction between potential targets and baicalin. Finally, the mechanisms predicted by in silico analyses were experimentally verified in-vitro and in-vivo.
+RESULTS: Baicalin significantly inhibited proliferation, invasion, migration, and induced apoptosis in MC38 and CT26 cells (all P<0.01). Additionally, baicalin caused cell cycle arrest at the S phase, while the G0/G1 phase was detected in the tiny portion of the cells. Subsequent network pharmacology analysis identified 6 therapeutic targets associated with baicalin, which potentially affect various pathways including 39 biological processes and 99 signaling pathways. In addition, molecular docking and DARTS predicted the potential binding of baicalin with cyclin dependent kinase inhibitor 2A (CDKN2A), protein kinase B (AKT), caspase 3, and mitogen-activated protein kinase (MAPK). In vitro, the expressions of CDKN2A, MAPK, and p-AKT were suppressed by baicalin in MC38 and CT26 cells. In vivo, baicalin significantly reduced the tumor size and weight (all P<0.01) in the colon cancer mouse model via inactivating p-AKT, CDKN2A, cyclin dependent kinase 4, cyclin dependent kinase 2, interleukin-1, tumor necrosis factor α, and activating caspase 3 and mouse double minute 2 homolog signaling (all P<0.05).
+CONCLUSION: Baicalin suppressed the CDKN2A protein level to prevent colon cancer and could be used as a therapeutic target for colon cancer.

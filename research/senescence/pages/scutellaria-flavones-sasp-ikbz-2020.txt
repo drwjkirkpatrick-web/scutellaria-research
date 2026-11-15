@@ -1,0 +1,12 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/32554301/
+Accessed: 2026-11-14
+Title: Flavonoids from Scutellaria baicalensis inhibit senescence-associated secretory phenotype production by interrupting IκBζ/C/EBPβ pathway: Inhibition of age-related inflammation.
+Journal: Phytomedicine : international journal of phytotherapy and phytopharmacology
+Year: 2020
+---
+
+BACKGROUND: Prolonged exposure to the senescence-associated secretory phenotype (SASP) with age leads to chronic low-grade inflammation in neighboring cells and tissues, causing many chronic degenerative diseases.
+PURPOSE: The effects on SASP production of the ethanol extract from Scutellaria radix and 17 isolated flavonoid constituents were examined in vitro and in vivo.
+METHODS: Cellular senescence was induced by bleomycin. Expression of the SASP and cell signaling molecules was detected using ELISA, RT-qPCR, Western blotting, and immunofluorescence staining. To investigate the in vivo effects, 21-month-old aged rats were used.
+RESULTS: The ethanol extract and 5 compounds including 1 (Oroxylin A; 5,7-dihydroxy-6-methoxyflavone), 5 (2',6',5,7-tetrahydroxy-8-methoxyflavone), 8 (2',5,7-trihydroxyflavone), 10 (2',5,7-trihydroxy-8-methoxyflavone) and 11 (2',5,7-trihydroxy-6-methoxyflavone) potently reduced IL-6 and IL-8 production and gene expression of the SASP, including IL-1α, IL-1β, IL-6, IL-8, GM-CSF, CXCL1, MCP-2, and MMP-3. This finding indicates the important role of the B-ring 2'‑hydroxyl group in flavonoid molecules. Furthermore, compounds 8 and 11, the strongest SASP inhibitors, decreased the expression of IκBζ and C/EBPβ protein without affecting either BrdU uptake or the expression of senescence markers, such as pRb and p21. Finally, the oral administration of compound 8 to aged rats at 2 and 4 mg/kg/day for 10 days significantly inhibited the gene expression of SASP and IκBζ in kidneys. This is the first report of the strong SASP inhibitory action of flavonoids from Scutellaria radix on in vitro and in vivo senescence models. The inhibitory action was shown to be mediated mainly by interfering with the IκBζ/C/EBPβ signaling pathway.
+CONCLUSION: Targeting production of the SASP using flavonoids from Scutellaria radix or its extract might help reduce low-grade sterile inflammation and control age-related diseases.

@@ -1,0 +1,12 @@
+PMID: 34156161
+Title: Safety, tolerability, and pharmacokinetics of oral baicalein tablets in healthy Chinese subjects: A single-center, randomized, double-blind, placebo-controlled multiple-ascending-dose study.
+Authors: Li, Lijun, Gao, Hongzhi, Lou, Kun, Luo, Hongmei, Hao, Sheng, Yuan, Jing, Liu, Zeyuan, Dong, Ruihua
+Journal: Clinical and translational science
+ISOAbbrev: Clin Transl Sci
+Year: 2021
+Volume: 14  Issue: 5  Pages: 2017-2024
+DOI: 10.1111/cts.13063
+URL: https://pubmed.ncbi.nlm.nih.gov/34156161/
+Fetched: 2026-11-14 via NCBI E-utilities (efetch db=pubmed)
+--- Abstract ---
+Baicalein is a biologically important flavonoid in extracted from the Scutellaria baicalensis Georgi, which can effectively inhibit the influenza virus. This study aimed to analyze the safety and pharmacokinetic (PK) characteristics of baicalein tablets in healthy Chinese subjects and provide more information for phase II clinical trials. In this multiple-ascending-dose placebo-controlled trial, 36 healthy subjects were randomized to receive 200, 400, and 600 mg of baicalein tablet or placebo once daily on day 1 and day 10, 3 times daily on days 4-9. All groups were intended to produce safety and tolerability outcomes (lowest dose first). Blood and urine samples were collected from subjects in the 600 mg group for baicalein PK analysis. Our study had shown that Baicalein tablet was generally safe and well-tolerated. All adverse events were mild and resolved without any intervention except one case of fever reported in the 600 mg group, which was considered as moderate but not related with baicalein as judged by the investigator. Oral baicalein tablets were rapidly absorbed with peak plasma levels being reached within 2 h after multiple administration. The highest urinary excretion of baicalein and its metabolites peaked in 2 h, followed by 12 h, with a double peak trend.

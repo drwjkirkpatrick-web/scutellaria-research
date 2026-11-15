@@ -1,0 +1,12 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/41075517/
+Accessed: 2026-11-14
+Title: Baicalein Induces Hepatic Stellate Cell Senescence and Attenuates Liver Fibrosis via CEBPZ/p53/HK2-Mediated Glycolysis Inhibition.
+Journal: Phytomedicine : international journal of phytotherapy and phytopharmacology
+Year: 2025
+---
+
+BACKGROUND: Liver fibrosis progresses to life-threatening cirrhosis, yet effective therapies remain limited. Baicalein (BA), a bioactive flavonoid, shows anti-tumor potential but its anti-liver-fibrotic efficacy is completely unexplored.
+PURPOSE: This study aimed to investigate the anti-liver-fibrotic efficacy of BA and elucidate its underlying molecular mechanisms.
+METHODS: We employed carbon tetrachloride (CCl4)-induced fibrotic mice and transforming growth factor-β1-activated LX-2 human hepatic stellate cells (HSC). Comprehensive assessments included: serum biochemical analysis, histopathological examination, immunofluorescence/immunohistochemistry, the analysis of cell senescence staining, glycolytic flux assays, the assessment of the target of BA and the validation of liquid-liquid phase separation (LLPS).
+RESULTS: BA significantly attenuated liver injury (AST and AST decreasing, P < 0.001), inflammation (interleukin-6, interleukin-8 and tumor necrosis factor-alpha decreasing, P < 0.001) and collagen deposition (P < 0.001) in fibrotic mice. In activated HSCs, BA suppressed cellular activation while inducing senescence through G1-phase cell cycle arrest (P < 0.001) and glycolysis inhibition (lactate decreasing: P < 0.001). Mechanistically, BA directly bound to CEBPZ, suppressing its LLPS and subsequently enhancing TP53 transcription. This activation of the p53/HK2 axis drove HSCs senescence and attenuated fibrosis. Critically, pharmacological inhibition of p53 with pifithrin-α hydrobromide abolished BA's anti-fibrotic effects. BA's anti-fibrotic efficacy was entirely lost in CEBPZ-knockdown models (P > 0.05), confirming the essentiality and novelty of this target.
+CONCLUSION: Our study revealed, for the first time, that BA ameliorated liver fibrosis by directly targeting CEBPZ, disrupting its LLPS, and activating the p53/HK2 axis to induce HSC senescence. This work uncovered a novel plant-derived therapeutic strategy targeting a previously unrecognized CEBPZ-LLPS/p53/HK2 mechanism in hepatic fibrosis.

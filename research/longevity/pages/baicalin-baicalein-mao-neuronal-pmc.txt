@@ -1,0 +1,591 @@
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/
+Fetched: 2026-11-14 via web_extract (PMC full text; CNS Neurosci Ther 2024;30(5):e14740; PMID 38715318; PMCID PMC11076983)
+
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#main-content)
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** (
+Lock
+Locked padlock icon
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+[Home](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg)![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+Search PMC Full-Text Archive
+
+Search in PMC![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg)
+
+- [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+- [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+- ![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg)
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)](https://doi.org/10.1111/cns.14740) View on publisher site
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/pdf/CNS-30-e14740.pdf) Download PDF
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Add to Collections
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg)
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+
+Learn more:
+[PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/)
+\|
+[PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![CNS Neuroscience & Therapeutics logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-cnsneurosci.jpg)
+
+CNS Neurosci Ther
+
+. 2024 May 7;30(5):e14740. doi: [10.1111/cns.14740](https://doi.org/10.1111/cns.14740)
+
+# Baicalin and baicalein from  _Scutellaria baicalensis_  Georgi alleviate aberrant neuronal suppression mediated by GABA from reactive astrocytes
+
+[Juyeong Cho](https://pubmed.ncbi.nlm.nih.gov/?term=%22Cho%20J%22[Author])
+
+### Juyeong Cho
+
+1Center for Brain Function, Brain Science Institute, Korea Institute of Science and Technology (KIST), Seoul, Republic of Korea
+
+Find articles by [Juyeong Cho](https://pubmed.ncbi.nlm.nih.gov/?term=%22Cho%20J%22[Author])
+
+1, [Eun‐Bin Hong](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hong%20EB%22[Author])
+
+### Eun‐Bin Hong
+
+1Center for Brain Function, Brain Science Institute, Korea Institute of Science and Technology (KIST), Seoul, Republic of Korea
+
+Find articles by [Eun‐Bin Hong](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hong%20EB%22[Author])
+
+1, [Young‐Sik Kim](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kim%20YS%22[Author])
+
+### Young‐Sik Kim
+
+2Department of Herbology, College of Korean Medicine, Woosuk University, Jeonju‐si, Republic of Korea
+
+Find articles by [Young‐Sik Kim](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kim%20YS%22[Author])
+
+2, [Jungbin Song](https://pubmed.ncbi.nlm.nih.gov/?term=%22Song%20J%22[Author])
+
+### Jungbin Song
+
+3Department of Herbal Pharmacology, College of Korean Medicine, Kyung Hee University, Seoul, Republic of Korea
+
+Find articles by [Jungbin Song](https://pubmed.ncbi.nlm.nih.gov/?term=%22Song%20J%22[Author])
+
+3, [Yeon Ha Ju](https://pubmed.ncbi.nlm.nih.gov/?term=%22Ju%20YH%22[Author])
+
+### Yeon Ha Ju
+
+1Center for Brain Function, Brain Science Institute, Korea Institute of Science and Technology (KIST), Seoul, Republic of Korea
+
+Find articles by [Yeon Ha Ju](https://pubmed.ncbi.nlm.nih.gov/?term=%22Ju%20YH%22[Author])
+
+1, [Hyunjin Kim](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kim%20H%22[Author])
+
+### Hyunjin Kim
+
+1Center for Brain Function, Brain Science Institute, Korea Institute of Science and Technology (KIST), Seoul, Republic of Korea
+
+4Department of KHU‐KIST Convergence Science and Technology, Kyung Hee University, Seoul, Republic of Korea
+
+Find articles by [Hyunjin Kim](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kim%20H%22[Author])
+
+1,4, [Hyowon Lee](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lee%20H%22[Author])
+
+### Hyowon Lee
+
+1Center for Brain Function, Brain Science Institute, Korea Institute of Science and Technology (KIST), Seoul, Republic of Korea
+
+Find articles by [Hyowon Lee](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lee%20H%22[Author])
+
+1, [Hocheol Kim](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kim%20H%22[Author])
+
+### Hocheol Kim
+
+3Department of Herbal Pharmacology, College of Korean Medicine, Kyung Hee University, Seoul, Republic of Korea
+
+Find articles by [Hocheol Kim](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kim%20H%22[Author])
+
+3,✉, [Min‐Ho Nam](https://pubmed.ncbi.nlm.nih.gov/?term=%22Nam%20MH%22[Author])
+
+### Min‐Ho Nam
+
+1Center for Brain Function, Brain Science Institute, Korea Institute of Science and Technology (KIST), Seoul, Republic of Korea
+
+4Department of KHU‐KIST Convergence Science and Technology, Kyung Hee University, Seoul, Republic of Korea
+
+5Division of Bio‐Medical Science & Technology, KIST School, University of Science and Technology, Seoul, Republic of Korea
+
+Find articles by [Min‐Ho Nam](https://pubmed.ncbi.nlm.nih.gov/?term=%22Nam%20MH%22[Author])
+
+1,4,5,✉
+
+- Author information
+- Article notes
+- Copyright and License information
+
+1Center for Brain Function, Brain Science Institute, Korea Institute of Science and Technology (KIST), Seoul, Republic of Korea
+
+2Department of Herbology, College of Korean Medicine, Woosuk University, Jeonju‐si, Republic of Korea
+
+3Department of Herbal Pharmacology, College of Korean Medicine, Kyung Hee University, Seoul, Republic of Korea
+
+4Department of KHU‐KIST Convergence Science and Technology, Kyung Hee University, Seoul, Republic of Korea
+
+5Division of Bio‐Medical Science & Technology, KIST School, University of Science and Technology, Seoul, Republic of Korea
+
+\*
+
+**Correspondence**
+,
+Min‐Ho Nam, Brain Science Institute, Korea Institute of Science and Technology (KIST), Seongbuk‐gu, Seoul, Republic of Korea.
+Email: dr.namminho@kist.re.kr
+,
+Hocheol Kim, Department of Herbal Pharmacology, College of Korean Medicine, Kyung Hee University, Dongdaemun‐gu, Seoul, Republic of Korea.
+Email: hckim@khu.ac.kr
+
+✉
+
+Corresponding author.
+
+Revised 2024 Mar 17; Received 2023 Nov 18; Accepted 2024 Apr 1; Collection date 2024 May.
+
+© 2024 The Authors. _CNS Neuroscience & Therapeutics_ published by John Wiley & Sons Ltd.
+
+This is an open access article under the terms of the [http://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/) License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC11076983  PMID: [38715318](https://pubmed.ncbi.nlm.nih.gov/38715318/)
+
+## Abstract
+
+### Aims
+
+γ‐aminobutyric acid (GABA) from reactive astrocytes is critical for the dysregulation of neuronal activity in various neuroinflammatory conditions. While _Scutellaria baicalensis_ Georgi ( _S. baicalensis_) is known for its efficacy in addressing neurological symptoms, its potential to reduce GABA synthesis in reactive astrocytes and the associated neuronal suppression remains unclear. This study focuses on the inhibitory action of monoamine oxidase B (MAO‐B), the key enzyme for astrocytic GABA synthesis.
+
+### Methods
+
+Using a lipopolysaccharide (LPS)‐induced neuroinflammation mouse model, we conducted immunohistochemistry to assess the effect of _S. baicalensis_ on astrocyte reactivity and its GABA synthesis. High‐performance liquid chromatography was performed to reveal the major compounds of _S. baicalensis_, the effects of which on MAO‐B inhibition, astrocyte reactivity, and tonic inhibition in hippocampal neurons were validated by MAO‐B activity assay, qRT‐PCR, and whole‐cell patch‐clamp.
+
+### Results
+
+The ethanolic extract of _S. baicalensis_ ameliorated astrocyte reactivity and reduced excessive astrocytic GABA content in the CA1 hippocampus. Baicalin and baicalein exhibited significant MAO‐B inhibition potential. These two compounds downregulate the mRNA levels of genes associated with reactive astrogliosis or astrocytic GABA synthesis. Additionally, LPS‐induced aberrant tonic inhibition was reversed by both _S. baicalensis_ extract and its key compounds.
+
+### Conclusions
+
+In summary, baicalin and baicalein isolated from _S. baicalensis_ reduce astrocyte reactivity and alleviate aberrant tonic inhibition of hippocampal neurons during neuroinflammation.
+
+**Keywords:** GABA, MAO‐B, neuroinflammation, reactive astrogliosis,
+_Scutellaria baicalensis_ Georgi, tonic inhibition
+
+* * *
+
+Baicalin and baicalein, the major components of _Scutellaria baicalensis_, inhibit the enzymatic activity of monoamine oxidase B (MAO‐B), thereby diminishing GABA synthesis in reactive astrocytes. This reduction in astrocytic GABA production leads to the alleviation of GABAA receptor‐mediated tonic inhibition in hippocampal neurons.
+
+![graphic file with name CNS-30-e14740-g003.jpg](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/262d/11076983/6a31d0f9b725/CNS-30-e14740-g003.jpg)
+
+## 1\. INTRODUCTION
+
+The maintenance of homeostatic equilibrium in neuronal activity is imperative for the regulation of cerebral physiological functions. Dysregulation of neuronal activity, whether it is heightened or diminished, leads to functional problems. A growing body of evidence underscores the pivotal role of astrocytes in mediating neuronal activity. Specifically, γ‐aminobutyric acid (GABA), a widely acknowledged inhibitory neurotransmitter, can be synthesized and released tonically by astrocytes. The astrocytic GABA is particularly significant in the tonic regulation of neuronal activity. Notably, there is an excessive upregulation of astrocytic GABA synthesis during the pathological transformation of astrocytes known as reactive astrogliosis.
+
+Reactive astrogliosis is a pathological phenomenon involving morphological and transcriptional changes in astrocytes during neuroinflammation. [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0001) Among the various genes involved in this phenomenon, the monoamine oxidase B (MAO‐B) enzyme, located in the outer mitochondrial membrane of astrocytes, has emerged as a key factor for mediating the entire cascade of reactive astrogliosis. [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0002) Specifically, MAO‐B mediates the excessive synthesis of γ‐aminobutyric acid (GABA) and hydrogen peroxide (H2O2) in reactive astrocytes across various brain regions. [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0003), [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0004), [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0005), [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0006), [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0007) The astrocytic GABA, synthesized in an MAO‐B‐dependent manner, is tonically released and can aberrantly suppress neighboring neuronal activity, leading to tonic inhibition. Excessive tonic inhibition mediated by MAO‐B has been causally linked to memory deficits in Alzheimer's disease (AD), [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0004), [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0005) motor dysfunctions in Parkinson's disease (PD), [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0008) and the limited effect of rehabilitation therapy in stroke. [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0007) Moreover, pharmacological blockade of MAO‐B has been reported to significantly reverse reactive astrogliosis‐mediated pathology and symptoms in rodent models of these disorders. [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0006), [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0007), [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0009) Therefore, MAO‐B‐mediated neuronal suppression represents a promising target for the development of novel drugs that can treat brain disorders accompanied by neuroinflammation.
+
+In recent years, traditional East Asian medicines, which include medicinal herbs and their compounds, have gained popularity in the clinical treatment of brain disorders due to their safety, effectiveness, and affordability. The root of _Scutellaria baicalensis_ Georgi is frequently used in traditional East Asian medicine and is known for its multiple pharmacological effects, such as anti‐inflammation, antitumor, and antioxidant properties. [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0010) _S. baicalensis_, commonly known as Baikal skullcap or Chinese skullcap, belongs to the flowering plant family Lamiaceae. It is indigenous to China, Korea, Mongolia, as well as the Russian Far East and Siberia regions of Russia. Previous studies have shown that the bioactive compounds of _S. baicalensis_, including baicalin, baicalein, and wogonin, exert beneficial effects in PD, [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0011) attention‐deficit/hyperactive disorder (ADHD), [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0012) brain injury, [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0013) depression, [14](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0014) and cognitive impairment. [15](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0015) Although many natural compounds have limited use as neuroprotective agents due to their poor blood‐brain barrier (BBB) permeability, the flavones of _S. baicalensis_, baicalein and wogonin, are reported to cross the BBB after administration, which implicates their high potency for use as promising neuroprotective agents. [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0016), [17](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0017) However, it is poorly understood whether _S. baicalensis_ can attenuate reactive astrogliosis and its associated neuronal dysfunction through MAO‐B‐mediated aberrant GABA. Here, our study aims to investigate the potential anti‐astrogliosis role of _S. baicalensis_ via MAO‐B inhibition using in vitro reactive astrocytes and an in vivo mouse model of neuroinflammation induced by lipopolysaccharide (LPS), a bacterial endotoxin found in gram‐negative bacteria.
+
+## 2\. MATERIALS AND METHODS
+
+### 2.1. Preparation of _S. baicalensis_ extract
+
+We obtained the dried roots of _S. baicalensis_ cultivated in Hebei Province of China. The taxonomic identification and authentication of the S. _baicalensis_ sample was conducted by Prof. Hocheol Kim. The plant sample was extracted twice at 70°C for 3 h with 10 volumes of 30% (v/v) ethanol in distilled water. The liquid extract was cooled at room temperature, filtered, and concentrated under reduced pressure using a rotary evaporator, and freeze‐dried to yield a powder. The quantity of dried roots of _S. baicalensis_ was 18.2 g and we obtained 8.5 g of freeze‐dried extract (extraction yield 46.70%). Voucher specimens of plant raw materials were deposited in the Herbarium of the College of Korean Medicine, Kyung Hee University (no. 15071405).
+
+### 2.2. Experimental animals
+
+Twenty‐seven C57BL/6J mice (male, 11–12 weeks old) were purchased from RaonBio Co. (Gyeonggi‐do, Korea). C57BL/6J species was chosen because it is widely used for modeling neuroinflammation by LPS injection. [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0018) All animal experiments were carried out according to the directives of the Animal Care and Use Committee of the Korea Institute of Science and Technology (Seoul, Korea). All mice were housed in a room with automatically controlled temperature and humidity under the normal light–dark (12–12 h) cycles. For immunohistochemistry, 4 mice were used for each group (control, LPS + veh, and LPS + Extract). For slice electrophysiology, 3 mice were used for each group (control, LPS + veh, LPS + Baicalin, LPS + Baicalein, and LPS + Extract).
+
+### 2.3. In vivo drug administration
+
+LPS (500 μg/kg/day) and natural compounds were intraperitoneally (i.p.) injected into the mice every day for seven consecutive days. LPS (500 μg/kg/day) was reported to induce neuroinflammation and cognitive impairment in mice. [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0018) Baicalin (Sigma, 572,667; 95% purity; 50 mg/kg/day), baicalein (Sigma, 465,119; 98% purity; 5 mg/kg/day), and extract (300 mg/kg/day) were intraperitoneally administered 1 h prior to the LPS injection. The dose of 300 mg/kg/day for the extract was determined based on the previous studies. [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0019), [20](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0020) The dose of 50 mg/kg/day for baicalin was also determined based on the previous studies. [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0021), [22](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0022) The dose of baicalein was determined based on the approximate composition ratio (baicalin:baicalein, 10:1) in the extract of _S. baicalensis_. Saline (0.9% NaCl) and 0.5% DMSO were used as controls for LPS and natural compounds, respectively.
+
+### 2.4. High‐performance liquid chromatography (HPLC) analysis
+
+The main components responsible for the pharmacological actions of _S. baicalensis_ are flavonoids, including baicalin, baicalein, and wogonin. The contents of baicalin, baicalein, and wogonin in _S. baicalensis_ extract were quantified using a Waters e2695 separations module (MA, USA) equipped with a Waters 2707 autosampler, a Waters 1525 pump, and a Waters 2998 photodiode array detector. The separation was achieved using a SunFire™ C18 column (5 μm particle size, 250 × 4.6 mm i.d.; Waters) maintained at 30°C with a flow rate of 1 mL/min. The mobile phase consisted of 1% (v/v) phosphoric acid in distilled water (A) and acetonitrile (B). The gradient elution was set as follows: 5%–50% B at 0–60 min, 50%–70% B at 60–61 min, 70%–5% B at 61–63 min, and 5%–5% B at 63–68 min. The injection volume was 10 μL. The detector wavelength for quantification was set at 254 nm, and a 3D chromatogram of UV absorption was acquired.
+
+### 2.5. In vitro baicalin and baicalein treatment
+
+Mouse cortical primary astrocytes derived from C57BL/6J mice P1 pups were cultured in Poly‐D‐Lysin (PDL) coated 35 mm dish in the growth media containing 10% fetal bovine serum (Gibco, 10082‐147), 10% horse serum (Gibco, 26050‐088), and 1% penicillin/streptomycin (Gibco, 15140‐122) in DMEM (Corning, 10‐013‐CV). Baicalin and baicalein were dissolved in DMSO and diluted (1:1000) in the growth media to adjust their concentration at 10, 50, and 100 μM. Primary cortical astrocytes between DIV 6 to 8 were pretreated with baicalin (10, 50, and 100 μM) or baicalein (10, 50, and 100 μM) for 60 min, followed by co‐treatment with LPS (50 ng/mL) and IFNg (10 ng/mL) for 24 h to stimulate their reactivity. The control group underwent pretreatment with DMSO only, at a final concentration of 0.1% in the growth media. To test the effect of baicalin and baicalein on normal astrocytes, primary cortical astrocytes were treated with baicalin (50 μM) or baicalein (50 μM) without the addition of LPS and IFNg. To examine the possible regional diversity in alterations of reactive astrocyte‐associated genes upon LPS and IFNg treatment, we prepared both hippocampal and cortical primary astrocytes and treated LPS (50 ng/mL) and IFNg (10 ng/mL) for 24 h to stimulate their reactivity.
+
+### 2.6.  RNA extraction and quantitative real‐time PCR (qRT‐PCR)
+
+Total RNA was extracted from primary astrocytes by RNA‐spin™ Total RNA Extraction Kit (Intronbio, 17221) according to the manufacturer's protocol. A total of 250 ng of total RNA was synthesized into complementary DNA by SuperScript™ III First‐Strand Synthesis System (Invitrogen, 18080‐051). qRT‐PCR was conducted by QuantStudio real‐time PCR system using SYBR Green (Applied Biosystems, 4367659) with the following primer pairs: _Gapdh_\_F: ACC CAG AAG ACT GTG GAT GG; _Gapdh_\_R: ACA CAT TGG GGG TAG GAA CA; _Maob_\_F: ACT GGT ACG TCT CAC CAA AGA A; _Maob\__ R: GGC TGA CGT AGA ACC CTT CC; _Serpina3n_\_F: ATC TCC ACC GAC TAC AGC CT; _Serpina3n_\_R: TGT GGA CCA CCT GAG AGA CT; _C3_\_F: AAG CAT CAA CAC ACC CAA CA; _C3_\_R: CTT GAG CTC CAT TCG TGA CA; _Lcn2_\_F: ATG TCA CCT CCA TCC TGG TC; _Lcn2_\_R: AAA ATA CCA TGG CGA ACT GG; _Odc1_\_F: CGT CAC TCC CTT TTA CGC AG; _Odc1_\_R: AGA TAA CCC TCT CTG CAG GC; Each sample was analyzed by the 2−∆∆Ct method. In detail, the difference in Ct values (ΔCt) between the gene of interest (GOI) and the internal control gene (Gapdh) was calculated using the formula ΔCt = CtGOI−CtGapdh. Subsequently, the difference in ΔCt values (ΔΔCt) between the treatment group and the control group was determined through the calculation ΔΔCt = ΔCtTreatment group−ΔCtControl group. The qPCR was performed with three or four biologically independent replicates. _Gapdh_ expression was used for normalization.
+
+### 2.7. Immunofluorescence (IF)
+
+After 7‐day co‐treatment of LPS and natural compounds, the mice were perfused with saline and 4% paraformaldehyde for IF. A total of 30 μm‐thick coronal brain slices (AP −2.0 and −2.5 mm from bregma) were obtained using cryomicrotome (Thermo Fisher). IF was conducted as previously reported, [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0006) with the following primary antibodies: anti‐GFAP (chicken polyclonal, 1:1000; MilliporeSigma, AB5541), anti‐GABA (guinea pig polyclonal, 1:500; MilliporeSigma, AB175) and anti‐MAO‐B (rabbit polyclonal, 1:1000; Abcam, [AB137778](https://www.ncbi.nlm.nih.gov/nuccore/AB137778)). Confocal images (60x) were obtained with a multiphoton laser scanning microscope (Nikon A1R, Tokyo, Japan) and analyzed by Imaris 9.3 software.
+
+### 2.8. Astrocyte morphology analysis
+
+Astrocyte morphology was analyzed by Sholl analysis using Neuroanatomy plugins in Fiji 2.9 software. [23](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0023) The number of cells analyzed was 74, 105, and 59 from four mice of CTRL, LPS + Veh., and LPS + Extract groups, respectively (Table [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-tbl-0001)). The starting radius and radius step size were set by 2 μm and primary branches were inferred from the starting radius.
+
+#### TABLE 1.
+
+Number of cells analyzed per mice for Sholl analysis.
+
+| Number of Cells (Sholl analysis) | Mouse 1 | Mouse 2 | Mouse 3 | Mouse 4 | Total |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| CTRL | 12 | 30 | 15 | 17 | _N_ = 74 |
+| LPS + Veh | 38 | 29 | 17 | 21 | _N_ = 105 |
+| LPS + Extract | 10 | 16 | 10 | 23 | _N_ = 59 |
+| Number of cells analyzed per mouse | 60 | 75 | 42 | 61 |  |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/table/cns14740-tbl-0001/)
+
+### 2.9.  MAO‐B assay
+
+The 50% inhibitory concentration of each compound for MAO‐B enzyme activity was examined in vitro. The compounds baicalin, baicalein, and wogonin stock solutions were prepared in DMSO. MAO‐B assay was performed as previously reported with slight modification. [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0005) In sample wells, 0.5 μg of Human recombinant MAO‐B (Sigma, M7441) was diluted in 100 μL of 50 mM sodium phosphate buffer (pH 7.4) and incubated with various concentrations of baicalin, baicalein, and wogonin (final concentrations ranging from 0.1 nM to 100 μM) at 37°C for 1 h. Selegiline (MAO‐B inhibitor) was added in the control wells. Due to the poor solubility of baicalin and baicalein at 100 μM concentration in the reaction buffer, we could observe the precipitates and could not obtain the correct optical absorbance at this concentration. Therefore, we constrained the bottom value as a shared value for all data sets to calculate IC50. Although there is a potential concern regarding the accuracy of the calculated IC50 value for baicalein, it is noteworthy that our calculated value (21.01 μM) closely aligns with a previously reported value of 22.1 μM. [24](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0024)
+
+### 2.10. Slice electrophysiology for tonic GABA current measurement
+
+Tonic GABA measurement with acute brain slices was conducted as previously reported. [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0003) In detail, the mice were decapitated under the anesthesia with 2.5% isoflurane. The brains were removed from the skull and placed in an ice‐cold oxygenated (95% O2 and 5% CO2) artificial cerebrospinal fluid (ACSF; 130 NaCl, 24 NaHCO3, 3.5 KCl, 1.25 NaH2PO4, 1 CaCl2, 3 MgCl2 and 10 glucose (in mM), pH 7.4). Transverse hippocampal slices of 350–400 mm thickness were cut with a vibrating microtome (Neo Linear Slicer MT, Dosaka). The slices were stored in a submerged chamber with extracellular ACSF solution \[126 mM NaCl, 24 mM NaHCO3, 1 mM NaH2PO4, 2.5 mM KCl, 2.5 mM CaCl2, 2 mM MgCl2, and 10 mM d‐(+)‐glucose (pH 7.4)\] at room temperature for at least 1 h before recording.
+
+Visually guided whole‐cell patch recordings were obtained from CA1 pyramidal neurons in the voltage clamp configuration using a MultiClamp 700B amplifier (Molecular Devices) and a borosilicate patch pipette of 5–8 MΩ resistance which was filled with internal solution \[135 CsCl, 4 NaCl, 0.5 CaCl2, 10 HEPES, 5 EGTA, 2 Mg‐ATP, 0.5 Na2‐GTP, 10 QX‐314, pH adjusted to 7.2 with CsOH (278–285 mOsmol)\]. All neurons included in this study had a resting membrane potential below −55 mV, had an access resistance in the range of 20–60 MΩ, and showed only minimal variation in these parameters during the recording period. Electrical signals were digitized and sampled at 50‐ms intervals with Axon Digidata 1550B (Molecular Devices; USA) using pCLAMP 10.2 software. Data were filtered at 2 kHz.
+
+Before measuring the tonic current, the baseline current was stabilized with D‐AP5 (50 μM) and CNQX (20 μM). When the current was stabilized, 100 μM bicuculine was administered for tonic GABA measurement. The amplitude of tonic GABA was calculated by the baseline shift after bicuculine treatment using Clampfit 11 software. The frequency and amplitude of spontaneous inhibitory post‐synaptic currents (sIPSCs) before bicuculline administration were also detected and measured by Clampfit 11 software.
+
+### 2.11. Statistical analysis
+
+Statistical analyses were performed using Prism 9 (GraphPad Software, Inc.). For two group comparisons, a two‐tailed Student's _t_‐test was used. For multiple comparison tests, one‐way ANOVA or two‐way ANOVA with Tukey's or Dunnett's multiple comparisons test was used. When the data is not normally distributed, as determined by the Kolmogorov‐Sminorv normality test or the Shapiro‐Wilk normality test (when _n_ of each group is lower than 6), we opted for a non‐parametric equivalent statistical test. All data are presented as mean ± standard error of the mean (SEM). _p_ < 0.05 was considered to indicate statistical significance throughout the study. The significance level is represented as asterisks (\* _p_ < 0.05, \*\* _p_ < 0.01, \*\*\* _p_ < 0.001; ns, non‐significant).
+
+## 3\. RESULTS
+
+### 3.1.  _S. baicalensis_ extract reduces reactive astrogliosis with high GABA contents in a neuroinflammation mouse model
+
+To test if LPS, a widely utilized chemical to induce extensive neuroinflammation, causes excessive astrocytic GABA synthesis, we intraperitoneally injected LPS (500 μg/kg/day) for 7 days (Figure [1A](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0001)). LPS‐treated mice showed a slight reduction in body weight compared to the control group (Figure [1B](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0001)). On the other hand, the ethanolic extract of _S. baicalensis_ did not affect the body weight (Figure [1B](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0001)). To examine the expression levels of GABA in the hippocampal astrocytes, we performed immunohistochemistry with antibodies against glial fibrillary acidic protein (GFAP) and GABA. We found that astrocytes showed significantly increased GABA contents (Figure [1C,D](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0001); _p_ < 0.0001) and hypertrophy with increased cellular volume and surface area in the CA1 stratum radiatum of the hippocampus (Figure [1E–G](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0001)). Additionally, Sholl analysis showed that LPS treatment significantly increased the ramification, which was evidenced by an increase in the number of intersections per unit length from the soma ( _p_ < 0.001) and total intersections ( _p_ = 0.0011) (Figure [1H–K](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0001)).
+
+#### FIGURE 1.
+
+![FIGURE 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/262d/11076983/3905212621d9/CNS-30-e14740-g004.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/figure/cns14740-fig-0001/)
+
+LPS‐induced reactive astrogliosis with augmented astrocytic GABA in the CA1 hippocampus is reduced by _Scutellaria baicalensis_ extract treatment. (A) Schematic diagram of in vivo experiment. After pretreatment with S. _baicalensis_ extract (300 mg/kg/day), male C57BL/6J mice were given daily injections of LPS (500 μg/kg/day) for 7 days. (B) Body weight changes after treatment. (C) Representative confocal images of GFAP and GABA in the CA1 hippocampus ( _N_ = 4 mice, and 2 slices from each mouse, for CTRL, LPS + Veh., and LPS + Extract group). Quantitative graphs for (D) mean GABA intensity in GFAP+ cells, (E) astrocyte volume, and (F) astrocyte surface area (for C–F, _n_ = 96, 109, and 94 for CTRL, LPS + Veh., and LPS + Extract group). (G) Representative three‐dimensional (3D)‐rendered astrocytes. (H) Representative Sholl analysis images for GFAP+ cells. Starting radius; 2 μm, Interval of each concentric circle; 2 μm. (I) The number of intersections between concentric circles and GFAP+ cells and (J) the total number of intersections ( _n_ = 74, 105, and 59 for CTRL, LPS + Veh., and LPS + Extract group). (K) Ramification index of GFAP+ cells. Error bars represent means ± SEM. \* _p_ < 0.05, \*\* _p_ < 0.01, \*\*\* _p_ < 0.001, \*\*\*\* _p_ < 0.0001, ns, non‐significant. Statistical significance was assessed by Kruskal‐Wallis test with Duun's multiple comparisons test (D–F, J, K), or two‐way ANOVA with Tukey's multiple comparison test.
+
+Next, we tested whether _S. baicalensis_ can attenuate the morphological changes of astrocytes and the excessive GABA contents in the hippocampal CA1 stratum radiatum layer of the LPS model. _S. baicalensis_ extract (300 mg/kg/day, i.p.) was treated every day an hour prior to LPS administration. We found that _S. baicalensis_ extract treatment significantly reduced the GABA intensity in GFAP‐positive astrocytes (Figure [1C,D](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0001); _p_ = 0.0293). The extract also significantly attenuated astrocyte hypertrophy (Figure [1E–G](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0001); volume, _p_ = 0.0008; area, _p_ = 0.0131). Additionally, it also significantly reduced the number of intersections per unit length from soma ( _p_ < 0.001) and ramification index ( _p_ = 0.0828) (Figure [1H–K](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0001)). These results indicate that _S. baicalensis_ treatment is effective for reducing LPS‐induced reactive astrogliosis with high GABA contents.
+
+### 3.2. Baicalin, baicalein, and wogonin are the major compounds of _S. baicalensis_ extract
+
+We conducted HPLC analysis with ethanolic extract of _S. baicalensis_. Our three‐dimensional HPLC chromatogram analysis showed the distinct peaks of three marker compounds, baicalin, baicalein, and wogonin, in the extract (Figure [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0002)). The retention times of baicalin, baicalein, and wogonin detected at 254 nm were 33.89, 45.71, and 55.09 min, respectively. The contents of baicalin, baicalein, and wogonin were 184.52, 12.22, and 3.13 mg/g, respectively. Baicalin, which is most abundant in _S. baicalensis_ extract, showed high UV absorption at wavelengths of 214.6, 277.3, and 316.6 nm.
+
+#### FIGURE 2.
+
+![FIGURE 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/262d/11076983/b73312b4fa10/CNS-30-e14740-g006.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/figure/cns14740-fig-0002/)
+
+3D‐HPLC chromatogram of _Scutellaria baicalensis_ extract. The three axes represent time, wavelength, and absorbance units, respectively. The values on the axis of the absorbance unit are differentiated by colors at intervals of 0.1 absorbance unit. Baicalin, baicalein, and wogonin were the major components in the extract.
+
+### 3.3. Baicalin and baicalein inhibit MAO‐B enzyme activity
+
+To examine the MAO‐B inhibition activity of each compound, we performed an in vitro MAO‐B enzyme activity assay with purified human MAO‐B enzyme and the commercial compounds whose purities were confirmed by HPLC (Figure [3A](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0003)). Selegiline, a selective irreversible inhibitor of MAO‐B, was used as a positive control. We observed that baicalin and baicalein showed potential MAO‐B inhibition effects with IC50 values of 6.262 and 21.01 μM, respectively (Figure [3B](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0003)). On the other hand, wogonin showed relatively high IC50 (79.24 μM) (Figure [3C](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0003)), indicating a less potent MAO‐B inhibition effect. Our findings suggest that baicalin and baicalein are the key compounds for attenuating reactive astrogliosis and the associated astrocytic GABA synthesis through MAO‐B inhibition.
+
+#### FIGURE 3.
+
+![FIGURE 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/262d/11076983/6d206fd1b8da/CNS-30-e14740-g001.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/figure/cns14740-fig-0003/)
+
+Baicalin and baicalein, the two major compounds of _Scutellaria baicalensis_, have the potential for MAO‐B inhibition. (A) Schematic diagram of MAO‐B enzyme activity assay. Created with [Biorender.com](http://biorender.com/). (B, C) Dose‐dependent effect of MAO‐B inhibition effect and the IC50 values of baicalin, baicalein, and wogonin.
+
+### 3.4. Baicalin and baicalein down‐regulate astrogliosis‐related genes
+
+Then, we performed a 24 h in vitro treatment of baicalin (10, 50, and 100 μM) or baicalein (10, 50, and 100 μM), the two major MAO‐B‐inhibiting compounds, into reactive astrocytes which were induced by LPS (50 ng/mL) and IFNg (10 ng/mL), based on previous reports. [25](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0025), [26](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0026) Since primary cultured astrocytes do not naturally secrete IFNg, co‐incubation with both LPS and IFN‐γ may more efficiently simulate an inflammatory response compared to using LPS alone. We found that primary cortical astrocytes treated with LPS/IFNg showed a significant increase in the mRNA expression of _Maob_ and other astrogliosis markers including lipocalin 2 ( _Lcn2_) ( _p_ = 0.0052), serpin family A member 3 N ( _Serpina3n_) ( _p_ = 0.0095), and complement component 3 ( _C3_) ( _p_ = 0.0105) (Figure [4A–D](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0004)). The LPS and IFNg‐induced alterations in the expression levels of _Lcn2, C3, Serpina3n_, and _Odc1_ in the cortical astrocytes were comparable with those in the hippocampal astrocytes, while these reactive astrocyte‐related genes exhibited notably higher increases in the cortical astrocytes compared to the hippocampal astrocytes (Figure [S1](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-supitem-0001)). We further observed that baicalein significantly and dose‐dependently reduced the elevated expression of _Maob_ (Figure [4A](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0004); _p_ = 0.0329 and 0.0108 for 10 and 100 μM of baicalein, respectively) and _Serpina3n_ (Figure [4C](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0004); _p_ = 0.0073 and 0.0583 for 10 and 100 μM of baicalein, respectively), while _Lcn2_ and _C3_ also showed a decreasing trend (Figure [4B,D](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0004)). Baicalin also showed a dose‐dependent decrease in the mRNA expression level of all observed genes, although it was not statistically significant. Additionally, we examined the mRNA expression of ornithine decarboxylase‐1 (ODC1), a recently identified critical enzyme for astrocytic GABA synthesis. We observed the trend of elevated _Odc1_ by IFNg/LPS is significantly decreased following 100 μM baicalein treatment (Figure [4E](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0004)). On the other hand, baicalin and baicalein did not significantly alter the expression levels of astrogliosis‐related genes, such as _Lcn2, C3, Serpina3n_, and _Odc1_ (Figure [S2](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-supitem-0001)). Collectively, these findings indicate that both baicalin and baicalein have an anti‐astrogliosis effect, with baicalein possibly demonstrating a more advantageous anti‐astrogliosis effect than baicalin.
+
+#### FIGURE 4.
+
+![FIGURE 4](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/262d/11076983/e760d015bfa4/CNS-30-e14740-g007.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/figure/cns14740-fig-0004/)
+
+A total of 24 h in vitro treatment of baicalin and baicalein in IFNg/LPS‐induced reactive astrocytes showed downregulation of reactive astrogliosis‐related genes in a dose‐dependent manner. (A) Relative mRNA expression level of _Maob_ from primary mouse cortical astrocytes incubated with baicalin (10, 50, and 100 μM) or baicalein (10, 50, and 100 μM) for 60 min, prior to IFNg (10 ng/mL) and LPS (50 ng/mL) treatment for 24 h. (B) Relative mRNA expression level of _Lcn2_. (C) Relative mRNA expression level of _Serpina3n_. (D) Relative mRNA expression level of _C3_. (E) Relative mRNA expression level of _Odc1_. Error bars represent means ± SEM. \* _p_ < 0.05, \*\* _p_ < 0.01, \*\*\* _p_ < 0.001. Statistical significance was assessed by Kruskal‐Wallis test with Duun's multiple comparisons test (A, B) or One‐way ANOVA with Dunnett's multiple comparisons test (C, D, E). Four biologically independent replicates were tested.
+
+### 3.5.  _S. baicalensis_ relieves the excessive tonic inhibition of hippocampal neurons in a neuroinflammation mouse model
+
+Next, we investigated whether _S. baicalensis_ can reverse the aberrantly increased tonic inhibition of hippocampal neurons in an LPS‐induced neuroinflammation mouse model (Figure [5A](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0005)). To test this, we performed an ex vivo whole‐cell patch‐clamp experiment on CA1 hippocampal pyramidal neurons and recorded the tonic GABA currents (Figure [5B](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0005)). Tonic GABA current was estimated by the baseline shift caused by bicuculline, a specific blocker against the GABAA receptor. We found that the LPS group showed significantly higher tonic GABA current compared to the control group (11.67 ± 3.12 pA vs. 2.09 ± 1.38 pA; _p_ = 0.0012) (Figure [5C,D](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0005)). However, treatment with baicalin, baicalein, and the ethanolic extract of _S. baicalensis_ markedly decreased tonic GABA current (baicalin, 4.08 ± 1.01 pA, _p_ = 0.0150; baicalein, 5.77 ± 1.15 pA, _p_ = 0.0814; extract, 3.35 ± 0.58 pA, _p_ = 0.0053) in the hippocampus of LPS‐induced neuroinflammation mouse model (Figure [5C,D](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0005)). Meanwhile, spontaneous inhibitory postsynaptic currents (sIPSC) frequency and amplitude were not significantly different across the groups (Figure [5E–H](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0005)). Therefore, our findings indicate that the ethanolic extract of _S. baicalensis_ and its two major compounds are effective in lowering reactive astrocyte‐mediated aberrant tonic inhibition of hippocampal neuronal activity in the LPS‐induced neuroinflammation model.
+
+#### FIGURE 5.
+
+![FIGURE 5](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/262d/11076983/745f835bc5ee/CNS-30-e14740-g002.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/figure/cns14740-fig-0005/)
+
+Systemic administration of _Scutellaria baicalensis_ extract and its two major compounds decreases the excessive GABA‐mediated tonic inhibition of CA1 pyramidal neurons. (A) Schematic diagram of in vivo experiment. After pretreatment with _S. baicalensis_ extract (300 mg/kg/day), baicalin (50 mg/kg/day), or baicalein (5 mg/kg/day), male C57BL/6J mice were given daily injections of LPS (500 μg/kg/day) for 7 days. (B) Schematic diagram of slice patch clamp. Created with [Biorender.com](http://biorender.com/). (C) Representative trace of GABAAR‐mediated current ( _n_ = 8, 11, 11, 12, and 12 from 3 mice for each group). (D) Tonic GABA current. (E) Average amplitude and (F) average frequency of sIPSC. Cumulative probability distributions of (G) interevent interval values and (H) amplitude of sIPSC. Error bars represent means ± SEM. \* _p_ < 0.05, \*\* _p_ < 0.01, \*\*\* _p_ < 0.001, ns, non‐significant. Statistical significance was assessed by One‐way ANOVA with Tukey's multiple comparisons test (D, F) or Kruskal‐Wallis test with Duun's multiple comparisons test (E).
+
+## 4\. DISCUSSION
+
+Neuroinflammation is a self‐defense mechanism in the central nervous system triggered by injury, viral infection, exposure to toxins, neurodegenerative diseases, or aging. However, the prolonged neuroinflammatory responses, including reactive astrogliosis, paradoxically lead to neurodegenerative diseases such as Parkinson's disease (PD) and Alzheimer's disease (AD). [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0027) Therefore, targeting neuroinflammation is crucial for treating a wide range of brain disorders associated with it.
+
+Reactive astrocytes are known as a critical mediator of neuroinflammation‐induced neuronal dysfunction and damage. [28](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0028) Prolonged neuroinflammation can trigger reactive astrogliosis, which has been reported as an etiology for the development of neurodegenerative diseases. Reactive astrocytes are characterized by significant morphological changes, particularly hypertrophy, and proliferation. [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0001) In addition to the morphology, reactive astrocytes have also characteristic transcriptional and functional properties. Particularly, accumulating lines of evidence have shown that reactive astrocytes synthesize an excessive amount of GABA through the enzymatic action of a mitochondrial enzyme, MAO‐B. [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0003), [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0005), [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0006), [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0007) Excessive GABA content has been observed in multiple brain regions of various pathological or neuroinflammatory conditions, including hippocampus of AD model, [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0005), [29](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0029), [30](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0030) substantia nigra of PD model, [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0008) and cerebral cortex of white matter stroke model. [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0007) Moreover, the excessive astrocytic GABA‐mediated tonic inhibition of neighboring neurons has been attributed as a critical pathological factor of these disorders. [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0003), [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0004), [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0005), [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0006), [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0007) Therefore, MAO‐B‐mediated excessive GABA synthesis could be considered a core characteristic of reactive astrocytes as well as a key therapeutic target throughout a variety of neuroinflammatory conditions. In this regard, there have been accumulating attempts to discover natural compounds that block MAO‐B and several natural compounds have been indeed reported as potential natural MAO‐B inhibitors. [24](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0024)
+
+Among a plethora of medicinal herbs that are used in traditional Asian medicines, _S. baicalensis_ has been intensively studied for the past decades in various brain disorders, including stroke, AD, and PD, all of which are related to reactive astrocyte. [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0003), [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0004), [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0005), [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0007) In detail, _S. baicalensis_ and its major flavonoids, including baicalin, baicalein, and wogonin, alleviate cerebral ischemia/reperfusion injury by reducing oxidative and inflammatory responses and inhibiting neuronal apoptosis. [31](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0031) Baicalin and its aglycon, baicalein, attenuate brain edema and blood–brain barrier disruption in animal models of intracerebral and subarachnoid hemorrhage. [32](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0032), [33](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0033) Baicalin and baicalein also showed the neuroprotective effects in MPTP and 6‐hydroxydopamine‐induced mouse models of PD by inhibiting reactive astrogliosis, oxidative stress, and inflammatory response and by increasing striatal catecholamines. [34](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0034), [35](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0035) Regarding AD, baicalein prevented memory deficits in the APP/PS1 AD mouse model through decreased Aβ production and inhibited tau phosphorylation. [36](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0036) In addition, _S. baicalensis_ and its flavonoids have been reported to exert protective effects in rodent models of spinal cord injury, depression, and traumatic brain injury. [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0013), [14](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0014) Moreover, at least some of these potential therapeutic effects of _S. baicalensis_ and its major compounds have been suggested to be associated with regulation of reactive astrocytes. [34](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0034), [35](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0035) However, the molecular mechanism underlying how these compounds attenuate reactive astrogliosis has less been explored.
+
+In the current work, we clearly demonstrated that baicalin and baicalein, compounds extracted from _S. baicalensis_, can inhibit the enzymatic action of MAO‐B, leading to the significant restoration of excessive tonic inhibition of hippocampal neurons mediated by astrocytic GABA (Figure [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0006)). We also observed a general decreasing trend in the expression levels of key genes associated with reactive astrogliosis, including _Maob, Lcn2, Serpina3n, C3_, and _Odc1_, upon treatment with baicalin and baicalein (Figure [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0004)). To note, the efficacy of the _S. baicalensis_ extract was not assessed in the study. While some genes displayed a significant reduction, others exhibited a consistent tendency towards downregulation, collectively suggesting a propensity for a general decrease in gene expression associated with reactive astrogliosis. _Lcn2_ is well‐documented as a critical mediator of neuronal death induced by reactive astrocytes. [37](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0037) _Serpina3n_ and _C3_, together with _Lcn2_, are highlighted as the key genes of A1‐like neurotoxic reactive astrocytes. [38](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0038) ODC1 is a critical enzyme for neurodegenerative disease through converting ornithine into putrescine, which is the substrate of MAO‐B for astrocytic GABA production. [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0004) Meanwhile, previous studies have shown MAO‐B is a key regulator of reactive astrocyte alterations. [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0002), [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0005) Therefore, our findings suggest that MAOB inhibition by baicalin and baicalein could have a potent effect on alleviating reactive astrogliosis.
+
+### FIGURE 6.
+
+![FIGURE 6](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/262d/11076983/b0158ea13e7f/CNS-30-e14740-g005.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/figure/cns14740-fig-0006/)
+
+The proposed mechanism of _Scutellaria baicalensis_ for astrocytic GABA‐mediated neuronal dysfunction in neuroinflammation. Baicalin and baicalein, the major components of _S. baicalensis_, inhibit the enzymatic activity of monoamine oxidase B (MAO‐B), thereby diminishing GABA synthesis in reactive astrocytes. This reduction in astrocytic GABA production leads to the alleviation of GABAA receptor‐mediated tonic inhibition in hippocampal neurons.
+
+The effects of the major compounds of _S. baicalensis_ on MAO‐B inhibition have been investigated by a few previous studies, but the results were inconsistent. For example, an in vitro study showed the potential MAO‐B inhibition effects of baicalin (a theoretical inhibition constant (Ki) value of 170.64 nM) and baicalein (an IC50 value of 22.1 μM), which is comparable to our study (IC50 value of 21.01 μM for MAO‐B, Figure [3B](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0003)), [24](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0024) while another in vitro study reported that baicalin and baicalein have no effect on MAO‐B inhibition but wogonin has a potential for MAO‐B inhibition, showing the IC50 of 20.8 μM for MAO‐B. [39](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0039) The discrepancies in the findings may be attributed to differences in experimental design, methods of compound extraction, purity of the substances, or other factors that require further investigation. Here, our study provides clear evidence that baicalin and baicalein have superior MAO‐B inhibition effects than wogonin (Figure [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0003)). Furthermore, our results from ex vivo electrophysiology experiments underpinned their potent MAO‐B inhibition effects by demonstrating that treatment of baicalin and baicalein can significantly reduce the astrocytic GABA‐mediated tonic inhibition of neighboring neurons in the hippocampus.
+
+The inhibition of MAO‐B can be a promising strategy for neurodegenerative disorders, as this enzyme is involved not only in GABA‐mediated neuronal dysfunction but also in H2O2‐mediated neuronal death (Figure [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0006)). Specifically, during the production of GABA from putrescine, MAO‐B promotes the production of NH2 and H2O2 as byproducts, leading to an increase in toxic ammonia and nitrosative stress. [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0005) Therefore, _S. baicalensis_ and its major compounds, baicalin and baicalein, may have therapeutic potential for neuroprotection, which is an interesting possibility that should be explored in future research.
+
+## 5\. CONCLUSIONS
+
+In conclusion, this study provides the first concrete evidence that _S. baicalensis_, along with its major flavonoids baicalin and baicalein, can effectively reduce reactive astrogliosis and the associated aberrant tonic inhibition of neurons in the brain by inhibiting MAO‐B. Given that aberrant tonic inhibition of neurons can lead to various neurological symptoms such as memory deficits and motor dysfunction, this medicinal herb and its natural compounds hold great promise as pharmacological candidates for various brain disorders that involve neuroinflammation.
+
+## AUTHOR CONTRIBUTIONS
+
+Conceptualization by M.‐H.N. and H.K. (Hocheol Kim); Methodology by J.S. and H.K.; Investigation and validation by J.C., Y.H.J., H.K. (Hyunjin Kim), E.‐B.H.; Resources by Y.‐S.K., M.‐H.N., and H.K.; Writing ‐ Original Draft by J.C., J.S., and M.‐H.N.; Writing ‐ Review & Editing by J.C., M.‐H.N., and H.K. (Hocheol Kim); Supervision by M.‐H.N., and H.K. (Hocheol Kim); Funding acquisition by M.‐H.N., and H.K. (Hocheol Kim).
+
+## CONFLICT OF INTEREST STATEMENT
+
+The authors have no conflicts of interest to declare.
+
+## Supporting information
+
+**Appendix S1.** Supporting information.
+
+[CNS-30-e14740-s001.docx](https://pmc.ncbi.nlm.nih.gov/articles/instance/11076983/bin/CNS-30-e14740-s001.docx) (77.4KB, docx)
+
+## ACKNOWLEDGMENTS
+
+This research was supported by a National Research Foundation (NRF) grant (NRF‐2020M3E5D9079742), Korea Institute of Science Technology (KIST) grants (2E32851; KIST‐INNOPOLIS‐2021‐003, H‐TRAIN) funded by the Ministry of Science and ICT.
+
+Cho J, Hong E‐B, Kim Y‐S, et al. Baicalin and baicalein from
+_Scutellaria baicalensis_
+Georgi alleviate aberrant neuronal suppression mediated by GABA from reactive astrocytes. CNS Neurosci Ther. 2024;30:e14740. doi: 10.1111/cns.14740
+
+## Contributor Information
+
+Young‐Sik Kim, Email: yjbsik@woosuk.ac.kr.
+
+Jungbin Song, Email: jbsong@khu.ac.kr.
+
+Hocheol Kim, Email: hckim@khu.ac.kr.
+
+Min‐Ho Nam, Email: dr.namminho@kist.re.kr.
+
+## DATA AVAILABILITY STATEMENT
+
+The data that support the findings of this study are available from the corresponding author upon reasonable request.
+
+## REFERENCES
+
+- 1.
+Escartin C, Galea E, Lakatos A, et al. Reactive astrocyte nomenclature, definitions, and future directions. Nat Neurosci. 2021;24(3):312‐325.
+\[ [DOI](https://doi.org/10.1038/s41593-020-00783-4)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8007081/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33589835/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat%20Neurosci&title=Reactive%20astrocyte%20nomenclature,%20definitions,%20and%20future%20directions&author=C%20Escartin&author=E%20Galea&author=A%20Lakatos&volume=24&issue=3&publication_year=2021&pages=312-325&pmid=33589835&doi=10.1038/s41593-020-00783-4&)\]
+- 2.
+Chun H, Lim J, Park KD, Lee CJ. Inhibition of monoamine oxidase B prevents reactive astrogliosis and scar formation in stab wound injury model. Glia. 2022;70(2):354‐367.
+\[ [DOI](https://doi.org/10.1002/glia.24110)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/34713936/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Glia&title=Inhibition%20of%20monoamine%20oxidase%20B%20prevents%20reactive%20astrogliosis%20and%20scar%20formation%20in%20stab%20wound%20injury%20model&author=H%20Chun&author=J%20Lim&author=KD%20Park&author=CJ%20Lee&volume=70&issue=2&publication_year=2022&pages=354-367&pmid=34713936&doi=10.1002/glia.24110&)\]
+- 3.
+Heo JY, Nam M‐H, Yoon HH, et al. Aberrant tonic inhibition of dopaminergic neuronal activity causes motor symptoms in animal models of Parkinson's disease. Curr Biol. 2020;30(2):276‐291.
+\[ [DOI](https://doi.org/10.1016/j.cub.2019.11.079)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31928877/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Curr%20Biol&title=Aberrant%20tonic%20inhibition%20of%20dopaminergic%20neuronal%20activity%20causes%20motor%20symptoms%20in%20animal%20models%20of%20Parkinson%27s%20disease&author=JY%20Heo&author=M%E2%80%90H%20Nam&author=HH%20Yoon&volume=30&issue=2&publication_year=2020&pages=276-291&pmid=31928877&doi=10.1016/j.cub.2019.11.079&)\]
+- 4.
+Ju YH, Bhalla M, Hyeon SJ, et al. Astrocytic urea cycle detoxifies Aβ‐derived ammonia while impairing memory in Alzheimer's disease. Cell Metab. 2022;34(8):1104‐1120. e8.
+\[ [DOI](https://doi.org/10.1016/j.cmet.2022.05.011)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/35738259/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell%20Metab&title=Astrocytic%20urea%20cycle%20detoxifies%20A%CE%B2%E2%80%90derived%20ammonia%20while%20impairing%20memory%20in%20Alzheimer%27s%20disease&author=YH%20Ju&author=M%20Bhalla&author=SJ%20Hyeon&volume=34&issue=8&publication_year=2022&pages=1104-1120&pmid=35738259&doi=10.1016/j.cmet.2022.05.011&)\]
+- 5.
+Chun H, Im H, Kang YJ, et al. Severe reactive astrocytes precipitate pathological hallmarks of Alzheimer's disease via H2O2− production. Nat Neurosci. 2020;23(12):1555‐1566.
+\[ [DOI](https://doi.org/10.1038/s41593-020-00735-y)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33199896/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat%20Neurosci&title=Severe%20reactive%20astrocytes%20precipitate%20pathological%20hallmarks%20of%20Alzheimer%27s%20disease%20via%20H2O2%E2%88%92%20production&author=H%20Chun&author=H%20Im&author=YJ%20Kang&volume=23&issue=12&publication_year=2020&pages=1555-1566&pmid=33199896&doi=10.1038/s41593-020-00735-y&)\]
+- 6.
+Park J‐H, Ju YH, Choi JW, et al. Newly developed reversible MAO‐B inhibitor circumvents the shortcomings of irreversible inhibitors in Alzheimer's disease. Sci Adv. 2019;5(3):eaav0316.
+\[ [DOI](https://doi.org/10.1126/sciadv.aav0316)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6426469/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30906861/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sci%20Adv&title=Newly%20developed%20reversible%20MAO%E2%80%90B%20inhibitor%20circumvents%20the%20shortcomings%20of%20irreversible%20inhibitors%20in%20Alzheimer%27s%20disease&author=J%E2%80%90H%20Park&author=YH%20Ju&author=JW%20Choi&volume=5&issue=3&publication_year=2019&pages=eaav0316&pmid=30906861&doi=10.1126/sciadv.aav0316&)\]
+- 7.
+Nam M‐H, Cho J, Kwon D‐H, et al. Excessive astrocytic GABA causes cortical hypometabolism and impedes functional recovery after subcortical stroke. Cell Rep. 2020;32(1):107861.
+\[ [DOI](https://doi.org/10.1016/j.celrep.2020.107861)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32640227/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell%20Rep&title=Excessive%20astrocytic%20GABA%20causes%20cortical%20hypometabolism%20and%20impedes%20functional%20recovery%20after%20subcortical%20stroke&author=M%E2%80%90H%20Nam&author=J%20Cho&author=D%E2%80%90H%20Kwon&volume=32&issue=1&publication_year=2020&pages=107861&pmid=32640227&doi=10.1016/j.celrep.2020.107861&)\]
+- 8.
+Nam M‐H, Sa M, Ju YH, Park MG, Lee CJ. Revisiting the role of astrocytic MAOB in Parkinson's disease. Int J Mol Sci. 2022;23(8):4453.
+\[ [DOI](https://doi.org/10.3390/ijms23084453)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9028367/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/35457272/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20J%20Mol%20Sci&title=Revisiting%20the%20role%20of%20astrocytic%20MAOB%20in%20Parkinson%27s%20disease&author=M%E2%80%90H%20Nam&author=M%20Sa&author=YH%20Ju&author=MG%20Park&author=CJ%20Lee&volume=23&issue=8&publication_year=2022&pages=4453&pmid=35457272&doi=10.3390/ijms23084453&)\]
+- 9.
+Nam MH, Park JH, Song HJ, et al. KDS2010, a newly developed reversible MAO‐B inhibitor, as an effective therapeutic candidate for Parkinson's disease. Neurotherapeutics. 2021;18(3):1729‐1747. doi: 10.1007/s13311-021-01097-4
+
+\[ [DOI](https://doi.org/10.1007/s13311-021-01097-4)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8608967/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/34611843/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Neurotherapeutics&title=KDS2010,%20a%20newly%20developed%20reversible%20MAO%E2%80%90B%20inhibitor,%20as%20an%20effective%20therapeutic%20candidate%20for%20Parkinson%27s%20disease&author=MH%20Nam&author=JH%20Park&author=HJ%20Song&volume=18&issue=3&publication_year=2021&pages=1729-1747&pmid=34611843&doi=10.1007/s13311-021-01097-4&)\]
+- 10.
+Zhao Q, Chen X‐Y, Martin C.
+_Scutellaria baicalensis_, the golden herb from the garden of Chinese medicinal plants. Sci Bull. 2016;61(18):1391‐1398. \[ [DOI](https://doi.org/10.1007/s11434-016-1136-5)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5031759/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27730005/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sci%20Bull&title=Scutellaria%20baicalensis,%20the%20golden%20herb%20from%20the%20garden%20of%20Chinese%20medicinal%20plants&author=Q%20Zhao&author=X%E2%80%90Y%20Chen&author=C%20Martin&volume=61&issue=18&publication_year=2016&pages=1391-1398&pmid=27730005&doi=10.1007/s11434-016-1136-5&)\]
+- 11.
+Wang Y, Wei N, Li X. Preclinical evidence and possible mechanisms of baicalein for rats and mice with Parkinson's disease: a systematic review and meta‐analysis. Front Aging Neurosci. 2020;12:277.
+\[ [DOI](https://doi.org/10.3389/fnagi.2020.00277)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7546397/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33101006/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Front%20Aging%20Neurosci&title=Preclinical%20evidence%20and%20possible%20mechanisms%20of%20baicalein%20for%20rats%20and%20mice%20with%20Parkinson%27s%20disease:%20a%20systematic%20review%20and%20meta%E2%80%90analysis&author=Y%20Wang&author=N%20Wei&author=X%20Li&volume=12&publication_year=2020&pages=277&pmid=33101006&doi=10.3389/fnagi.2020.00277&)\]
+- 12.
+Zhou R, Wang J, Han X, Ma B, Yuan H, Song Y. Baicalin regulates the dopamine system to control the core symptoms of ADHD. Mol Brain. 2019;12(1):1‐14.
+\[ [DOI](https://doi.org/10.1186/s13041-019-0428-5)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6368814/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30736828/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol%20Brain&title=Baicalin%20regulates%20the%20dopamine%20system%20to%20control%20the%20core%20symptoms%20of%20ADHD&author=R%20Zhou&author=J%20Wang&author=X%20Han&author=B%20Ma&author=H%20Yuan&volume=12&issue=1&publication_year=2019&pages=1-14&pmid=30736828&doi=10.1186/s13041-019-0428-5&)\]
+- 13.
+Chen SF, Hsu CW, Huang WH, Wang JY. Post‐injury baicalein improves histological and functional outcomes and reduces inflammatory cytokines after experimental traumatic brain injury. Br J Pharmacol. 2008;155(8):1279‐1296.
+\[ [DOI](https://doi.org/10.1038/bjp.2008.345)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC2607198/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/18776918/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Br%20J%20Pharmacol&title=Post%E2%80%90injury%20baicalein%20improves%20histological%20and%20functional%20outcomes%20and%20reduces%20inflammatory%20cytokines%20after%20experimental%20traumatic%20brain%20injury&author=SF%20Chen&author=CW%20Hsu&author=WH%20Huang&author=JY%20Wang&volume=155&issue=8&publication_year=2008&pages=1279-1296&pmid=18776918&doi=10.1038/bjp.2008.345&)\]
+- 14.
+Guo L‐T, Wang S‐Q, Su J, et al. Baicalin ameliorates neuroinflammation‐induced depressive‐like behavior through inhibition of toll‐like receptor 4 expression via the PI3K/AKT/FoxO1 pathway. J Neuroinflammation. 2019;16(1):1‐21.
+\[ [DOI](https://doi.org/10.1186/s12974-019-1474-8)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6507025/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31068207/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Neuroinflammation&title=Baicalin%20ameliorates%20neuroinflammation%E2%80%90induced%20depressive%E2%80%90like%20behavior%20through%20inhibition%20of%20toll%E2%80%90like%20receptor%204%20expression%20via%20the%20PI3K/AKT/FoxO1%20pathway&author=L%E2%80%90T%20Guo&author=S%E2%80%90Q%20Wang&author=J%20Su&volume=16&issue=1&publication_year=2019&pages=1-21&pmid=31068207&doi=10.1186/s12974-019-1474-8&)\]
+- 15.
+Hwang YK, Jinhua M, Choi B‐R, et al. Effects of _Scutellaria baicalensis_ on chronic cerebral hypoperfusion‐induced memory impairments and chronic lipopolysaccharide infusion‐induced memory impairments. J Ethnopharmacol. 2011;137(1):681‐689.
+\[ [DOI](https://doi.org/10.1016/j.jep.2011.06.025)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21718777/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Ethnopharmacol&title=Effects%20of%20Scutellaria%20baicalensis%20on%20chronic%20cerebral%20hypoperfusion%E2%80%90induced%20memory%20impairments%20and%20chronic%20lipopolysaccharide%20infusion%E2%80%90induced%20memory%20impairments&author=YK%20Hwang&author=M%20Jinhua&author=B%E2%80%90R%20Choi&volume=137&issue=1&publication_year=2011&pages=681-689&pmid=21718777&doi=10.1016/j.jep.2011.06.025&)\]
+- 16.
+Tsai T, Liu S, Tsai P, Ho L, Shum A, Chen C. The effects of the cyclosporin A, a P‐glycoprotein inhibitor, on the pharmacokinetics of baicalein in the rat: a microdialysis study. Br J Pharmacol. 2002;137(8):1314‐1320.
+\[ [DOI](https://doi.org/10.1038/sj.bjp.0704959)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC1573598/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12466241/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Br%20J%20Pharmacol&title=The%20effects%20of%20the%20cyclosporin%20A,%20a%20P%E2%80%90glycoprotein%20inhibitor,%20on%20the%20pharmacokinetics%20of%20baicalein%20in%20the%20rat:%20a%20microdialysis%20study&author=T%20Tsai&author=S%20Liu&author=P%20Tsai&author=L%20Ho&author=A%20Shum&volume=137&issue=8&publication_year=2002&pages=1314-1320&pmid=12466241&doi=10.1038/sj.bjp.0704959&)\]
+- 17.
+Liu W, Yang X, Feng F, Wu C, Ding L. SPE and LC for analysis of the tissue distribution of wogonin and its metabolite in tumor‐bearing nude mice. Chromatographia. 2010;72:753‐757. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Chromatographia&title=SPE%20and%20LC%20for%20analysis%20of%20the%20tissue%20distribution%20of%20wogonin%20and%20its%20metabolite%20in%20tumor%E2%80%90bearing%20nude%20mice&author=W%20Liu&author=X%20Yang&author=F%20Feng&author=C%20Wu&author=L%20Ding&volume=72&publication_year=2010&pages=753-757&)\]
+- 18.
+Zhao J, Bi W, Xiao S, et al. Neuroinflammation induced by lipopolysaccharide causes cognitive impairment in mice. Sci Rep. 2019;9(1):5790. doi: 10.1038/s41598-019-42286-8
+
+\[ [DOI](https://doi.org/10.1038/s41598-019-42286-8)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6453933/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30962497/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sci%20Rep&title=Neuroinflammation%20induced%20by%20lipopolysaccharide%20causes%20cognitive%20impairment%20in%20mice&author=J%20Zhao&author=W%20Bi&author=S%20Xiao&volume=9&issue=1&publication_year=2019&pages=5790&pmid=30962497&doi=10.1038/s41598-019-42286-8&)\]
+- 19.
+Yun J, Jung YS. A _Scutellaria baicalensis_ radix water extract inhibits morphine‐induced conditioned place preference. Pharm Biol. 2014;52(11):1382‐1387. doi: 10.3109/13880209.2014.892514
+
+\[ [DOI](https://doi.org/10.3109/13880209.2014.892514)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25068674/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Pharm%20Biol&title=A%20Scutellaria%20baicalensis%20radix%20water%20extract%20inhibits%20morphine%E2%80%90induced%20conditioned%20place%20preference&author=J%20Yun&author=YS%20Jung&volume=52&issue=11&publication_year=2014&pages=1382-1387&pmid=25068674&doi=10.3109/13880209.2014.892514&)\]
+- 20.
+Li X, Lee YJ, Kim HY, et al. Beneficial effects of _Scutellaria baicalensis_ on penile erection in Streptozotocin‐induced diabetic rats. Am J Chin Med. 2016;44(2):305‐320. doi: 10.1142/S0192415X1650018X
+
+\[ [DOI](https://doi.org/10.1142/S0192415X1650018X)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27080943/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Chin%20Med&title=Beneficial%20effects%20of%20Scutellaria%20baicalensis%20on%20penile%20erection%20in%20Streptozotocin%E2%80%90induced%20diabetic%20rats&author=X%20Li&author=YJ%20Lee&author=HY%20Kim&volume=44&issue=2&publication_year=2016&pages=305-320&pmid=27080943&doi=10.1142/S0192415X1650018X&)\]
+- 21.
+Ma P, Mao XY, Li XL, et al. Baicalin alleviates diabetes‐associated cognitive deficits via modulation of mitogen‐activated protein kinase signaling, brain‐derived neurotrophic factor and apoptosis. Mol Med Rep. 2015;12(4):6377‐6383. doi: 10.3892/mmr.2015.4219
+
+\[ [DOI](https://doi.org/10.3892/mmr.2015.4219)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26300488/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol%20Med%20Rep&title=Baicalin%20alleviates%20diabetes%E2%80%90associated%20cognitive%20deficits%20via%20modulation%20of%20mitogen%E2%80%90activated%20protein%20kinase%20signaling,%20brain%E2%80%90derived%20neurotrophic%20factor%20and%20apoptosis&author=P%20Ma&author=XY%20Mao&author=XL%20Li&volume=12&issue=4&publication_year=2015&pages=6377-6383&pmid=26300488&doi=10.3892/mmr.2015.4219&)\]
+- 22.
+Shi H, Ren K, Lv B, et al. Baicalin from _Scutellaria baicalensis_ blocks respiratory syncytial virus (RSV) infection and reduces inflammatory cell infiltration and lung injury in mice. Sci Rep. 2016;6:35851. doi: 10.1038/srep35851
+
+\[ [DOI](https://doi.org/10.1038/srep35851)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5073294/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27767097/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sci%20Rep&title=Baicalin%20from%20Scutellaria%20baicalensis%20blocks%20respiratory%20syncytial%20virus%20(RSV)%20infection%20and%20reduces%20inflammatory%20cell%20infiltration%20and%20lung%20injury%20in%20mice&author=H%20Shi&author=K%20Ren&author=B%20Lv&volume=6&publication_year=2016&pages=35851&pmid=27767097&doi=10.1038/srep35851&)\]
+- 23.
+Ferreira TA, Blackman AV, Oyrer J, et al. Neuronal morphometry directly from bitmap images. Nat Methods. 2014;11(10):982‐984.
+\[ [DOI](https://doi.org/10.1038/nmeth.3125)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5271921/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25264773/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat%20Methods&title=Neuronal%20morphometry%20directly%20from%20bitmap%20images&author=TA%20Ferreira&author=AV%20Blackman&author=J%20Oyrer&volume=11&issue=10&publication_year=2014&pages=982-984&pmid=25264773&doi=10.1038/nmeth.3125&)\]
+- 24.
+Carradori S, D'Ascenzio M, Chimenti P, Secci D, Bolasco A. Selective MAO‐B inhibitors: a lesson from natural products. Mol Divers. 2014;18:219‐243.
+\[ [DOI](https://doi.org/10.1007/s11030-013-9490-6)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24218136/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol%20Divers&title=Selective%20MAO%E2%80%90B%20inhibitors:%20a%20lesson%20from%20natural%20products&author=S%20Carradori&author=M%20D%27Ascenzio&author=P%20Chimenti&author=D%20Secci&author=A%20Bolasco&volume=18&publication_year=2014&pages=219-243&pmid=24218136&doi=10.1007/s11030-013-9490-6&)\]
+- 25.
+Hua X, Wang Y, Yang C, et al. Effect of incubation with lipopolysaccharide and interferon‐gamma on reactive astrogliosis. J Integr Neurosci. 2019;18(4):415‐421. doi: 10.31083/j.jin.2019.04.1138
+
+\[ [DOI](https://doi.org/10.31083/j.jin.2019.04.1138)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31912700/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Integr%20Neurosci&title=Effect%20of%20incubation%20with%20lipopolysaccharide%20and%20interferon%E2%80%90gamma%20on%20reactive%20astrogliosis&author=X%20Hua&author=Y%20Wang&author=C%20Yang&volume=18&issue=4&publication_year=2019&pages=415-421&pmid=31912700&doi=10.31083/j.jin.2019.04.1138&)\]
+- 26.
+Cheng YY, Ding YX, Bian GL, et al. Reactive astrocytes display pro‐inflammatory adaptability with modulation of notch‐PI3K‐AKT signaling pathway under inflammatory stimulation. Neuroscience. 2020;440:130‐145. doi: 10.1016/j.neuroscience.2020.05.023
+
+\[ [DOI](https://doi.org/10.1016/j.neuroscience.2020.05.023)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32450294/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Neuroscience&title=Reactive%20astrocytes%20display%20pro%E2%80%90inflammatory%20adaptability%20with%20modulation%20of%20notch%E2%80%90PI3K%E2%80%90AKT%20signaling%20pathway%20under%20inflammatory%20stimulation&author=YY%20Cheng&author=YX%20Ding&author=GL%20Bian&volume=440&publication_year=2020&pages=130-145&pmid=32450294&doi=10.1016/j.neuroscience.2020.05.023&)\]
+- 27.
+Giovannoni F, Quintana FJ. The role of astrocytes in CNS inflammation. Trends Immunol. 2020;41(9):805‐819. doi: 10.1016/j.it.2020.07.007
+
+\[ [DOI](https://doi.org/10.1016/j.it.2020.07.007)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8284746/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32800705/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Trends%20Immunol&title=The%20role%20of%20astrocytes%20in%20CNS%20inflammation&author=F%20Giovannoni&author=FJ%20Quintana&volume=41&issue=9&publication_year=2020&pages=805-819&pmid=32800705&doi=10.1016/j.it.2020.07.007&)\]
+- 28.
+Linnerbauer M, Wheeler MA, Quintana FJ. Astrocyte crosstalk in CNS inflammation. Neuron. 2020;108(4):608‐622.
+\[ [DOI](https://doi.org/10.1016/j.neuron.2020.08.012)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7704785/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32898475/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Neuron&title=Astrocyte%20crosstalk%20in%20CNS%20inflammation&author=M%20Linnerbauer&author=MA%20Wheeler&author=FJ%20Quintana&volume=108&issue=4&publication_year=2020&pages=608-622&pmid=32898475&doi=10.1016/j.neuron.2020.08.012&)\]
+- 29.
+Wu Z, Guo Z, Gearing M, Chen G. Tonic inhibition in dentate gyrus impairs long‐term potentiation and memory in an Alzheimer's disease model. Nat Commun. 2014;5(1):4159.
+\[ [DOI](https://doi.org/10.1038/ncomms5159)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4159602/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24923909/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat%20Commun&title=Tonic%20inhibition%20in%20dentate%20gyrus%20impairs%20long%E2%80%90term%20potentiation%20and%20memory%20in%20an%20Alzheimer%27s%20disease%20model&author=Z%20Wu&author=Z%20Guo&author=M%20Gearing&author=G%20Chen&volume=5&issue=1&publication_year=2014&pages=4159&pmid=24923909&doi=10.1038/ncomms5159&)\]
+- 30.
+Brawek B, Chesters R, Klement D, et al. A bell‐shaped dependence between amyloidosis and GABA accumulation in astrocytes in a mouse model of Alzheimer's disease. Neurobiol Aging. 2018;61:187‐197.
+\[ [DOI](https://doi.org/10.1016/j.neurobiolaging.2017.09.028)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29107186/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Neurobiol%20Aging&title=A%20bell%E2%80%90shaped%20dependence%20between%20amyloidosis%20and%20GABA%20accumulation%20in%20astrocytes%20in%20a%20mouse%20model%20of%20Alzheimer%27s%20disease&author=B%20Brawek&author=R%20Chesters&author=D%20Klement&volume=61&publication_year=2018&pages=187-197&pmid=29107186&doi=10.1016/j.neurobiolaging.2017.09.028&)\]
+- 31.
+Liang W, Huang X, Chen W. The effects of baicalin and baicalein on cerebral ischemia: a review. Aging Dis. 2017;8(6):850‐867.
+\[ [DOI](https://doi.org/10.14336/AD.2017.0829)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5758355/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29344420/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Aging%20Dis&title=The%20effects%20of%20baicalin%20and%20baicalein%20on%20cerebral%20ischemia:%20a%20review&author=W%20Liang&author=X%20Huang&author=W%20Chen&volume=8&issue=6&publication_year=2017&pages=850-867&pmid=29344420&doi=10.14336/AD.2017.0829&)\]
+- 32.
+Shi X, Fu Y, Zhang S, Ding H, Chen J. Baicalin attenuates subarachnoid hemorrhagic brain injury by modulating blood‐brain barrier disruption, inflammation, and oxidative damage in mice. Oxidative Med Cell Longev. 2017;2017:1‐9. \[ [DOI](https://doi.org/10.1155/2017/1401790)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5587966/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28912935/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Oxidative%20Med%20Cell%20Longev&title=Baicalin%20attenuates%20subarachnoid%20hemorrhagic%20brain%20injury%20by%20modulating%20blood%E2%80%90brain%20barrier%20disruption,%20inflammation,%20and%20oxidative%20damage%20in%20mice&author=X%20Shi&author=Y%20Fu&author=S%20Zhang&author=H%20Ding&author=J%20Chen&volume=2017&publication_year=2017&pages=1-9&pmid=28912935&doi=10.1155/2017/1401790&)\]
+- 33.
+Wei N, Wei Y, Li B, Pang L. Baicalein promotes neuronal and behavioral recovery after intracerebral hemorrhage via suppressing apoptosis, oxidative stress and neuroinflammation. Neurochem Res. 2017;42:1345‐1353.
+\[ [DOI](https://doi.org/10.1007/s11064-017-2179-y)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28108850/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Neurochem%20Res&title=Baicalein%20promotes%20neuronal%20and%20behavioral%20recovery%20after%20intracerebral%20hemorrhage%20via%20suppressing%20apoptosis,%20oxidative%20stress%20and%20neuroinflammation&author=N%20Wei&author=Y%20Wei&author=B%20Li&author=L%20Pang&volume=42&publication_year=2017&pages=1345-1353&pmid=28108850&doi=10.1007/s11064-017-2179-y&)\]
+- 34.
+Cheng Y, He G, Mu X, et al. Neuroprotective effect of baicalein against MPTP neurotoxicity: behavioral, biochemical and immunohistochemical profile. Neurosci Lett. 2008;441(1):16‐20.
+\[ [DOI](https://doi.org/10.1016/j.neulet.2008.05.116)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/18586394/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Neurosci%20Lett&title=Neuroprotective%20effect%20of%20baicalein%20against%20MPTP%20neurotoxicity:%20behavioral,%20biochemical%20and%20immunohistochemical%20profile&author=Y%20Cheng&author=G%20He&author=X%20Mu&volume=441&issue=1&publication_year=2008&pages=16-20&pmid=18586394&doi=10.1016/j.neulet.2008.05.116&)\]
+- 35.
+Mu X, He G, Cheng Y, Li X, Xu B, Du G. Baicalein exerts neuroprotective effects in 6‐hydroxydopamine‐induced experimental parkinsonism in vivo and in vitro. Pharmacol Biochem Behav. 2009;92(4):642‐648.
+\[ [DOI](https://doi.org/10.1016/j.pbb.2009.03.008)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/19327378/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Pharmacol%20Biochem%20Behav&title=Baicalein%20exerts%20neuroprotective%20effects%20in%206%E2%80%90hydroxydopamine%E2%80%90induced%20experimental%20parkinsonism%20in%C2%A0vivo%20and%20in%C2%A0vitro&author=X%20Mu&author=G%20He&author=Y%20Cheng&author=X%20Li&author=B%20Xu&volume=92&issue=4&publication_year=2009&pages=642-648&pmid=19327378&doi=10.1016/j.pbb.2009.03.008&)\]
+- 36.
+Gu X‐H, Xu L‐J, Liu Z‐Q, et al. The flavonoid baicalein rescues synaptic plasticity and memory deficits in a mouse model of Alzheimer's disease. Behav Brain Res. 2016;311:309‐321.
+\[ [DOI](https://doi.org/10.1016/j.bbr.2016.05.052)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27233830/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Behav%20Brain%20Res&title=The%20flavonoid%20baicalein%20rescues%20synaptic%20plasticity%20and%20memory%20deficits%20in%20a%20mouse%20model%20of%20Alzheimer%27s%20disease&author=X%E2%80%90H%20Gu&author=L%E2%80%90J%20Xu&author=Z%E2%80%90Q%20Liu&volume=311&publication_year=2016&pages=309-321&pmid=27233830&doi=10.1016/j.bbr.2016.05.052&)\]
+- 37.
+Bi F, Huang C, Tong J, et al. Reactive astrocytes secrete lcn2 to promote neuron death. Proc Natl Acad Sci USA. 2013;110(10):4069‐4074. doi: 10.1073/pnas.1218497110
+
+\[ [DOI](https://doi.org/10.1073/pnas.1218497110)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3593910/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23431168/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Proc%20Natl%20Acad%20Sci%20USA&title=Reactive%20astrocytes%20secrete%20lcn2%20to%20promote%20neuron%20death&author=F%20Bi&author=C%20Huang&author=J%20Tong&volume=110&issue=10&publication_year=2013&pages=4069-4074&pmid=23431168&doi=10.1073/pnas.1218497110&)\]
+- 38.
+Liddelow SA, Guttenplan KA, Clarke LE, et al. Neurotoxic reactive astrocytes are induced by activated microglia. Nature. 2017;541(7638):481‐487. doi: 10.1038/nature21029
+
+\[ [DOI](https://doi.org/10.1038/nature21029)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5404890/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28099414/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Neurotoxic%20reactive%20astrocytes%20are%20induced%20by%20activated%20microglia&author=SA%20Liddelow&author=KA%20Guttenplan&author=LE%20Clarke&volume=541&issue=7638&publication_year=2017&pages=481-487&pmid=28099414&doi=10.1038/nature21029&)\]
+- 39.
+Lee HW, Ryu HW, Kang M‐G, et al. Potent inhibition of monoamine oxidase A by decursin from Angelica gigas Nakai and by wogonin from _Scutellaria baicalensis_ Georgi. Int J Biol Macromol. 2017;97:598‐605.
+\[ [DOI](https://doi.org/10.1016/j.ijbiomac.2017.01.080)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28109809/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20J%20Biol%20Macromol&title=Potent%20inhibition%20of%20monoamine%20oxidase%20A%20by%20decursin%20from%20Angelica%20gigas%20Nakai%20and%20by%20wogonin%20from%20Scutellaria%20baicalensis%20Georgi&author=HW%20Lee&author=HW%20Ryu&author=M%E2%80%90G%20Kang&volume=97&publication_year=2017&pages=598-605&pmid=28109809&doi=10.1016/j.ijbiomac.2017.01.080&)\]
+
+## Associated Data
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Supplementary Materials
+
+**Appendix S1.** Supporting information.
+
+[CNS-30-e14740-s001.docx](https://pmc.ncbi.nlm.nih.gov/articles/instance/11076983/bin/CNS-30-e14740-s001.docx) (77.4KB, docx)
+
+### Data Availability Statement
+
+The data that support the findings of this study are available from the corresponding author upon reasonable request.
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+## ACTIONS
+
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)View on publisher site](https://doi.org/10.1111/cns.14740)
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)PDF (6.7 MB)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/pdf/CNS-30-e14740.pdf)
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Collections
+- ![Permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+## RESOURCES
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+Back to Top![back to top icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg)

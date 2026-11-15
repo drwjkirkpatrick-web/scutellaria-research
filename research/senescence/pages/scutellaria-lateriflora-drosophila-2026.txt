@@ -1,0 +1,609 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/41516334/
+Accessed: 2026-11-14
+Title: Scutellaria lateriflora Extract Supplementation Provides Resilience to Age-Related Phenotypes in Drosophila melanogaster.
+Journal: International journal of molecular sciences
+Year: 2026
+---
+
+The human lifespan has increased dramatically over the last few decades; however, reaching older age increases the risk of age-related diseases and ailments. To extend the healthspan, many have turned to supplements, including plant-based remedies used in traditional medicine, to promote healthy aging. One of these is Scutellaria lateriflora L. (S. lateriflora), native to North America, which has traditionally been used to treat anxiety, stress, and insomnia. However, clinical trials addressing its effects are very limited. Furthermore, plant material is intrinsically complex, and the preparation method affects the composition of extracts. We therefore used Drosophila to test whether S. lateriflora can confer resilience against age-related sleep and mobility deficits, using aqueous (SLAq) and ethanol extracts (SLE). Whereas both SLE and SLAq improved mobility, only SLE reduced sleep fragmentation in older males. By testing several flavonoids present in S. lateriflora, we found that the beneficial effects on mobility were mainly due to baicalin, whereas sleep was improved by a wogonin mix. Since neither the extracts nor the compounds extend the lifespan, this suggests that they improve neuronal health and function and do not generally slow down the aging process. This was supported by our finding that neuronal degeneration was reduced by S. lateriflora (SL) supplementation.
+
+
+=== PMC FULL TEXT ===
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/
+Accessed: 2026-11-14
+---
+
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#main-content)
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** (
+Lock
+Locked padlock icon
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+[Home](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg)![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+Search PMC Full-Text Archive
+
+Search in PMC![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg)
+
+- [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+- [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+- ![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg)
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)](https://doi.org/10.3390/ijms27010461) View on publisher site
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/pdf/ijms-27-00461.pdf) Download PDF
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Add to Collections
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg)
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+
+Learn more:
+[PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/)
+\|
+[PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![International Journal of Molecular Sciences logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-ijms.png)
+
+Int J Mol Sci
+
+. 2026 Jan 1;27(1):461. doi: [10.3390/ijms27010461](https://doi.org/10.3390/ijms27010461)
+
+# _Scutellaria lateriflora_ Extract Supplementation Provides Resilience to Age-Related Phenotypes in _Drosophila melanogaster_
+
+[Dani M Long](https://pubmed.ncbi.nlm.nih.gov/?term=%22Long%20DM%22[Author])
+
+### Dani M Long
+
+1BENFRA Botanical Dietary Supplements Research Center, Oregon Health & Science University, Portland, OR 97239, USA
+
+2Oregon Institute of Occupational Health Sciences, Oregon Health & Science University, Portland, OR 97239, USA
+
+Conceptualization, Methodology, Investigation, Formal analysis, Writing – original draft, Writing – review & editing, Visualization, Funding acquisition
+
+Find articles by [Dani M Long](https://pubmed.ncbi.nlm.nih.gov/?term=%22Long%20DM%22[Author])
+
+1,2, [Jesus Martinez](https://pubmed.ncbi.nlm.nih.gov/?term=%22Martinez%20J%22[Author])
+
+### Jesus Martinez
+
+1BENFRA Botanical Dietary Supplements Research Center, Oregon Health & Science University, Portland, OR 97239, USA
+
+3Department of Neurology, Oregon Health & Science University, Portland, OR 97239, USA
+
+Methodology, Writing – review & editing
+
+Find articles by [Jesus Martinez](https://pubmed.ncbi.nlm.nih.gov/?term=%22Martinez%20J%22[Author])
+
+1,3, [Amala Soumyanath](https://pubmed.ncbi.nlm.nih.gov/?term=%22Soumyanath%20A%22[Author])
+
+### Amala Soumyanath
+
+1BENFRA Botanical Dietary Supplements Research Center, Oregon Health & Science University, Portland, OR 97239, USA
+
+3Department of Neurology, Oregon Health & Science University, Portland, OR 97239, USA
+
+Conceptualization, Methodology, Writing – review & editing
+
+Find articles by [Amala Soumyanath](https://pubmed.ncbi.nlm.nih.gov/?term=%22Soumyanath%20A%22[Author])
+
+1,3, [Doris Kretzschmar](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kretzschmar%20D%22[Author])
+
+### Doris Kretzschmar
+
+1BENFRA Botanical Dietary Supplements Research Center, Oregon Health & Science University, Portland, OR 97239, USA
+
+2Oregon Institute of Occupational Health Sciences, Oregon Health & Science University, Portland, OR 97239, USA
+
+Conceptualization, Funding acquisition, Methodology, Writing – review & editing
+
+Find articles by [Doris Kretzschmar](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kretzschmar%20D%22[Author])
+
+1,2,\*
+
+Editors: Maria Grazia Giansanti, Roberto Piergentili
+
+- Author information
+- Article notes
+- Copyright and License information
+
+1BENFRA Botanical Dietary Supplements Research Center, Oregon Health & Science University, Portland, OR 97239, USA
+
+2Oregon Institute of Occupational Health Sciences, Oregon Health & Science University, Portland, OR 97239, USA
+
+3Department of Neurology, Oregon Health & Science University, Portland, OR 97239, USA
+
+\*
+
+Correspondence: kretzsch@ohsu.edu
+
+#### Roles
+
+**Dani M Long**: Conceptualization, Methodology, Investigation, Formal analysis, Writing – original draft, Writing – review & editing, Visualization, Funding acquisition
+
+**Jesus Martinez**: Methodology, Writing – review & editing
+
+**Amala Soumyanath**: Conceptualization, Methodology, Writing – review & editing
+
+**Doris Kretzschmar**: Conceptualization, Funding acquisition, Methodology, Writing – review & editing
+
+**Maria Grazia Giansanti**: Academic Editor
+
+**Roberto Piergentili**: Academic Editor
+
+Received 2025 Nov 25; Revised 2025 Dec 20; Accepted 2025 Dec 24; Collection date 2026 Jan.
+
+© 2026 by the authors.
+
+Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the [Creative Commons Attribution (CC BY) license](https://creativecommons.org/licenses/by/4.0/).
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC12786168  PMID: [41516334](https://pubmed.ncbi.nlm.nih.gov/41516334/)
+
+## Abstract
+
+The human lifespan has increased dramatically over the last few decades; however, reaching older age increases the risk of age-related diseases and ailments. To extend the healthspan, many have turned to supplements, including plant-based remedies used in traditional medicine, to promote healthy aging. One of these is _Scutellaria lateriflora_ L. ( _S. lateriflora_), native to North America, which has traditionally been used to treat anxiety, stress, and insomnia. However, clinical trials addressing its effects are very limited. Furthermore, plant material is intrinsically complex, and the preparation method affects the composition of extracts. We therefore used _Drosophila_ to test whether _S. lateriflora_ can confer resilience against age-related sleep and mobility deficits, using aqueous (SLAq) and ethanol extracts (SLE). Whereas both SLE and SLAq improved mobility, only SLE reduced sleep fragmentation in older males. By testing several flavonoids present in _S. lateriflora_, we found that the beneficial effects on mobility were mainly due to baicalin, whereas sleep was improved by a wogonin mix. Since neither the extracts nor the compounds extend the lifespan, this suggests that they improve neuronal health and function and do not generally slow down the aging process. This was supported by our finding that neuronal degeneration was reduced by _S. lateriflora_ (SL) supplementation.
+
+**Keywords:** herbal supplements, aging, sleep fragmentation, neurodegeneration
+
+## 1\. Introduction
+
+Aging is associated with declines in locomotor and cognitive function \[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B1-ijms-27-00461), [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B2-ijms-27-00461)\], as well as increases in sleep fragmentation \[ [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B3-ijms-27-00461), [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B4-ijms-27-00461), [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B5-ijms-27-00461)\] and neurodegeneration \[ [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B6-ijms-27-00461)\]. Sleep disruptions alone can lead to learning and memory impairments \[ [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B7-ijms-27-00461)\], increase anxiety \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B8-ijms-27-00461)\], and even increase the risk of neurodegeneration \[ [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B9-ijms-27-00461), [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B10-ijms-27-00461)\]. While some medications exist to help with some of these symptoms, none address all, and they are often accompanied by unwanted side effects or the possibility of drug interactions. Sleep medications, especially with long-term use, come with the risk of dependency and an increased risk of dementia \[ [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B11-ijms-27-00461), [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B12-ijms-27-00461)\]. At the same time, medicines for cognitive decline, such as cholinesterase inhibitors, have mixed results regarding efficacy but have many reported side effects \[ [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B13-ijms-27-00461), [14](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B14-ijms-27-00461)\]. This has led to an increased interest in nutritional supplements to help build resilience against age-related cognitive and functional decline. Many supplements sold alongside vitamins and minerals are composed of botanicals that have been used in traditional medicine \[ [15](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B15-ijms-27-00461), [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B16-ijms-27-00461)\].
+
+One such botanical is _Scutellaria lateriflora_ L. (also known as American Skullcap), a member of the mint family (Lamiaceae) native to North America \[ [17](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B17-ijms-27-00461), [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B18-ijms-27-00461)\]. Traditionally used as a nerve tonic, sedative, and anticonvulsant, among others \[ [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B16-ijms-27-00461)\], _S. lateriflora_ has been used as a mild sedative/relaxant for over 200 years \[ [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B18-ijms-27-00461), [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B19-ijms-27-00461), [20](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B20-ijms-27-00461)\]. Currently, it is used as a botanical dietary supplement for anxiety, and better sleep patterns and quality of sleep have also been reported \[ [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B21-ijms-27-00461)\]. To date, only four clinical human trials have been published, with two reporting decreased anxiety and improved mood \[ [22](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B22-ijms-27-00461), [23](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B23-ijms-27-00461)\] and another describing improved sleep parameters in response to _S. lateriflora_ treatment \[ [24](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B24-ijms-27-00461)\]. The fourth tested the effects of _S. lateriflora_ in gingivitis \[ [25](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B25-ijms-27-00461)\]. Although these studies differed in participant selection, product preparation, dosage, treatment delivery, duration, and measured outcomes, all studies reported that _S. lateriflora_ was well tolerated among participants. Several studies have reported on the constituents of many _Scutellaria_ species and extracts. Flavonoids are the main components of several _Scutellaria_ species, including _S. lateriflora_ and _S. baicalensis_. However, the relative quantities differ between _Scutellaria_ species and the parts of the plant in which they are contained \[ [26](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B26-ijms-27-00461), [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B27-ijms-27-00461), [28](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B28-ijms-27-00461)\]. The flavonoid components of _S. lateriflora_ aerial parts have been shown to possess anti-bacterial, anti-viral, antioxidant, anti-inflammatory, anti-invasive, neuroprotective, hepatoprotective, and pro-apoptotic properties \[ [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B16-ijms-27-00461)\].
+
+In the present study, we aimed to evaluate the effects of _S. lateriflora_ and its major flavonoids on sleep and cognition-related outcomes. Like humans, _Drosophila melanogaster_ show age-related changes in locomotion, cognition, and sleep fragmentation \[ [29](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B29-ijms-27-00461)\]. We therefore used _Drosophila_ to investigate the effects of two different _S. lateriflora_ preparations on age-related phenotypes. To identify which flavonoids may provide resilience to age-related functional decline, we quantified several flavonoids in both of our extracts and tested those in our model at doses corresponding to their concentrations in the most active extract.
+
+## 2\. Results
+
+Many people start taking supplements with age to improve their health in the later stages of life \[ [30](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B30-ijms-27-00461)\]. To examine the effects of _S. lateriflora_ (SL) extracts on aging in the _Drosophila_ model system, male and female flies were fed a standard _Drosophila_ diet until they were four weeks old (middle age). They were then switched to an extract-supplemented diet or a corresponding control diet. Hydroethanolic extract (SLE) or an aqueous extract (SLAq) of _S. lateriflora_ was added to the standard fly diet at multiple concentrations. For SLE, the concentrations used were 1, 2.5, and 5 mg/mL, while, for SLAq, we used 1 and 2.5 mg/mL. We chose not to test SLAq at 5 mg/mL, as flies did not tolerate 5 mg/mL SLE well, and it shortened the median lifespan (see below). The control diet contained the same amount of vehicle (water) as was used for each concentration of the extracts. Flies were maintained on a supplemented or control diet for two weeks before behavioral (cognitive/locomotor and sleep) assessments.
+
+### 2.1. S. lateriflora (SL) Treatment Improves Phototaxis
+
+Fast phototaxis is an assay used to evaluate cognitive and locomotor performance in _Drosophila_. During this assay, flies must detect the light source, orient themselves, and run toward the light in quick succession; performance in this assay declines with age \[ [31](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B31-ijms-27-00461)\]. At 4 weeks of age, prior to treatment, we assigned half of the flies to the control or treatment groups. Although selected randomly, we confirmed that both groups indeed performed equally well in the phototaxis assay ( [Figure 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f001) A–C, left panel). After 2 weeks of supplement/vehicle treatment, the cognitive/locomotor performance of the now 6-week-old flies was assessed again. As previously shown \[ [32](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B32-ijms-27-00461), [33](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B33-ijms-27-00461)\], the performance of 6-week-old flies was lower than that of 4-week-old flies across all groups. However, differences were found between the treatment and control groups at 6 weeks of age. Two-way ANOVA analyses, including comparisons of age for all the phototaxis data, are shown in [Supplementary Table S1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#app1-ijms-27-00461).
+
+#### Figure 1.
+
+[![Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/925d/12786168/722f1ae1f491/ijms-27-00461-g001.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=12786168_ijms-27-00461-g001.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/figure/ijms-27-00461-f001/)
+
+SLE treatment can provide resilience to age-related cognitive/locomotor decline. Performance declines with age in all groups when comparing the flies before treatment (4 weeks old, light green and light gray, left of the dotted line) with untreated 6-week-old flies (controls, gray). However, after a 2-week treatment with ( **A**) 1 mg/mL SLE (green), males ( **left**) and females ( **right**) perform better than the controls. ( **B**) Treatment with 2.5 mg/mL SLE (green) also improved phototaxis but only in males ( **left**). ( **C**) Treatment with 5 mg/mL SLE (green) improved cognitive/locomotor performance in females and males but only reached statistical significance in females ( **right**). Data are represented as the mean ± SEM of three independent experiments per age and treatment group. The total number of flies analyzed is denoted in each column. Due to the values not being normally distributed, as determined by the D’Agostino–Pearson test, the non-parametric Mann–Whitney test was used to determine statistical significance between groups. \* _p_ < 0.05, \*\*\* _p_ < 0.001, \*\*\*\* _p_ < 0.0001.
+
+Flies treated with 1 mg/mL SLE showed an improved performance compared to age- and sex- matched controls ( [Figure 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f001) A). Compared to their respective controls, 6-week-old males treated with 2.5 mg/mL SLE also performed significantly better; however, no significant differences were observed between SLE-treated and control females ( [Figure 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f001) B). The opposite was seen with 5 mg/mL, where SLE-treated females showed an improved performance compared to controls, but not the males ( [Figure 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f001) C). Comparing the different concentrations, we found that 2.5 mg/mL and 5 mg/mL are efficient in males and 2.5 mg/mL is efficient in females ( [Supplementary Figure S1A,B](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#app1-ijms-27-00461)).
+
+Analyzing flies treated with SLAq, we found that, compared to their respective controls, the 2-week treatment with 1 mg/mL and 2.5 mg/mL SLAq improved performance in both males and females ( [Figure 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f002) A,B).
+
+#### Figure 2.
+
+[![Figure 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/925d/12786168/59e7ac14d7b2/ijms-27-00461-g002.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=12786168_ijms-27-00461-g002.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/figure/ijms-27-00461-f002/)
+
+SLAq treatment provides resilience to age-related cognitive/locomotor decline. Prior to treatment, 4-week-old flies performed similarly (light gray and light blue, left of the dotted line), and performance declined with age compared to 6-week-old controls (gray). After the 2-week treatment, 6-week-old flies with ( **A**) 1 mg/mL SLAq or ( **B**) 2.5 mg/mL SLAq (blue) showed improved performance when compared to controls. Males are shown on the left, females on the right. Data are represented as the mean ± SEM of 3 independent experiments per age and treatment group. The total number of flies analyzed is denoted in each column. Due to the values not being normally distributed (D’Agostino–Pearson test), the non-parametric Mann–Whitney test was used to determine statistical significance between groups. \*\*\*\* _p_ < 0.0001.
+
+Together, these data show that the treatment with SL extracts can provide resilience to age-related cognitive/locomotor decline, as determined by the fast phototaxis assay. While SLE had the most significant effects at 1 mg/mL, SLAq was equally efficient at 1 and 2.5 mg/mL. Although both extracts improved phototaxis, a comparison between SLE and SLAq showed that SLAq was more efficient than SLE (with the exception of females receiving the 1 mg/mL dose; [Supplementary Table S2](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#app1-ijms-27-00461)). In the case of SLAq, both 1 mg/mL and 2.5 mg/mL were equally protective in males and females ( [Supplementary Figure S1C,D](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#app1-ijms-27-00461)).
+
+### 2.2. Sleep Fragmentation Is Reduced in Males Given the Ethanol Extract of SL
+
+Sleep fragmentation is characterized by frequent nighttime awakenings and subsequent daytime napping and is common during aging. In humans and flies, sleep disruptions have been shown to cause learning and memory impairment as well as overall cognitive decline and susceptibility to neurodegeneration \[ [29](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B29-ijms-27-00461)\]. Furthermore, fragmented sleep patterns are a common symptom in the elderly and have a severe impact on quality of life \[ [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B3-ijms-27-00461), [34](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B34-ijms-27-00461)\]. In order to determine whether a 2-week treatment with SLE or SLAq can reduce age-related sleep fragmentation, we assessed the number of sleep bouts per day and sleep bout duration in 6-week-old flies. At this age, flies show an increase in sleep bout number, while their duration is decreased when compared to younger flies \[ [35](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B35-ijms-27-00461)\].
+
+At all concentrations (1, 2.5, and 5 mg/mL SLE), SLE-treated males had fewer sleep bouts per day, with longer average durations of sleep bouts compared to controls ( [Figure 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f003) A–C). However, females given a 2-week treatment at 1, 2.5, and 5 mg/mL of SLE showed no significant effects on sleep fragmentation ( [Figure 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f003) D–F). These data reveal that a 2-week SLE treatment in middle-aged male flies reduced sleep fragmentation compared to their respective age-matched controls, whereas it had no beneficial effect in females.
+
+#### Figure 3.
+
+[![Figure 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/925d/12786168/c62665dd255c/ijms-27-00461-g003.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=12786168_ijms-27-00461-g003.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/figure/ijms-27-00461-f003/)
+
+SLE treatment reduces sleep fragmentation in males. Treating 4-week-old male flies for two weeks with ( **A**) 1 mg/mL, ( **B**) 2.5 mg/mL, or ( **C**) 5 mg/mL SLE reduced the number of sleep bouts ( **left**), while increasing their length ( **right**). ( **D**– **F**) Sleep fragmentation in females was not reduced at any of the tested SLE concentrations. SLE data in green and gray for controls. Data are represented as the mean ± SEM of three independent experiments per treatment group. The total number of flies analyzed is denoted in each column. Due to the values not being normally distributed (D’Agostino–Pearson test), the non-parametric Mann–Whitney test was used to determine statistical significance between groups. \* _p_ < 0.05, \*\*\* _p_ < 0.001, \*\*\*\* _p_ < 0.0001.
+
+In contrast to the SLE treatment, no significant differences were observed in the number or duration of sleep bouts in males or females following a 2-week treatment with 1 mg/mL SLAq ( [Figure 4](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f004) A,C). However, males treated with 2.5 mg/mL SLAq showed an increase in the number of sleep bouts per day, with the sleep bout duration being significantly shorter. There was no effect in females ( [Figure 4](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f004) B,D). Similarly to SLE, 6-week-old females treated with SLAq at either concentration showed no significant effects on the duration or the number of sleep bouts per day compared to controls.
+
+#### Figure 4.
+
+[![Figure 4](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/925d/12786168/a769c21cca59/ijms-27-00461-g004.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=12786168_ijms-27-00461-g004.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/figure/ijms-27-00461-f004/)
+
+Two-week treatment with SLAq does not reduce sleep fragmentation. ( **A**) Treatment of males with 1 mg/mL SLAq had no effect on sleep fragmentation, while treatment with ( **B**) 2.5 mg/mL SLAq increased sleep fragmentation, as seen by the increase in sleep bout number per day ( **left**) and the decrease in sleep bout length ( **right**). ( **C**, **D**) SLAq treatment at both concentrations had no effect on sleep fragmentation in females. SLAq data in blue and gray for controls. Data are represented as the mean ± SEM of three independent experiments per treatment group. The total number of flies analyzed is denoted in each column. Due to the values not being normally distributed (D’Agostino–Pearson test), the non-parametric Mann–Whitney test was used to determine statistical significance between groups. \*\* _p_ < 0.01.
+
+In summary, these results show that SLE supplementation reduces sleep fragmentation in 6-week-old males compared to controls. However, no improvement in sleep fragmentation was found in females treated with SLE. SLAq did not have a beneficial effect on sleep fragmentation in either females or males. Surprisingly, males treated with the higher dose of 2.5 mg/mL SLAq even showed increased fragmentation.
+
+### 2.3. SLE Increased Nighttime Sleep
+
+In addition to sleep fragmentation, we also assessed whether SL extract supplementation affects the amount of daytime, nighttime, and total amount of sleep.
+
+At the lower concentration of 1 mg/mL, SLE-treated females showed a decrease in daytime sleep, with no effect on nighttime or total sleep. No significant differences were seen in males treated with SLE at 1 mg/mL ( [Figure 5](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f005) A). On the other hand, a treatment with 2.5 and 5 mg/mL SLE significantly increased the amount of nighttime sleep, with no effect on daytime or total sleep in both males and females ( [Figure 5](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f005) B,C).
+
+#### Figure 5.
+
+[![Figure 5](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/925d/12786168/b6657c96a51e/ijms-27-00461-g005.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=12786168_ijms-27-00461-g005.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/figure/ijms-27-00461-f005/)
+
+Higher concentrations of SLE increased nighttime sleep. ( **A**) Supplementing the food of 4-week-old flies for 2 weeks with 1 mg/mL SLE did not affect the time male flies spend asleep ( **left**), but it reduced daytime sleep in females ( **right**). Giving SLE at ( **B**) 2.5 mg/mL or ( **C**) 5 mg/mL increased nighttime sleep in both males and females. SLE data in green and gray for controls. Data are represented as the mean ± SEM of three independent experiments per treatment group. The total number of flies analyzed is denoted in each column. Due to the values not being normally distributed (D’Agostino–Pearson test), the non-parametric Mann–Whitney test was used to determine statistical significance between groups. \* _p_ < 0.05, \*\* _p_ < 0.01.
+
+In line with its effects on sleep fragmentation, the 1 mg/mL SLAq treatment had no significant effect on daytime, nighttime, or total sleep in either males or females compared to controls ( [Figure 6](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f006) A). A lack of effect on daytime, nighttime, and total sleep was also evident in females treated with 2.5 mg/mL SLAq. However, males treated with 2.5 mg/mL SLAq showed a significant decrease in both nighttime and total sleep compared to controls ( [Figure 6](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f006) B).
+
+#### Figure 6.
+
+[![Figure 6](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/925d/12786168/fd4c687860f1/ijms-27-00461-g006.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=12786168_ijms-27-00461-g006.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/figure/ijms-27-00461-f006/)
+
+SLAq treatment did not increase sleep time. ( **A**) Treatment with 1 mg/mL SLAq had no effect on the time spent asleep in either sex. ( **B**) Treatment with 2.5 mg/mL SLAq reduced nighttime sleep and total sleep in males ( **left**). It had no effect in females ( **right**). SLAq data in blue and gray for controls. Data are represented as the mean ± SEM of three independent experiments per treatment group. The total number of flies analyzed is denoted in each column. Due to the values not being normally distributed (D’Agostino–Pearson test), the non-parametric Mann–Whitney test was used to determine statistical significance between groups. \* _p_ < 0.05.
+
+These findings show that, at higher concentrations, SLE treatment can increase nighttime sleep without a significant impact on daytime or total sleep in both sexes. At lower concentrations, SLE decreased the amount of daytime sleep in females but had no effect in males. In contrast, the SLAq treatment had no effect on the amount or timing of sleep in females; however, it reduced nighttime and total sleep in males at the higher concentration of 2.5 mg/mL.
+
+### 2.4. SL Supplementation Did Not Extend Longevity
+
+To determine whether resilience to age-related functional decline is accompanied by delayed aging, we also assessed mortality in SLE- and SLAq-treated and control flies. For these experiments, treatment began at 4 weeks of age, and the flies were maintained on their respective diet throughout the remainder of their lives. Although males and females were housed together, mortality was analyzed separately in three independent experiments for each extract type and concentration, alongside controls.
+
+The treatment with the lower dose of SLE at 1 mg/mL did not extend lifespan in females but slightly improved survival at later stages in males compared to controls ( [Figure 7](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f007) A). In contrast, females show a reduction in survival with 2.5 mg/mL SLE, whereas males show no significant effect ( [Figure 7](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f007) B). With SLE at 5 mg/mL, a reduced lifespan was detected in both females and males ( [Figure 7](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f007) C). In the case of SLAq treatment, neither 1 mg/mL nor 2.5 mg/mL had a significant effect on lifespan, with the exception of 2.5 mg/mL in females, which showed a slight reduction ( [Figure 8](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f008) A,B). These data suggest that SL supplementation does not provide resilience to age-related phenotypes by extending the median lifespan but may have more direct effects on these phenotypes. This is also supported by the findings that SLE can improve phototaxis and sleep, whereas SLAq has no effect on sleep but does improve phototaxis.
+
+#### Figure 7.
+
+[![Figure 7](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/925d/12786168/b916d2e9c49c/ijms-27-00461-g007.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=12786168_ijms-27-00461-g007.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/figure/ijms-27-00461-f007/)
+
+SLE treatment does not extend lifespan. ( **A**) SLE at 1 mg/mL (green) had no effect on lifespan in females and slightly increased it in males. ( **B**) Treatment with 2.5 mg/mL SLE had no effect in males, whereas in females the lifespan was decreased. ( **C**) At the highest concentration of 5 mg/mL, lifespan was decreased in both sexes. Data are represented as the mean ± SEM from three independent experiments per treatment group. Statistical significance was determined using Log-rank (Mantel–Cox) tests. Total n is indicated in the figures; n per test is listed in [Supplementary Table S3](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#app1-ijms-27-00461). \\* _p_ < 0.05, \*\*\* _p_ < 0.001, \*\*\*\* _p_ < 0.0001.
+
+#### Figure 8.
+
+[![Figure 8](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/925d/12786168/46e7d0f895c1/ijms-27-00461-g008.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=12786168_ijms-27-00461-g008.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/figure/ijms-27-00461-f008/)
+
+SLAq does not improve lifespan. ( **A**) Compared to their respective controls, 1 mg/mL SLAq (blue) treatments had no significant effect on lifespan. ( **B**) Treatment with 2.5 mg/mL had no effect in males and reduced lifespan in females. Data are represented as the mean ± SEM from three independent experiments per treatment group. Statistical significance was determined using Log-rank (Mantel–Cox) tests. Total n is indicated in the figures; n per test is listed in [Supplementary Table S3](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#app1-ijms-27-00461). \\*\\* _p_ < 0.01.
+
+### 2.5. SLE Reduces Neurodegeneration
+
+As the SLE treatment did not significantly affect the median lifespan but improved cognitive/locomotor performance and/or reduced sleep fragmentation, we sought to determine whether resilience to these age-related phenotypes is due to protection of the brain. To determine this, we measured the area of vacuoles in the brains of 8-week-old flies fed an SLE or control diet starting at 4 weeks of age. Flies were analyzed at eight weeks of age due to degeneration being detectable at this age in CS \[ [36](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B36-ijms-27-00461)\] and [Figure 9](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f009) B. We focused on SLE because it improved phototaxis and sleep. The treatment with 1 mg/mL reduced neurodegeneration in females ( [Figure 9](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f009) A,C) but not in males ( [Figure 9](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f009) C). This effect was also observed in females treated with 2.5 mg/mL SLE; however, treated males were not significantly different from controls ( [Figure 9](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f009) D). Although we also detected a reduction in the degeneration in females treated with 5 mg/mL, this did not reach significance. Males treated with 5 mg/mL SLE showed an increase in degeneration ( [Figure 9](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f009) E). The reduction in age-related neurodegeneration could contribute to improvements in some behavioral deficits.
+
+#### Figure 9.
+
+[![Figure 9](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/925d/12786168/4db4b6afff7c/ijms-27-00461-g009.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=12786168_ijms-27-00461-g009.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/figure/ijms-27-00461-f009/)
+
+SLE reduces degeneration in females. ( **A**) Head section showing a fly treated with 1 mg/mL that does not show vacuolization. ( **B**) Head section from a control that shows several vacuoles (arrowheads). al = antennal lobes, ol = optic lobes. Females treated with ( **C**) 1 mg/mL or ( **D**) 2.5 mg/mL SLE show less degeneration, as measured by the area of vacuoles in the brain. Treatment with ( **E**) 5 mg/mL has no effect. There is no effect in males at any of the concentrations. Controls are shown in gray; SLE is shown in green. Data are represented as the mean ± SEM. The total number of flies analyzed is denoted in each column. Due to the values not being normally distributed (D’Agostino–Pearson test), the non-parametric Mann–Whitney test was used to determine statistical significance between groups. \* _p_ < 0.05.
+
+### 2.6. LC-MS Identification and Quantification of 10 Flavonoids in SLE and SLAq
+
+Several studies have reported the chemical constituents of _Scutellaria_ species and their extracts. Flavonoids are the major constituents of _Scutellaria_ species, although the quantities that are present in different tissues differ between the species. In order to identify the possible active compounds that mediate the beneficial effects of our SL extracts, we set out to quantify 10 flavonoids, namely baicalin, baicalein, wogonin, wogonoside, norwogonin, chrysin, apigenin, oroxylin A, scutellarin, and scutellarein, in the extracts. Of the eight flavonoids quantified in SLE, only three were also found in SLAq (see [Table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-t001)). The three compounds detected in both extracts were baicalin, wogonoside, and oroxylin A, with higher levels found in SLE compared to SLAq. Of the compounds quantified, baicalin was by far the most abundant, with a concentration of 97.5358 µg/mg in SLE and 91.9381 µg/mg in the SLAq extract. The next most abundant compound in both the SLE and SLAq extracts was wogonoside, at 1.1236 and 0.8678 µg/mg, respectively. Scutellarein was the third most abundant flavonoid, with a concentration of 0.0110 µg/mg in our SLE, but it was not detected in SLAq. The concentrations of all tested compounds per mg of SLE and SLAq extract are shown in [Table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-t001).
+
+#### Table 1.
+
+Concentration of quantified compounds in the two extracts.
+
+| Compound | µg/mg SLE | µg/mg SLAq |
+| :-: | :-: | :-: |
+| Baicalin | 97.5358 | 91.9381 |
+| Wogonoside | 1.1236 | 0.8678 |
+| Wogonin | 0.0048 | n.d. |
+| Norwogonin | 0.0074 | n.d. |
+| Apigenin | 0.0013 | n.d. |
+| Scutellarein | 0.0110 | n.d. |
+| Chrysin | 0.0050 | n.d. |
+| Oroxylin A | 0.0072 | 0.0012 |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/table/ijms-27-00461-t001/)
+
+Three different compound diets were made: one containing baicalin alone, one containing wogonin, wogonoside, and norwogonin (wogon mix), and lastly one containing apigenin and scutellarein (AS mix). The baicalin stock solution was made by dissolving baicalin in EtOH due to its low solubility in DMSO or water. Instead of creating a diet that only contains wogonoside, we decided to include two of its aglycones, wogonin and norwogonin. Both of these compounds were detected and quantified in SLE but not in SLAq. These compounds were dissolved in DMSO; the control stock, therefore, contained the same concentration of DMSO. All three of these compounds have been reported to have anti-inflammatory, antioxidant, anti-viral, and anticancer properties \[ [37](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B37-ijms-27-00461)\]. Apigenin is a widely abundant flavonoid found in various plants \[ [38](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B38-ijms-27-00461)\]. Scutellarein is a derivative of apigenin, and both were present in SLE but not SLAq. Apigenin and scutellarein were also dissolved in DMSO to make the AS mix stock. Among others, antioxidant and anti-inflammatory properties have been reported for apigenin \[ [38](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B38-ijms-27-00461)\] and scutellarein \[ [39](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B39-ijms-27-00461)\].
+
+As SLE at 1 mg/mL was effective in improving cognitive/locomotor performance and sleep fragmentation (in males), select compounds were used in quantities equivalent to 1 mg/mL SLE. Control diets were made for each compound diet containing the equivalent amount of solvent. As we did with the SL extracts, 4-week-old flies were fed one of the compound diets or its respective control diet for 2 weeks, then assessed for age-related phenotypes.
+
+### 2.7. Compound Supplementation Improved Performance in Phototaxis
+
+Using the same protocol as for the SL extracts, we tested male and female flies separately before treatment at 4 weeks of age and after the following 2 weeks of treatment at 6 weeks of age. Prior to treatment, 4-week-old flies showed no significant differences in cognitive/locomotor performance between groups in males or females ( [Figure 10](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f010) A–C). At six weeks of age, flies that received a baicalin-supplemented diet showed a significantly improved performance in males and females compared to the controls ( [Figure 10](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f010) A). An improved performance in the phototaxis assay was also observed in wogon mix-fed females compared to controls; however, there was no significant difference between treated and control males ( [Figure 10](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f010) B). Similarly, female flies on the AS-supplemented diet performed significantly better than controls, whereas in males there was a positive trend that did not reach significance ( [Figure 10](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f010) C). Two-way ANOVA analyses are shown in [Supplementary Table S1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#app1-ijms-27-00461).
+
+#### Figure 10.
+
+[![Figure 10](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/925d/12786168/df87034b92fa/ijms-27-00461-g010.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=12786168_ijms-27-00461-g010.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/figure/ijms-27-00461-f010/)
+
+A 2-week treatment with a baicalin-supplemented diet improves cognitive/locomotor performance in 6-week-old flies. Performance in phototaxis declines between 4 weeks and 6 weeks of age. ( **A**) Six-week-old baicalin-treated (orange) flies performed better than age-matched controls (gray) in both males ( **left**) and females ( **right**). Two-week treatment with ( **B**) wogon mix (purple) and ( **C**) AS mix (red) improved phototaxis in females ( **right**) but not significantly in males ( **left**). Data are represented as the mean ± SEM of three independent experiments per treatment group. The total number of flies analyzed is denoted in each column. Due to the values not being normally distributed (D’Agostino–Pearson test), the non-parametric Mann–Whitney test was used to determine statistical significance between groups. \* _p_ < 0.05, \*\* _p_ < 0.01, \*\*\*\* _p_ < 0.0001.
+
+Combined with the SL extract results, this suggests that baicalin plays a major role in providing resilience against age-related cognitive/locomotor decline, as it is present in SLE and SLAq and improves behavior in both male and female flies. However, the wogonoside contained in the wogon mix, which is also present in SLE and SLAq, might contribute to the improvement in females. Neither apigenin nor scutellarein was detected in our SLAq extract, and we therefore assume they play only a minor role, although they may contribute to the effects of SLE.
+
+### 2.8. Wogon Mix Treatment Reduced Sleep Fragmentation in Males
+
+To investigate which compounds may contribute to the reduced sleep fragmentation seen in male flies treated with SLE (1 mg/mL), the number of sleep bouts and their average duration were assessed in 6-week-old flies over 3 days.
+
+Consistent with the sex-specific effects observed with SLE supplementation, neither baicalin nor the two mixes improved sleep fragmentation in females ( [Figure 11](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f011) D–F). Males treated with baicalin had more sleep bouts per day of significantly shorter duration compared to controls ( [Figure 11](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f011) A), similar to what we observed after SLAq treatment at the higher concentration. In contrast, the wogon-supplemented males had fewer sleep bouts per day of significantly longer duration ( [Figure 11](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f011) B). Since wogonin and norwogonin, in contrast to wogonoside, are only present in SLE, either or both of these compounds may mediate the function of SLE in improving sleep fragmentation in males. The similarity in the number and duration of sleep bouts in AS mix-treated males to those in controls ( [Figure 11](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f011) C) suggests that neither apigenin nor scutellarein plays a significant role in providing resilience to age-related sleep fragmentation.
+
+#### Figure 11.
+
+[![Figure 11](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/925d/12786168/cbe809f0296a/ijms-27-00461-g011.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=12786168_ijms-27-00461-g011.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/figure/ijms-27-00461-f011/)
+
+Wogon mix treatment reduces age-related sleep fragmentation in males. ( **A**) Compared to age-matched controls (gray), the number of sleep bouts per day increased and the duration decreased in baicalin-treated (orange) males. ( **B**) Wogon mix-treated (purple) males had fewer sleep bouts per day of significantly longer duration compared to controls. ( **C**) AS mix (red) treatment had no effect on sleep fragmentation in males. Compared to control females (gray), two-week treatment with ( **D**) baicalin (orange), ( **E**) wogon mix (purple), or ( **F**) AS mix (red) had no significant effect on sleep fragmentation. Data are represented as the mean ± SEM of three independent experiments per treatment group. The total number of flies analyzed is denoted in each column. Due to the values not being normally distributed (D’Agostino–Pearson test), the non-parametric Mann–Whitney test was used to determine statistical significance between groups. \* _p_ < 0.05, \*\*\*\* _p_ < 0.0001.
+
+### 2.9. Wogon Mix Treatment Has No Effect on Sleep Timing
+
+In addition to sleep fragmentation, we also assessed the amounts of daytime, nighttime, and total sleep in flies treated with baicalin, wogon mix, and AS mix diets. Compared to controls, 6-week-old baicalin-treated males had a significant decrease in daytime and total sleep, while nighttime sleep was increased in females ( [Figure 12](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f012) A). An increase in nighttime sleep was also observed after SLE treatment, although this effect was only evident at the 2.5 and 5 mg/mL concentrations and was detected in both males and females. The 2-week treatment with the wogon mix had no effect on daytime, nighttime, or total sleep in either males or females ( [Figure 12](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f012) B). The AS mix supplementation also had no effect on sleep timing in males; however, in females, there was a slight but significant decrease in nighttime sleep ( [Figure 12](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f012) C).
+
+#### Figure 12.
+
+[![Figure 12](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/925d/12786168/02a21ec1cb05/ijms-27-00461-g012.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=12786168_ijms-27-00461-g012.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/figure/ijms-27-00461-f012/)
+
+Sleep time is only minimally affected by compound treatment. ( **A**) Baicalin supplementation (orange) reduces daytime sleep and total sleep in males and slightly increased nighttime sleep in females. ( **B**) The wogon mix (purple) had no significant effect on sleep timing in males or females. ( **C**) AS mix (red) slightly decreased nighttime sleep in females with no effect in males. Data are represented as the mean ± SEM of three independent experiments per treatment group. The total number of flies analyzed is denoted in each column. Due to the values not being normally distributed (D’Agostino–Pearson test), the non-parametric Mann–Whitney test was used to determine statistical significance between groups. \* _p_ < 0.05, \*\* _p_ < 0.01, \*\*\* _p_ < 0.001.
+
+Overall, the effects on sleep timing varied across treatments, and in some treatments they were sex-specific. The baicalin treatment had different effects on sleep timing, with males sleeping less during the day and females spending more time asleep at night. While the wogon mix supplementation reduced sleep fragmentation in males, it had no significant effect on sleep timing in either males or females. The AS-supplemented diet had no effect on sleep fragmentation in males or females; however, it did decrease the amount of time spent asleep at night in females.
+
+### 2.10. Longevity
+
+Similarly to the results of SLE and SLAq supplementation, there were only small differences in the lifespan of flies treated with any of the compound diets. There was a slight reduction in the lifespan of baicalin-treated females and in wogon mix-treated males, whereas the other treatments had no effect ( [Figure 13](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f013) A–C).
+
+#### Figure 13.
+
+[![Figure 13](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/925d/12786168/52097740fbee/ijms-27-00461-g013.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=12786168_ijms-27-00461-g013.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/figure/ijms-27-00461-f013/)
+
+None of the compounds improved lifespan. ( **A**) Compared to their respective controls, baicalin (orange) had no significant effect on males, but it decreased survival in females. ( **B**) Wogon mix (purple) slightly decreased survival in males and had no effect in females. ( **C**) The AS mix had no effect on lifespan, neither in males nor females. Data are represented as the mean ± SEM from three independent experiments per treatment group. Statistical significance was determined using Log-rank (Mantel–Cox) tests. Total n is indicated in the figures; n per test is listed in [Supplementary Table S3](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#app1-ijms-27-00461). \\* _p_ < 0.05, \*\* _p_ < 0.01.
+
+### 2.11. The Neurodegeneration Was Not Improved by the Tested Compounds
+
+Lastly, we tested the effects of the compounds on neurodegeneration. Due to the AS mix not having an effect on behavior, the AS mix was not included. Using baicalin, we detected no effect on age-related neurodegeneration in males, but in females the degeneration was increased ( [Figure 14](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f014) A). By treating with the wogon mix, we detected a decrease in the degeneration in males, but this did not reach significance ( [Figure 14](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-f014) B). It had no effect in females.
+
+#### Figure 14.
+
+[![Figure 14](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/925d/12786168/13c66d9114d1/ijms-27-00461-g014.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=12786168_ijms-27-00461-g014.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/figure/ijms-27-00461-f014/)
+
+The compounds did not improve neurodegeneration. ( **A**) While males are unaffected by baicalin supplementation (orange), females show increased neurodegeneration. ( **B**) The wogon mix (purple) had no significant effect in females or males compared to controls (gray). Data are represented as the mean ± SEM. The total number of flies analyzed is denoted in each column. Due to the values not being normally distributed (D’Agostino–Pearson test), the non-parametric Mann–Whitney test was used to determine statistical significance between groups. \* _p_ < 0.05.
+
+## 3\. Discussion
+
+As mentioned in the introduction, _S. lateriflora_ has been used in herbal medicine for centuries for its sedative, anxiolytic, and pain-relieving effects \[ [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B27-ijms-27-00461), [40](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B40-ijms-27-00461)\].
+
+SL has also been used in studies in rodents. In rodents, it has been shown to reduce anxiety levels, and it has been suggested that baicalin and baicalein act as the neuroactive flavonoids interacting with the γ-aminobutyric acid-A (GABAA) receptor complex \[ [37](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B37-ijms-27-00461), [41](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B41-ijms-27-00461), [42](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B42-ijms-27-00461), [43](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B43-ijms-27-00461)\]. Mice given SL as a tea continuously starting 2 weeks prior to inoculation with scrapie (prion disease) survived significantly longer than controls. SL tea, baicalin, and baicalein inhibited fibril formation and destabilized formed fibrils in vitro \[ [44](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B44-ijms-27-00461)\].
+
+Whether SL extracts can provide resilience to age-related impairments has, to our knowledge, so far not been addressed in animal models or clinical trials. We now studied this in the _Drosophila_ model, aging them for four weeks to reach middle age before treating them with extracts made from the aerial parts of _S. lateriflora_. We first tested the effects on age-related declines in mobility and reaction, using the fast phototaxis assay. As expected, the performance in the fast phototaxis assay declined with age in all flies tested. However, the 2-week treatment with 1 mg/mL SLE improved locomotor/reaction performance in both males and females. At higher SLE concentrations, the treated flies also performed better than the controls; however, this improvement did not always reach significance in both sexes. SLAq had a more robust effect on phototaxis because both males and females performed better after treatment with 1 and 2.5 mg/mL SLAq. Testing the compounds, we also found a robust improvement in phototaxis with baicalin. This shows that baicalin is sufficient for improving phototaxis, and, due to baicalin being present in both extracts, this suggests that this compound is mediating the beneficial effects of both SLE and SLAq on cognitive/locomotor performance. Although _S. lateriflora_ has not been tested for an improvement in mobility or reaction, a herbal supplement containing another _Scutellaria_ species, _S. baicalensis_, as well as _C. laevigata_ and magnesium/chromium, did improve recognition reaction time and cognition in healthy but stressed subjects aged 18–75 \[ [45](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B45-ijms-27-00461)\]. This publication also describes that the study participants reported improved sleep, although this was only a subjective assessment. Sleep disruptions are a common occurrence in the elderly, with problems falling asleep and waking up frequently during the night \[ [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B3-ijms-27-00461), [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B4-ijms-27-00461), [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B5-ijms-27-00461)\]. Similarly, _Drosophila_ show a more interrupted sleep pattern, detectable through an increase in sleep bout number and a decrease in their length \[ [35](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B35-ijms-27-00461)\].
+
+We therefore determined the sleep pattern in SL-treated flies as a second measurement for effects on age-related changes. In contrast to the phototaxis tests, SLAq had either no effect on the sleep patterns or even increased sleep fragmentation in males at the higher dose of 2.5 mg/mL. However, SLE reduced sleep fragmentation at all three concentrations tested, although only in males. At the higher concentrations of 2.5 mg/mL and 5 mg/mL, it also significantly increased the total time of nighttime sleep, and, surprisingly, this was the case in both males and females. This shows that the effects of SL on sleep are dependent on the preparation of the extract, suggesting that SLE contains compounds that are not, or are not efficiently, extracted by water. Lohani and colleagues reported that 70% EtOH extracts of _S. lateriflora_ contained higher levels of protein, glutathione, polyphenols, and flavonoids compared to aqueous extracts \[ [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B19-ijms-27-00461)\]. This was confirmed by our analyses, which showed that only three of the eight flavonoids found in SLE were also present in SLAq, and even those were less concentrated in SLAq compared to SLE. When testing whether the effects of SLE on sleep are mediated by one or some of these flavonoids, we found that baicalin actually increased sleep fragmentation in males at a concentration corresponding to 1 mg/mL SLE. In contrast, the mix of wogonin, wogonoside, and norwogonin reduced sleep fragmentation in males. That baicalin did not improve sleep is consistent with SLAq not improving sleep, as both SLE and SLAq contain significant amounts of baicalin. The fact that we do not detect a negative effect on sleep with the SLAq extracts suggests that other compounds in the extracts might overcome the negative effect of baicalin on sleep. Whereas wogonoside is found in both extracts, wogonin and norwogonin were only detected in SLE, and we therefore assume that these two compounds play an important role in improving sleep fragmentation. Using rats, it was shown that baicalin has complex effects on sleep, decreasing slow wave sleep during the light period and increasing it during darkness, and these effects are mediated by GABAA \[ [46](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B46-ijms-27-00461)\]. As mentioned above, the activation of GABAA receptors was also suggested to account for the anxiolytic effect of baicalin in mice \[ [37](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B37-ijms-27-00461)\]. The effects of wogonin or norwogonin on sleep have, to our knowledge, not been tested in other models.
+
+As when testing SLE, the effect of the compounds on sleep was restricted to males, showing that the preparation and concentration of specific compounds is important but also that the functional mechanism of these compounds might be different in males and females. This is in contrast to the phototaxis, which is improved in both males and females. Lastly, we tested whether the improvements in age-related cognitive/locomotor performance and sleep deficits in our _Drosophila_ model are due to SL slowing the aging process. However, neither SLE, SLAq, nor any of the compounds extended lifespan, and in some cases they even reduced survival, and it is therefore unlikely that the improvement is caused by slowing the aging process. However, we found that SLE reduced neurodegeneration in females, suggesting that SL can maintain brain health during aging and thereby improve neuronal function and behavior. As with sleep, baicalin had a negative effect on neurodegeneration, again suggesting that the negative effects of baicalin are mitigated by other compounds in the SLE mix. In contrast to baicalin, the wogon mix reduced sleep fragmentation in males, and, although it did not quite reach significance, it also reduced neurodegeneration in males. It is therefore possible that wogonin and/or norwogonin improve sleep by promoting the health of the neurons regulating sleep.
+
+## 4\. Materials and Methods
+
+### 4.1. Drosophila Melanogaster Stocks
+
+_Drosophila melanogaster_ (Canton S) were maintained under a 12 h:12 h light/dark (12:12 LD) cycle at 25 °C. Adult male and female wildtype (Canton S) flies were maintained on a _Drosophila_ diet (agar: 338 g, cornmeal: 2149 g, yeast: 696.5 g, sugar: 425 g, old inhibitor: 100 g, ethanol: 348 mL, diH2O: 36 L) until four weeks of age and then transferred to fresh food with the extracts/compounds or vehicle. Fresh diet was provided every 3–4 days.
+
+### 4.2. Raw Plant Material and Extracts
+
+_Scutellaria lateriflora_ dried aerial parts were purchased through Oregon’s Wild Harvest (OWH), Redmond, OR, USA (OWH Lot# 231000203). A 70% ethanol extract (SLE) and an aqueous extract (SLAq) were prepared as described by \[ [31](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B31-ijms-27-00461)\]. Briefly, the 70% ethanol extract was prepared by boiling the dried aerial parts under reflux with 70% ethanol in water for 90 min at a ratio of 80 g of material to 1 L of 70% ethanol. To remove larger plant fragments, the warm extract was filtered through a sieve and then centrifuged (Beckman GS-6R) at 3850 rpm for 10 min to sediment finer particles. The pellet containing plant particles was discarded, and the supernatant was filtered through Whatman filter paper (Grade 1, 90 mm). Ethanol was then removed from the filtrate under vacuum on a rotary evaporator, and the remaining predominantly aqueous solution was frozen and lyophilized into a powder on a Virtis lyophilizer (Phase 1, 115 V, 20 amps). The yield of dried 70% ethanol extract was about 23.9% by weight of the original plant material. The aqueous extract was prepared by boiling _S. lateriflora_ dried aerial parts in deionized water under reflux for 90 min at a ratio of 160 g of material to 2 L of water. The mixture was then filtered through a sieve and centrifuged, and the supernatant was filtered through filter paper as described for the ethanol plant extract above. This extract was then frozen and lyophilized into a powder as described for the ethanol extract. The yield of dried water extract was about 15.1% by weight of the original plant material. Each extraction was given a specific lot number, BEN-SLE-1 (ethanol extract) and BEN-SLAq-1 (aqueous extract), and stored at −20 °C until use. A voucher specimen of the dried plant material is stored at the BENFRA laboratory at OHSU under the code number BEN-SL-1.
+
+### 4.3. Chemicals and Reagents
+
+Organic solvents (HPLC grade) and general laboratory supplies such as vials and pipette tips were obtained from Fisher Scientific (Fairlawn, NJ, USA) or Avantor (Allentown, PA, USA). Reference standards for oroxylin A, norwogonin, and scutellarein were obtained from Cayman Chemical (Ann Arbor, MI, USA); wogonoside was obtained from LGC Standards (Manchester, NH, USA); and Chromadex (Longmont, CO, USA) supplied the Skullcap standards kit, which included baicalin, baicalein, scutellarin, and wogonin. Chrysin (Chromadex) and apigenin (Sigma, St. Louis, MO, USA) were kindly provided by Dr. Amala Soumyanath.
+
+### 4.4. Preparation of Scutellaria lateriflora Extracts and LC-MS/MS Method Calibrators
+
+Lyophilized _Scutellaria lateriflora_ extracts were reconstituted in water to a concentration of 50 mg/mL. Extracts were then serially diluted with water to 5 mg/mL, 2.5 mg/mL, 1 mg/mL, and 0.5 mg/mL. During analysis, the 0.5 mg/mL extracts were further diluted 1:10 in series to 0.05, 0.005, and 0.0005 mg/mL for the analysis of specific analytes with higher intensities (baicalin and scutellarin). An aliquot of the ethanol and water extract 1 mg/mL reconstituted stock was spiked with reference standard solution to confirm analyte retention time and evaluate potential matrix effects. Where possible (wogonin, chrysin, oroxylin A, norwogonin, apigenin, and scutellarein), the recovery of known amounts of reference standard spike was assessed and was satisfactory (within ±30%). Reference standard solutions were made in DMSO at a 1 mg/mL concentration. Curves were prepared for reference standards by diluting DMSO stocks in water to concentrations ranging from 1 ng/mL to 5000 ng/mL (scutellarein, wogonoside, baicalin, baicalein, and apigenin), or from 1 ng/mL to 1000 ng/mL (wogonin, chrysin, oroxylin A, norwogonin, and scutellarin). Dilution linearity was satisfactory except for higher-concentration compounds, where saturation occurred.
+
+### 4.5. LC-MS/MS Analysis for S. lateriflora Extracts
+
+_S. lateriflora_ extracts were analyzed using a 5500+ QTRAP hybrid/triple quadrupole linear ion trap mass spectrometer (Applied Biosystems, Foster City, CA, USA) with electrospray ionization (ESI) in positive mode. The mass spectrometer was interfaced to a Shimadzu HPLC (Columbia, MD, USA) with an SIL-20AC XR auto-sampler, followed by two LC-20AD XR LC pumps. The mass spectrometer was operated with the following settings: source voltage 4500 kV, GS1 30, GS2 70, CUR 35, TEM 700, and CAD gas MED. Compounds were infused individually, and tandem mass spectrometry (MS/MS) instrument collision energy parameters were optimized for each parent to produce ion Multiple Reaction Monitoring (MRM) transitions. The scheduled MRM transitions used for quantification are provided in [Table 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-t002) and were monitored with a 25 ms dwell time. Where possible, a second transition was also monitored as a qualifying transition to improve method specificity. The HPLC gradient mobile phase was delivered at a flow rate of 0.3 mL/min and consisted of two solvents: A: 0.1% formic 10 mM ammonium formate in water and B: 0.1% formic in acetonitrile. The initial solvent B percentage was 5%, which was held for 0.5 min, followed by a 1 min gradient to 30%, and then an 8.5 min gradient to 60%, followed by a quick ramp of 0.5 min from 60% to 95%, held at 95% for 1 min to wash, 0.1 min to start, and re-equilibrated till 15 min. The injection volume was 5 µL and the flow was to the source, between 1.5 and 7 min. The LC column used was a Kinetex Phenyl-Hexyl 50 × 2.1 mm 2.6 µM, and the column oven was set to 40 °C; the autosampler was set to 15 °C, with a needle rinse before and after each injection. Data were acquired using Analyst 1.7.3 and analyzed with Multiquant 3.03.
+
+#### Table 2.
+
+Tandem mass spectrometer (MS/MS) settings.
+
+| Compound | Retention Time (Minutes) | Quad 1 Mass | Quad 3 Mass | Depolarizing Potential (V) | Exit Potential (V) | Collision Energy (V) | Collision Cell Exit Potential (V) |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Baicalin | 2.82 | 447 | 271 | 100 | 15 | 30 | 10 |
+| Wogonin | 4.8 | 285 | 270 | 100 | 10 | 30 | 5 |
+| Wogonoside | 3.17 | 461 | 285 | 100 | 10 | 30 | 15 |
+| Chrysin | 4.83 | 255 | 153 | 75 | 5 | 40 | 10 |
+| Oroxylin A | 4.97 | 285 | 270 | 35 | 5 | 30 | 15 |
+| Norwogonin | 3.65 | 271 | 169 | 75 | 15 | 40 | 10 |
+| Apigenin | 3.5 | 271 | 153 | 50 | 5 | 40 | 20 |
+| Scutellarein | 2.86 | 287 | 169 | 100 | 10 | 60 | 20 |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/table/ijms-27-00461-t002/)
+
+### 4.6. Diets
+
+Stock solutions were prepared by dissolving the lyophilized ethanol and aqueous extracts in double distilled water to a concentration of 50 mg/mL. Ethanol and aqueous stock solutions were diluted in the _Drosophila_ diet at multiple final test concentrations, hereafter referred to as SLE and SLAq, respectively. Wogon mix and AS mix stocks were made by dissolving commercially available pure powdered compounds in DMSO, while baicalin was dissolved in EtOH. Each of the tested mixes contained the specified compounds ( [Table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#ijms-27-00461-t001)) at concentrations equivalent to those found per mg of SLE. Wogon mix, AS mix, and baicalin stock solutions were mixed into the _Drosophila_ diet equivalent to 1 mg/mL SLE. Control diets were made by adding the equivalent amounts of the respective solvents (H2O, DMSO, or EtOH) into the _Drosophila_ diet.
+
+### 4.7. Fast Phototaxis
+
+At 4 weeks of age, male and female flies were anesthetized and separated and allowed to recover for 12–16 h. Their cognitive/locomotor performance was then measured using the fast phototaxis assay as described previously \[ [47](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B47-ijms-27-00461)\]. After a two-week treatment with either a supplemented or control diet, six-week-old male and female flies were retested as described in \[ [47](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B47-ijms-27-00461)\]. Briefly, after 4 h of starvation, groups of up to 25 flies were placed in the concurrent apparatus described by \[ [48](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B48-ijms-27-00461)\]. In the dark, with a single light source, each experiment consisted of five successive tests of 6 s to transition into the next vial towards the light. At the end of the experiment, based on which of the six vials they reached, a score was given for each fly. Using GraphPad Prism (GraphPad Prism v6.07; GraphPad Software Inc., San Diego, CA, USA) and the D’Agostino–Pearson test, we found that the data were non-parametric, and therefore statistical significance between groups was determined using the Mann–Whitney test.
+
+### 4.8. Sleep
+
+At four weeks of age, the flies were switched to either a supplemented diet or their respective control diet. After two weeks of treatment with a supplemented or control diet, six-week-old individual flies were placed into individual tubes containing the specified diet, with one end sealed with paraffin and a piece of yarn at the other. Tubes were loaded into the TriKinetics _Drosophila_ Activity Monitoring system (DAMS; TriKinetics, Waltham, MA, USA) and allowed to acclimate for 12–16 h. Data were collected every minute for 3 days under 12:12 LD at 25 °C. Sleep was defined as 5 or more consecutive minutes without a beam break \[ [49](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B49-ijms-27-00461), [50](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B50-ijms-27-00461)\]. The number of sleep bouts per day, sleep bout duration, and daytime, nighttime, and total sleep data were analyzed using ClockLab software (v6.1.02 Actimetrics, Lafayette Instrument Company, Lafayette, IN, USA). For statistical analysis, treated male and female flies were compared with sex-matched flies fed the respective control diet using the D’Agostino–Pearson test and the non-parametric Mann–Whitney test (GraphPad Prism v6.07; GraphPad Software Inc., San Diego, CA, USA).
+
+### 4.9. Lifespan
+
+At four weeks of age, the flies were switched to either a supplemented diet or their respective control diet. Mortality was recorded every 3–4 days at diet exchange without anesthesia. Sex was determined after death. Statistical significance of the median lifespan from three cohorts each between sex-matched flies on the supplemented diets and the respective control diets was determined through one-tailed unpaired _t_-tests with Welch’s correction using GraphPad Prism 6 (GraphPad Prism v6.07; GraphPad Software Inc., San Diego, CA, USA).
+
+### 4.10. Neurodegeneration
+
+At four weeks of age, flies were switched to either a supplemented diet or their respective control diet for four weeks. At eight weeks of age, the heads of male and female flies were randomly placed side by side in a collar and processed as a single sample, as previously described in \[ [51](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B51-ijms-27-00461)\]. Eight-week-old flies were analyzed because degeneration was detectable at this age in CS \[ [36](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B36-ijms-27-00461)\]. Briefly, heads were embedded in paraffin blocks, cut into 7 µm serial sections, and SafeClear (Fisher Scientific) was used to remove the paraffin. The sections were then embedded in Permount. Using an Olympus BX61 microscope (Olympus, Tokyo, Japan), sections were analyzed by an experimenter blinded to the treatments. The area of vacuoles, representing a loss of brain tissue, appears black due to autofluorescence of the tissue due to eye pigment, and was measured in the central brain and in the optic lobes using Fiji ImageJ Software (ImageJ v2.16.0/1.54p) \[ [52](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#B52-ijms-27-00461)\]. For statistical analysis, we used the D’Agostino–Pearson test and the non-parametric Mann–Whitney test (GraphPad Prism v6.07; GraphPad Software Inc., San Diego, CA, USA).
+
+## 5\. Conclusions
+
+In summary, our experiments show that SL extracts can provide resilience to age-related functional decline. The improvements in phototaxis from SLE, SLAq, and baicalin indicate that baicalin is mediating the beneficial functions. In contrast, only SLE and the wogon mix reduced sleep fragmentation, and this was only the case in males. This shows that the efficacy of SL is dependent on the extraction method and the specific behavior tested, and it can vary in males and females. Future experiments are needed to address whether this is also the case in mammals.
+
+## Acknowledgments
+
+This study was funded by NCCIH U19AT010929 and 1S10OD032323-01. D.M.L. was supported by the NIH-NCCIH T32 AT002688 training grant and by the 2024 Neurology Department funded BENFRA pilot award. Special thanks to Lisa Bleyle and the Bioanalytical Shared Resource/Pharmacokinetics Core Facility at OHSU (Research Resource Identifier: SCR\_009963) for LC-MS/MS analysis.
+
+## Supplementary Materials
+
+The following supporting information can be downloaded at [https://www.mdpi.com/article/10.3390/ijms27010461/s1](https://www.mdpi.com/article/10.3390/ijms27010461/s1).
+
+[ijms-27-00461-s001.zip](https://pmc.ncbi.nlm.nih.gov/articles/instance/12786168/bin/ijms-27-00461-s001.zip) (210.5KB, zip)
+
+## Author Contributions
+
+Conceptualization, D.K., D.M.L. and A.S.; methodology, D.K., D.M.L., A.S. and J.M.; investigation, D.M.L.; formal analysis, D.M.L.; writing—original draft, D.M.L.; writing—review and editing, D.M.L., D.K., A.S. and J.M.; visualization, D.M.L.; funding acquisition, D.K. and D.M.L. All authors have read and agreed to the published version of the manuscript.
+
+## Institutional Review Board Statement
+
+Not applicable.
+
+## Informed Consent Statement
+
+Not applicable.
+
+## Data Availability Statement
+
+The original contributions presented in this study are included in the article/ [Supplementary Materials](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#app1-ijms-27-00461). Further inquiries can be directed to the corresponding author.
+
+## Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+## Funding Statement
+
+This study was funded by NIH-NCCIH T32 AT002688 and by the 2024 Neurology Department funded BENFRA pilot award.
+
+## Footnotes
+
+**Disclaimer/Publisher’s Note:** The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+## References
+
+- 1.Rocca W.A., Petersen R.C., Knopman D.S., Hebert L.E., Evans D.A., Hall K.S., Gao S., Unverzagt F.W., Langa K.M., Larson E.B., et al. Trends in the incidence and prevalence of Alzheimer’s disease, dementia, and cognitive impairment in the United States. Alzheimer’s Dement. 2011;7:80–93. doi: 10.1016/j.jalz.2010.11.002. \[ [DOI](https://doi.org/10.1016/j.jalz.2010.11.002)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3026476/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21255746/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Alzheimer%E2%80%99s%20Dement.&title=Trends%20in%20the%20incidence%20and%20prevalence%20of%20Alzheimer%E2%80%99s%20disease,%20dementia,%20and%20cognitive%20impairment%20in%20the%20United%20States&author=W.A.%20Rocca&author=R.C.%20Petersen&author=D.S.%20Knopman&author=L.E.%20Hebert&author=D.A.%20Evans&volume=7&publication_year=2011&pages=80-93&pmid=21255746&doi=10.1016/j.jalz.2010.11.002&)\]
+- 2.Blazer D.G., Yaffe K., Karlawish J. Cognitive aging: A report from the Institute of Medicine. JAMA. 2015;313:2121–2122. doi: 10.1001/jama.2015.4380. \[ [DOI](https://doi.org/10.1001/jama.2015.4380)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25875498/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=JAMA&title=Cognitive%20aging:%20A%20report%20from%20the%20Institute%20of%20Medicine&author=D.G.%20Blazer&author=K.%20Yaffe&author=J.%20Karlawish&volume=313&publication_year=2015&pages=2121-2122&pmid=25875498&doi=10.1001/jama.2015.4380&)\]
+- 3.Zdanys K.F., Steffens D.C. Sleep Disturbances in the Elderly. Psychiatr. Clin. N. Am. 2015;38:723–741. doi: 10.1016/j.psc.2015.07.010. \[ [DOI](https://doi.org/10.1016/j.psc.2015.07.010)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26600105/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Psychiatr.%20Clin.%20N.%20Am.&title=Sleep%20Disturbances%20in%20the%20Elderly&author=K.F.%20Zdanys&author=D.C.%20Steffens&volume=38&publication_year=2015&pages=723-741&pmid=26600105&doi=10.1016/j.psc.2015.07.010&)\]
+- 4.Benca R.M., Teodorescu M. Sleep physiology and disorders in aging and dementia. Handb. Clin. Neurol. 2019;167:477–493. doi: 10.1016/B978-0-12-804766-8.00026-1. \[ [DOI](https://doi.org/10.1016/B978-0-12-804766-8.00026-1)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31753150/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Handb.%20Clin.%20Neurol.&title=Sleep%20physiology%20and%20disorders%20in%20aging%20and%20dementia&author=R.M.%20Benca&author=M.%20Teodorescu&volume=167&publication_year=2019&pages=477-493&pmid=31753150&doi=10.1016/B978-0-12-804766-8.00026-1&)\]
+- 5.Gooneratne N.S., Vitiello M.V. Sleep in older adults: Normative changes, sleep disorders, and treatment options. Clin. Geriatr. Med. 2014;30:591–627. doi: 10.1016/j.cger.2014.04.007. \[ [DOI](https://doi.org/10.1016/j.cger.2014.04.007)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4656195/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25037297/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin.%20Geriatr.%20Med.&title=Sleep%20in%20older%20adults:%20Normative%20changes,%20sleep%20disorders,%20and%20treatment%20options&author=N.S.%20Gooneratne&author=M.V.%20Vitiello&volume=30&publication_year=2014&pages=591-627&pmid=25037297&doi=10.1016/j.cger.2014.04.007&)\]
+- 6.Niccoli T., Partridge L. Ageing as a risk factor for disease. Curr. Biol. 2012;22:R741–R752. doi: 10.1016/j.cub.2012.07.024. \[ [DOI](https://doi.org/10.1016/j.cub.2012.07.024)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22975005/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Curr.%20Biol.&title=Ageing%20as%20a%20risk%20factor%20for%20disease&author=T.%20Niccoli&author=L.%20Partridge&volume=22&publication_year=2012&pages=R741-R752&pmid=22975005&doi=10.1016/j.cub.2012.07.024&)\]
+- 7.Lim A.S., Yu L., Costa M.D., Leurgans S.E., Buchman A.S., Bennett D.A., Saper C.B. Increased fragmentation of rest-activity patterns is associated with a characteristic pattern of cognitive impairment in older individuals. Sleep. 2012;35:633–640. doi: 10.5665/sleep.1820. \[ [DOI](https://doi.org/10.5665/sleep.1820)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3321422/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22547889/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sleep&title=Increased%20fragmentation%20of%20rest-activity%20patterns%20is%20associated%20with%20a%20characteristic%20pattern%20of%20cognitive%20impairment%20in%20older%20individuals&author=A.S.%20Lim&author=L.%20Yu&author=M.D.%20Costa&author=S.E.%20Leurgans&author=A.S.%20Buchman&volume=35&publication_year=2012&pages=633-640&pmid=22547889&doi=10.5665/sleep.1820&)\]
+- 8.Peng A., Ji S., Lai W., Hu D., Wang M., Zhao X., Chen L. The bidirectional relationship between sleep disturbance and anxiety: Sleep disturbance is a stronger predictor of anxiety. Sleep Med. 2024;121:63–68. doi: 10.1016/j.sleep.2024.06.022. \[ [DOI](https://doi.org/10.1016/j.sleep.2024.06.022)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/38924831/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sleep%20Med.&title=The%20bidirectional%20relationship%20between%20sleep%20disturbance%20and%20anxiety:%20Sleep%20disturbance%20is%20a%20stronger%20predictor%20of%20anxiety&author=A.%20Peng&author=S.%20Ji&author=W.%20Lai&author=D.%20Hu&author=M.%20Wang&volume=121&publication_year=2024&pages=63-68&pmid=38924831&doi=10.1016/j.sleep.2024.06.022&)\]
+- 9.Wennberg A.M.V., Wu M.N., Rosenberg P.B., Spira A.P. Sleep Disturbance, Cognitive Decline, and Dementia: A Review. Semin. Neurol. 2017;37:395–406. doi: 10.1055/s-0037-1604351. \[ [DOI](https://doi.org/10.1055/s-0037-1604351)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5910033/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28837986/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Semin.%20Neurol.&title=Sleep%20Disturbance,%20Cognitive%20Decline,%20and%20Dementia:%20A%20Review&author=A.M.V.%20Wennberg&author=M.N.%20Wu&author=P.B.%20Rosenberg&author=A.P.%20Spira&volume=37&publication_year=2017&pages=395-406&pmid=28837986&doi=10.1055/s-0037-1604351&)\]
+- 10.Mukherjee U., Sehar U., Brownell M., Reddy P.H. Mechanisms, consequences and role of interventions for sleep deprivation: Focus on mild cognitive impairment and Alzheimer’s disease in elderly. Ageing Res. Rev. 2024;100:102457. doi: 10.1016/j.arr.2024.102457. \[ [DOI](https://doi.org/10.1016/j.arr.2024.102457)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC11415889/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/39154978/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Ageing%20Res.%20Rev.&title=Mechanisms,%20consequences%20and%20role%20of%20interventions%20for%20sleep%20deprivation:%20Focus%20on%20mild%20cognitive%20impairment%20and%20Alzheimer%E2%80%99s%20disease%20in%20elderly&author=U.%20Mukherjee&author=U.%20Sehar&author=M.%20Brownell&author=P.H.%20Reddy&volume=100&publication_year=2024&pages=102457&pmid=39154978&doi=10.1016/j.arr.2024.102457&)\]
+- 11.Schroeck J.L., Ford J., Conway E.L., Kurtzhalts K.E., Gee M.E., Vollmer K.A., Mergenhagen K.A. Review of Safety and Efficacy of Sleep Medicines in Older Adults. Clin. Ther. 2016;38:2340–2372. doi: 10.1016/j.clinthera.2016.09.010. \[ [DOI](https://doi.org/10.1016/j.clinthera.2016.09.010)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27751669/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin.%20Ther.&title=Review%20of%20Safety%20and%20Efficacy%20of%20Sleep%20Medicines%20in%20Older%20Adults&author=J.L.%20Schroeck&author=J.%20Ford&author=E.L.%20Conway&author=K.E.%20Kurtzhalts&author=M.E.%20Gee&volume=38&publication_year=2016&pages=2340-2372&pmid=27751669&doi=10.1016/j.clinthera.2016.09.010&)\]
+- 12.Borras S., Martinez-Solis I., Rios J.L. Medicinal Plants for Insomnia Related to Anxiety: An Updated Review. Planta Med. 2021;87:738–753. doi: 10.1055/a-1510-9826. \[ [DOI](https://doi.org/10.1055/a-1510-9826)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/34116572/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Planta%20Med.&title=Medicinal%20Plants%20for%20Insomnia%20Related%20to%20Anxiety:%20An%20Updated%20Review&author=S.%20Borras&author=I.%20Martinez-Solis&author=J.L.%20Rios&volume=87&publication_year=2021&pages=738-753&pmid=34116572&doi=10.1055/a-1510-9826&)\]
+- 13.Cooper C., Li R., Lyketsos C., Livingston G. Treatment for mild cognitive impairment: Systematic review. Br. J. Psychiatry. 2013;203:255–264. doi: 10.1192/bjp.bp.113.127811. \[ [DOI](https://doi.org/10.1192/bjp.bp.113.127811)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3943830/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24085737/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Br.%20J.%20Psychiatry&title=Treatment%20for%20mild%20cognitive%20impairment:%20Systematic%20review&author=C.%20Cooper&author=R.%20Li&author=C.%20Lyketsos&author=G.%20Livingston&volume=203&publication_year=2013&pages=255-264&pmid=24085737&doi=10.1192/bjp.bp.113.127811&)\]
+- 14.Matsunaga S., Fujishiro H., Takechi H. Efficacy and Safety of Cholinesterase Inhibitors for Mild Cognitive Impairment: A Systematic Review and Meta-Analysis. J. Alzheimer’s Dis. 2019;71:513–523. doi: 10.3233/JAD-190546. \[ [DOI](https://doi.org/10.3233/JAD-190546)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31424411/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Alzheimer%E2%80%99s%20Dis.&title=Efficacy%20and%20Safety%20of%20Cholinesterase%20Inhibitors%20for%20Mild%20Cognitive%20Impairment:%20A%20Systematic%20Review%20and%20Meta-Analysis&author=S.%20Matsunaga&author=H.%20Fujishiro&author=H.%20Takechi&volume=71&publication_year=2019&pages=513-523&pmid=31424411&doi=10.3233/JAD-190546&)\]
+- 15.Setzer W.N. The Phytochemistry of Cherokee Aromatic Medicinal Plants. Medicines. 2018;5:121. doi: 10.3390/medicines5040121. \[ [DOI](https://doi.org/10.3390/medicines5040121)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6313439/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30424560/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Medicines&title=The%20Phytochemistry%20of%20Cherokee%20Aromatic%20Medicinal%20Plants&author=W.N.%20Setzer&volume=5&publication_year=2018&pages=121&pmid=30424560&doi=10.3390/medicines5040121&)\]
+- 16.Shen J., Li P., Liu S., Liu Q., Li Y., Sun Y., He C., Xiao P. Traditional uses, ten-years research progress on phytochemistry and pharmacology, and clinical studies of the genus Scutellaria. J. Ethnopharmacol. 2021;265:113198. doi: 10.1016/j.jep.2020.113198. \[ [DOI](https://doi.org/10.1016/j.jep.2020.113198)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32739568/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Ethnopharmacol.&title=Traditional%20uses,%20ten-years%20research%20progress%20on%20phytochemistry%20and%20pharmacology,%20and%20clinical%20studies%20of%20the%20genus%20Scutellaria&author=J.%20Shen&author=P.%20Li&author=S.%20Liu&author=Q.%20Liu&author=Y.%20Li&volume=265&publication_year=2021&pages=113198&pmid=32739568&doi=10.1016/j.jep.2020.113198&)\]
+- 17.Bergeron C., Gafner S., Clausen E., Carrier D.J. Comparison of the chemical composition of extracts from Scutellaria lateriflora using accelerated solvent extraction and supercritical fluid extraction versus standard hot water or 70% ethanol extraction. J. Agric. Food Chem. 2005;53:3076–3080. doi: 10.1021/jf048408t. \[ [DOI](https://doi.org/10.1021/jf048408t)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15826062/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Agric.%20Food%20Chem.&title=Comparison%20of%20the%20chemical%20composition%20of%20extracts%20from%20Scutellaria%20lateriflora%20using%20accelerated%20solvent%20extraction%20and%20supercritical%20fluid%20extraction%20versus%20standard%20hot%20water%20or%2070%%20ethanol%20extraction&author=C.%20Bergeron&author=S.%20Gafner&author=E.%20Clausen&author=D.J.%20Carrier&volume=53&publication_year=2005&pages=3076-3080&pmid=15826062&doi=10.1021/jf048408t&)\]
+- 18.Sherman S.H., Joshee N. Current status of research on medicinal plant Scutellaria lateriflora: A review. J. Med. Aromat. Plants. 2022;11:22–38. doi: 10.7275/shxv-wb39. \[ [DOI](https://doi.org/10.7275/shxv-wb39)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Med.%20Aromat.%20Plants&title=Current%20status%20of%20research%20on%20medicinal%20plant%20Scutellaria%20lateriflora:%20A%20review&author=S.H.%20Sherman&author=N.%20Joshee&volume=11&publication_year=2022&pages=22-38&doi=10.7275/shxv-wb39&)\]
+- 19.Lohani M., Ahuja M., Buabeid M.A., Schwartz D., Shannon D., Suppiramaniam V., Kemppainen B., Dhanasekaran M. Anti-oxidative and DNA Protecting Effects of Flavonoids-rich Scutellaria lateriflora. Nat. Prod. Commun. 2013;8:1934578X1300801019. doi: 10.1177/1934578X1300801019. \[ [DOI](https://doi.org/10.1177/1934578X1300801019)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24354189/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Prod.%20Commun.&title=Anti-oxidative%20and%20DNA%20Protecting%20Effects%20of%20Flavonoids-rich%20Scutellaria%20lateriflora&author=M.%20Lohani&author=M.%20Ahuja&author=M.A.%20Buabeid&author=D.%20Schwartz&author=D.%20Shannon&volume=8&publication_year=2013&pages=1934578X1300801019&pmid=24354189&doi=10.1177/1934578X1300801019&)\]
+- 20.Foster S., Duke J.A. A Field Guide to Medicinal Plants: Eastern and Central North America. Expanded ed. Houghton Mifflin; Boston, MA, USA: 1990. p. 366. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?title=A%20Field%20Guide%20to%20Medicinal%20Plants:%20Eastern%20and%20Central%20North%20America&author=S.%20Foster&author=J.A.%20Duke&publication_year=1990&)\]
+- 21.Brock C., Whitehouse J., Tewfik I., Towell T. The use of Scutellaria lateriflora: A pilot survey amongst herbal medicine practitioners. J. Herb. Med. 2012;2:34–41. doi: 10.1016/j.hermed.2012.04.005. \[ [DOI](https://doi.org/10.1016/j.hermed.2012.04.005)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Herb.%20Med.&title=The%20use%20of%20Scutellaria%20lateriflora:%20A%20pilot%20survey%20amongst%20herbal%20medicine%20practitioners&author=C.%20Brock&author=J.%20Whitehouse&author=I.%20Tewfik&author=T.%20Towell&volume=2&publication_year=2012&pages=34-41&doi=10.1016/j.hermed.2012.04.005&)\]
+- 22.Wolfson P., Hoffmann D.L. An investigation into the efficacy of Scutellaria lateriflora in healthy volunteers. Altern. Ther. Health Med. 2003;9:74–78. \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12652886/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Altern.%20Ther.%20Health%20Med.&title=An%20investigation%20into%20the%20efficacy%20of%20Scutellaria%20lateriflora%20in%20healthy%20volunteers&author=P.%20Wolfson&author=D.L.%20Hoffmann&volume=9&publication_year=2003&pages=74-78&pmid=12652886&)\]
+- 23.Brock C., Whitehouse J., Tewfik I., Towell T. American Skullcap (Scutellaria lateriflora): A randomised, double-blind placebo-controlled crossover study of its effects on mood in healthy volunteers. Phytother. Res. 2014;28:692–698. doi: 10.1002/ptr.5044. \[ [DOI](https://doi.org/10.1002/ptr.5044)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23878109/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Phytother.%20Res.&title=American%20Skullcap%20(Scutellaria%20lateriflora):%20A%20randomised,%20double-blind%20placebo-controlled%20crossover%20study%20of%20its%20effects%20on%20mood%20in%20healthy%20volunteers&author=C.%20Brock&author=J.%20Whitehouse&author=I.%20Tewfik&author=T.%20Towell&volume=28&publication_year=2014&pages=692-698&pmid=23878109&doi=10.1002/ptr.5044&)\]
+- 24.Di Minno A., Morone M.V., Buccato D.G., De Lellis L.F., Ullah H., Piccinocchi R., Cordara M., Larsen D.S., Di Guglielmo A., Baldi A. Efficacy and Tolerability of a Chemically Characterized Scutellaria lateriflora L. Extract-Based Food Supplement for Sleep Management: A Single-Center, Controlled, Randomized, Crossover, Double-Blind Clinical Trial. Nutrients. 2025;17:1491. doi: 10.3390/nu17091491. \[ [DOI](https://doi.org/10.3390/nu17091491)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC12073644/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/40362800/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nutrients&title=Efficacy%20and%20Tolerability%20of%20a%20Chemically%20Characterized%20Scutellaria%20lateriflora%20L.%20Extract-Based%20Food%20Supplement%20for%20Sleep%20Management:%20A%20Single-Center,%20Controlled,%20Randomized,%20Crossover,%20Double-Blind%20Clinical%20Trial&author=A.%20Di%20Minno&author=M.V.%20Morone&author=D.G.%20Buccato&author=L.F.%20De%20Lellis&author=H.%20Ullah&volume=17&publication_year=2025&pages=1491&pmid=40362800&doi=10.3390/nu17091491&)\]
+- 25.Di Minno A., Ullah H., De Lellis L.F., Buccato D.G., Baldi A., Cuomo P., El-Seedi H.R., Khalifa S.A.M., Xiao X., Piccinocchi R., et al. Efficacy and Tolerability of a Scutellaria lateriflora L. and Cistus × incanus L.-Based Chewing Gum on the Symptoms of Gingivitis: A Monocentric, Randomized, Double-Blind, Placebo-Controlled Clinical Trial. Nutrients. 2024;16:862. doi: 10.3390/nu16060862. \[ [DOI](https://doi.org/10.3390/nu16060862)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10975933/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/38542772/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nutrients&title=Efficacy%20and%20Tolerability%20of%20a%20Scutellaria%20lateriflora%20L.%20and%20Cistus%20%C3%97%20incanus%20L.-Based%20Chewing%20Gum%20on%20the%20Symptoms%20of%20Gingivitis:%20A%20Monocentric,%20Randomized,%20Double-Blind,%20Placebo-Controlled%20Clinical%20Trial&author=A.%20Di%20Minno&author=H.%20Ullah&author=L.F.%20De%20Lellis&author=D.G.%20Buccato&author=A.%20Baldi&volume=16&publication_year=2024&pages=862&pmid=38542772&doi=10.3390/nu16060862&)\]
+- 26.Nurul Islam M., Downey F., Ng C.K. Comparative analysis of bioactive phytochemicals from Scutellaria baicalensis, Scutellaria lateriflora, Scutellaria racemosa, Scutellaria tomentosa and Scutellaria wrightii by LC-DAD-MS. Metabolomics. 2011;7:446–453. doi: 10.1007/s11306-010-0269-9. \[ [DOI](https://doi.org/10.1007/s11306-010-0269-9)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Metabolomics&title=Comparative%20analysis%20of%20bioactive%20phytochemicals%20from%20Scutellaria%20baicalensis,%20Scutellaria%20lateriflora,%20Scutellaria%20racemosa,%20Scutellaria%20tomentosa%20and%20Scutellaria%20wrightii%20by%20LC-DAD-MS&author=M.%20Nurul%20Islam&author=F.%20Downey&author=C.K.%20Ng&volume=7&publication_year=2011&pages=446-453&doi=10.1007/s11306-010-0269-9&)\]
+- 27.Costine B., Zhang M., Chhajed S., Pearson B., Chen S., Nadakuduti S.S. Exploring native Scutellaria species provides insight into differential accumulation of flavones with medicinal properties. Sci. Rep. 2022;12:13201. doi: 10.1038/s41598-022-17586-1. \[ [DOI](https://doi.org/10.1038/s41598-022-17586-1)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9343603/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/35915209/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sci.%20Rep.&title=Exploring%20native%20Scutellaria%20species%20provides%20insight%20into%20differential%20accumulation%20of%20flavones%20with%20medicinal%20properties&author=B.%20Costine&author=M.%20Zhang&author=S.%20Chhajed&author=B.%20Pearson&author=S.%20Chen&volume=12&publication_year=2022&pages=13201&pmid=35915209&doi=10.1038/s41598-022-17586-1&)\]
+- 28.Makino T., Hishida A., Goda Y., Mizukami H. Comparison of the major flavonoid content of S. baicalensis, S. lateriflora, and their commercial products. J. Nat. Med. 2008;62:294–299. doi: 10.1007/s11418-008-0230-7. \[ [DOI](https://doi.org/10.1007/s11418-008-0230-7)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/18404307/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Nat.%20Med.&title=Comparison%20of%20the%20major%20flavonoid%20content%20of%20S.%20baicalensis,%20S.%20lateriflora,%20and%20their%20commercial%20products&author=T.%20Makino&author=A.%20Hishida&author=Y.%20Goda&author=H.%20Mizukami&volume=62&publication_year=2008&pages=294-299&pmid=18404307&doi=10.1007/s11418-008-0230-7&)\]
+- 29.De Nobrega A.K., Lyons L.C. Aging and the clock: Perspective from flies to humans. Eur. J. Neurosci. 2020;51:454–481. doi: 10.1111/ejn.14176. \[ [DOI](https://doi.org/10.1111/ejn.14176)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6441388/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30269400/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Eur.%20J.%20Neurosci.&title=Aging%20and%20the%20clock:%20Perspective%20from%20flies%20to%20humans&author=A.K.%20De%20Nobrega&author=L.C.%20Lyons&volume=51&publication_year=2020&pages=454-481&pmid=30269400&doi=10.1111/ejn.14176&)\]
+- 30.Dickinson A., MacKay D. Health habits and other characteristics of dietary supplement users: A review. Nutr. J. 2014;13:14. doi: 10.1186/1475-2891-13-14. \[ [DOI](https://doi.org/10.1186/1475-2891-13-14)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3931917/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24499096/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nutr.%20J.&title=Health%20habits%20and%20other%20characteristics%20of%20dietary%20supplement%20users:%20A%20review&author=A.%20Dickinson&author=D.%20MacKay&volume=13&publication_year=2014&pages=14&pmid=24499096&doi=10.1186/1475-2891-13-14&)\]
+- 31.Holvoet H., Long D.M., Law A., McClure C., Choi J., Yang L., Marney L., Poeck B., Strauss R., Stevens J.F., et al. Withania somnifera Extracts Promote Resilience against Age-Related and Stress-Induced Behavioral Phenotypes in Drosophila melanogaster; a Possible Role of Other Compounds besides Withanolides. Nutrients. 2022;14:3923. doi: 10.3390/nu14193923. \[ [DOI](https://doi.org/10.3390/nu14193923)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9573261/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/36235577/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nutrients&title=Withania%20somnifera%20Extracts%20Promote%20Resilience%20against%20Age-Related%20and%20Stress-Induced%20Behavioral%20Phenotypes%20in%20Drosophila%20melanogaster;%20a%20Possible%20Role%20of%20Other%20Compounds%20besides%20Withanolides&author=H.%20Holvoet&author=D.M.%20Long&author=A.%20Law&author=C.%20McClure&author=J.%20Choi&volume=14&publication_year=2022&pages=3923&pmid=36235577&doi=10.3390/nu14193923&)\]
+- 32.Iliadi K.G., Boulianne G.L. Age-related behavioral changes in Drosophila. Ann. N. Y. Acad. Sci. 2010;1197:9–18. doi: 10.1111/j.1749-6632.2009.05372.x. \[ [DOI](https://doi.org/10.1111/j.1749-6632.2009.05372.x)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20536827/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Ann.%20N.%20Y.%20Acad.%20Sci.&title=Age-related%20behavioral%20changes%20in%20Drosophila&author=K.G.%20Iliadi&author=G.L.%20Boulianne&volume=1197&publication_year=2010&pages=9-18&pmid=20536827&doi=10.1111/j.1749-6632.2009.05372.x&)\]
+- 33.Iliadi K.G., Knight D., Boulianne G.L. Healthy aging–insights from Drosophila. Front. Physiol. 2012;3:106. doi: 10.3389/fphys.2012.00106. \[ [DOI](https://doi.org/10.3389/fphys.2012.00106)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3328947/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22529821/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Front.%20Physiol.&title=Healthy%20aging%E2%80%93insights%20from%20Drosophila&author=K.G.%20Iliadi&author=D.%20Knight&author=G.L.%20Boulianne&volume=3&publication_year=2012&pages=106&pmid=22529821&doi=10.3389/fphys.2012.00106&)\]
+- 34.Miner B., Kryger M.H. Sleep in the Aging Population. Sleep Med. Clin. 2017;12:31–38. doi: 10.1016/j.jsmc.2016.10.008. \[ [DOI](https://doi.org/10.1016/j.jsmc.2016.10.008)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5300306/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28159095/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sleep%20Med.%20Clin.&title=Sleep%20in%20the%20Aging%20Population&author=B.%20Miner&author=M.H.%20Kryger&volume=12&publication_year=2017&pages=31-38&pmid=28159095&doi=10.1016/j.jsmc.2016.10.008&)\]
+- 35.Koh K., Evans J.M., Hendricks J.C., Sehgal A. A Drosophila model for age-associated changes in sleep: Wake cycles. Proc. Natl. Acad. Sci. USA. 2006;103:13843–13847. doi: 10.1073/pnas.0605903103. \[ [DOI](https://doi.org/10.1073/pnas.0605903103)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC1564207/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16938867/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Proc.%20Natl.%20Acad.%20Sci.%20USA&title=A%20Drosophila%20model%20for%20age-associated%20changes%20in%20sleep:%20Wake%20cycles&author=K.%20Koh&author=J.M.%20Evans&author=J.C.%20Hendricks&author=A.%20Sehgal&volume=103&publication_year=2006&pages=13843-13847&pmid=16938867&doi=10.1073/pnas.0605903103&)\]
+- 36.Nash T.R., Chow E.S., Law A.D., Fu S.D., Fuszara E., Bilska A., Bebas P., Kretzschmar D., Giebultowicz J.M. Daily blue-light exposure shortens lifespan and causes brain neurodegeneration in Drosophila. NPJ Aging Mech. Dis. 2019;5:8. doi: 10.1038/s41514-019-0038-6. \[ [DOI](https://doi.org/10.1038/s41514-019-0038-6)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6797782/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31636947/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=NPJ%20Aging%20Mech.%20Dis.&title=Daily%20blue-light%20exposure%20shortens%20lifespan%20and%20causes%20brain%20neurodegeneration%20in%20Drosophila&author=T.R.%20Nash&author=E.S.%20Chow&author=A.D.%20Law&author=S.D.%20Fu&author=E.%20Fuszara&volume=5&publication_year=2019&pages=8&pmid=31636947&doi=10.1038/s41514-019-0038-6&)\]
+- 37.EghbaliFeriz S., Taleghani A., Tayarani-Najaran Z. Central nervous system diseases and Scutellaria: A review of current mechanism studies. Biomed. Pharmacother. 2018;102:185–195. doi: 10.1016/j.biopha.2018.03.021. \[ [DOI](https://doi.org/10.1016/j.biopha.2018.03.021)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29554597/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Biomed.%20Pharmacother.&title=Central%20nervous%20system%20diseases%20and%20Scutellaria:%20A%20review%20of%20current%20mechanism%20studies&author=S.%20EghbaliFeriz&author=A.%20Taleghani&author=Z.%20Tayarani-Najaran&volume=102&publication_year=2018&pages=185-195&pmid=29554597&doi=10.1016/j.biopha.2018.03.021&)\]
+- 38.Salehi B., Venditti A., Sharifi-Rad M., Kregiel D., Sharifi-Rad J., Durazzo A., Lucarini M., Santini A., Souto E.B., Novellino E., et al. The Therapeutic Potential of Apigenin. Int. J. Mol. Sci. 2019;20:1305. doi: 10.3390/ijms20061305. \[ [DOI](https://doi.org/10.3390/ijms20061305)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6472148/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30875872/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int.%20J.%20Mol.%20Sci.&title=The%20Therapeutic%20Potential%20of%20Apigenin&author=B.%20Salehi&author=A.%20Venditti&author=M.%20Sharifi-Rad&author=D.%20Kregiel&author=J.%20Sharifi-Rad&volume=20&publication_year=2019&pages=1305&pmid=30875872&doi=10.3390/ijms20061305&)\]
+- 39.Lai J., Li C. Review on the pharmacological effects and pharmacokinetics of scutellarein. Arch. Pharm. 2024;357:e2400053. doi: 10.1002/ardp.202400053. \[ [DOI](https://doi.org/10.1002/ardp.202400053)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/38849327/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Arch.%20Pharm.&title=Review%20on%20the%20pharmacological%20effects%20and%20pharmacokinetics%20of%20scutellarein&author=J.%20Lai&author=C.%20Li&volume=357&publication_year=2024&pages=e2400053&pmid=38849327&doi=10.1002/ardp.202400053&)\]
+- 40.Upton R., Dayu R.H. Skullcap Scutellaria lateriflora L.: An American nervine. J. Herb. Med. 2012;2:76–96. doi: 10.1016/j.hermed.2012.06.004. \[ [DOI](https://doi.org/10.1016/j.hermed.2012.06.004)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Herb.%20Med.&title=Skullcap%20Scutellaria%20lateriflora%20L.:%20An%20American%20nervine&author=R.%20Upton&author=R.H.%20Dayu&volume=2&publication_year=2012&pages=76-96&doi=10.1016/j.hermed.2012.06.004&)\]
+- 41.de Carvalho R.S.M., Duarte F.S., de Lima T.C.M. Involvement of GABAergic non-benzodiazepine sites in the anxiolytic-like and sedative effects of the flavonoid baicalein in mice. Behav. Brain Res. 2011;221:75–82. doi: 10.1016/j.bbr.2011.02.038. \[ [DOI](https://doi.org/10.1016/j.bbr.2011.02.038)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21377498/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Behav.%20Brain%20Res.&title=Involvement%20of%20GABAergic%20non-benzodiazepine%20sites%20in%20the%20anxiolytic-like%20and%20sedative%20effects%20of%20the%20flavonoid%20baicalein%20in%20mice&author=R.S.M.%20de%20Carvalho&author=F.S.%20Duarte&author=T.C.M.%20de%20Lima&volume=221&publication_year=2011&pages=75-82&pmid=21377498&doi=10.1016/j.bbr.2011.02.038&)\]
+- 42.Awad R., Arnason J.T., Trudeau V., Bergeron C., Budzinski J.W., Foster B.C., Merali Z. Phytochemical and biological analysis of skullcap (Scutellaria lateriflora L.): A medicinal plant with anxiolytic properties. Phytomedicine. 2003;10:640–649. doi: 10.1078/0944-7113-00374. \[ [DOI](https://doi.org/10.1078/0944-7113-00374)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/14692724/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Phytomedicine&title=Phytochemical%20and%20biological%20analysis%20of%20skullcap%20(Scutellaria%20lateriflora%20L.):%20A%20medicinal%20plant%20with%20anxiolytic%20properties&author=R.%20Awad&author=J.T.%20Arnason&author=V.%20Trudeau&author=C.%20Bergeron&author=J.W.%20Budzinski&volume=10&publication_year=2003&pages=640-649&pmid=14692724&doi=10.1078/0944-7113-00374&)\]
+- 43.Wang F., Shing M., Huen Y., Tsang S.Y., Xue H. Neuroactive flavonoids interacting with GABAA receptor complex. Curr. Drug Targets CNS Neurol. Disord. 2005;4:575–585. doi: 10.2174/156800705774322030. \[ [DOI](https://doi.org/10.2174/156800705774322030)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16266290/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Curr.%20Drug%20Targets%20CNS%20Neurol.%20Disord.&title=Neuroactive%20flavonoids%20interacting%20with%20GABAA%20receptor%20complex&author=F.%20Wang&author=M.%20Shing&author=Y.%20Huen&author=S.Y.%20Tsang&author=H.%20Xue&volume=4&publication_year=2005&pages=575-585&pmid=16266290&doi=10.2174/156800705774322030&)\]
+- 44.Eiden M., Leidel F., Strohmeier B., Fast C., Groschup M.H. A Medicinal Herb Scutellaria lateriflora Inhibits PrP Replication in vitro and Delays the Onset of Prion Disease in Mice. Front. Psychiatry. 2012;3:9. doi: 10.3389/fpsyt.2012.00009. \[ [DOI](https://doi.org/10.3389/fpsyt.2012.00009)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3281244/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22363300/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Front.%20Psychiatry&title=A%20Medicinal%20Herb%20Scutellaria%20lateriflora%20Inhibits%20PrP%20Replication%20in%20vitro%20and%20Delays%20the%20Onset%20of%20Prion%20Disease%20in%20Mice&author=M.%20Eiden&author=F.%20Leidel&author=B.%20Strohmeier&author=C.%20Fast&author=M.H.%20Groschup&volume=3&publication_year=2012&pages=9&pmid=22363300&doi=10.3389/fpsyt.2012.00009&)\]
+- 45.Dodd F., Weishaupt R., Katumba P.K.M., Elcoate R., Wightman E. Effects of a Scutellaria baicalensis/Crataegus laevigata, magnesium and chromium supplement on stressed individuals: A randomised, double-blind, placebo-controlled, crossover trial. J. Psychopharmacol. 2025;39:02698811251381261. doi: 10.1177/02698811251381261. \[ [DOI](https://doi.org/10.1177/02698811251381261)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC12672942/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/41194549/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Psychopharmacol.&title=Effects%20of%20a%20Scutellaria%20baicalensis/Crataegus%20laevigata,%20magnesium%20and%20chromium%20supplement%20on%20stressed%20individuals:%20A%20randomised,%20double-blind,%20placebo-controlled,%20crossover%20trial&author=F.%20Dodd&author=R.%20Weishaupt&author=P.K.M.%20Katumba&author=R.%20Elcoate&author=E.%20Wightman&volume=39&publication_year=2025&pages=02698811251381261&pmid=41194549&doi=10.1177/02698811251381261&)\]
+- 46.Chang H.-H., Yi P.-L., Cheng C.-H., Lu C.-Y., Hsiao Y.-T., Tsai Y.-F., Li C.-L., Chang F.-C. Biphasic effects of baicalin, an active constituent of Scutellaria baicalensis Georgi, in the spontaneous sleep–wake regulation. J. Ethnopharmacol. 2011;135:359–368. doi: 10.1016/j.jep.2011.03.023. \[ [DOI](https://doi.org/10.1016/j.jep.2011.03.023)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21419210/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Ethnopharmacol.&title=Biphasic%20effects%20of%20baicalin,%20an%20active%20constituent%20of%20Scutellaria%20baicalensis%20Georgi,%20in%20the%20spontaneous%20sleep%E2%80%93wake%20regulation&author=H.-H.%20Chang&author=P.-L.%20Yi&author=C.-H.%20Cheng&author=C.-Y.%20Lu&author=Y.-T.%20Hsiao&volume=135&publication_year=2011&pages=359-368&pmid=21419210&doi=10.1016/j.jep.2011.03.023&)\]
+- 47.Law A.D., Cassar M., Long D.M., Chow E.S., Giebultowicz J.M., Venkataramanan A., Strauss R., Kretzschmar D. FTD-associated mutations in Tau result in a combination of dominant and recessive phenotypes. Neurobiol. Dis. 2022;170:105770. doi: 10.1016/j.nbd.2022.105770. \[ [DOI](https://doi.org/10.1016/j.nbd.2022.105770)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9261467/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/35588988/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Neurobiol.%20Dis.&title=FTD-associated%20mutations%20in%20Tau%20result%20in%20a%20combination%20of%20dominant%20and%20recessive%20phenotypes&author=A.D.%20Law&author=M.%20Cassar&author=D.M.%20Long&author=E.S.%20Chow&author=J.M.%20Giebultowicz&volume=170&publication_year=2022&pages=105770&pmid=35588988&doi=10.1016/j.nbd.2022.105770&)\]
+- 48.Benzer S. Behavioral mutants of Drosophila isolated by countercurrent distribution. Proc. Natl. Acad. Sci. USA. 1967;58:1112–1119. doi: 10.1073/pnas.58.3.1112. \[ [DOI](https://doi.org/10.1073/pnas.58.3.1112)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC335755/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16578662/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Proc.%20Natl.%20Acad.%20Sci.%20USA&title=Behavioral%20mutants%20of%20Drosophila%20isolated%20by%20countercurrent%20distribution&author=S.%20Benzer&volume=58&publication_year=1967&pages=1112-1119&pmid=16578662&doi=10.1073/pnas.58.3.1112&)\]
+- 49.Hendricks J.C., Finn S.M., Panckeri K.A., Chavkin J., Williams J.A., Sehgal A., Pack A.I. Rest in Drosophila is a sleep-like state. Neuron. 2000;25:129–138. doi: 10.1016/S0896-6273(00)80877-6. \[ [DOI](https://doi.org/10.1016/S0896-6273(00)80877-6)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/10707978/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Neuron&title=Rest%20in%20Drosophila%20is%20a%20sleep-like%20state&author=J.C.%20Hendricks&author=S.M.%20Finn&author=K.A.%20Panckeri&author=J.%20Chavkin&author=J.A.%20Williams&volume=25&publication_year=2000&pages=129-138&pmid=10707978&doi=10.1016/S0896-6273(00)80877-6&)\]
+- 50.Shaw P.J., Cirelli C., Greenspan R.J., Tononi G. Correlates of sleep and waking in Drosophila melanogaster. Science. 2000;287:1834–1837. doi: 10.1126/science.287.5459.1834. \[ [DOI](https://doi.org/10.1126/science.287.5459.1834)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/10710313/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Science&title=Correlates%20of%20sleep%20and%20waking%20in%20Drosophila%20melanogaster&author=P.J.%20Shaw&author=C.%20Cirelli&author=R.J.%20Greenspan&author=G.%20Tononi&volume=287&publication_year=2000&pages=1834-1837&pmid=10710313&doi=10.1126/science.287.5459.1834&)\]
+- 51.Sunderhaus E.R., Kretzschmar D. Mass Histology to Quantify Neurodegeneration in Drosophila. J. Vis. Exp. 2016;118:e54809. doi: 10.3791/54809. \[ [DOI](https://doi.org/10.3791/54809)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5226413/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28060320/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Vis.%20Exp.&title=Mass%20Histology%20to%20Quantify%20Neurodegeneration%20in%20Drosophila&author=E.R.%20Sunderhaus&author=D.%20Kretzschmar&volume=118&publication_year=2016&pages=e54809&pmid=28060320&doi=10.3791/54809&)\]
+- 52.Schindelin J., Arganda-Carreras I., Frise E., Kaynig V., Longair M., Pietzsch T., Preibisch S., Rueden C., Saalfeld S., Schmid B., et al. Fiji: An open-source platform for biological-image analysis. Nat. Methods. 2012;9:676–682. doi: 10.1038/nmeth.2019. \[ [DOI](https://doi.org/10.1038/nmeth.2019)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3855844/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22743772/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Methods&title=Fiji:%20An%20open-source%20platform%20for%20biological-image%20analysis&author=J.%20Schindelin&author=I.%20Arganda-Carreras&author=E.%20Frise&author=V.%20Kaynig&author=M.%20Longair&volume=9&publication_year=2012&pages=676-682&pmid=22743772&doi=10.1038/nmeth.2019&)\]
+
+## Associated Data
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Supplementary Materials
+
+[ijms-27-00461-s001.zip](https://pmc.ncbi.nlm.nih.gov/articles/instance/12786168/bin/ijms-27-00461-s001.zip) (210.5KB, zip)
+
+### Data Availability Statement
+
+The original contributions presented in this study are included in the article/ [Supplementary Materials](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/#app1-ijms-27-00461). Further inquiries can be directed to the corresponding author.
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+## ACTIONS
+
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)View on publisher site](https://doi.org/10.3390/ijms27010461)
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)PDF (3.7 MB)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12786168/pdf/ijms-27-00461.pdf)
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Collections
+- ![Permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+## RESOURCES
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+Back to Top![back to top icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg)

@@ -1,0 +1,15 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/41431018/
+PMID: 41431018
+Title: ABCB1 rs2032582 variant is potentially linked withScutellariae Radix-induced liver injury: A case report.
+Authors: Yiwen Tang; Lihong Fu; Xinrui Ren; Kun Liu; Xuehua Sun; Xin Zhang; Man Li; Qian Li
+Journal: Medicine (2025)
+DOI: 10.1097/MD.0000000000046431
+Fetched: 2026-11-14
+
+ABSTRACT
+RATIONALE: Idiosyncratic drug-induced liver injury is characterized by its unpredictability, lack of dose-dependence, and interindividual variability. Scutellariae Radix is a natural product widely used to treat liver diseases and has been rarely associated with liver injury in clinical settings. The report presents the case of a 50-year-old female who was hospitalized due to a Scutellariae Radix-induced liver injury.
+PATIENT CONCERNS: The patient presented to our emergency department with a fever. And she was subsequently admitted to the hepatology department after being diagnosed with liver dysfunction.
+DIAGNOSES: Based on the exclusion of other potential causes and the patient's prior similar episode of liver injury, a diagnosis of Scutellariae Radix-induced liver injury was established.
+INTERVENTIONS: The patient stopped taking the herbal decoction and received hepatoprotective therapy.
+OUTCOMES: Levels of alanine transaminase and aspartate aminotransferase decreased by more than 50% on the eighth day and basically returned to normal at the time of discharge. The patient then followed up regularly, and her liver function remained within normal ranges.
+LESSONS: The report describes a rare case of IDILI induced by Scutellariae Radix, and the presence of the rs2032582 variant in ABCB1 was revealed in this patient, which may represent an individual observation of potential relevance. Future studies are warranted to explore the potential genetic predisposition in larger cohorts.

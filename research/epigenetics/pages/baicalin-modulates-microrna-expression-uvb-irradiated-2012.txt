@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/23554741/
+TITLE: Baicalin modulates microRNA expression in UVB irradiated mouse skin.
+AUTHORS: Yang Xu; Bingrong Zhou; Di Wu; Zhiqiang Yin; Dan Luo
+JOURNAL: Journal of biomedical research
+YEAR: 2012
+VOL_PAGES: 26; 125-34
+DOI: 10.1016/S1674-8301(12)60022-0
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+This study aimed to evaluate the effects of baicalin on ultraviolet radiation B (UVB)-mediated microRNA (miRNA) expression in mouse skin. We determined miRNA expression profiles in UVB irradiated mice, baicalin treated irradiated mice, and untreated mice, and conducted TargetScan and Gene Ontology analyses to predict miRNA targets. Three miRNAs (mmu-miR-125a-5p, mmu-miR-146a, and mmu-miR-141) were downregulated and another three (mmu-miR-188-5p, mmu-miR-223 and mmu-miR-22) were upregulated in UVB irradiated mice compared with untreated mice. Additionally, these miRNAs were predicted to be related to photocarcinogenesis, hypomethylation and apoptosis. Three miRNAs (mmu-miR-378, mmu-miR-199a-3p and mmu-miR-181b) were downregulated and one (mmu-miR-23a) was upregulated in baicalin treated mice compared with UVB irradiated mice, and they were predicted to be related to DNA repair signaling pathway. These deregulated miRNAs are potentially involved in the pathogenesis of photodamage, and may aid treatment and prevention of UVB-induced dermatoses.

@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/40262723/
+TITLE: Baicalein disrupts TGF-β-induced EMT in pancreatic cancer by FTO-dependent m6A demethylation of ZEB1.
+AUTHORS: Lian Zhao; Gong Chen; Dan Li; Kangtao Wang; Michael Schaefer; Ingrid Herr; Bin Yan
+JOURNAL: Biochimica et biophysica acta. Molecular cell research
+YEAR: 2025
+VOL_PAGES: 1872; 119969
+DOI: 10.1016/j.bbamcr.2025.119969
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive malignancy associated with poor prognosis. Baicalein, a flavonoid extracted from the roots of Scutellaria baicalensis, traditionally used in Chinese medicine, has demonstrated potential in inhibiting cancer development and progression. However, its mechanism of action remains poorly understood, particularly regarding epigenetic gene regulation through m6A RNA methylation. In this study, three human PDAC cell lines and one nonmalignant cell line were employed. The effects of baicalein were examined using multiple assays, including RT-qPCR, MeRIP-qPCR, Western blotting, spheroid formation, RNA stability, and MTT, to evaluate cellular functions and m6A regulation. Baicalein significantly reduced cell viability, migration, invasion, and colony formation. It also downregulated FTO, an enzyme critical for m6A RNA demethylation. Knockdown of FTO replicated the effects of baicalein, underscoring its oncogenic role in PDAC. Bioinformatic analysis identified ZEB1-a key transcription factor in epithelial-to-mesenchymal transition-as an m6A-modified target regulated by FTO. Both baicalein treatment and FTO knockdown enhanced m6A modification and decreased ZEB1 mRNA stability, thereby suppressing stemness-related features. Rescue experiments further confirmed that baicalein disrupts the TGF-β/FTO/ZEB1 signaling axis, highlighting its therapeutic potential in PDAC. This study offers fundamental insights for the development of novel therapeutic strategies targeting PDAC.

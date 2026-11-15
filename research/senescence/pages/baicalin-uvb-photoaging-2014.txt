@@ -1,0 +1,11 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/24949843/
+Accessed: 2026-11-14
+Title: The protective effect of baicalin against UVB irradiation induced photoaging: an in vitro and in vivo study.
+Journal: PloS one
+Year: 2014
+---
+
+OBJECTIVE: This study was aimed to evaluate the anti-photoaging effects of baicalin on Ultraviolet B (UVB)-induced photoaging in the dorsal skin of hairless mice and premature senescence in human dermal fibroblasts.
+METHODS: We established in vivo and in vitro photoaging models by repeated exposures to UVB irradiation. By HE staining, masson staining, immunohistostaing and real-time RT-PCR, we analyzed epidermal thickness, collagen expression and the mRNA and protein levels of type I collagen, type III collagen, interstitial collagenase (MMP-1 and MMP-3) in UVB exposed dorsal mice skin. The aging condition in human dermal fibroblasts was determined by senescence-associated β-galactosidase (SA-β-gal) staining. Cell viability was determined using the Cell Counting Kit-8 (CCK-8). The G1 phase cell growth arrest was analyzed by flow cytometry. The senescence-related protein levels of p16INK-4a, p21WAF-1, and p53 and protein levels of phosphorylated histone H2AX were estimated by Western blotting.
+RESULTS: Topically application of baicalin treatment reduced UVB-induced epidermal thickening of mouse skin and also result in an increase in the production of collagen I and III, and a decrease in the expression of MMP-1 and MMP-3. Compared with the UVB-irradiated group, we found that the irradiated fibroblasts additionally treated with baicalin demonstrated a decrease in the expression of SA-β-gal, a increase in the cell viability, a decrease in the G1 phase cell proportion, a downregulation in the level of senescence-associated and γ-H2AX proteins. However, Baicalin had no difference in the normal fibroblasts without UVB irradiation and long-term Baicalin incubation of UVB-SIPS fibroblasts gave no effects on the cell proliferation.
+CONCLUSIONS: Taken together, these results suggest that baicalin significantly antagonizes photoaging induced by UVB in vivo and in vitro, indicating the potential of baicalin application for anti-photoaging treatment.

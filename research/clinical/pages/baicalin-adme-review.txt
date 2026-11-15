@@ -1,0 +1,12 @@
+PMID: 42105002
+Title: Baicalin as a multifunctional flavone glycoside: pharmacological mechanisms, ADME profile, and therapeutic potential.
+Authors: Kumari, Alpana, Kabra, Atul
+Journal: Naunyn-Schmiedeberg's archives of pharmacology
+ISOAbbrev: Naunyn Schmiedebergs Arch Pharmacol
+Year: 2026
+Volume: 399  Issue: 10  Pages: 14843-14871
+DOI: 10.1007/s00210-026-05381-y
+URL: https://pubmed.ncbi.nlm.nih.gov/42105002/
+Fetched: 2026-11-14 via NCBI E-utilities (efetch db=pubmed)
+--- Abstract ---
+Baicalin, a bioactive flavonoid isolated from Scutellaria baicalensis Georgi, exemplifies the ancient Chinese "medicine-food homology" (MFH) concept by serving dual roles in therapeutics and functional foods. This comprehensive review summarizes current knowledge on baicalin's phytochemistry, molecular mechanisms, pharmacokinetics, and therapeutic potential, with emphasis on recent clinical and patent advances. Baicalin modulates critical pathways, such as the NF-κB, Nrf2, TLR4/MyD88, and PI3K/AKT pathways, resulting in anti-inflammatory, antioxidant, anticancer, antiviral, and antibacterial effects. Structurally, baicalin is a flavone-7-O-glucoside that inhibits NLRP3 inflammasome activation and cytokine release, and its antioxidant effects are mediated by Nrf2-driven detoxification pathways. Emerging clinical evidence suggests that baicalin is generally well tolerated and has translational potential in inflammatory disorders, neurodegenerative diseases, and cardiometabolic conditions, whereas nanodelivery systems such as liposomes and metal-organic frameworks help overcome bioavailability limitations. Additionally, recent patents highlight innovative baicalin-based therapeutics that target viral infections, immune dysregulation, tumors resistant to immune checkpoint inhibitors, and advanced formulations that improve bioavailability. This review underscores the need for well-designed clinical trials to establish standardized dosing, efficacy, and long-term safety, while positioning baicalin as a multifunctional bioactive molecule with substantial promise for future drug development.

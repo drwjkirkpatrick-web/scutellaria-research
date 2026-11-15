@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/37172478/
+TITLE: Wogonin inhibits latent HIV-1 reactivation by downregulating histone crotonylation.
+AUTHORS: Haitao Zhang; Jinfeng Cai; Chunna Li; Lisi Deng; Hongqiong Zhu; Ting Huang; Jiacong Zhao; Jiasheng Zhou
+JOURNAL: Phytomedicine : international journal of phytotherapy and phytopharmacology
+YEAR: 2023
+VOL_PAGES: 116; 154855
+DOI: 10.1016/j.phymed.2023.154855
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Wogonin, a flavone isolated from Scutellaria baicalensis Georgi, is a commonly used phytochemical with anti-inflammatory and antitumor properties. However, the antiviral activity of wogonin against human immunodeficiency virus type 1 (HIV-1) has not been reported. The current study aimed to explore whether wogonin can suppress latent HIV-1 reactivation and the mechanism of wogonin in inhibiting proviral HIV-1 transcription. We assessed the effects of wogonin on HIV-1 reactivation using flow cytometry, cytotoxicity assay, quantitative PCR (qPCR), viral quality assurance (VQA), and western blot analysis. Wogonin, a flavone isolated from S. baicalensis, significantly inhibited the reactivation of latent HIV-1 in cellular models and in primary CD4+ T cells from antiretroviral therapy (ART)-suppressed individuals ex vivo. Wogonin exhibited low cytotoxicity and long-lasting inhibition of HIV-1 transcription. Triptolide is a latency-promoting agent (LPA) that inhibits HIV-1 transcription and replication; wogonin had a stronger ability to inhibit HIV-1 latent reactivation than triptolide. Mechanistically, wogonin inhibited the reactivation of latent HIV-1 by inhibiting the expression of p300, a histone acetyltransferase, and decreasing the crotonylation of histone H3/H4 in the HIV-1 promoter region. Our study found that wogonin is a novel LPA that can inhibit HIV-1 transcription by HIV-1 epigenetic silencing, which could bear promising significance for future applications of HIV-1 functional cure.

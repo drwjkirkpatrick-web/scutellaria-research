@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/38495279/
+PMID: 38495279
+Title: Insights into skullcap herb-induced liver injury.
+Authors: Jonathan Soldera
+Journal: World journal of hepatology (2024)
+DOI: 10.4254/wjh.v16.i2.120
+Fetched: 2026-11-14
+
+ABSTRACT
+This editorial addresses the growing concern of herb-induced liver injury (HILI), focusing on a unique case of Skullcap-induced HILI report. This editorial underscore the significant mortality rate linked to Skullcap-induced HILI, emphasizing the importance of vigilant monitoring and intervention. As herbal supplement usage rises, collaboration among clinicians and researchers is crucial to comprehend and address the complexities of HILI, particularly those involving Skullcap.

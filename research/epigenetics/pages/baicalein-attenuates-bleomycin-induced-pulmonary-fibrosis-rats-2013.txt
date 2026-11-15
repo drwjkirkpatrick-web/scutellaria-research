@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/23523661/
+TITLE: Baicalein attenuates bleomycin-induced pulmonary fibrosis in rats through inhibition of miR-21.
+AUTHORS: Yan Gao; Jia Lu; Yu Zhang; Yafen Chen; Zhenlun Gu; Xiaogang Jiang
+JOURNAL: Pulmonary pharmacology & therapeutics
+YEAR: 2013
+VOL_PAGES: 26; 649-54
+DOI: 10.1016/j.pupt.2013.03.006
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Currently, there is no satisfactory treatment for pulmonary fibrosis, and effective agents urgently need to be developed. The aim of the present study was to investigate the effects of baicalein on bleomycin-induced pulmonary fibrosis, and the novel mechanisms involved in the anti-fibrosis effects. Pulmonary fibrosis was induced by a single intratracheal instillation of 5 mg/kg bleomycin. Two bleomycin-treated groups were orally administered daily with 50 and 100 mg/kg of baicalein from day 1 to 28. The results showed baicalein decreased hydroxyproline content and α-SMA levels and increased lung index. Histopathological examinations demonstrated baicalein could obviously lower the degree of alveolitis and lung fibrosis. The total antioxidant capacity in bleomycin-treated rats with baicalein was also remarkably higher than in those without baicalein. Baicalein remarkably decreased miR-21 levels and inhibited the increased expression of TGF-β1 and p-Smad-2/3 in bleomycin-treated rats. Baicalein can attenuate bleomycin-induced pulmonary fibrosis. The attenuation is partly achieved by improving antioxidant activity, alleviating inflammation, repressing miR-21, and inhibiting TGF-β/Smad signaling.

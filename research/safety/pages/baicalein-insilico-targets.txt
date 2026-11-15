@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/23461900/
+PMID: 23461900
+Title: In silico target fishing for the potential targets and molecular mechanisms of baicalein as an antiparkinsonian agent: discovery of the protective effects on NMDA receptor-mediated neurotoxicity.
+Authors: Li Gao; Jian-Song Fang; Xiao-Yu Bai; Dan Zhou; Yi-Tao Wang; Ai-Lin Liu; Guan-Hua Du
+Journal: Chemical biology & drug design (2013)
+DOI: 10.1111/cbdd.12127
+Fetched: 2026-11-14
+
+ABSTRACT
+The flavonoid baicalein has been proven effective in animal models of parkinson's disease; however, the potential biological targets and molecular mechanisms underlying the antiparkinsonian action of baicalein have not been fully clarified. In the present study, the potential targets of baicalein were predicted by in silico target fishing approaches including database mining, molecular docking, structure-based pharmacophore searching, and chemical similarity searching. A consensus scoring formula has been developed and validated to objectively rank the targets. The top two ranked targets catechol-O-methyltransferase (COMT) and monoamine oxidase B (MAO-B) have been proposed as targets of baicalein by literatures. The third-ranked one (N-methyl-d-aspartic acid receptor, NMDAR) with relatively low consensus score was further experimentally tested. Although our results suggested that baicalein significantly attenuated NMDA-induced neurotoxicity including cell death, intracellular nitric oxide (NO) and reactive oxygen species (ROS) generation, extracellular NO reduction in human SH-SY5Y neuroblastoma cells, baicalein exhibited no inhibitory effect on [(3) H]MK-801 binding study, indicating that NMDAR might not be the target of baicalein. In conclusion, the results indicate that in silico target fishing is an effective method for drug target discovery, and the protective role of baicalein against NMDA-induced neurotoxicity supports our previous research that baicalein possesses antiparkinsonian activity.

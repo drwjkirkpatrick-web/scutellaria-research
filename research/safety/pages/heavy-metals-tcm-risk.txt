@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/34075510/
+PMID: 34075510
+Title: Ecological and health risk assessment of heavy metals in soil and Chinese herbal medicines.
+Authors: Chunyan Meng; Peng Wang; Zhuolu Hao; Zhenjie Gao; Qiang Li; Hongxia Gao; Yingli Liu; Qingzhao Li
+Journal: Environmental geochemistry and health (2022)
+DOI: 10.1007/s10653-021-00978-z
+Fetched: 2026-11-14
+
+ABSTRACT
+As medicinal plants can accumulate harmful metals from the native soil, people's consumption of these materials may cause the human body to accumulate toxic metal elements. This has given rise to people's concerns about the quality and safety of Chinese medicinal materials. This research aims to determine the levels of Cr, Ni, Cu, Zn, As, Cd, Hg and Pb in four medicinal plant species (Aster tataricus L.f., Salvia miltiorrhiza Bge, Radix Aucklandiae, Scutellaria baicalensis Georgi) and their native soil. All samples were collected from Qian'an city, beside Yanshan Mountain Range in Tangshan city, east Hebei Province, north China. The contents of heavy metals we detected in the soil conformed to the current limits. However, the Cd and Hg in the soil had a very high potential ecological risk because of their contents higher than the base level of local soil. The contents of Cu, Cd, Hg and Pb in some medicinal herbs exceeded the standards. The content of Cu in Radix Aucklandiae exceeded the standard by 3 times, and others exceeded the standard by less than one time. The comprehensive health risk assessment of heavy metals with chronic non-carcinogenic effects for human body showed that none of the four medicinal herbs can create a health risk. Thus, there is no strong positive correlation between heavy metal pollution in medicinal herbs and that in the native soil. Further research should be investigated to the connection between the heavy metal levels in the soil and plants, and the comprehensive effects of soil, air and irrigation water on heavy metal pollution of Chinese herbal medicines. We also recommend that Chinese herbal medicines should be cultivated and gathered only from controlled or uncontaminated areas.

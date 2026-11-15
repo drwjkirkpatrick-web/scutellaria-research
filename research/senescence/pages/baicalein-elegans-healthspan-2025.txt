@@ -1,0 +1,616 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/41415716/
+Accessed: 2026-11-14
+Title: Baicalein Enhances Longevity and Healthspan of C. elegans Through the Insulin/IGF-1 Signaling Pathway.
+Journal: MedComm
+Year: 2025
+---
+
+Baicalein, a bioactive flavonoid derived from Scutellaria baicalensis, possesses notable anti-inflammatory, antioxidative, and anticancer properties. Despite its therapeutic potential, the full scope of its effects on healthspan and longevity remains unexplored. This study investigates the impact of baicalein on longevity and health-related biomarkers using the nematode Caenorhabditis elegans. Baicalein was administered to a wild-type N2 strain, seven mutant strains, and three reporter strains. Its influence on longevity, motility, lipofuscin accumulation, and oxidative stress resistance was assessed. The methodology included Kaplan-Meier survival analysis, in vivo imaging, fluorescence microscopy, and real-time PCR to evaluate RNA and protein expression. The findings indicate that baicalein significantly extends lifespan and enhances health markers, including improved motility, increased oxidative stress resistance, and reduced lipofuscin accumulation. Mechanistically, baicalein suppressed the DAF-2-mediated insulin/IGF-1 signaling pathway and promoted the nuclear translocation of DAF-16, a pivotal longevity transcription factor. Furthermore, baicalein upregulated the expression of the sod-3 gene, which is associated with enhanced stress tolerance and lifespan extension. These results elucidate the function of baicalein in promoting longevity and healthspan in C. elegans through modulation of insulin/IGF-1 signaling. Future studies are warranted to explore the applicability of baicalein in human aging to pave the way for innovative antiaging supplement formulations.
+
+
+=== PMC FULL TEXT ===
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/
+Accessed: 2026-11-14
+---
+
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#main-content)
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** (
+Lock
+Locked padlock icon
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+[Home](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg)![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+Search PMC Full-Text Archive
+
+Search in PMC![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg)
+
+- [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+- [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+- ![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg)
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)](https://doi.org/10.1002/mco2.70543) View on publisher site
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/pdf/MCO2-6-e70543.pdf) Download PDF
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Add to Collections
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg)
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+
+Learn more:
+[PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/)
+\|
+[PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![MedComm logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-mcomm.jpg)
+
+MedComm (2020)
+
+. 2025 Dec 17;6(12):e70543. doi: [10.1002/mco2.70543](https://doi.org/10.1002/mco2.70543)
+
+# Baicalein Enhances Longevity and Healthspan of _C. elegans_ Through the Insulin/IGF‐1 Signaling Pathway
+
+[Chen Zhao](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zhao%20C%22[Author])
+
+### Chen Zhao
+
+1Department of Pediatrics, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China
+
+2Molecular OncoSurgery, Section Surgical Research, Department of General, Visceral & Transplant Surgery, University of Heidelberg, Heidelberg, Germany
+
+Find articles by [Chen Zhao](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zhao%20C%22[Author])
+
+1,2,✉, [Daniel Schrapel](https://pubmed.ncbi.nlm.nih.gov/?term=%22Schrapel%20D%22[Author])
+
+### Daniel Schrapel
+
+2Molecular OncoSurgery, Section Surgical Research, Department of General, Visceral & Transplant Surgery, University of Heidelberg, Heidelberg, Germany
+
+Find articles by [Daniel Schrapel](https://pubmed.ncbi.nlm.nih.gov/?term=%22Schrapel%20D%22[Author])
+
+2, [Michael Schaefer](https://pubmed.ncbi.nlm.nih.gov/?term=%22Schaefer%20M%22[Author])
+
+### Michael Schaefer
+
+2Molecular OncoSurgery, Section Surgical Research, Department of General, Visceral & Transplant Surgery, University of Heidelberg, Heidelberg, Germany
+
+Find articles by [Michael Schaefer](https://pubmed.ncbi.nlm.nih.gov/?term=%22Schaefer%20M%22[Author])
+
+2
+
+- Author information
+- Article notes
+- Copyright and License information
+
+1Department of Pediatrics, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China
+
+2Molecular OncoSurgery, Section Surgical Research, Department of General, Visceral & Transplant Surgery, University of Heidelberg, Heidelberg, Germany
+
+✉
+
+Corresponding author.
+
+Revised 2025 Sep 22; Received 2024 Oct 7; Accepted 2025 Oct 24; Collection date 2025 Dec.
+
+© 2025 The Author(s). _MedComm_ published by Sichuan International Medical Exchange & Promotion Association (SCIMEA) and John Wiley & Sons Australia, Ltd.
+
+This is an open access article under the terms of the [http://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/) License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC12710425  PMID: [41415716](https://pubmed.ncbi.nlm.nih.gov/41415716/)
+
+## ABSTRACT
+
+Baicalein, a bioactive flavonoid derived from _Scutellaria baicalensis_, possesses notable anti‐inflammatory, antioxidative, and anticancer properties. Despite its therapeutic potential, the full scope of its effects on healthspan and longevity remains unexplored. This study investigates the impact of baicalein on longevity and health‐related biomarkers using the nematode _Caenorhabditis elegans_. Baicalein was administered to a wild‐type N2 strain, seven mutant strains, and three reporter strains. Its influence on longevity, motility, lipofuscin accumulation, and oxidative stress resistance was assessed. The methodology included Kaplan–Meier survival analysis, in vivo imaging, fluorescence microscopy, and real‐time PCR to evaluate RNA and protein expression. The findings indicate that baicalein significantly extends lifespan and enhances health markers, including improved motility, increased oxidative stress resistance, and reduced lipofuscin accumulation. Mechanistically, baicalein suppressed the DAF‐2‐mediated insulin/IGF‐1 signaling pathway and promoted the nuclear translocation of DAF‐16, a pivotal longevity transcription factor. Furthermore, baicalein upregulated the expression of the _sod‐3_ gene, which is associated with enhanced stress tolerance and lifespan extension. These results elucidate the function of baicalein in promoting longevity and healthspan in _C. elegans_ through modulation of insulin/IGF‐1 signaling. Future studies are warranted to explore the applicability of baicalein in human aging to pave the way for innovative antiaging supplement formulations.
+
+**Keywords:** aging, baicalein, _Caenorhabditis elegans_, DAF‐2, DAF‐16
+
+* * *
+
+**Diagram showing how baicalein mediates lifespan signaling**. The phosphorylation of the transcription factor DAF‐16 is inhibited when the normal insulin/insulin‐like growth factor 1 signaling pathway is disturbed. The _daf‐16_ nucleus translocation, made possible by this dephosphorylation, to start the _sod‐3_ transcription that confers longevity, metabolic efficiency, and stress tolerance, is thought to help _C. elegans_ live longer.
+
+![graphic file with name MCO2-6-e70543-g006.jpg](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a958/12710425/53d95d18a445/MCO2-6-e70543-g006.jpg)
+
+## 1\. Introduction
+
+Modern societies have achieved significant lifespan extension through improved public health policies. Yet, aging populations face heightened vulnerability to chronic diseases \[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0001), [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0002)\]. While scientific progress enhances longevity, accumulated cellular and tissue degeneration progressively compromises bodily functions \[ [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0003), [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0004)\]. This biological reality drives growing research into aging mechanisms to develop effective interventions against age‐related decline.
+
+Natural polyphenols (e.g., curcumin \[ [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0005)\]), dendrobium nobile alcohol extracts \[ [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0006)\], alkaloids (berberine \[ [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0007)\]) and organosulfur compounds (sulforaphane \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0008)\]) activate antioxidant pathways to combat aging, which can offer strategies to extend healthspan and reduce age‐related diseases. Notably, baicalein, a key flavonoid in _Scutellaria baicalensis_ ( _S. baicalensis_) roots, contains hydroxyl groups on its flavone structure that confer potent antioxidant activity \[ [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0009), [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0010)\] (Figure [1A](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0001)). Baicalein has exhibited multitarget antiaging potential through synergistic antioxidant \[ [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0010)\] and anti‐inflammatory actions \[ [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0011)\], neuroprotection \[ [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0012)\], and cardiometabolic regulation \[ [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0013)\]. Preclinical studies indicate its ability to neutralize oxidative stress via forkhead box protein (FOXO) pathway activation including upregulating superoxide dismutase (SOD) and catalase \[ [14](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0014)\], to reduce amyloid‐beta accumulation linked to neurodegeneration \[ [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0012)\], and to inhibit cancer progression through apoptosis induction \[ [15](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0015)\]. Concurrently, it improves lipid metabolism and mitigates atherosclerosis, which addresses key aging drivers \[ [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0013)\]. These integrated effects position baicalein as a promising therapeutic candidate for extending healthspan. However, its pleiotropic mechanisms require further elucidation.
+
+### FIGURE 1.
+
+![FIGURE 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a958/12710425/8f272dabdfea/MCO2-6-e70543-g007.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/figure/mco270543-fig-0001/)
+
+Baicalein extends lifespan. (A) Chemical structure of 5, 6, 7‐trihydroxyflavone baicalein. (B) Synchronized L1 wild‐type N2 were maintained on NGM/OP50 plates containing 100 µM baicalein (BC) or 0.1% DMSO (CO) for lifespan analysis. Representative lifespan data are shown ( _p_ value and median survival in parentheses; _p_ < 0.05 indicates significance).
+
+The soil nematode _C. elegans_ has been a popular and cornerstone model for studying the aging process \[ [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0016)\]. So far, the lifespan extension effects of baicalein have been characterized to some extent using _C. elegans_ model \[ [17](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0017), [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0018), [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0019)\]. And as a pivotal breakthrough in aging research, the insulin/insulin‐like growth factor 1 (IGF‐1) signaling (IIS) pathway has been found to modulate lifespan in _C_. elegans \[ [20](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0020)\]. This evolutionarily conserved pathway governs development, metabolism, and longevity across species. To put it more profoundly, DAF‐2 (the homolog of mammalian insulin/IGF‐1 receptor) triggers a phosphorylation cascade upon activation by insulin‐like peptides, thereby suppressing DAF‐16 (the homolog of mammalian FOXO). This suppression blocks DAF‐16 nuclear translocation and its subsequent activation of stress‐response genes. These two components function antagonistically: while DAF‐2 promotes growth at the expense of lifespan, DAF‐16 enhances stress resistance and longevity by upregulating genes such as _gst‐4_, _sod‐3_, and _mtl‐_ 1 \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0008)\]. Despite of recent research efforts devoted to baicalein's effects on longevity of _C. elegans_, several limitations exist in these studies, such as ignoring the dietary restriction‐induced longevity \[ [17](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0017)\], insufficient lifespan assays without experimental repetitions \[ [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0018)\], and performing lifespan assays with only N2 wild‐type strain and no necessary mutants for verification \[ [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0019)\]. Therefore, well‐designed experiments and convincing results are urgently needed to reveal the mechanisms underlying baicalein‐induced longevity in _C. elegans_.
+
+In this study, we carried out a series of delicately designed experiments to dissect the antiaging properties of baicalein using _C. elegans_ as a biological model. Besides, the limitations in existing studies were also addressed to provide more convincing results and solid findings. First, does the potential factor, dietary restriction‐induced longevity, confound the lifespan‐extending effects of baicalein? Second, how does baicalein improve age‐related physiological functions and enhance healthspan? Third, what molecular mechanisms mediate the effects of baicalein on stress resistance and longevity? With extensive lifespan assays using seven mutant strains and three reporter strains, our studies reveal that baicalein significantly extends the lifespan of _C. elegans_ and delays aging‐related phenotypic changes. This is achieved by inhibiting DAF‐2 (insulin/IGF‐1 receptor) signaling and facilitating DAF‐16 nuclear translocation, which leads to increased expression of the longevity‐associated gene _sod‐3_. These findings underscore the potential of baicalein as a focus of antiaging research.
+
+## 2\. Results
+
+### 2.1. Baicalein Extends the Lifespan of Wild‐Type N2 _C. elegans_
+
+As shown in Figure [1B](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0001), baicalein extended the median lifespan of wild‐type N2 _C. elegans_ to 22 days (vs. 20 days in controls). And the results of three independent experiments indicated a 105–115% lifespan prolongation with statistical significance (all _p_ < 0.05;) as shown in Table [S1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-supinfo-0001), which implies the marked longevity‐enhancing effects of baicalein.
+
+### 2.2. Baicalein Has no Effect on _C. elegans_ Feeding Preference or Growth of _E. coli_ OP50
+
+To assess potential dietary restriction effects via _Escherichia coli_ ( _E. coli_) OP50 growth inhibition by 100 µM baicalein \[ [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0021), [22](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0022)\], bacterial growth was monitored over 8 h (30‐min intervals) and at 24/48 h. Both baicalein‐ and 0.1% dimethyl sulfoxide (DMSO)‐treated groups showed comparable growth trajectories (Figure [2A, B](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0002)), confirming no antibacterial activity.
+
+#### FIGURE 2.
+
+![FIGURE 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a958/12710425/901147335f95/MCO2-6-e70543-g005.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/figure/mco270543-fig-0002/)
+
+Baicalein does not inhibit the growth of _E. coli_ OP50 food bacteria or affect food preferences of _C. elegans_. (A) _E. coli_ OP50 growth was tested for BC and CO groups. OD595 readings were taken every 30 min from 0 to 8 h (three replicates, _p_ > 0.05). (B) Extended monitoring at 24/48 h (three replicates, _p_ > 0.05). (C) On a 6 cm diameter NGM agar plate, _E. coli_ OP50 was seeded on the respective halves of the plate as indicated. Fifty nematodes were placed in the center and tracked at 3/6 h. (D) Migration counts mean ± standard deviation (SD), four replicates, _p_ > 0.05.
+
+A bacterial avoidance assay (Figure [2D](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0002)) using NGM plates with 0.1% DMSO‐ versus baicalein‐treated _E. coli_ OP50 revealed no significant differences in _C. elegans_ distribution between the two halves of the plate at 3/6 h, indicating unchanged feeding preference.
+
+### 2.3. Baicalein Improves Mobility, Lipofuscin Accumulation, and Stress Resistance in Aged Wild‐Type N2 _C. elegans_
+
+To evaluate the effect of baicalein on healthspan in _C. elegans_, aged N2 nematodes underwent body bending assays (Days 6/9/12). Baicalein‐treated groups showed increased bending frequency, particularly on Day 12 (Figure [3A, B](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0003)), which indicated enhanced mobility. Pharyngeal pumping, measured via meta corpus/terminal bulb contractions (Figure [3C](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0003)), showed no significant difference versus controls (Figure [3D](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0003)), which suggested selective neuromuscular improvement. Lipofuscin assays quantified lysosomal age‐pigment accumulation (a biomarker of aging \[ [23](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0023)\]) in 12‐day _C. elegans_. Imaging (Figure [3E](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0003)) and fluorescence intensity analysis (Figure [3F](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0003)) revealed significantly reduced lipofuscin levels in baicalein‐treated nematodes, which indicated attenuated biological aging. Dihydroethidium (DHE)/2‐hydroxyethidium (2‐EOH) assays measured superoxide levels via oxidative stress marker 2‐EOH (red fluorescence) \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0008)\]. Imaging (Figure [3G](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0003)) and quantification (Figure [3H](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0003)) demonstrated significantly reduced fluorescence in baicalein‐treated _C. elegans_, which indicated reactive oxygen species (ROS) and oxidative stress mitigation.
+
+#### FIGURE 3.
+
+![FIGURE 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a958/12710425/a496318202de/MCO2-6-e70543-g004.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/figure/mco270543-fig-0003/)
+
+Baicalein improves healthspan, reduces lipofuscin accumulation, and enhances stress resistance in aged wild‐type N2 _C. elegans_. Age‐synchronized L1 of wild‐type N2 nematodes were cultured for BC and CO groups. (A) Body bending (representative images). (B) Body bends/minute (Days 6/9/12; _n_ = 20) in mean ± SD, \* _p_ < 0.05. (C) Pharyngeal zones: 1 (meta corpus), 2 (terminal bulb). (D) Pharyngeal pumping (Days 9/12; _n_ = 20; mean ± SD, _p_ > 0.05). (E) Day 12 lipofuscin fluorescence ( _n_ = 20; three representative images). (F) Lipofuscin intensity (normalized to CO; mean ± SD, \* _p_ < 0.05). (G) Day 10 ROS‐induced fluorescence ( _n_ = 20; three representative images). (H) ROS intensity (normalized to CO; mean ± SD, \*\* _p_ < 0.01).
+
+### 2.4. Investigation of Key Pathways Underlying Baicalein‐Induced Longevity
+
+The mechanisms of lifespan extension of baicalein in _C. elegans_ were explored through key longevity pathways (Figure [4A](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0004)), which included the IIS pathway \[ [24](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0024)\], _pmk‐1_/p38 MAPK‐regulated Nrf2 oxidative stress response \[ [25](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0025)\], _sir‐2.1_‐dependent histone deacetylase activity \[ [26](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0026)\], and _eat‐2_‐mediated dietary restriction \[ [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0027)\]. Notably, administration of 100 µM baicalein significantly extended the median lifespan of _pmk‐1(km25)_ mutants, _sir‐2.1(ok434)_ mutants, and _eat‐2(ad1116)_ mutants compared with their respective controls. However, it failed to extend the lifespan of _daf‐2(e1370)_ mutants (Figure [4B–E](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0004)). These results strongly implicate the DAF‐2/IIS pathway as a critical mediator of baicalein‐induced longevity, while its action is independent of _pmk‐1_‐mediated oxidative stress resistance, _sir‐2.1_‐dependent histone deacetylase activity, or _eat‐2_‐mediated mimicry of dietary restriction. The results of lifespan assays are shown in Table [S2](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-supinfo-0001).
+
+#### FIGURE 4.
+
+![FIGURE 4](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a958/12710425/5f3c3371e2a5/MCO2-6-e70543-g002.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/figure/mco270543-fig-0004/)
+
+Baicalein extends _C. elegans_ lifespan via DAF‐2 insulin/IGF‐1 signaling. (A) _C. elegans_ longevity pathways schematic highlighting key genes. (B–E) Lifespan analysis of _daf‐2_ (B), _pmk‐1_ (C), _sir‐2.1_ (D), and _eat‐2_ (E) mutants for BC and CO groups. Representative survival curves are shown with median lifespan and _p_ values ( _p_ < 0.05 indicates significance).
+
+### 2.5. Aging and Stress Resistance Induced by Baicalein are Mediated by DAF‐16/FOXO
+
+IIS pathway, an evolutionarily conserved longevity mechanism from yeast to mammalian systems in various contexts, has well‐characterized upstream and downstream cascades \[ [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0016), [20](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0020)\]. To further investigate the pro‐longevity mechanisms of baicalein in _C. elegans_, we focused on DAF‐16 (downstream of DAF‐2) and the Nrf2 ortholog SKN‐1 (downstream of PMK‐1) (Figure [5A](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0005)). The Lifespans assay of _daf‐16(mu86)_ mutants and _skn‐1(zu67)_ mutants showed no significant lifespan changes with baicalein treatment (Figure [5B, C](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0005) and Table [S2](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-supinfo-0001)), which confirmed the essential role of DAF‐16 and the necessity of SKN‐1 for baicalein‐induced longevity.
+
+#### FIGURE 5.
+
+![FIGURE 5](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a958/12710425/c223a6838269/MCO2-6-e70543-g003.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/figure/mco270543-fig-0005/)
+
+Baicalein promotes longevity via _daf‐16_ and _skn‐1_ signaling. (A) _C. elegans_ longevity signaling pathways schematic ( _skn‐1_, _daf‐16_ highlighted). _daf‐16_ (B) and _skn‐1_ (C) mutants were maintained on NGM agar plates with _E. coli_ OP50 for BC and CO groups for lifespan analysis. Representative lifespan curves show median survival and _p_ values ( _p_ > 0.05).
+
+### 2.6. Baicalein Upregulates SOD‐3 Expression Following DAF‐16 Nuclear Translocation
+
+To investigate how baicalein activates DAF‐16 and SKN‐1, real‐time polymerase chain reaction (PCR) was used to analyze their downstream targets. DAF‐16‐regulated genes included _sod‐3_, _mtl‐1_, _dod‐3_, _gst‐4_, _ctl‐1_, and _ctl‐2_, while SKN‐1 primarily targeted _gst‐4_ and _gcs‐1_ \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0008), [28](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0028)\]. Our results showed that the expression of _sod‐3_ significantly increased in the baicalein‐treated group on adult Day 2 compared with the control group. In contrast, the expression levels of other genes were not significantly improved at any time point compared with their respective controls (Figure [6A](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0006)).
+
+#### FIGURE 6.
+
+![FIGURE 6](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a958/12710425/ef9aa93778fb/MCO2-6-e70543-g001.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/figure/mco270543-fig-0006/)
+
+DAF‐16 mediates baicalein‐induced longevity and stress resistance. (A) Age‐synchronized L1 of wild‐type N2 were cultured for BC and CO groups. Total RNA from 200 nematodes/group (adult Days 1–3) was analyzed by real‐time polymerase chain reaction (PCR) for _sod‐3_, _mtl‐1_, _dod‐3_, _gst‐4_, _ctl‐1_, _ctl‐2_, _gcs‐1_ (normalized to _act‐1_). Control standardized to 1 (dashed line); data as mean ± SD (\*\* _p_ < 0.05). (B) CF1553 ( _sod‐3::gfp_) L1 treated with BC or CO ( _n_ = 20). Day 2 GFP captured (three representative images). (C) Fluorescence intensity quantified (normalized to CO; mean ± SD, \*\* _p_ < 0.01). (D) Age‐synchronized TJ356 ( _daf‐16::gfp_) were treated with BC or CO ( _n_ = 20). Day 2 GFP captured (three representative images). (E) DAF‐16::GFP nuclear localization graded by n/c ratio: >2.0 (nuclear), 1.2–2.0 (weak), <1.2 (cytoplasmic). Data were analyzed by Fisher's exact test (\*\* _p_ < 0.01).
+
+To determine if baicalein promotes DAF‐16 nuclear translocation and enhances SOD‐3 expression, the _sod‐3_:: _gfp_ reporter strain CF1553 driven by the _daf‐16_ promoter was analyzed. Green fluorescent protein (GFP) fluorescence imaging on adult Day 2 (representative images in Figure [6B](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0006)) and quantification (Figure [6C](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0006)) showed that baicalein significantly increased SOD‐3::GFP fusion protein levels, which confirmed DAF‐16 activation and subsequent SOD‐3 upregulation.
+
+To evaluate whether baicalein influences DAF‐16 nuclear translocation and its subsequent transcription activity, the TJ356 strain, which carries a _daf‐16_:: _gfp_ reporter construct, was treated with 100 µM baicalein or 0.1% DMSO. On the second day of adulthood, GFP fluorescence was measured using fluorescence microscopy. Representative images are shown in Figure [6D](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0006) and nuclear translocation scores were calculated in Figure [6E](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0006). The presence of green foci indicated a significant increase in nuclear GFP fluorescence in the baicalein‐treated group, although there was no noticeable difference in overall fluorescence intensity, which is indicative of increased DAF‐16 transcription activity. In contrast, the GFP fluorescence activity was insufficient to provide conclusive evidence of SKN‐1 translocation, as shown in Figure [S1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-supinfo-0001).
+
+## 3\. Discussion
+
+Our study employed _C. elegans_ to investigate the antiaging effects of dietary flavonoid baicalein. Results showed baicalein extended lifespan and improved healthspan primarily via the IIS pathway. Baicalein inhibited insulin receptor‐like DAF‐2 and activated DAF‐16/FOXO, which upregulated _sod‐3_ to enhance stress resistance and longevity.
+
+Baicalein exhibited a lifespan extension of 105–115% and enhanced healthspan, as demonstrated by improved mobility, attenuated lipofuscin accumulation, and reduced ROS levels. Since this study chose 100 µM baicalein as good start point reported by Havermann et al. \[ [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0018)\], future work should explore dose‐dependent effects for maximal lifespan benefits. While pharyngeal pumping activity remained unaltered, which is a phenotype consistent with its previously characterized selective neuromuscular modulation \[ [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0018)\]. Crucially, lifespan assays in _eat‐2_ mutants revealed that the _eat‐2_ is dispensable for baicalein‐induced longevity, which can provide genetic evidence that further validates the pharyngeal pumping results and excludes canonical dietary restriction pathways in its mechanism.
+
+Unlike quercetin and resveratrol in nematode lifespan regulation, baicalein demonstrates distinct advantages. 10–20 µmol/L quercetin can promote apoptotic cell death rather than mitigating cellular senescence in senescent human preadipocytes. Still, in vivo effects of quercetin across mammalian models remain unelucidated \[ [29](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0029)\]. And the in vivo effects of quercetin on rodents or non‐human primates need further investigation. Resveratrol extends lifespan by inducing autophagy in a Sirt1‐dependent manner and requires NAD+ levels to support \[ [30](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0030)\].
+
+Our study employed live _E. coli_ OP50 prepared using the LB medium method described previously for the lifespan assays \[ [31](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0031)\]. As baicalein may undergo bacterial metabolic transformations (e.g., hydrogenation, ring‐fission), the observed lifespan extension in _C. elegans_ could arise from baicalein itself, its bacterial metabolites, or their combined effects. A key limitation is our inability to distinguish whether the effect is driven by baicalein itself, its metabolites, or their combined action. Bacterial metabolism was not the primary focus of our investigation. Future studies should evaluate the longevity effects of purified bacterial metabolites to clarify their specific roles in lifespan modulation. Importantly, control experiments confirmed that baicalein neither inhibited _E. coli_ OP50 growth nor altered _C. elegans_ feeding behavior, ruling out dietary restriction, a known longevity mechanism in _C. elegans_, as the cause of lifespan extension. Thus, the lifespan effects of baicalein are independent of food intake changes or microbial interactions.
+
+Previous studies have identified the key transcription factor DAF‐16, which acts as a “capacitor” to stabilize the transcriptome during aging and regulates stress and longevity genes \[ [32](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0032), [33](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0033)\]. This finding aligns with our observations, including baicalein‐induced enhanced DAF‐16 nuclear GFP fluorescence, coordinated upregulation of _sod‐3_, potential modulation of a broader network of stress‐related genes, and final enhancement of both lifespan and healthspan. _sod‐3_ expression is typically low in early adulthood, increases under oxidative stress, and declines with age. It correlates with reduced stress resistance and oxidative damage accumulation \[ [34](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0034)\]. A related study \[ [35](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0035)\] reported an age‐dependent decrease in _sod‐3_ expression starting from adult Day 2. This aligns with our finding that _sod‐3_ levels peaked on Day 2 and declined thereafter during early adulthood.
+
+While baicalein administration did not significantly alter the lifespan of _skn‐1_ mutants in our study, the absence of SKN‐1 nuclear translocation and downstream gene activation ( _gcs‐1_ and _gst‐4_) provides insufficient evidence for SKN‐1 activation. Thus, we cannot conclusively establish SKN‐1 pathway activation as a complete mechanism underlying baicalein‐induced longevity. Furthermore, the pronounced lifespan alterations in _pmk‐1(km25)_ mutants suggest potential dysfunction of PMK‐1, the upstream regulator of SKN‐1, which cast additional doubt on SKN‐1 activation. This contrasts with a recent study from Havermann et al. \[ [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0018)\], which posits a role for _skn‐1_ in baicalein‐induced longevity \[ [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0018)\]. While their work employed _skn‐1_ RNAi in _C. elegans_ to associate baicalein with enhanced stress resistance and longevity, where incomplete _skn‐1_ silencing may compromise the validity of these conclusions. Their follow‐up study \[ [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0019)\] utilized SKN‐1::GFP nuclear translocation as a mechanistic indicator but omitted lifespan validation for the proposed longevity effects. The SKN‐1 pathway in C. elegans, analogous to the human Nrf2 system, is crucial for longevity and oxidative stress responses \[ [36](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0036)\]. Guerrero‐Rubio et al. \[ [17](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0017)\] proposed that baicalein extends lifespan via the SKN‐1/Nrf2 pathway but did not account for potential dietary restriction confounders due to _E. coli_ inhibition. Consequently, further comprehensive experimental validations are warranted to clarify the role of SKN‐1 in baicalein‐induced longevity.
+
+In the future, transcriptomic studies in baicalein‐treated _C. elegans_ could identify novel IIS effectors or alternative longevity pathways, including mitochondrial unfolded protein response \[ [37](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0037)\] or lipid metabolic regulation \[ [38](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0038)\]. Single‐cell approaches may further pinpoint the targeted cell types and spatiotemporal dynamics of baicalein, which can offer higher‐resolution insights into its antiaging mechanisms. For example, enhanced DAF‐16 nuclear translocation in intestinal cells versus hypodermis would suggest tissue‐specific enhancement of metabolic stress resistance. Conversely, neuronal _daf‐2_ downregulation without corresponding DAF‐16 activation might implicate non‐cell‐autonomous longevity regulation through inter‐tissue signaling.
+
+Baicalein has shown promise as an antiaging agent in recent in vitro and in vivo studies \[ [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0018), [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0019), [39](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0039)\]. Mohanty and Suchiang \[ [39](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0039)\] identified the capacity of baicalein to inhibit the Wnt pathway, which suggests its potential as a therapeutic target in age‐related diseases characterized by aberrant Wnt activation. Furthermore, studies by Havermann et al. \[ [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0018), [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0019)\] linked SKN‐1 activation to increased lifespan. However, translating these findings into human applications remains challenging and necessitates comprehensive clinical studies. Additionally, there is limited information on the long‐term use and toxicity of baicalein. Currently, baicalein is primarily consumed as a supplement, and commercially available supplements are promoted for their anti‐inflammatory, antioxidant, and putative antiaging properties. A study by Dong et al. \[ [40](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0040)\] found that baicalein supplements are safe and well tolerated within the recommended dosage range among healthy Chinese volunteers. And no significant or severe adverse effects were observed. Each baicalein tablet used in this study contained 500 mg of the active compound, with an effective dosage of 100 mg per tablet. Following oral administration of baicalein in varying doses (200–800 mg in 200 mg increments), the compound was rapidly absorbed, with mean peak plasma concentrations of 280.44, 628.80, 845.20, and 489.55 ng/mL, respectively. The time to reach maximum concentration was approximately 3 h for each dose, followed by a gradual decline.
+
+## 4\. Conclusion
+
+Taken together, our study provides a comprehensive and methodologically rigorous analysis of the effect of baicalein on _C. elegans_ longevity, healthspan, and signaling. Through a wide array of experimental approaches, including lifespan, mobility, lipofuscin accumulation, oxidative stress resistance assays, and RNA and protein expression analyses, we have demonstrated the potential of baicalein as an antiaging compound. The applied methodologies, which included Kaplan‐Meier survival analysis, live imaging, video recording, fluorescence microscopy, and real‐time PCR, alongside advanced genetic and biochemical techniques, underscore the utility of _C. elegans_ as a model organism for aging studies. The insights gained from our results may pave the way for further exploration into the molecular mechanisms underlying aging and the development of strategies to extend lifespan and enhance healthspan.
+
+## 5\. Materials and Methods
+
+### 5.1.  _C. elegans_ Maintenance, Synchronization, and Drug Administration
+
+_C. elegans_ strains including wild‐type N2, CF1038, CB1370, GR1309, EU1, KU25, VC199, DA1116, TJ356, CF1553, and LD1 were obtained from the _Caenorhabditis_ Genetics Center (CGC) (University of Minnesota, Minneapolis, USA). Strain information is summarized in Table [S3](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-supinfo-0001). _C. elegans_ was maintained on NGM plates containing live _E. coli_ OP50, which were treated with 100 µM baicalein, a concentration selected based on prior studies \[ [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0018), [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0019)\]. Briefly, baicalein (Sigma–Aldrich, Steinheim, Germany) was dissolved in DMSO (AppliChem, Darmstadt, Germany) to generate a 100 mM stock solution, which was diluted in live OP50 liquid culture to the working concentration. While control groups received equivalent 0.1% DMSO. Age‐synchronized nematodes were generated by transferring gravid adults onto seeded NGM plates for a 2‐h egg‐laying period. Following adult removal, eggs were maintained for hatching under standard conditions prior to experimental use in subsequent assays.
+
+### 5.2. Determination of the Baicalein Inhibitory Effect on _E. coli_ OP50 Growth
+
+The _E. coli_ OP50 growth exposed to 100 µM baicalein was assessed at 30‐min intervals using a photometer, following a described method \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0008)\]. Briefly, 15 mL of OP50 liquid culture (OD595 = 0.1) containing either 100 µM baicalein or equivalent 0.1% DMSO were prepared. Both samples were then shaken at 220 rpm at 37°C, with OD595 measurements recorded at 30‐min intervals over 8 h. To further assess bacterial growth, both groups were incubated at 37°C, with OD595 measurements recorded at the 24th and 48th hours. Each of the assays had three independent biological repeats.
+
+### 5.3. Lifespan Assay
+
+Lifespan assays followed established protocols \[ [41](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0041)\]. Synchronized nematodes developed from egg to late L4 stage (Day 0) within approximately 40 h. Nematodes unresponsive to tactile stimuli were scored as dead and removed. Missing individuals or internal hatching were censored, with all abnormalities documented. Experiments terminated upon full mortality. The assays for every strain/group had three independent biological repeats.
+
+### 5.4. Bacteria Avoidance Assay
+
+Bacterial avoidance assays used 6 cm NGM plates bisected into halves: one with OP50 + 0.1% DMSO (control) and the other with OP50 + 100 µM baicalein (Figure [2C](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-fig-0002)) \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0008)\]. Fifty nematodes were centrally placed, with distribution across halves recorded at 3‐ and 6‐h intervals to assess avoidance behavior. Each of the assays had four independent biological repeats.
+
+### 5.5. Assays of Body Bending and Pharyngeal Pumping
+
+Body bending assays followed established protocols \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0008), [42](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0042)\]. Age‐synchronized wild‐type N2 nematodes were assessed on Days 6/9/12, _n_ = 20 (20°C, NGM plates with 0.1% DMSO or 100 µM baicalein). Nematodes were transferred to unseeded plates for unrestricted movement. After 1–2 min acclimation, body bends were counted for 1 min under a Nomarski microscopy.
+
+Pharyngeal pumping assays followed protocols \[ [41](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0041), [43](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0043)\]. N2 nematodes were treated as above. On Days 9/12, 20 acclimated nematodes were observed under a Nomarski microscopy to record terminal bulb contractions. The pumps were counted at a slower playback of the recorded video.
+
+### 5.6. Levels of Lipofuscin and Intracellular ROS
+
+Lipofuscin assays followed established protocols \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0008)\]. Age‐synchronized N2 nematodes were maintained as above. On Day 12, 20 nematodes per group were washed with M9 buffer three times, mounted on 2% agar pads, and immobilized with 10 mM sodium azide (Merck, Darmstadt, Germany). Gut‐focused images were captured via fluorescence microscopy with excitation wavelengths of 340–390 nm and emission wavelengths producing blue light between 430 and 490 nm under standardized 1000 ms exposure \[ [44](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0044)\]. Lipofuscin levels (fluorescence intensity) were quantified using ImageJ (version 1.53t).
+
+Superoxide levels were assessed via DHE staining, metabolizing into 2‐EOH by superoxide \[ [45](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0045)\]. On Day 10, N2 nematodes ( _n_ = 20) were dark‐incubated with 5 µM DHE (1 h, 20°C), washed, and immobilized on agar pads with sodium azide. The ROS fluorescence, excited around 518 nm and emitting red fluorescence at 605 nm, was imaged at 1000 ms exposure using a fluorescence microscope. Fluorescence intensity, reflecting superoxide levels, was quantified with ImageJ.
+
+### 5.7. Total RNA Isolation and Real‐Time PCR
+
+Total RNA was extracted from 200 age‐synchronized N2 nematodes per group (Days 1–3) using TRIzol (Ambion by Life Technologies, Carlsbad, USA) and the RNeasy Mini Kit (QIAGEN, Hilden, Germany) following manufacturer protocols. RNA (1 µg) was reverse‐transcribed with the High‐Capacity RNA‐to‐cDNA Kit (Thermo Fisher Scientific Baltics UAB, Vilnius, Lithuania). Real‐time PCR was performed on a StepOne System (Applied Biosystems, California, USA) using PowerUp SYBR Green Master Mix (Thermo Fisher Scientific Baltics UAB) and primers sourced from Eurofins Genomics, Ebersberg, Germany as shown in Table [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-tbl-0001).
+
+#### TABLE 1.
+
+Real‐time PCR primers.
+
+| Gene | Annotation | Primer pair |
+| :-- | :-: | :-: |
+| _act‐1_ | Actin‐related gene<br>(Housekeeping gene) | FWD: CCAGGAATTGCTGATCGTATGCAGAA<br>REV: TGGAGAGGGAAGCGAGGATAG |
+| _sod‐3_ | Superoxide dismutase | FWD: CACACTCTCCCAGATCTCCC<br>REV: AATTTCAGCGCTGGTTGGAG |
+| _mtl‐1_ | Metallothionein | FWD: GGAGGCCAGTGAGAAAAAATG<br>REV: GCTTCTGCTCTGCACAATGAC |
+| _dod‐3_ | Downstream of DAF‐16<br>(regulated by DAF‐16) | FWD: GGAGTCCTGCTCTCAGATGAA<br>REV: ACATGAACACCGGCTCATTC |
+| _gst‐4_ | Glutathione S‐transferase | FWD: CCCATTTTACAAGTCGATGG<br>REV: CTTCCTCTGCAGTTTTTCCA |
+| _ctl‐1_ | Catalase | FWD: TCGTTCATGCCAAGGGAGC<br>REV: GATCCCGATTCTCCAGCGAC |
+| _ctl‐2_ | Catalase | FWD: GAAGGTGTTGGATACCGGGG<br>REV: GGATGAGTGCCTTGACACGA |
+| _gcs‐1_ | Gamma‐glutamylcysteine synthetase | FWD: AATCGATTCCTTTGGAGACC<br>REV: ATGTTTGCCTCGACAATGTT |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/table/mco270543-tbl-0001/)
+
+Primer sequences were chosen according to existing publications \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0008), [28](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0028), [47](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0047)\].
+
+### 5.8. Quantitation of SOD‐3 Expression
+
+SOD‐3::GFP assays followed established protocols \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0008)\]. Age‐synchronized CF1553 nematodes were treated as above. On Day 2 (adult stage) or Day 4 posttreatment, 20 nematodes per group were washed, immobilized with 5 mM levamisole (Sigma–Aldrich, St. Louis, USA) on 2% agar pads, and imaged via fluorescence microscopy the excitation at 488 nm, emission between 500 and 530 nm (3000 ms exposure). Fluorescence intensity was quantified using ImageJ.
+
+### 5.9. Intracellular Localization of DAF‐16 and SKN‐1
+
+SKN‐1 and DAF‐16 nuclear localization was analyzed using established methods \[ [46](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0046)\]. The DAF‐16::GFP reporter strain TJ356 was treated with 100 µM baicalein to assess nuclear translocation \[ [33](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0033)\]. Age‐synchronized nematodes underwent standard treatment. And on Day 2 of adulthood, 20 nematodes were washed with M9 buffer, anesthetized with 5 mM levamisole hydrochloride, and imaged on 2% agar pads. Fluorescence distribution was examined with 3000 ms exposure, focusing on nuclear (vs. cytoplasmic) GFP signals. Similarly, SKN‐1 localization was evaluated using LD1 strain expressing SKN‐1::GFP under identical conditions and imaged daily during early adulthood. Both experiments employed blinded analysis using a nuclear/cytoplasmic (n/c) GFP intensity ratio: cytoplasmic (<1.2), weakly nuclear (1.2–2.0), and strongly nuclear (>2.0) \[ [33](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/#mco270543-bib-0033)\].
+
+### 5.10. Statistical Analysis
+
+Data are presented as mean ± standard deviation (SD). Group comparisons used Student's _t_‐test, while DAF‐16::GFP localization effects of 100 µM baicalein were analyzed by Fisher's exact or chi‐square tests. _C. elegans_ lifespan was assessed via log‐rank (Mantel–Cox) test using Prism 10.1.2. Significance (\* _p_ < 0.05, \*\* _p_ < 0.01) was determined at _p_ < 0.05.
+
+## Author Contributions
+
+Chen Zhao: Concept and design, acquisition of data, analysis and interpretation of data, analysis and interpretation of data, and interpretation of data. Chen Zhao and Daniel Schrapel: Development of methodology. Michael Schäfer: Technical support. All authors have read and approved the final manuscript.
+
+## Funding Information
+
+The authors have nothing to report.
+
+## Ethics Statement
+
+The authors have nothing to report.
+
+## Conflicts of Interest
+
+All authors declared no conflicts of interest.
+
+## Supporting information
+
+**Supporting Table 1**: Outcomes of three independent lifespan assays on wild‐type N2 nematode strain and statistical analysis.
+
+**Supporting Table 2**: Individual results of lifespan assays for each of three experiments.
+
+**Supporting Table 3**: Information on _C. elegans_ wild‐type N2 and mutant strains.
+
+**Supporting Figure 1**: Lacking evidence for baicalein‐induced SKN‐1 nuclear translocation (A) A _skn‐1::gfp_ reporter construct was present in the age‐synchronized hatched larvae (L1 stage) of the _C. elegans_ LD1 strain, which were cultivated on NGM agar plates either with 100 µM baicalein (BC) or 0.1% DMSO as a control (CO). On adult Days 1, 2, and 3, 20 nematodes per condition were captured by a microscope with excitation near 488 nm and emission at 500‐530 nm and typical photos for each condition of each day are displayed. (B) Total fluorescence of each condition was measured and data are mean ± SD. ( _p_ \> 0.05).
+
+**Supporting Figure 2**: Survival curves of all the lifespan experiments in supplementary table S1.
+
+**Supporting Figure 3**: Survival curves of all the lifespan experiments in supplementary table S2.
+
+**Supporting Figure 4**: Dissociation curves of eight genes including gcs‐1, dod‐3, ctl‐1, ctl‐2, gst‐4, sod‐3, act‐1 and mtl‐1 at three time points (adult Day 1, adult Day 2 and adult Day 3) of 200 worms treated with baicalein with three trials.
+
+**Supporting Figure 5**: Validation of the primers' effectiveness (sod‐3).
+
+[MCO2-6-e70543-s001.docx](https://pmc.ncbi.nlm.nih.gov/articles/instance/12710425/bin/MCO2-6-e70543-s001.docx) (1.7MB, docx)
+
+## Acknowledgments
+
+We wish to convey my deepest appreciation to Prof. Dr. rer. nat. Ingrid Herr and Yujia Lin for their helpful discussion in the initial version of the manuscript. Also, we thank the CGC, which is funded by the NIH Office of Research Infrastructure Programs (P40 OD010440), for providing _C. elegans_ strains. And we thank the software Prism 10.1.2 for its statistical analysis and efficient graphic tools.
+
+Zhao C., Schrapel D., and Schaefer M., “Baicalein Enhances Longevity and Healthspan of _C. elegans_ Through the Insulin/IGF‐1 Signaling Pathway.” MedComm
+6, no. 12 (2025): e70543. 10.1002/mco2.70543
+
+## Data Availability Statement
+
+All data that support the findings of this study are available in the manuscript and its supplement or are available from the corresponding author upon request.
+
+## References
+
+- 1.
+Li Z., Zhang Z., Ren Y., et al., “Aging and Age‐related Diseases: From Mechanisms to Therapeutic Strategies, ” Biogerontology
+22, no. 2 (2021): 165–187.
+\[ [DOI](https://doi.org/10.1007/s10522-021-09910-5)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7838467/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33502634/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Biogerontology&title=Aging%20and%20Age%E2%80%90related%20Diseases:%20From%20Mechanisms%20to%20Therapeutic%20Strategies&author=Z.%20Li&author=Z.%20Zhang&author=Y.%20Ren&volume=22&issue=2&publication_year=2021&pages=165-187&pmid=33502634&doi=10.1007/s10522-021-09910-5&)\]
+- 2.
+Ryu W., Park C. W., Kim J., Lee H., and Chung H., “The Bcl‐2/Bcl‐xL Inhibitor ABT‐263 Attenuates Retinal Degeneration by Selectively Inducing Apoptosis in Senescent Retinal Pigment Epithelial Cells, ” Molecules and Cells
+46, no. 7 (2023): 420–429.
+\[ [DOI](https://doi.org/10.14348/molcells.2023.2188)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10336274/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/37222160/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Molecules%20and%20Cells&title=The%20Bcl%E2%80%902/Bcl%E2%80%90xL%20Inhibitor%20ABT%E2%80%90263%20Attenuates%20Retinal%20Degeneration%20by%20Selectively%20Inducing%20Apoptosis%20in%20Senescent%20Retinal%20Pigment%20Epithelial%20Cells&author=W.%20Ryu&author=C.%20W.%20Park&author=J.%20Kim&author=H.%20Lee&author=H.%20Chung&volume=46&issue=7&publication_year=2023&pages=420-429&pmid=37222160&doi=10.14348/molcells.2023.2188&)\]
+- 3.
+Gladyshev V. N., Kritchevsky S. B., Clarke S. G., et al., “Molecular Damage in Aging, ” Nature Aging
+1, no. 12 (2021): 1096–1106.
+\[ [DOI](https://doi.org/10.1038/s43587-021-00150-3)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9957516/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/36846190/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature%20Aging&title=Molecular%20Damage%20in%20Aging&author=V.%20N.%20Gladyshev&author=S.%20B.%20Kritchevsky&author=S.%20G.%20Clarke&volume=1&issue=12&publication_year=2021&pages=1096-1106&pmid=36846190&doi=10.1038/s43587-021-00150-3&)\]
+- 4.
+Singh P. P., Demmitt B. A., Nath R. D., and Brunet A., “The Genetics of Aging: A Vertebrate Perspective, ” Cell
+177, no. 1 (2019): 200–220.
+\[ [DOI](https://doi.org/10.1016/j.cell.2019.02.038)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7592626/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30901541/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell&title=The%20Genetics%20of%20Aging:%20A%20Vertebrate%20Perspective&author=P.%20P.%20Singh&author=B.%20A.%20Demmitt&author=R.%20D.%20Nath&author=A.%20Brunet&volume=177&issue=1&publication_year=2019&pages=200-220&pmid=30901541&doi=10.1016/j.cell.2019.02.038&)\]
+- 5.
+Zhou L., Liu J., Bu L.‐L., Liao D.‐F., Cheng S.‐W., and Zheng X.‐L., “Curcumin Acetylsalicylate Extends the Lifespan of Caenorhabditis elegans, ” Molecules (Basel, Switzerland)
+26, no. 21 (2021): 6609.
+\[ [DOI](https://doi.org/10.3390/molecules26216609)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8586958/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/34771018/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Molecules%20(Basel,%20Switzerland)&title=Curcumin%20Acetylsalicylate%20Extends%20the%20Lifespan%20of%20Caenorhabditis%20elegans&author=L.%20Zhou&author=J.%20Liu&author=L.%E2%80%90L.%20Bu&author=D.%E2%80%90F.%20Liao&author=S.%E2%80%90W.%20Cheng&volume=26&issue=21&publication_year=2021&pages=6609&pmid=34771018&doi=10.3390/molecules26216609&)\]
+- 6.
+Li L., Liu Z., Hu H., et al., “Dendrobium Nobile Alcohol Extract Extends the Lifespan of Caenorhabditis elegans via Hsf‐1 and Daf‐16, ” Molecules (Basel, Switzerland)
+29, no. 4 (2024): 1–18. \[ [DOI](https://doi.org/10.3390/molecules29040908)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10891841/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/38398658/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Molecules%20(Basel,%20Switzerland)&title=Dendrobium%20Nobile%20Alcohol%20Extract%20Extends%20the%20Lifespan%20of%20Caenorhabditis%20elegans%20via%20Hsf%E2%80%901%20and%20Daf%E2%80%9016&author=L.%20Li&author=Z.%20Liu&author=H.%20Hu&volume=29&issue=4&publication_year=2024&pages=1-18&pmid=38398658&doi=10.3390/molecules29040908&)\]
+- 7.
+McCubrey J. A., Lertpiriyapong K., Steelman L. S., et al., “Effects of Resveratrol, Curcumin, Berberine and Other Nutraceuticals on Aging, Cancer Development, Cancer Stem Cells and microRNAs, ” Aging
+9, no. 6 (2017): 1477–1536.
+\[ [DOI](https://doi.org/10.18632/aging.101250)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5509453/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28611316/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Aging&title=Effects%20of%20Resveratrol,%20Curcumin,%20Berberine%20and%20Other%20Nutraceuticals%20on%20Aging,%20Cancer%20Development,%20Cancer%20Stem%20Cells%20and%20microRNAs&author=J.%20A.%20McCubrey&author=K.%20Lertpiriyapong&author=L.%20S.%20Steelman&volume=9&issue=6&publication_year=2017&pages=1477-1536&pmid=28611316&doi=10.18632/aging.101250&)\]
+- 8.
+Qi Z., Ji H., Le M., et al., “Sulforaphane Promotes C. elegans Longevity and Healthspan via DAF‐16/DAF‐2 Insulin/IGF‐1 Signaling, ” Aging
+13, no. 2 (2021): 1649.
+\[ [DOI](https://doi.org/10.18632/aging.202512)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7880325/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33471780/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Aging&title=Sulforaphane%20Promotes%20C.%20elegans%20Longevity%20and%20Healthspan%20via%20DAF%E2%80%9016/DAF%E2%80%902%20Insulin/IGF%E2%80%901%20Signaling&author=Z.%20Qi&author=H.%20Ji&author=M.%20Le&volume=13&issue=2&publication_year=2021&pages=1649&pmid=33471780&doi=10.18632/aging.202512&)\]
+- 9.
+Zhang J., Zeng J., Xiu X., Lan L., and Sun G., “Antioxidant Analysis and Quality Standardization of Scutellaria Baicalensis Tablets Using Multidimensional Analytical Methodologies, ” Food Chemistry
+485, no. 1 (2025): 144505.
+\[ [DOI](https://doi.org/10.1016/j.foodchem.2025.144505)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/40300419/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Food%20Chemistry&title=Antioxidant%20Analysis%20and%20Quality%20Standardization%20of%20Scutellaria%20Baicalensis%20Tablets%20Using%20Multidimensional%20Analytical%20Methodologies&author=J.%20Zhang&author=J.%20Zeng&author=X.%20Xiu&author=L.%20Lan&author=G.%20Sun&volume=485&issue=1&publication_year=2025&pages=144505&pmid=40300419&doi=10.1016/j.foodchem.2025.144505&)\]
+- 10.
+Li‐Weber M., “New Therapeutic Aspects of Flavones: The Anticancer Properties of Scutellaria and Its Main Active Constituents Wogonin, Baicalein and Baicalin, ” Cancer Treatment Reviews
+35, no. 1 (2009): 57–68.
+\[ [DOI](https://doi.org/10.1016/j.ctrv.2008.09.005)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/19004559/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cancer%20Treatment%20Reviews&title=New%20Therapeutic%20Aspects%20of%20Flavones:%20The%20Anticancer%20Properties%20of%20Scutellaria%20and%20Its%20Main%20Active%20Constituents%20Wogonin,%20Baicalein%20and%20Baicalin&author=M.%20Li%E2%80%90Weber&volume=35&issue=1&publication_year=2009&pages=57-68&pmid=19004559&doi=10.1016/j.ctrv.2008.09.005&)\]
+- 11.
+Wang X., Cao Y., Chen S., Lin J., Bian J., and Huang D., “Anti‐inflammation Activity of Flavones and Their Structure–activity Relationship, ” Journal of Agricultural and Food Chemistry
+69, no. 26 (2021): 7285–7302.
+\[ [DOI](https://doi.org/10.1021/acs.jafc.1c02015)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/34160206/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Journal%20of%20Agricultural%20and%20Food%20Chemistry&title=Anti%E2%80%90inflammation%20Activity%20of%20Flavones%20and%20Their%20Structure%E2%80%93activity%20Relationship&author=X.%20Wang&author=Y.%20Cao&author=S.%20Chen&author=J.%20Lin&author=J.%20Bian&volume=69&issue=26&publication_year=2021&pages=7285-7302&pmid=34160206&doi=10.1021/acs.jafc.1c02015&)\]
+- 12.
+Choudhury S. and Dasmahapatra A. K., “Destabilisation of Alzheimer's Amyloid‐β Protofibrils by Baicalein: Mechanistic Insights From all‐atom Molecular Dynamics Simulations, ” Molecular Diversity
+29, no. 3 (2024): 1–17.
+\[ [DOI](https://doi.org/10.1007/s11030-024-11001-9)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/39379662/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Molecular%20Diversity&title=Destabilisation%20of%20Alzheimer%27s%20Amyloid%E2%80%90%CE%B2%20Protofibrils%20by%20Baicalein:%20Mechanistic%20Insights%20From%20all%E2%80%90atom%20Molecular%20Dynamics%20Simulations&author=S.%20Choudhury&author=A.%20K.%20Dasmahapatra&volume=29&issue=3&publication_year=2024&pages=1-17&pmid=39379662&doi=10.1007/s11030-024-11001-9&)\]
+- 13.
+Dacrema M., Ullah H., Uniyal P., et al., “Baicalein as a Potential Bioactive Flavonoid: A Concise Overview, ” PHYTONutrients
+3, no. 1 (2024): 23–35. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=PHYTONutrients&title=Baicalein%20as%20a%20Potential%20Bioactive%20Flavonoid:%20A%20Concise%20Overview&author=M.%20Dacrema&author=H.%20Ullah&author=P.%20Uniyal&volume=3&issue=1&publication_year=2024&pages=23-35&)\]
+- 14.
+Lee E. K., Kim J. M., Choi J., et al., “Modulation of NF‐κB and FOXOs by baicalein Attenuates the Radiation‐induced Inflammatory Process in Mouse Kidney, ” Free Radical Research
+45, no. 5 (2011): 507–517.
+\[ [DOI](https://doi.org/10.3109/10715762.2011.555479)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21284490/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Free%20Radical%20Research&title=Modulation%20of%20NF%E2%80%90%CE%BAB%20and%20FOXOs%20by%20baicalein%20Attenuates%20the%20Radiation%E2%80%90induced%20Inflammatory%20Process%20in%20Mouse%20Kidney&author=E.%20K.%20Lee&author=J.%20M.%20Kim&author=J.%20Choi&volume=45&issue=5&publication_year=2011&pages=507-517&pmid=21284490&doi=10.3109/10715762.2011.555479&)\]
+- 15.
+Yan W., Ma X., Zhao X., and Zhang S., “Baicalein Induces Apoptosis and Autophagy of Breast Cancer Cells via Inhibiting PI3K/AKT Pathway in Vivo and Vitro, ” Drug Design, Development and Therapy
+12, no. 1 (2018): 3961–3972.
+\[ [DOI](https://doi.org/10.2147/DDDT.S181939)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6248272/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30510404/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Drug%20Design,%20Development%20and%20Therapy&title=Baicalein%20Induces%20Apoptosis%20and%20Autophagy%20of%20Breast%20Cancer%20Cells%20via%20Inhibiting%20PI3K/AKT%20Pathway%20in%20Vivo%20and%20Vitro&author=W.%20Yan&author=X.%20Ma&author=X.%20Zhao&author=S.%20Zhang&volume=12&issue=1&publication_year=2018&pages=3961-3972&pmid=30510404&doi=10.2147/DDDT.S181939&)\]
+- 16.
+Lee G. Y., Sohn J., and Lee S. V., “Combinatorial Approach Using Caenorhabditis elegans and Mammalian Systems for Aging Research, ” Molecules and Cells
+44, no. 7 (2021): 425–432.
+\[ [DOI](https://doi.org/10.14348/molcells.2021.0080)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8334350/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/34248055/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Molecules%20and%20Cells&title=Combinatorial%20Approach%20Using%20Caenorhabditis%20elegans%20and%20Mammalian%20Systems%20for%20Aging%20Research&author=G.%20Y.%20Lee&author=J.%20Sohn&author=S.%20V.%20Lee&volume=44&issue=7&publication_year=2021&pages=425-432&pmid=34248055&doi=10.14348/molcells.2021.0080&)\]
+- 17.
+Guerrero‐Rubio M. A., Hernández‐García S., García‐Carmona F., and Gandía‐Herrero F., “Flavonoids' Effects on Caenorhabditis elegans' Longevity, Fat Accumulation, Stress Resistance and Gene Modulation Involve mTOR, SKN‐1 and DAF‐16, ” Antioxidants (Basel)
+10, no. 3 (2021): 1–17. \[ [DOI](https://doi.org/10.3390/antiox10030438)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8001597/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33809299/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Antioxidants%20(Basel)&title=Flavonoids%27%20Effects%20on%20Caenorhabditis%20elegans%27%20Longevity,%20Fat%20Accumulation,%20Stress%20Resistance%20and%20Gene%20Modulation%20Involve%20mTOR,%20SKN%E2%80%901%20and%20DAF%E2%80%9016&author=M.%20A.%20Guerrero%E2%80%90Rubio&author=S.%20Hern%C3%A1ndez%E2%80%90Garc%C3%ADa&author=F.%20Garc%C3%ADa%E2%80%90Carmona&author=F.%20Gand%C3%ADa%E2%80%90Herrero&volume=10&issue=3&publication_year=2021&pages=1-17&pmid=33809299&doi=10.3390/antiox10030438&)\]
+- 18.
+Havermann S., Humpf H. U., and Wätjen W., “Baicalein Modulates Stress‐resistance and Life Span in C. elegans via SKN‐1 but Not DAF‐16, ” Fitoterapia
+113, no. 1 (2016): 123–127.
+\[ [DOI](https://doi.org/10.1016/j.fitote.2016.06.018)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27370100/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Fitoterapia&title=Baicalein%20Modulates%20Stress%E2%80%90resistance%20and%20Life%20Span%20in%20C.%20elegans%20via%20SKN%E2%80%901%20but%20Not%20DAF%E2%80%9016&author=S.%20Havermann&author=H.%20U.%20Humpf&author=W.%20W%C3%A4tjen&volume=113&issue=1&publication_year=2016&pages=123-127&pmid=27370100&doi=10.1016/j.fitote.2016.06.018&)\]
+- 19.
+Havermann S., Rohrig R., Chovolou Y., Humpf H. U., and Wätjen W., “Molecular Effects of Baicalein in Hct116 Cells and Caenorhabditis elegans: Activation of the Nrf2 Signaling Pathway and Prolongation of Lifespan, ” Journal of Agricultural and Food Chemistry
+61, no. 9 (2013): 2158–2164.
+\[ [DOI](https://doi.org/10.1021/jf304553g)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23339711/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Journal%20of%20Agricultural%20and%20Food%20Chemistry&title=Molecular%20Effects%20of%20Baicalein%20in%20Hct116%20Cells%20and%20Caenorhabditis%20elegans:%20Activation%20of%20the%20Nrf2%20Signaling%20Pathway%20and%20Prolongation%20of%20Lifespan&author=S.%20Havermann&author=R.%20Rohrig&author=Y.%20Chovolou&author=H.%20U.%20Humpf&author=W.%20W%C3%A4tjen&volume=61&issue=9&publication_year=2013&pages=2158-2164&pmid=23339711&doi=10.1021/jf304553g&)\]
+- 20.
+Kenyon C., “The First Long‐lived Mutants: Discovery of the Insulin/IGF‐1 Pathway for Ageing, ” Philosophical Transactions of the Royal Society of London Series B, Biological Sciences
+366, no. 1561 (2011): 9–16.
+\[ [DOI](https://doi.org/10.1098/rstb.2010.0276)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3001308/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21115525/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Philosophical%20Transactions%20of%20the%20Royal%20Society%20of%20London%20Series%20B,%20Biological%20Sciences&title=The%20First%20Long%E2%80%90lived%20Mutants:%20Discovery%20of%20the%20Insulin/IGF%E2%80%901%20Pathway%20for%20Ageing&author=C.%20Kenyon&volume=366&issue=1561&publication_year=2011&pages=9-16&pmid=21115525&doi=10.1098/rstb.2010.0276&)\]
+- 21.
+Park J. W., Jeong J., and Bae Y. S., “Protein Kinase CK2 Is Upregulated by Calorie Restriction and Induces Autophagy, ” Molecules and Cells
+45, no. 3 (2022): 112–121.
+\[ [DOI](https://doi.org/10.14348/molcells.2021.0183)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8926869/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/34949740/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Molecules%20and%20Cells&title=Protein%20Kinase%20CK2%20Is%20Upregulated%20by%20Calorie%20Restriction%20and%20Induces%20Autophagy&author=J.%20W.%20Park&author=J.%20Jeong&author=Y.%20S.%20Bae&volume=45&issue=3&publication_year=2022&pages=112-121&pmid=34949740&doi=10.14348/molcells.2021.0183&)\]
+- 22.
+Kwon H. C., Bae Y., and Lee S. V., “The Role of mRNA Quality Control in the Aging of Caenorhabditis elegans, ” Molecules and Cells
+46, no. 11 (2023): 664–671.
+\[ [DOI](https://doi.org/10.14348/molcells.2023.0103)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10654458/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/37968980/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Molecules%20and%20Cells&title=The%20Role%20of%20mRNA%20Quality%20Control%20in%20the%20Aging%20of%20Caenorhabditis%20elegans&author=H.%20C.%20Kwon&author=Y.%20Bae&author=S.%20V.%20Lee&volume=46&issue=11&publication_year=2023&pages=664-671&pmid=37968980&doi=10.14348/molcells.2023.0103&)\]
+- 23.
+Song S. B., Shim W., and Hwang E. S., “Lipofuscin Granule Accumulation Requires Autophagy Activation, ” Molecules and Cells
+46, no. 8 (2023): 486–495.
+\[ [DOI](https://doi.org/10.14348/molcells.2023.0019)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10440269/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/37438887/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Molecules%20and%20Cells&title=Lipofuscin%20Granule%20Accumulation%20Requires%20Autophagy%20Activation&author=S.%20B.%20Song&author=W.%20Shim&author=E.%20S.%20Hwang&volume=46&issue=8&publication_year=2023&pages=486-495&pmid=37438887&doi=10.14348/molcells.2023.0019&)\]
+- 24.
+Kenyon C. J., “The Genetics of Ageing, ” Nature
+464, no. 7288 (2010): 504–512.
+\[ [DOI](https://doi.org/10.1038/nature08980)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20336132/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=The%20Genetics%20of%20Ageing&author=C.%20J.%20Kenyon&volume=464&issue=7288&publication_year=2010&pages=504-512&pmid=20336132&doi=10.1038/nature08980&)\]
+- 25.
+Liu F., Wang H., Zhu X., et al., “Sanguinarine Promotes Healthspan and Innate Immunity Through a Conserved Mechanism of ROS‐mediated PMK‐1/SKN‐1 Activation, ” Iscience
+25, no. 3 (2022): 103874.
+\[ [DOI](https://doi.org/10.1016/j.isci.2022.103874)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8857505/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/35243236/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Iscience&title=Sanguinarine%20Promotes%20Healthspan%20and%20Innate%20Immunity%20Through%20a%20Conserved%20Mechanism%20of%20ROS%E2%80%90mediated%20PMK%E2%80%901/SKN%E2%80%901%20Activation&author=F.%20Liu&author=H.%20Wang&author=X.%20Zhu&volume=25&issue=3&publication_year=2022&pages=103874&pmid=35243236&doi=10.1016/j.isci.2022.103874&)\]
+- 26.
+Wenzel D., Palladino F., and Jedrusik‐Bode M., “Epigenetics in C. elegans: Facts and Challenges, ” Genesis
+49, no. 8 (2011): 647–661.
+\[ [DOI](https://doi.org/10.1002/dvg.20762)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21538806/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Genesis&title=Epigenetics%20in%20C.%20elegans:%20Facts%20and%20Challenges&author=D.%20Wenzel&author=F.%20Palladino&author=M.%20Jedrusik%E2%80%90Bode&volume=49&issue=8&publication_year=2011&pages=647-661&pmid=21538806&doi=10.1002/dvg.20762&)\]
+- 27.
+Cornwell A. B., Zhang Y., Thondamal M., Johnson D. W., Thakar J., and Samuelson A. V., “The C. elegans Myc‐family of Transcription Factors Coordinate a Dynamic Adaptive Response to Dietary Restriction, ” GeroScience
+46, no. 5 (2024): 4827–4854.
+\[ [DOI](https://doi.org/10.1007/s11357-024-01197-x)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC11336136/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/38878153/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=GeroScience&title=The%20C.%20elegans%20Myc%E2%80%90family%20of%20Transcription%20Factors%20Coordinate%20a%20Dynamic%20Adaptive%20Response%20to%20Dietary%20Restriction&author=A.%20B.%20Cornwell&author=Y.%20Zhang&author=M.%20Thondamal&author=D.%20W.%20Johnson&author=J.%20Thakar&volume=46&issue=5&publication_year=2024&pages=4827-4854&pmid=38878153&doi=10.1007/s11357-024-01197-x&)\]
+- 28.
+Bao K., Liu W., Song Z., et al., “Crotamiton Derivative JM03 Extends Lifespan and Improves Oxidative and Hypertonic Stress Resistance in Caenorhabditis elegans via Inhibiting OSM‐9, ” Elife
+11, no. 1 (2022): e72410.
+\[ [DOI](https://doi.org/10.7554/eLife.72410)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9071264/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/35510610/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Elife&title=Crotamiton%20Derivative%20JM03%20Extends%20Lifespan%20and%20Improves%20Oxidative%20and%20Hypertonic%20Stress%20Resistance%20in%20Caenorhabditis%20elegans%20via%20Inhibiting%20OSM%E2%80%909&author=K.%20Bao&author=W.%20Liu&author=Z.%20Song&volume=11&issue=1&publication_year=2022&pages=e72410&pmid=35510610&doi=10.7554/eLife.72410&)\]
+- 29.
+Geng L., Liu Z., Zhang W., et al., “Chemical Screen Identifies a Geroprotective Role of Quercetin in Premature Aging, ” Protein Cell
+10, no. 6 (2019): 417–435.
+\[ [DOI](https://doi.org/10.1007/s13238-018-0567-y)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6538594/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30069858/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Protein%20Cell&title=Chemical%20Screen%20Identifies%20a%20Geroprotective%20Role%20of%20Quercetin%20in%20Premature%20Aging&author=L.%20Geng&author=Z.%20Liu&author=W.%20Zhang&volume=10&issue=6&publication_year=2019&pages=417-435&pmid=30069858&doi=10.1007/s13238-018-0567-y&)\]
+- 30.
+Zhou D. D., Luo M., Huang S. Y., et al., “Effects and Mechanisms of Resveratrol on Aging and Age‐Related Diseases, ” Oxidative Medicine and Cellular Longevity
+18, no. 1 (2021): 9932218. \[ [DOI](https://doi.org/10.1155/2021/9932218)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8289612/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/34336123/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Oxidative%20Medicine%20and%20Cellular%20Longevity&title=Effects%20and%20Mechanisms%20of%20Resveratrol%20on%20Aging%20and%20Age%E2%80%90Related%20Diseases&author=D.%20D.%20Zhou&author=M.%20Luo&author=S.%20Y.%20Huang&volume=18&issue=1&publication_year=2021&pages=9932218&pmid=34336123&doi=10.1155/2021/9932218&)\]
+- 31.
+Zheng S. Q., Ding A. J., Li G. P., Wu G. S., and Luo H. R., “Drug Absorption Efficiency in Caenorhbditis elegans Delivered by Different Methods, ” PLoS ONE
+8, no. 2 (2013): e56877.
+\[ [DOI](https://doi.org/10.1371/journal.pone.0056877)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3581574/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23451103/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=PLoS%20ONE&title=Drug%20Absorption%20Efficiency%20in%20Caenorhbditis%20elegans%20Delivered%20by%20Different%20Methods&author=S.%20Q.%20Zheng&author=A.%20J.%20Ding&author=G.%20P.%20Li&author=G.%20S.%20Wu&author=H.%20R.%20Luo&volume=8&issue=2&publication_year=2013&pages=e56877&pmid=23451103&doi=10.1371/journal.pone.0056877&)\]
+- 32.
+Ogg S., Paradis S., Gottlieb S., et al., “The Fork Head Transcription Factor DAF‐16 Transduces Insulin‐Like Metabolic and Longevity Signals in C. elegans, ” Nature
+389, no. 6654 (1997): 994–999.
+\[ [DOI](https://doi.org/10.1038/40194)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/9353126/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=The%20Fork%20Head%20Transcription%20Factor%20DAF%E2%80%9016%20Transduces%20Insulin%E2%80%90Like%20Metabolic%20and%20Longevity%20Signals%20in%20C.%20elegans&author=S.%20Ogg&author=S.%20Paradis&author=S.%20Gottlieb&volume=389&issue=6654&publication_year=1997&pages=994-999&pmid=9353126&doi=10.1038/40194&)\]
+- 33.
+Li S. T., Zhao H. Q., Zhang P., et al., “DAF‐16 Stabilizes the Aging Transcriptome and Is Activated in Mid‐aged Caenorhabditis elegans to Cope With Internal Stress, ” Aging Cell
+18, no. 3 (2019): e12896.
+\[ [DOI](https://doi.org/10.1111/acel.12896)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6516157/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30773782/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Aging%20Cell&title=DAF%E2%80%9016%20Stabilizes%20the%20Aging%20Transcriptome%20and%20Is%20Activated%20in%20Mid%E2%80%90aged%20Caenorhabditis%20elegans%20to%20Cope%20With%20Internal%20Stress&author=S.%20T.%20Li&author=H.%20Q.%20Zhao&author=P.%20Zhang&volume=18&issue=3&publication_year=2019&pages=e12896&pmid=30773782&doi=10.1111/acel.12896&)\]
+- 34.
+Back P., Braeckman B. P., and Matthijssens F., “ROS in Aging Caenorhabditis elegans: Damage or Signaling?, ” Oxidative Medicine and Cellular Longevity
+5, no. 1 (2012): 608478. \[ [DOI](https://doi.org/10.1155/2012/608478)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3431105/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22966416/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Oxidative%20Medicine%20and%20Cellular%20Longevity&title=ROS%20in%20Aging%20Caenorhabditis%20elegans:%20Damage%20or%20Signaling?&author=P.%20Back&author=B.%20P.%20Braeckman&author=F.%20Matthijssens&volume=5&issue=1&publication_year=2012&pages=608478&pmid=22966416&doi=10.1155/2012/608478&)\]
+- 35.
+Sánchez‐Blanco A. and Kim S. K., “Variable Pathogenicity Determines Individual Lifespan in Caenorhabditis elegans, ” PLoS Genetics
+7, no. 4 (2011): e1002047.
+\[ [DOI](https://doi.org/10.1371/journal.pgen.1002047)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3077391/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21533182/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=PLoS%20Genetics&title=Variable%20Pathogenicity%20Determines%20Individual%20Lifespan%20in%20Caenorhabditis%20elegans&author=A.%20S%C3%A1nchez%E2%80%90Blanco&author=S.%20K.%20Kim&volume=7&issue=4&publication_year=2011&pages=e1002047&pmid=21533182&doi=10.1371/journal.pgen.1002047&)\]
+- 36.
+Suzuki T., Takahashi J., and Yamamoto M., “Molecular Basis of the KEAP1‐NRF2 Signaling Pathway, ” Molecules and Cells
+46, no. 3 (2023): 133–141.
+\[ [DOI](https://doi.org/10.14348/molcells.2023.0028)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10070164/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/36994473/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Molecules%20and%20Cells&title=Molecular%20Basis%20of%20the%20KEAP1%E2%80%90NRF2%20Signaling%20Pathway&author=T.%20Suzuki&author=J.%20Takahashi&author=M.%20Yamamoto&volume=46&issue=3&publication_year=2023&pages=133-141&pmid=36994473&doi=10.14348/molcells.2023.0028&)\]
+- 37.
+Haynes C. M. and Hekimi S., “Mitochondrial Dysfunction, Aging, and the Mitochondrial Unfolded Protein Response in Caenorhabditis elegans, ” Genetics
+222, no. 4 (2022): iyac160.
+\[ [DOI](https://doi.org/10.1093/genetics/iyac160)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9713405/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/36342845/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Genetics&title=Mitochondrial%20Dysfunction,%20Aging,%20and%20the%20Mitochondrial%20Unfolded%20Protein%20Response%20in%20Caenorhabditis%20elegans&author=C.%20M.%20Haynes&author=S.%20Hekimi&volume=222&issue=4&publication_year=2022&pages=iyac160&pmid=36342845&doi=10.1093/genetics/iyac160&)\]
+- 38.
+Mutlu A. S., Duffy J., and Wang M. C., “Lipid Metabolism and Lipid Signals in Aging and Longevity, ” Developmental Cell
+56, no. 10 (2021): 1394–1407.
+\[ [DOI](https://doi.org/10.1016/j.devcel.2021.03.034)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8173711/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33891896/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Developmental%20Cell&title=Lipid%20Metabolism%20and%20Lipid%20Signals%20in%20Aging%20and%20Longevity&author=A.%20S.%20Mutlu&author=J.%20Duffy&author=M.%20C.%20Wang&volume=56&issue=10&publication_year=2021&pages=1394-1407&pmid=33891896&doi=10.1016/j.devcel.2021.03.034&)\]
+- 39.
+Mohanty S. K. and Suchiang K., “Baicalein Mitigates Oxidative Stress and Enhances Lifespan Through Modulation of Wnt Ligands and GATA Factor: ELT‐3 in Caenorhabditis elegans, ” Life Sciences
+329, no. 1 (2023): 121946.
+\[ [DOI](https://doi.org/10.1016/j.lfs.2023.121946)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/37463652/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Life%20Sciences&title=Baicalein%20Mitigates%20Oxidative%20Stress%20and%20Enhances%20Lifespan%20Through%20Modulation%20of%20Wnt%20Ligands%20and%20GATA%20Factor:%20ELT%E2%80%903%20in%20Caenorhabditis%20elegans&author=S.%20K.%20Mohanty&author=K.%20Suchiang&volume=329&issue=1&publication_year=2023&pages=121946&pmid=37463652&doi=10.1016/j.lfs.2023.121946&)\]
+- 40.
+Dong R., Li L., Gao H., et al., “Safety, Tolerability, Pharmacokinetics, and Food Effect of baicalein Tablets in Healthy Chinese Subjects: A Single‐center, Randomized, Double‐blind, Placebo‐controlled, Single‐dose Phase I Study, ” Journal of Ethnopharmacology
+274, no. 1 (2021): 114052.
+\[ [DOI](https://doi.org/10.1016/j.jep.2021.114052)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33753147/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Journal%20of%20Ethnopharmacology&title=Safety,%20Tolerability,%20Pharmacokinetics,%20and%20Food%20Effect%20of%20baicalein%20Tablets%20in%20Healthy%20Chinese%20Subjects:%20A%20Single%E2%80%90center,%20Randomized,%20Double%E2%80%90blind,%20Placebo%E2%80%90controlled,%20Single%E2%80%90dose%20Phase%20I%20Study&author=R.%20Dong&author=L.%20Li&author=H.%20Gao&volume=274&issue=1&publication_year=2021&pages=114052&pmid=33753147&doi=10.1016/j.jep.2021.114052&)\]
+- 41.
+Ji H., Qi Z., Schrapel D., et al., “Sulforaphane Targets TRA‐1/GLI Upstream of DAF‐16/FOXO to Promote C. elegans Longevity and Healthspan, ” Frontiers in Cell and Developmental Biology
+9, no. 1 (2021): 784999.
+\[ [DOI](https://doi.org/10.3389/fcell.2021.784999)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8678450/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/34926464/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Frontiers%20in%20Cell%20and%20Developmental%20Biology&title=Sulforaphane%20Targets%20TRA%E2%80%901/GLI%20Upstream%20of%20DAF%E2%80%9016/FOXO%20to%20Promote%20C.%20elegans%20Longevity%20and%20Healthspan&author=H.%20Ji&author=Z.%20Qi&author=D.%20Schrapel&volume=9&issue=1&publication_year=2021&pages=784999&pmid=34926464&doi=10.3389/fcell.2021.784999&)\]
+- 42.
+Mergoud dit Lamarche A., Molin L., Pierson L., et al., “UNC‐120/SRF Independently Controls Muscle Aging and Lifespan in Caenorhabditis elegans, ” Aging Cell
+17, no. 2 (2018): e12713.
+\[ [DOI](https://doi.org/10.1111/acel.12713)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5847867/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29314608/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Aging%20Cell&title=UNC%E2%80%90120/SRF%20Independently%20Controls%20Muscle%20Aging%20and%20Lifespan%20in%20Caenorhabditis%20elegans&author=A.%20Mergoud%20dit%20Lamarche&author=L.%20Molin&author=L.%20Pierson&volume=17&issue=2&publication_year=2018&pages=e12713&pmid=29314608&doi=10.1111/acel.12713&)\]
+- 43.
+Raizen D., Song B. M., Trojanowski N., and You Y. J., “Methods for Measuring Pharyngeal Behaviors, ” WormBook: The Online Review of C Elegans Biology (2012): 1–13. \[ [DOI](https://doi.org/10.1895/wormbook.1.154.1)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4781406/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23255345/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=WormBook:%20The%20Online%20Review%20of%20C%20Elegans%20Biology&title=Methods%20for%20Measuring%20Pharyngeal%20Behaviors&author=D.%20Raizen&author=B.%20M.%20Song&author=N.%20Trojanowski&author=Y.%20J.%20You&publication_year=2012&pages=1-13&pmid=23255345&doi=10.1895/wormbook.1.154.1&)\]
+- 44.
+Tsuchida M., Miura T., and Aibara K., “Lipofuscin and Lipofuscin‐Like Substances, ” Chemistry and Physics of Lipids
+44, no. 2‐4 (1987): 297–325.
+\[ [DOI](https://doi.org/10.1016/0009-3084(87)90055-7)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/3311421/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Chemistry%20and%20Physics%20of%20Lipids&title=Lipofuscin%20and%20Lipofuscin%E2%80%90Like%20Substances&author=M.%20Tsuchida&author=T.%20Miura&author=K.%20Aibara&volume=44&issue=2%E2%80%904&publication_year=1987&pages=297-325&pmid=3311421&doi=10.1016/0009-3084(87)90055-7&)\]
+- 45.
+Lee G. H., Lee H. Y., Choi M. K., Choi A. H., Shin T. S., and Chae H. J., “Eucommia Ulmoides Leaf (EUL) Extract Enhances NO Production in Ox‐LDL‐treated human Endothelial Cells, ” Biomedicine & Pharmacotherapy
+97, no. 1 (2018): 1164–1172.
+\[ [DOI](https://doi.org/10.1016/j.biopha.2017.11.035)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29136955/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Biomedicine%20&%20Pharmacotherapy&title=Eucommia%20Ulmoides%20Leaf%20(EUL)%20Extract%20Enhances%20NO%20Production%20in%20Ox%E2%80%90LDL%E2%80%90treated%20human%20Endothelial%20Cells&author=G.%20H.%20Lee&author=H.%20Y.%20Lee&author=M.%20K.%20Choi&author=A.%20H.%20Choi&author=T.%20S.%20Shin&volume=97&issue=1&publication_year=2018&pages=1164-1172&pmid=29136955&doi=10.1016/j.biopha.2017.11.035&)\]
+- 46.
+Wang Y., Gai T., Zhang L., et al., “Neurotoxicity of Bisphenol A Exposure on Caenorhabditis elegans Induced by Disturbance of Neurotransmitter and Oxidative Damage, ” Ecotoxicology and Environmental Safety
+252, no. 1 (2023): 114617.
+\[ [DOI](https://doi.org/10.1016/j.ecoenv.2023.114617)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/36758510/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Ecotoxicology%20and%20Environmental%20Safety&title=Neurotoxicity%20of%20Bisphenol%20A%20Exposure%20on%20Caenorhabditis%20elegans%20Induced%20by%20Disturbance%20of%20Neurotransmitter%20and%20Oxidative%20Damage&author=Y.%20Wang&author=T.%20Gai&author=L.%20Zhang&volume=252&issue=1&publication_year=2023&pages=114617&pmid=36758510&doi=10.1016/j.ecoenv.2023.114617&)\]
+- 47.
+Tang X., Zhao Y., Liu Y., et al., “3, 6'‐disinapoyl Sucrose Attenuates Aβ(1‐42)—induced Neurotoxicity in Caenorhabditis elegans by Enhancing Antioxidation and Regulating Autophagy, ” Journal of Cellular and Molecular Medicine
+26, no. 4 (2022): 1024–1033.
+\[ [DOI](https://doi.org/10.1111/jcmm.17153)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8831957/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/35044105/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Journal%20of%20Cellular%20and%20Molecular%20Medicine&title=3,%206%27%E2%80%90disinapoyl%20Sucrose%20Attenuates%20A%CE%B2(1%E2%80%9042)%E2%80%94induced%20Neurotoxicity%20in%20Caenorhabditis%20elegans%20by%20Enhancing%20Antioxidation%20and%20Regulating%20Autophagy&author=X.%20Tang&author=Y.%20Zhao&author=Y.%20Liu&volume=26&issue=4&publication_year=2022&pages=1024-1033&pmid=35044105&doi=10.1111/jcmm.17153&)\]
+
+## Associated Data
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Supplementary Materials
+
+**Supporting Table 1**: Outcomes of three independent lifespan assays on wild‐type N2 nematode strain and statistical analysis.
+
+**Supporting Table 2**: Individual results of lifespan assays for each of three experiments.
+
+**Supporting Table 3**: Information on _C. elegans_ wild‐type N2 and mutant strains.
+
+**Supporting Figure 1**: Lacking evidence for baicalein‐induced SKN‐1 nuclear translocation (A) A _skn‐1::gfp_ reporter construct was present in the age‐synchronized hatched larvae (L1 stage) of the _C. elegans_ LD1 strain, which were cultivated on NGM agar plates either with 100 µM baicalein (BC) or 0.1% DMSO as a control (CO). On adult Days 1, 2, and 3, 20 nematodes per condition were captured by a microscope with excitation near 488 nm and emission at 500‐530 nm and typical photos for each condition of each day are displayed. (B) Total fluorescence of each condition was measured and data are mean ± SD. ( _p_ \> 0.05).
+
+**Supporting Figure 2**: Survival curves of all the lifespan experiments in supplementary table S1.
+
+**Supporting Figure 3**: Survival curves of all the lifespan experiments in supplementary table S2.
+
+**Supporting Figure 4**: Dissociation curves of eight genes including gcs‐1, dod‐3, ctl‐1, ctl‐2, gst‐4, sod‐3, act‐1 and mtl‐1 at three time points (adult Day 1, adult Day 2 and adult Day 3) of 200 worms treated with baicalein with three trials.
+
+**Supporting Figure 5**: Validation of the primers' effectiveness (sod‐3).
+
+[MCO2-6-e70543-s001.docx](https://pmc.ncbi.nlm.nih.gov/articles/instance/12710425/bin/MCO2-6-e70543-s001.docx) (1.7MB, docx)
+
+### Data Availability Statement
+
+All data that support the findings of this study are available in the manuscript and its supplement or are available from the corresponding author upon request.
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+## ACTIONS
+
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)View on publisher site](https://doi.org/10.1002/mco2.70543)
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)PDF (2.5 MB)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12710425/pdf/MCO2-6-e70543.pdf)
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Collections
+- ![Permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+## RESOURCES
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+Back to Top![back to top icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg)

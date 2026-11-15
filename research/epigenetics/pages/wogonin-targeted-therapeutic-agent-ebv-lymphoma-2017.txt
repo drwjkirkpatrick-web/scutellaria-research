@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/28222771/
+TITLE: Wogonin as a targeted therapeutic agent for EBV (+) lymphoma cells involved in LMP1/NF-κB/miR-155/PU.1 pathway.
+AUTHORS: Xue Wu; Ping Liu; Haijun Zhang; Yuan Li; Jumah Masoud Mohammad Salmani; Fei Wang; Ke Yang; Rong Fu
+JOURNAL: BMC cancer
+YEAR: 2017
+VOL_PAGES: 17; 147
+DOI: 10.1186/s12885-017-3145-4
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Wogonin is an encouraging choice for clinical use owing to its potent anti-tumor and anti-inflammatory effects with the high safety profile. However, wogonin for targeted therapy of lymphoma was not well addressed. In this study, we focused on its anticancer effect alongside with the underlying mechanisms for targeted therapy in EBV-positive lymphoma. This will facilitate its introduction to clinical use, which is planned in the near future. Cell proliferation was studied by CCK8. Flow cytometry was used to analyze the apoptosis and the cycle arrest of cells. Further, we also used immunofluorescent staining to detect the morphologic changes of the apoptotic cells. The expression of LMP1/miR-155/p65/pp65/PU.1 was evaluated by quantitative real-time PCR (qRT-PCR) and western blot, while that of NF-κB was analyzed by EMSA. At last, immunohistochemical staining was applied to assess the expression of target proteins and relevant molecules. In vitro, wogonin induced the apoptosis of Raji cells by downregulating the expression of NF-κB through LMP1/miR-155/NF-κB/PU.1 pathway, which was in a dose and time-dependent manner. In vivo, wogonin could suppress tumor growth, associated with the downregulation of ki67, p65 and upregulation of PU.1. Wogonin could suppress tumor growth and induce cell apoptosis by inhibiting the expression of NF-κB. Taken these findings, we concluded that wogonin could be a potential targeted therapeutic agent for EBV-positive lymphoma with the expression of LMP1 through the pathway of LMP1/NF-κB/miR-155/PU.1.

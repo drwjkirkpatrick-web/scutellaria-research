@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/22855699/
+PMID: 22855699
+Title: Herbal hepatoxicity from Chinese skullcap: A case report.
+Authors: Leslie Yang; Andrew Aronsohn; John Hart; Donald Jensen
+Journal: World journal of hepatology (2012)
+DOI: 10.4254/wjh.v4.i7.231
+Fetched: 2026-11-14
+
+ABSTRACT
+The use of herbal supplements has increased considerably over the last decade. We report a case of an elderly woman who began taking Move Free Advanced for arthritis, which in addition to glucosamine and chondroitin, contained two herbal ingredients, Chinese skullcap and Black Catechu. Our patient presented with significant cholestasis and hepatitis which significantly improved after discontinuation of the supplement. Since neither the patient nor the treating physician recognized this supplement as a potential hepatotoxin, she resumed taking the supplement and again suffered from considerable hepatotoxicity. Liver biopsy at that time was consistent with acute drug induced liver injury. She, once again, recovered after discontinuation of the supplement. Review of the literature confirms that Chinese skullcap has been implicated as a possible hepatotoxic agent which was demonstrated in this case.

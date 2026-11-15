@@ -1,0 +1,8 @@
+Source: https://pubmed.ncbi.nlm.nih.gov/39299807/
+Fetched: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract)
+Title: Baicalein Inhibits Cerebral Ischemia-Reperfusion Injury through SIRT6-Mediated FOXA2 Deacetylation to Promote SLC7A11 Expression.
+Authors: Fang C; Liu X; Zhang F; Song T
+Journal: eNeuro 2024;11(10):
+DOI: 10.1523/ENEURO.0174-24.2024
+PMID: 39299807
+Abstract: Ischemic stroke (IS) poses a serious threat to patient survival. The inhibition of ferroptosis can effectively alleviate ischemia-reperfusion (I/R) injury, suggesting potential targets in the ferroptosis pathway for the treatment of IS. In this study, MCAO/R mice and OGD/R-induced HT22 cell were constructed. It was found that baicalein decreased ROS, MDA, and Fe2+ levels, upregulated GSH levels, and enhanced the expression of ferroptosis-related proteins (GPX4 and SLC7A11), downregulated the expression of proapoptotic proteins (Bax, cytochrome c, and cleaved caspase-3), and upregulated the expression of an antiapoptotic protein (Bcl-2), ameliorating cerebral I/R injury. In animal and cell models, Sirtuin6 (SIRT6) is downregulated, and Forkhead boxA2 (FOXA2) expression and acetylation levels are abnormally upregulated. SIRT6 inhibited FOXA2 expression and acetylation. Baicalein promoted FOXA2 deacetylation by upregulating SIRT6 expression. FOXA2 transcriptionally inhibits SLC7A11 expression. In conclusion, baicalein inhibited apoptosis and partially suppressed the role of ferroptosis to alleviate cerebral I/R injury via SIRT6-mediated FOXA2 deacetylation to promote SLC7A11 expression.

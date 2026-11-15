@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/11513834/
+TITLE: Baicalein induces a dual growth arrest by modulating multiple cell cycle regulatory molecules.
+AUTHORS: S L Hsu; Y C Hsieh; W C Hsieh; C J Chou
+JOURNAL: European journal of pharmacology
+YEAR: 2001
+VOL_PAGES: 425; 165-71
+DOI: 10.1016/s0014-2999(01)01144-x
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Baicalein, a flavonoid present in the root of Scutellaria baicalensis Georgi, has been reported to inhibit cell proliferation in several types of cells. In this study, the effect of baicalein on cell growth and the mechanism of growth modulation were examined in primary cultured rat heart endothelial cells. Here, we report that treatment with 100-microM baicalein caused an almost complete inhibition of cell proliferation after 5 days of incubation. Baicalein mediated G1 and G2 growth arrest accompanied by the down-regulation of cyclin D2, cyclin A, cyclin-dependent kinase 1 (Cdk1) and cyclin-dependent kinase 2 (Cdk2), and up-regulation of p15(Ink4B), p21(CIP1/Waf1), p53 and cyclin E. Evaluation of the kinase activity of cyclin-Cdk complexes showed that baicalein decreased Cdk1, Cdk2, cyclin D2 and cyclin A expression in endothelial cells, leading to markedly reduced Cdk/cyclin-associated kinase activities. These results suggest that baicalein inhibits the proliferation of rat heart endothelial cells via G1 and G2 arrest in association with the down-regulation of the expression and function of Cdk1, Cdk2, cyclin D2 and cyclin A proteins, and up-regulation of cyclin E, p15(Ink4B), p53 and p21(CIP1/Waf1).

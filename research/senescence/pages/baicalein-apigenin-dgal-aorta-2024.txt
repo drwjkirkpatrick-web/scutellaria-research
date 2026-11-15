@@ -1,0 +1,8 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/38795756/
+Accessed: 2026-11-14
+Title: Apigenin and baicalein ameliorate thoracic aortic structural deterioration and cognitive deficit via inhibiting AGEs/RAGE/NF-κB pathway in D-galactose-induced aging rats.
+Journal: European journal of pharmacology
+Year: 2024
+---
+
+Apigenin and baicalein are structurally related flavonoids that have been reported to have multiple pharmacological activities. The aim of this study was to investigate the protective effects and potential mechanisms of apigenin and baicalein in D-galactose-induced aging rats. First, apigenin and baicalein showed remarkable antioxidant activity and anti-glycation activity in vitro. Secondly, the protective effects of apigenin and baicalein on aging rats were investigated. We found that apigenin and baicalein supplementation significantly ameliorated aging-related changes such as declines in the spatial learning and memory and histopathological damage of the hippocampus and thoracic aorta. In addition, our data showed that apigenin and baicalein alleviated oxidative stress as illustrated by decreasing MDA level, increasing SOD activity and GSH level. Further data showed that they significantly reduced the accumulation of advanced glycation end products (AGEs), inhibited the expression of RAGE, down-regulated phosphorylated nuclear factor (p-NF-κB (p65)). Our results suggested that the protective effects of apigenin and baicalein on aging rats were at least partially related to the inhibition of AGEs/RAGE/NF-κB pathway and the improvement of oxidative damage. Overall, apigenin and baicalein showed almost equal anti-aging efficacy. Our results provided an experimental basis for the application of apigenin and baicalein to delay the aging process.

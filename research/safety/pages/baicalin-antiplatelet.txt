@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/24849036/
+PMID: 24849036
+Title: Antiplatelet, anticoagulant, and profibrinolytic activities of baicalin.
+Authors: Wonhwa Lee; Sae-Kwang Ku; Jong-Sup Bae
+Journal: Archives of pharmacal research (2015)
+DOI: 10.1007/s12272-014-0410-9
+Fetched: 2026-11-14
+
+ABSTRACT
+Baicalin is a flavonoid compound purified from the medicinal plant Scutellaria baicalensis Georgi and has been reported to possess anti-inflammatory and anti-viral activities. However, antiplatelet, anticoagulant, and profibrinolytic properties of baicalin have not been studied. In this study, the anticoagulant and antiplatelet activities of baicalin were measured by monitoring activated partial thromboplastin-time (aPTT), prothrombin time (PT), the activities of cell-based thrombin and activated factor X (FXa), platelet aggregation and thrombus formation. The effects of baicalin on the expressions of plasminogen activator inhibitor type 1 (PAI-1) and tissue-type plasminogen activator (t-PA) were also tested in tumor necrosis factor-α (TNF-α) activated human umbilical vein endothelial cells (HUVECs). Our data showed that baicalin inhibited thrombin-catalyzed fibrin polymerization and platelet functions, prolonged aPTT and PT significantly and inhibited the activities and production of thrombin and FXa. Baicalin also prolonged in vivo bleeding time and inhibited TNF-α induced PAI-1 production. Furthermore, PAI-1/t-PA ratio was significantly decreased by baicalin. Collectively, these results indicate that baicalin possesses antithrombotic activities and suggest that the current study could provide bases for the development of new anticoagulant agents.

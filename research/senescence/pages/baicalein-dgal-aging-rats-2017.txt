@@ -1,0 +1,8 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/28548620/
+Accessed: 2026-11-14
+Title: Baicalein Exerts Beneficial Effects in d-Galactose-Induced Aging Rats Through Attenuation of Inflammation and Metabolic Dysfunction.
+Journal: Rejuvenation research
+Year: 2017
+---
+
+Baicalein is a flavonoid isolated from the roots of Scutellaria baicalensis Georgi. This study aimed to ascertain the effects and potential underlying mechanisms of baicalein in d-galactose (d-gal)-induced aging rat model by integration of behavior examination, biochemical detection, and 1H nuclear magnetic resonance (NMR)-based metabolomic approach. Our findings suggest that baicalein significantly attenuated memory decline in d-gal-induced aging model, as manifested by increasing recognition index in novel object recognition test, shortening latency time, and increasing platform crossings in Morris water maze test. Baicalein significantly inhibited the releases of inflammatory mediators such as nitric oxide, interleukin-6, interleukin-1 beta, and tumor necrosis factor-α in d-gal-induced aging model. Metabolomic study revealed that 10 endogenous metabolites in cerebral cortex were considered as potential biomarkers of baicalein for its protective effect. Further metabolic pathway analysis showed that the metabolic alterations were associated with alanine, aspartate and glutamate metabolism, glycine, serine and threonine metabolism, inositol phosphate metabolism, and energy metabolism. These data indicate that baicalein improves learning and memory dysfunction in d-gal-induced aging rats. This might be achieved through attenuation of inflammation and metabolic dysfunction.

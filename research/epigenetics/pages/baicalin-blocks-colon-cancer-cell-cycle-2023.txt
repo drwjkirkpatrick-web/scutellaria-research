@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/36599649/
+TITLE: Baicalin Blocks Colon Cancer Cell Cycle and Inhibits Cell Proliferation through miR-139-3p Upregulation by Targeting CDK16.
+AUTHORS: Rong Cai; Yan-Ping Zhou; Yun-Hai Li; Jin-Jin Zhang; Zuo-Wei Hu
+JOURNAL: The American journal of Chinese medicine
+YEAR: 2023
+VOL_PAGES: 51; 189-203
+DOI: 10.1142/S0192415X23500118
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Baicalin was reported to facilitate the apoptosis of colon cells and inhibit tumor growth in vivo. This study aimed to explore the specific mechanism and function of baicalin on colon cells. Relative mRNA levels were tested via qPCR. Cell proliferation, viability, and cell cycle phases were evaluated using MTT, colony formation, and flow cytometry assays, respectively. The interaction between miR-139-3p and cyclin-dependent kinase 16 (CDK16) was measured via a dual-luciferase reporter assay. Immunohistochemistry was used to count the positivity cells in tumor tissues collected from treated xenografted tumor mice. The results showed that baicalin increased miR-139-3p expression while also decreasing CDK16 levels, blocking the cell cycle, and inhibiting cell proliferation in colon cancer cells. miR-139-3p silencing or CDK16 overexpression abolished the inhibitory effects of baicalin on colon cancer proliferation. miR-139-3p directly targeted and interacted with CDK16 at the cellular level. The protective functions of miR-139-3p knockdown on tumor cells were abrogated by silencing CDK16. The combination of baicalin treatment and CDK16 knockdown further inhibited tumor growth of xenografted tumor mice compared with the groups injected with only sh-CDK16 or baicalin in vivo. In conclusion, baicalin inhibited colon cancer growth by modulating the miR-139-3p/CDK16 axis.

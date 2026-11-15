@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/14686800/
+PMID: 14686800
+Title: Hepatoprotective effect of baicalin, a major flavone from Scutellaria radix, on acetaminophen-induced liver injury in mice.
+Authors: S I Jang; H J Kim; K M Hwang; S J Jekal; H O Pae; B M Choi; Y G Yun; T O Kwon
+Journal: Immunopharmacology and immunotoxicology (2003)
+DOI: 10.1081/iph-120026443
+Fetched: 2026-11-14
+
+ABSTRACT
+The protective effects of baicalin (BA), a major flavone from Scutellaria radix, on acetaminophen (AP)-induced hepatotoxicity and the possible mechanism(s) of its protective action were investigated in mice. Treatment with BA (300 mg/kg, p.o.) 0.5 h after AP administration significantly prevented an increase in plasma alanine aminotransferase and aspartate aminotransferase activities and AP-induced hepatic necrosis, and also reduced AP-induced mortality from 43% to 0%. In addition, oral treatment with BA significantly prevented AP-induced depletion of glutathione (GSH) contents. However, BA treatment, by itself, did not affect hepatic GSH contents. The effect of BA on the cytochrome P450 2E1 (CYP2E1), the major isozyme involved in AP bioactivation, was investigated. Oral treatment of mice with BA resulted in a significant decrease in AP-induced CYP2E1 activity together with its inhibition of AP-induced CYP2EI expression. These results show that the hepatoprotective effects of BA against AP overdose may be due to its ability to block the bioactivation of AP by inhibiting CYP2E1 expression.

@@ -1,0 +1,11 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/34354672/
+Accessed: 2026-11-14
+Title: Inhibition of Lipoxygenases Showed No Benefit for the Musculoskeletal System in Estrogen Deficient Rats.
+Journal: Frontiers in endocrinology
+Year: 2021
+---
+
+BACKGROUND: In previous studies, we reported the beneficial impact of two lipoxygenase-inhibitors, Baicalein and Zileuton, on osteoporotic bone in a postmenopausal rat model. Whereas subcutaneous Baicalein predominantly improved cortical bone, Zileuton enhanced vertebral and femoral trabecular bone. In this study, we aimed to reveal whether the oral administration of Baicalein caused similar effects on bone and whether a combined administration of Baicalein and Zileuton could act synergistically to ameliorate the formerly reported effects in the musculoskeletal system.
+METHODS: We treated ovariectomized (OVX) female Sprague-Dawley rats either with Baicalein (10mg/kg BW), Zileuton (10mg/kg BW) or a combination of both (each 10mg/kg BW) for 13 weeks and compared with untreated OVX and NON-OVX groups (n=12-16 rats per group). Lumbar vertebral bodies and femora were analyzed. Tibiae were osteotomized, plate-stabilized (at week 8 after OVX) and likewise analyzed by biomechanical, histological, micro-computed tomographical and ashing tests. The skeletal muscle structure was analyzed.
+RESULTS: Oral administration of Baicalein did not confirm the reported favorable cortical effects in neither vertebra nor femur. Zileuton showed a beneficial effect on trabecular vertebra, while the femur was negatively affected. Callus formation was enhanced by all treatments; however, its density and biomechanical properties were unaltered. Lipoxygenase inhibition did not show a beneficial effect on skeletal muscle. The combination therapy did not ameliorate OVX-induced osteoporosis but induced even more bone loss.
+CONCLUSIONS: The preventive anti-osteoporotic treatments with two lipoxygenase inhibitors applied either alone or in combination showed no benefit for the musculoskeletal system in estrogen deficient rats.

@@ -1,0 +1,203 @@
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10941739/
+Fetched: 2026-11-14
+
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC10941739/#main-content)
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** (
+Lock
+Locked padlock icon
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+[Home](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg)![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+Search PMC Full-Text Archive
+
+Search in PMC![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg)
+
+- [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+- [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+- ![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg)
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)](https://doi.org/10.4254/wjh.v16.i2.120) View on publisher site
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10941739/pdf/WJH-16-120.pdf) Download PDF
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Add to Collections
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg)
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+
+Learn more:
+[PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/)
+\|
+[PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![World Journal of Hepatology logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-worldjhepatol.gif)
+
+editorial
+
+World J Hepatol
+
+. 2024 Feb 27;16(2):120–122. doi: [10.4254/wjh.v16.i2.120](https://doi.org/10.4254/wjh.v16.i2.120)
+
+# Insights into skullcap herb-induced liver injury
+
+[Jonathan Soldera](https://pubmed.ncbi.nlm.nih.gov/?term=%22Soldera%20J%22[Author])
+
+### Jonathan Soldera
+
+1Post Graduate Program at Acute Medicine and Gastroenterology, University of South Wales, Cardiff CF37 1DL, United Kingdom. jonathansoldera@gmail.com
+
+Find articles by [Jonathan Soldera](https://pubmed.ncbi.nlm.nih.gov/?term=%22Soldera%20J%22[Author])
+
+1
+
+- Author information
+- Article notes
+- Copyright and License information
+
+1Post Graduate Program at Acute Medicine and Gastroenterology, University of South Wales, Cardiff CF37 1DL, United Kingdom. jonathansoldera@gmail.com
+
+✉
+
+Author contributions: Soldera J contributed to writing and reviewing the final draft of the manuscript.
+
+Corresponding author: Jonathan Soldera, MD, PhD, Instructor, Post Graduate Program at Acute Medicine and Gastroenterology, University of South Wales, Llantwit Rd, Pontypridd, Cardiff CF37 1DL, United Kingdom. jonathansoldera@gmail.com
+
+Received 2023 Nov 26; Revised 2024 Jan 14; Accepted 2024 Jan 29; Issue date 2024 Feb 27.
+
+©The Author(s) 2024. Published by Baishideng Publishing Group Inc. All rights reserved.
+
+This article is an open-access article that was selected by an in-house editor and fully peer-reviewed by external reviewers. It is distributed in accordance with the Creative Commons Attribution NonCommercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial.
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC10941739  PMID: [38495279](https://pubmed.ncbi.nlm.nih.gov/38495279/)
+
+## Abstract
+
+This editorial addresses the growing concern of herb-induced liver injury (HILI), focusing on a unique case of Skullcap-induced HILI report. This editorial underscore the significant mortality rate linked to Skullcap-induced HILI, emphasizing the importance of vigilant monitoring and intervention. As herbal supplement usage rises, collaboration among clinicians and researchers is crucial to comprehend and address the complexities of HILI, particularly those involving Skullcap.
+
+**Keywords:** Herb-induced liver injury, Drug induced liver injury, Dietary supplements, Herbal hepatotoxicity, Liver transplantation
+
+* * *
+
+**Core Tip:** This study presents a comprehensive analysis of herb-induced liver injury (HILI), focusing on a unique case report of drug-induced autoimmune hepatitis due to Skullcap supplements and a systematic review/meta-analysis of 936 HILI cases associated with 79 herbs. Notably, Skullcap-induced HILI demonstrated hepatocellular patterns and mild-to-moderate severity, emphasizing the importance of recognizing potential adverse events associated with herbal dietary supplements. The study's findings underscore the need for increased awareness and vigilance in monitoring HILI, particularly in the context of rising herbal supplement usage.
+
+## INTRODUCTION
+
+The growing popularity of traditional herbal dietary supplements (HDS) has prompted discussions regarding their potential association with liver injury, currently named Herb Induced Liver Injury (HILI). A case study reported by Thakral _et al_\[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC10941739/#B1)\] published in the _World Journal of Hepatology_ highlights a distinctive occurrence of autoimmune hepatitis induced by Skullcap supplements. This specific case underscores the significance of identifying potential adverse events associated with the utilization of HDS, particularly considering the rising prevalence of their use among the general population.
+
+The reported case involves a middle-aged woman with no prior health issues, who developed sudden jaundice after four months of consuming Skullcap mushroom supplements. The case report indicates that despite testing negative for multiple chronic liver diseases, the first liver biopsy detected severe drug-induced liver injury in resolution. The patient's condition worsened, leading to a subsequent diagnosis of autoimmune hepatitis, with a positive response to discontinuation of the supplement.
+
+In parallel, a comprehensive systematic review and meta-analysis by Ballotin _et al_\[ [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC10941739/#B2)\] aimed to identify herbal products associated with HILI. The study, published in the World Journal of Clinical Cases, analyzed 936 cases reported in 446 references, identifying 79 types of herbs related to HILI. Skullcap-induced HILI typically manifested in individuals using the dried leaves and stems of Scutellaria spp. for various purposes, including the treatment of anxiety, stress, and insomnia. The onset of symptoms and jaundice occurred within one week to three months, with a pattern of typically hepatocellular liver injury, with a few cases of mixed hepatocellular and cholestatic liver injury. The dose that was ingested varied greatly Skullcap, ranging from 400 mg to 16 g daily. Skullcap-induced HLI was more prevalent among females and the mean age was 54 years-old. Common symptoms encompass nausea and choluria, with affected patients frequently reporting osteoarthritis and hypertension. Generally, HILI induced by Skullcap exhibits mild-to-moderate severity, resolving promptly upon discontinuation of the herb. This cessation typically results in the normalization of liver function tests within a period of 12 wk. However, in the systematic review by Ballotin _et al_\[ [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC10941739/#B2)\] reveals a considerable mortality rate of 14.2% was described, and in some severe cases, liver transplantation was necessary, potentially influenced by publication bias favoring the reporting of more severe outcomes.
+
+Both studies underscore the generally positive prognosis of HILI following discontinuation of the implicated herbal product. However, they also elucidate the potential for severity, emphasizing the need for vigilant monitoring and intervention. This severity is reflected in a significant mortality rate associated with Skullcap-induced HILI.
+
+## CONCLUSION
+
+In summary, there is an urgent need for increased awareness concerning the potential hepatotoxic effects of herbal supplements, with a specific focus on Skullcap. These cases emphasize the critical importance of recognizing and comprehending the patterns and outcomes linked to Skullcap-induced liver injury and other forms of HILI. As the usage of herbal supplements continues to escalate, fostering collaboration between clinicians and researchers becomes imperative to unravel the intricate nature of herb-induced liver injuries and guarantee the safe utilization of these products.
+
+## Footnotes
+
+Conflict-of-interest statement: All the authors report no relevant conflicts of interest for this article.
+
+Provenance and peer review: Invited article; Externally peer reviewed.
+
+Peer-review model: Single blind
+
+Corresponding Author's Membership in Professional Societies: Federação Brasileira De Gastroenterologia; Sociedade Brasileira de Hepatologia.
+
+Peer-review started: November 26, 2023
+
+First decision: January 9, 2024
+
+Article in press: January 29, 2024
+
+Specialty type: Gastroenterology and hepatology
+
+Country/Territory of origin: United Kingdom
+
+Peer-review report’s scientific quality classification
+
+Grade A (Excellent): 0
+
+Grade B (Very good): B
+
+Grade C (Good): 0
+
+Grade D (Fair): 0
+
+Grade E (Poor): 0
+
+P-Reviewer: Zhou S, China S-Editor: Li L L-Editor: A P-Editor: Cai YX
+
+## References
+
+- 1.Thakral N, Konjeti VR, Salama FW. Drug induced autoimmune hepatitis: An unfortunate case of herbal toxicity from Skullcap supplement: A case report. World J Hepatol. 2023;15:1333–1337. doi: 10.4254/wjh.v15.i12.1333. \[ [DOI](https://doi.org/10.4254/wjh.v15.i12.1333)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10784811/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/38223420/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=World%20J%20Hepatol&title=Drug%20induced%20autoimmune%20hepatitis:%20An%20unfortunate%20case%20of%20herbal%20toxicity%20from%20Skullcap%20supplement:%20A%20case%20report&author=N%20Thakral&author=VR%20Konjeti&author=FW%20Salama&volume=15&publication_year=2023&pages=1333-1337&pmid=38223420&doi=10.4254/wjh.v15.i12.1333&)\]
+- 2.Ballotin VR, Bigarella LG, Brandão ABM, Balbinot RA, Balbinot SS, Soldera J. Herb-induced liver injury: Systematic review and meta-analysis. World J Clin Cases. 2021;9:5490–5513. doi: 10.12998/wjcc.v9.i20.5490. \[ [DOI](https://doi.org/10.12998/wjcc.v9.i20.5490)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8281430/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/34307603/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=World%20J%20Clin%20Cases&title=Herb-induced%20liver%20injury:%20Systematic%20review%20and%20meta-analysis&author=VR%20Ballotin&author=LG%20Bigarella&author=ABM%20Brand%C3%A3o&author=RA%20Balbinot&author=SS%20Balbinot&volume=9&publication_year=2021&pages=5490-5513&pmid=34307603&doi=10.12998/wjcc.v9.i20.5490&)\]
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+## ACTIONS
+
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)View on publisher site](https://doi.org/10.4254/wjh.v16.i2.120)
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)PDF (313.6 KB)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10941739/pdf/WJH-16-120.pdf)
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Collections
+- ![Permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+## RESOURCES
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+Back to Top![back to top icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg)

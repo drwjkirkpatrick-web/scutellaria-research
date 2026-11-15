@@ -1,0 +1,12 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/41270385/
+Accessed: 2026-11-14
+Title: Baicalein facilitates hepatic stellate cell ferroptosis via the DNMT1/SCARA5/GPX4 axis.
+Journal: Phytomedicine : international journal of phytotherapy and phytopharmacology
+Year: 2025
+---
+
+BACKGROUND: Activated hepatic stellate cells (HSCs), the main collagen producers during liver fibrosis, can be controlled by ferroptosis. Baicalein, a traditional medicinal compound obtained from Scutellaria baicalensis roots, exhibits anti-inflammatory, antifibrotic, and hepatoprotective properties. Recently, both SCARA5 and DNMT1 have been reported to be involved in regulating ferroptosis in various cancers.
+PURPOSE: Whether baicalein can inhibit HSC activation through ferroptosis remains unclear.
+METHODS: Masson staining, western blotting, and polymerase chain reaction (PCR) were used to assess the effects of baicalein on HSC activation. Ferroptosis indicators were detected. In addition, co-immunoprecipitation (Co-IP) and molecular docking were used to examine the correlation between SCARA5 and GPX4.
+RESULTS: Baicalein inhibited HSC activation and alleviated liver fibrosis. It reduced GPX4 expression to induce HSC ferroptosis, as evidenced by an increase in ferrous ion (Fe2+), malondialdehyde (MDA), and reactive oxygen species (ROS) levels and a decrease in glutathione (GSH) levels. In addition, baicalein significantly promoted SCARA5 expression. Co-IP and molecular docking collectively validated the negative effects of SCARA5 on GPX4 expression. The SCARA5 promoter harbored a CpG island, and its methylation was facilitated by DNMT1, which could be targeted by baicalein. Knockdown of SCARA5 inhibited baicalein-induced ferroptosis and inactivation of HSCs, whereas HSC-specific knock-in of SCARA5 alleviated liver fibrosis in mice.
+CONCLUSION: Baicalein promotes HSC ferroptosis and inactivation by targeting the DNMT1/SCARA5/GPX4 axis, thereby alleviating liver fibrosis.

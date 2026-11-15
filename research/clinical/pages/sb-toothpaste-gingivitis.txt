@@ -1,0 +1,12 @@
+PMID: 20936314
+Title: Clinical and antibacterial effect of an anti-inflammatory toothpaste formulation with Scutellaria baicalensis extract on experimental gingivitis.
+Authors: Arweiler, Nicole Birgit, Pergola, Gregory, Kuenz, Jana, Hellwig, Elmar, Sculean, Anton, Auschill, Thorsten Mathias
+Journal: Clinical oral investigations
+ISOAbbrev: Clin Oral Investig
+Year: 2011
+Volume: 15  Issue: 6  Pages: 909-13
+DOI: 10.1007/s00784-010-0471-1
+URL: https://pubmed.ncbi.nlm.nih.gov/20936314/
+Fetched: 2026-11-14 via NCBI E-utilities (efetch db=pubmed)
+--- Abstract ---
+It was the aim of the study to evaluate the clinical and antibacterial effect of a dentifrice containing an anti-inflammatory plant extract (SB) versus a placebo (PLA) using an experimental gingivitis model. Forty subjects (20 per group) discontinued all oral hygiene measures for four teeth for a period of 21 days using a shield (to generate a possible gingivitis) while they could brush the other teeth normally. After brushing, the shield was removed and teeth were treated with the randomly assigned toothpaste slurry for 1 min. Löe and Silness gingival index (GI), Silness and Löe plaque index (PI), and biofilm vitality (VF%) were assessed at days 0, 14, and 21, respectively. Subjects of the PLA group developed a GI of 0.82 ± 0.342 (day 14) and 1.585 ± 0.218 (day 21), while the data of the SB group were significantly reduced (0.355 ± 0.243 and 0.934 ± 0.342, p < 0.001). While PI was significantly reduced at all follow-up appointments, reductions in VF reached the level of significance only at day 21. The results suggest that the new toothpaste formulation was able to significantly reduce the extent of gingivitis, plaque development, and vital flora.

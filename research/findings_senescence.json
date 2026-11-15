@@ -1,0 +1,782 @@
+{
+ "sources": [
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19555810/",
+   "title": "Flavocoxid is as effective as naproxen for managing the signs and symptoms of osteoarthritis of the knee in humans: a short-term randomized, double-blind pilot study",
+   "authors": "Levy RM; Saikovsky R; Shmidt E; Khokhlov A; Burnett BP",
+   "year": "2009",
+   "journal_or_publisher": "Nutrition research (New York, N.Y.)",
+   "vol_pages": "29(5): 298-304",
+   "doi": "10.1016/j.nutres.2009.04.003",
+   "pmid": "19555810",
+   "page_file": "research/senescence/pages/flavocoxid-naproxen-oa-rct-2009.txt",
+   "quotes": [
+    "flavocoxid was as effective as naproxen in controlling the signs and symptoms of OA of the knee",
+    "103 subjects were randomly assigned to receive either flavocoxid [500 mg twice daily (BID)] or naproxen (500 mg BID) in a 1-month onset of action trial."
+   ],
+   "notes": "Human RCT: 1-month double-blind randomized pilot study, 103 subjects with moderate knee OA; flavocoxid (proprietary baicalin+catechin medical food) 500 mg BID vs naproxen 500 mg BID; no statistically detectable differences on WOMAC/VAS outcomes; combination product, not isolated Scutellaria constituent.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19577445/",
+   "title": "Wogonin, an active compound in Scutellaria baicalensis, induces apoptosis and reduces telomerase activity in the HL-60 leukemia cells",
+   "authors": "Huang ST; Wang CY; Yang RC; Chu CJ; Wu HT; Pang JH",
+   "year": "2010",
+   "journal_or_publisher": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+   "vol_pages": "17(1): 47-54",
+   "doi": "10.1016/j.phymed.2009.06.005",
+   "pmid": "19577445",
+   "page_file": "research/senescence/pages/wogonin-telomerase-hl60-2010.txt",
+   "quotes": [
+    "treatment of HL-60 cells with wogonin or S. baicalensis led to the inhibition of human telomerase reverse transcriptase (hTERT), human telomerase-associated protein 1 (hTP1) and c-myc messenger ribonucleic acid (m-RNA) expression.",
+    "Two of the compounds, baicalin and wogonoside, are converted to baicalein and wogonin, respectively, after treatment with beta-glucuronidase."
+   ],
+   "notes": "HL-60 human leukemia cells; wogonin and aqueous S. baicalensis extract inhibited hTERT, hTP1 and c-myc mRNA and down-regulated telomerase activity; baicalin and wogonoside convert to baicalein and wogonin after beta-glucuronidase treatment; oncology context only.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23339711/",
+   "title": "Molecular effects of baicalein in Hct116 cells and Caenorhabditis elegans : activation of the Nrf2 signaling pathway and prolongation of lifespan",
+   "authors": "Havermann S; Rohrig R; Chovolou Y; Humpf HU; Wätjen W",
+   "year": "2013",
+   "journal_or_publisher": "Journal of agricultural and food chemistry",
+   "vol_pages": "61(9): 2158-64",
+   "doi": "10.1021/jf304553g",
+   "pmid": "23339711",
+   "page_file": "research/senescence/pages/baicalein-elegans-nrf2-lifespan-2013.txt",
+   "quotes": [
+    "Lifespan analysis revealed that baicalein extends the mean, median, and maximum lifespans of the nematode by 45, 57 and 24%, respectively."
+   ],
+   "notes": "Hct116 cells + C. elegans; Nrf2/SKN-1 activation; lifespan extended 45/57/24% (mean/median/maximum); baicalein dose not stated in abstract.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24949843/",
+   "title": "The protective effect of baicalin against UVB irradiation induced photoaging: an in vitro and in vivo study",
+   "authors": "Zhang JA; Yin Z; Ma LW; Yin ZQ; Hu YY; Xu Y; Wu D; Permatasari F; Luo D; Zhou BR",
+   "year": "2014",
+   "journal_or_publisher": "PloS one",
+   "vol_pages": "9(6): e99703",
+   "doi": "10.1371/journal.pone.0099703",
+   "pmid": "24949843",
+   "page_file": "research/senescence/pages/baicalin-uvb-photoaging-2014.txt",
+   "quotes": [
+    "the irradiated fibroblasts additionally treated with baicalin demonstrated a decrease in the expression of SA-β-gal, a increase in the cell viability, a decrease in the G1 phase cell proportion, a downregulation in the level of senescence-associated and γ-H2AX proteins."
+   ],
+   "notes": "UVB-irradiated mouse dorsal skin (topical baicalin) and UVB-irradiated human dermal fibroblasts; reduced epidermal thickening, raised collagen I/III, lowered MMP-1/MMP-3; fibroblast SA-beta-gal, p16, p21, p53, gamma-H2AX and G1 arrest all decreased.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25596147/",
+   "title": "Wogonin increases β-amyloid clearance and inhibits tau phosphorylation via inhibition of mammalian target of rapamycin: potential drug to treat Alzheimer's disease",
+   "authors": "Zhu Y; Wang J",
+   "year": "2015",
+   "journal_or_publisher": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+   "vol_pages": "36(7): 1181-8",
+   "doi": "10.1007/s10072-015-2070-z",
+   "pmid": "25596147",
+   "page_file": "research/senescence/pages/wogonin-amyloid-tau-mtor-2015.txt",
+   "quotes": [
+    "we discovered a natural product, wogonin, which could potently promote Aβ clearance in the primary neural astrocytes and significantly decrease Aβ secretion in SH-SY5Y-APP and BACE1 cells [SH-SY5Y cells stably expressing the human amyloid precursor protein (APP) and β-secretase (BACE1)] through the mTOR/autophagy signaling pathway."
+   ],
+   "notes": "SH-SY5Y-APP and BACE1 cells plus primary neural astrocytes; wogonin promoted beta-amyloid clearance and decreased A beta secretion via mTOR/autophagy; tau phosphorylation reduced via GSK3beta inhibition; Alzheimer's-relevant in vitro model.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27370100/",
+   "title": "Baicalein modulates stress-resistance and life span in C. elegans via SKN-1 but not DAF-16",
+   "authors": "Havermann S; Humpf HU; Wätjen W",
+   "year": "2016",
+   "journal_or_publisher": "Fitoterapia",
+   "vol_pages": "113: 123-7",
+   "doi": "10.1016/j.fitote.2016.06.018",
+   "pmid": "27370100",
+   "page_file": "research/senescence/pages/baicalein-elegans-skn1-2016.txt",
+   "quotes": [
+    "baicalein enhances the resistance of C. elegans against lethal thermal and sodium arsenite stress and dose-dependently prolongs the life span of the nematode.",
+    "we conclude, that baicalein increases stress-resistance and life span in C. elegans via SKN-1 but not DAF-16."
+   ],
+   "notes": "C. elegans lifespan and stress-resistance assays with SKN-1 RNAi and DAF-16 loss-of-function strains and DAF-16::GFP reporter; baicalein acts via SKN-1, not DAF-16.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28548620/",
+   "title": "Baicalein Exerts Beneficial Effects in d-Galactose-Induced Aging Rats Through Attenuation of Inflammation and Metabolic Dysfunction",
+   "authors": "Duan DD; Wang KX; Zhou YZ; Qin XM; Gao L; Du GH",
+   "year": "2017",
+   "journal_or_publisher": "Rejuvenation research",
+   "vol_pages": "20(6): 506-516",
+   "doi": "10.1089/rej.2017.1919",
+   "pmid": "28548620",
+   "page_file": "research/senescence/pages/baicalein-dgal-aging-rats-2017.txt",
+   "quotes": [
+    "Our findings suggest that baicalein significantly attenuated memory decline in d-gal-induced aging model, as manifested by increasing recognition index in novel object recognition test, shortening latency time, and increasing platform crossings in Morris water maze test."
+   ],
+   "notes": "d-galactose aging rats; baicalein improved novel object recognition and Morris water maze performance; inhibited nitric oxide, IL-6, IL-1beta, TNF-alpha; 1H-NMR metabolomics of cortex.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28829242/",
+   "title": "Baicalin Inhibits Inflammatory Responses to Interleukin-1β Stimulation in Human Chondrocytes",
+   "authors": "Xing D; Gao H; Liu Z; Zhao Y; Gong M",
+   "year": "2017",
+   "journal_or_publisher": "Journal of interferon & cytokine research : the official journal of the International Society for Interferon and Cytokine Research",
+   "vol_pages": "37(9): 398-405",
+   "doi": "10.1089/jir.2017.0030",
+   "pmid": "28829242",
+   "page_file": "research/senescence/pages/baicalin-human-chondrocytes-2017.txt",
+   "quotes": [
+    "BA treatment led to remarkable reductions of OA-related proinflammatory gene expressions, including interleukin (IL)-6, tumor necrosis factor (TNF), chemokine (C-X-C motif) ligand 1 (CXCL1), and CXCL10."
+   ],
+   "notes": "Human chondrocytes (in vitro) plus mouse OA model; baicalin reduced IL-6, TNF, CXCL1, CXCL10, iNOS, MMP3, MMP13 and raised aggrecan/collagen-II via NF-kB inhibition; human-cell OA evidence for baicalin.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29440765/",
+   "title": "Baicalin induces cellular senescence in human colon cancer cells via upregulation of DEPP and the activation of Ras/Raf/MEK/ERK signaling",
+   "authors": "Wang Z; Ma L; Su M; Zhou Y; Mao K; Li C; Peng G; Zhou C; Shen B; Dou J",
+   "year": "2018",
+   "journal_or_publisher": "Cell death & disease",
+   "vol_pages": "9(2): 217",
+   "doi": "10.1038/s41419-017-0223-0",
+   "pmid": "29440765",
+   "page_file": "research/senescence/pages/baicalin-senescence-colon-cancer-2018.txt",
+   "quotes": [
+    "we found that baicalin treatment significantly induced senescence in colon cancer cells.",
+    "baicalin upregulated the expression of decidual protein induced by progesterone (DEPP) in HCT116 colon cancer cells, which accompanied with the activation of Ras/Raf/MEK/ERK and p16INK4A/Rb signaling pathways."
+   ],
+   "notes": "HCT116 colon cancer cells and xenograft model; baicalin induced senescence via DEPP upregulation with Ras/Raf/MEK/ERK and p16INK4A/Rb activation; pro-senescence in cancer context.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29668250/",
+   "title": "Effects of Baicalein on Cortical Proinflammatory Cytokines and the Intestinal Microbiome in Senescence Accelerated Mouse Prone 8",
+   "authors": "Gao L; Li J; Zhou Y; Huang X; Qin X; Du G",
+   "year": "2018",
+   "journal_or_publisher": "ACS chemical neuroscience",
+   "vol_pages": "9(7): 1714-1724",
+   "doi": "10.1021/acschemneuro.8b00074",
+   "pmid": "29668250",
+   "page_file": "research/senescence/pages/baicalein-samp8-cytokines-2018.txt",
+   "quotes": [
+    "treatment with baicalein ameliorated the senescence status of the SAMP8 mice, as manifested by reducing the grading score of senescence.",
+    "baicalein significantly inhibited the release of proinflammatory cytokines such as interleukin-6 (IL-6), interleukin-1 beta (IL-1β), and tumor necrosis factor-α (TNF-α) in the brain cortex of SAMP8 mice."
+   ],
+   "notes": "SAMP8 mice (senescence-accelerated, dementia model); baicalein improved senescence grading score and spatial/recognition/olfactory memory; reduced cortical IL-6, IL-1beta, TNF-alpha; gut microbiome genera shifted.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29732005/",
+   "title": "Baicalein and baicalin inhibit colon cancer using two distinct fashions of apoptosis and senescence",
+   "authors": "Dou J; Wang Z; Ma L; Peng B; Mao K; Li C; Su M; Zhou C; Peng G",
+   "year": "2018",
+   "journal_or_publisher": "Oncotarget",
+   "vol_pages": "9(28): 20089-20102",
+   "doi": "10.18632/oncotarget.24015",
+   "pmid": "29732005",
+   "page_file": "research/senescence/pages/baicalein-baicalin-colon-senescence-2018.txt",
+   "quotes": [
+    "baicalin-induced senescence in tumor cells is due to its inhibition of telomerase reverse transcriptase expression in tumor cells,"
+   ],
+   "notes": "Human colon cancer cells and humanized mouse xenografts; baicalein induced apoptosis while baicalin induced senescence, the latter attributed to telomerase reverse transcriptase inhibition; ERK and p38 MAPK involved.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29924517/",
+   "title": "[Baicalein prolongs the lifespan of Drosophila melanogaster through antioxidation activity]",
+   "authors": "Duan DD; Gao L; Wang KX; Qin XM; Zhou YZ; Du GH",
+   "year": "2016",
+   "journal_or_publisher": "Yao xue xue bao = Acta pharmaceutica Sinica",
+   "vol_pages": "51(9): 1401-6",
+   "doi": "",
+   "pmid": "29924517",
+   "page_file": "research/senescence/pages/baicalein-drosophila-lifespan-2016.txt",
+   "quotes": [
+    "Baicalein at concentrations of 0.04 mg·m L-1 and 0.2 mg·m L-1 extended the mean and maximum lifespans in the natural aging model, and effectively reduced the damages of oxidative stress by H2O2 and paraquat."
+   ],
+   "notes": "Female Drosophila melanogaster, natural aging plus H2O2/paraquat stress models; 0.04 and 0.2 mg/mL baicalein; mean and maximum lifespan extended; English abstract of a Chinese-language paper (Acta Pharmaceutica Sinica).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31715136/",
+   "title": "Integration of transcriptomics and network analysis deciphers the mechanisms of baicalein in improving learning and memory impairment in senescence-accelerated mouse prone 8 (SAMP8)",
+   "authors": "Li J; Zhou Y; Du G; Qin X; Gao L",
+   "year": "2019",
+   "journal_or_publisher": "European journal of pharmacology",
+   "vol_pages": "865: 172789",
+   "doi": "10.1016/j.ejphar.2019.172789",
+   "pmid": "31715136",
+   "page_file": "research/senescence/pages/baicalein-samp8-memory-2019.txt",
+   "quotes": [
+    "Our results suggest that baicalein prevented the activation of JAK2/STAT1 signaling pathway and decreased the levels of Aβ1-42 and RAGE in the cortex of SAMP8 mice."
+   ],
+   "notes": "SAMP8 mice; transcriptomics plus network analysis; baicalein inhibited A beta 1-42 accumulation and RAGE/JAK2/STAT1 cascade in cortex, improving learning and memory.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32305527/",
+   "title": "Comparative safety of flavocoxid vs prescription NSAIDs among osteoarthritis patients",
+   "authors": "Curtis JR; Owensby JK; Xie F",
+   "year": "2020",
+   "journal_or_publisher": "Osteoarthritis and cartilage",
+   "vol_pages": "28(7): 917-923",
+   "doi": "10.1016/j.joca.2020.03.017",
+   "pmid": "32305527",
+   "page_file": "research/senescence/pages/flavocoxid-nsaid-safety-oa-2020.txt",
+   "quotes": [
+    "A lower rate of GI bleed was observed, IR: 5.3 (1.7-12.3) for flavocoxid and 10.2 (5.9-16.3) for NSAIDs, aHR 0.49 (0.18-1.68)."
+   ],
+   "notes": "Human claims-cohort safety study (MarketScan 2006-2017): 3,337 flavocoxid users propensity-matched 1:2 to 6,674 NSAID users; hospitalized liver injury IR 3.2 vs 2.4 per 1,000 PY (aHR 1.16, 95% CI 0.23-6.01, NS); lower GI bleed rate for flavocoxid; human tolerability data relevant to OA dosing.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32554301/",
+   "title": "Flavonoids from Scutellaria baicalensis inhibit senescence-associated secretory phenotype production by interrupting IκBζ/C/EBPβ pathway: Inhibition of age-related inflammation",
+   "authors": "Lim H; Kwon YS; Kim D; Lee J; Kim HP",
+   "year": "2020",
+   "journal_or_publisher": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+   "vol_pages": "76: 153255",
+   "doi": "10.1016/j.phymed.2020.153255",
+   "pmid": "32554301",
+   "page_file": "research/senescence/pages/scutellaria-flavones-sasp-ikbz-2020.txt",
+   "quotes": [
+    "compounds 8 and 11, the strongest SASP inhibitors, decreased the expression of IκBζ and C/EBPβ protein without affecting either BrdU uptake or the expression of senescence markers, such as pRb and p21.",
+    "the oral administration of compound 8 to aged rats at 2 and 4 mg/kg/day for 10 days significantly inhibited the gene expression of SASP and IκBζ in kidneys."
+   ],
+   "notes": "Bleomycin-induced senescence in vitro and 21-month-old rats in vivo; 17 isolated Scutellaria radix flavonoids screened; the five SASP inhibitors were oroxylin A and 2'-hydroxylated flavones (not baicalein/baicalin/wogonin); strongest acted via IkBzeta/C/EBPbeta without affecting BrdU uptake or p21/pRb; oral compound 8 at 2-4 mg/kg/day 10 days inhibited renal SASP in aged rats.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33809299/",
+   "title": "Flavonoids' Effects on Caenorhabditis elegans' Longevity, Fat Accumulation, Stress Resistance and Gene Modulation Involve mTOR, SKN-1 and DAF-16",
+   "authors": "Guerrero-Rubio MA; Hernández-García S; García-Carmona F; Gandía-Herrero F",
+   "year": "2021",
+   "journal_or_publisher": "Antioxidants (Basel, Switzerland)",
+   "vol_pages": "10(3): ",
+   "doi": "10.3390/antiox10030438",
+   "pmid": "33809299",
+   "page_file": "research/senescence/pages/flavonoids-elegans-daf16-skn1-2021.txt",
+   "quotes": [
+    "The results showed that chrysin, 6-hydroxyflavone and baicalein prolonged C. elegans' lifespan by up to 8.5%, 11.8% and 18.6%, respectively.",
+    "microarray analysis showed that baicalein downregulates important age-related genes, such as mTOR and PARP.",
+    "TJ375 worms were treated with 100 µM of each flavonoid."
+   ],
+   "notes": "Six flavones at 100 uM (0.4% DMSO vehicle, Lifespan Machine, 25 C); baicalein +18.6% lifespan, SKN-1/Nrf2-dependent; downregulates mTOR and PARP by microarray; baicalin and wogonin were not among the six compounds tested. PMC full text appended to page file.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34152720/",
+   "title": "Baicalein Delays H(2)O(2)-Induced Astrocytic Senescence through Inhibition of Senescence-Associated Secretory Phenotype (SASP), Suppression of JAK2/STAT1/NF-κB Pathway, and Regulation of Leucine Metabolism",
+   "authors": "Gao L; Zheng WG; Wu XK; Du GH; Qin XM",
+   "year": "2021",
+   "journal_or_publisher": "ACS chemical neuroscience",
+   "vol_pages": "12(13): 2320-2335",
+   "doi": "10.1021/acschemneuro.1c00024",
+   "pmid": "34152720",
+   "page_file": "research/senescence/pages/baicalein-astrocyte-senescence-sasp-2021.txt",
+   "quotes": [
+    "treatment with baicalein protects T98G cells from H2O2-induced damage, delays cell senescence, inhibits the secretion of SASP (IL-6, IL-8, TNF-α, CXCL1, and MMP-1), and inhibits SASP-related pathways NF-κB and JAK2/STAT1."
+   ],
+   "notes": "H2O2-induced senescence in T98G human astrocyte cells and primary newborn-rat astrocytes; baicalein delayed senescence and suppressed SASP (IL-6, IL-8, TNF-alpha, CXCL1, MMP-1) via JAK2/STAT1/NF-kB and leucine metabolism (BCAT1/SLC7A5); senomorphic + senescence-delay classification.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34198266/",
+   "title": "Baicalein ameliorates osteoporosis via AKT/FOXO1 signaling",
+   "authors": "Cai P; Lu Y; Yin Z; Wang X; Zhou X; Li Z",
+   "year": "2021",
+   "journal_or_publisher": "Aging",
+   "vol_pages": "13(13): 17370-17379",
+   "doi": "10.18632/aging.203227",
+   "pmid": "34198266",
+   "page_file": "research/senescence/pages/baicalein-ovx-osteoporosis-2021.txt",
+   "quotes": [
+    "glucocorticoid-induced osteoporosis in MC3T3-E1 cells was partially reversed by BN through inhibition of AKT, which, by upregulating FOXO1, enhanced expression of bone turnover markers (ALP, OCN, Runx2, and Col 1) and extracellular matrix mineralization."
+   ],
+   "notes": "Bioinformatics (STITCH, miRWalk) plus MC3T3-E1 glucocorticoid-induced osteoporosis model; baicalein partially reversed bone loss markers via AKT inhibition and FOXO1 upregulation (ALP, OCN, Runx2, Col 1, mineralization).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34354672/",
+   "title": "Inhibition of Lipoxygenases Showed No Benefit for the Musculoskeletal System in Estrogen Deficient Rats",
+   "authors": "Saul D; Hohl FE; Franz MK; Meyer I; Taudien S; Roch PJ; Sehmisch S; Komrakova M",
+   "year": "2021",
+   "journal_or_publisher": "Frontiers in endocrinology",
+   "vol_pages": "12: 706504",
+   "doi": "10.3389/fendo.2021.706504",
+   "pmid": "34354672",
+   "page_file": "research/senescence/pages/baicalein-lox-ovx-negative-2021.txt",
+   "quotes": [
+    "Oral administration of Baicalein did not confirm the reported favorable cortical effects in neither vertebra nor femur.",
+    "The combination therapy did not ameliorate OVX-induced osteoporosis but induced even more bone loss."
+   ],
+   "notes": "NEGATIVE study: ovariectomized Sprague-Dawley rats, oral baicalein 10 mg/kg for 13 weeks (n=12-16/group) failed to replicate previously reported subcutaneous-baicalein cortical bone benefits; baicalein+zileuton combination induced more bone loss; no skeletal muscle benefit.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35202958/",
+   "title": "Unveiling the anti-senescence effects and senescence-associated secretory phenotype (SASP) inhibitory mechanisms of Scutellaria baicalensis Georgi in low glucose-induced astrocytes based on boolean network",
+   "authors": "Gao L; Yang WY; Qi H; Sun CJ; Qin XM; Du GH",
+   "year": "2022",
+   "journal_or_publisher": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+   "vol_pages": "99: 153990",
+   "doi": "10.1016/j.phymed.2022.153990",
+   "pmid": "35202958",
+   "page_file": "research/senescence/pages/scutellaria-anti-senescence-sasp-2022.txt",
+   "quotes": [
+    "SGE could delay astrocytes senescence by decreasing the staining rate of SA-β-gal, reducing secretions of SASP factors (IL-6, CXCL1, MMP-1), alleviating cell cycle arrest in G0/G1 phase, decreasing the formation of punctate DNA foci and down-regulating the expression of p16INK4A, p21 and γH2A.X."
+   ],
+   "notes": "Low-glucose-induced senescence in T98G cells and primary astrocytes; S. baicalensis ethanol extract decreased SA-beta-gal, SASP (IL-6, CXCL1, MMP-1), G0/G1 arrest, DNA-damage foci, p16INK4A, p21, gammaH2A.X; boolean-network mechanism analysis; extract-level evidence.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35316094/",
+   "title": "Baicalein May Act as a Caloric Restriction Mimetic Candidate to Improve the Antioxidant Profile in a Natural Rodent Model of Aging",
+   "authors": "Tripathi SS; Kumar R; Bissoyi A; Rizvi SI",
+   "year": "2022",
+   "journal_or_publisher": "Rejuvenation research",
+   "vol_pages": "25(2): 70-78",
+   "doi": "10.1089/rej.2021.0071",
+   "pmid": "35316094",
+   "page_file": "research/senescence/pages/baicalein-caloric-restriction-mimetic-2022.txt",
+   "quotes": [
+    "Thus, Baicalein may be a potent CRM candidate for antiaging interventions."
+   ],
+   "notes": "Naturally aged male Wistar rats; baicalein supplementation alleviated pro-oxidant markers, improved antioxidant profile, erythrocyte membrane transporters and eryptosis; authors propose baicalein as a caloric-restriction mimetic candidate; no lifespan endpoint.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36249807/",
+   "title": "Scutellaria baicalensis Georgi regulates REV-ERBα/BMAL1 to protect against skin aging in mice",
+   "authors": "Sun G; Dang Y; Lin Y; Zeng W; Wu Z; Zhang X; Dong D; Wu B",
+   "year": "2022",
+   "journal_or_publisher": "Frontiers in pharmacology",
+   "vol_pages": "13: 991917",
+   "doi": "10.3389/fphar.2022.991917",
+   "pmid": "36249807",
+   "page_file": "research/senescence/pages/scutellaria-skin-aging-reverb-2022.txt",
+   "quotes": [
+    "SBG was identified as an antagonist of REV-ERBα and thus an inducer of BMAL1 expression."
+   ],
+   "notes": "D-galactose + UVB skin-aging mice; topical Scutellaria baicalensis Georgi extract; REV-ERBalpha antagonism up-regulated BMAL1; lower MMP-1/p53, higher collagen, thinner epidermis; confirmed in NIH3T3, HaCaT, primary mouse fibroblasts and human keratinocytes.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36278464/",
+   "title": "Natural Products as a Major Source of Candidates for Potential Senolytic Compounds obtained by in silico Screening",
+   "authors": "Barrera-Vázquez OS; Magos-Guerrero GA; Escobar-Ramírez JL; Gomez-Verjan JC",
+   "year": "2023",
+   "journal_or_publisher": "Medicinal chemistry (Shariqah (United Arab Emirates))",
+   "vol_pages": "19(7): 653-668",
+   "doi": "10.2174/1573406419666221019153537",
+   "pmid": "36278464",
+   "page_file": "research/senescence/pages/senolytic-insilico-natural-products-2023.txt",
+   "quotes": [
+    "Six drug-like candidates (3,4'-dihydroxypropiophenone, baicalein, α, β-dehydrocurvularin, lovastatin, luteolin, and phloretin) were identified."
+   ],
+   "notes": "In silico screening comparing fingerprints of 40,383 natural and semi-synthetic products with reference senolytics; baicalein one of six candidates; authors explicitly state experimental validation is needed; NO experimental senolytic data exist for any Scutellaria constituent.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36815239/",
+   "title": "Baicalein attenuates bleomycin-induced lung fibroblast senescence and lung fibrosis through restoration of Sirt3 expression",
+   "authors": "Ji-Hong Y; Yu M; Ling-Hong Y; Jing-Jing G; Ling-Li X; Lv W; Yong-Mei J",
+   "year": "2023",
+   "journal_or_publisher": "Pharmaceutical biology",
+   "vol_pages": "61(1): 288-297",
+   "doi": "10.1080/13880209.2022.2160767",
+   "pmid": "36815239",
+   "page_file": "research/senescence/pages/baicalein-fibroblast-senescence-sirt3-2023.txt",
+   "quotes": [
+    "silencing of Sirt3 abolished the inhibitory role of baicalein against BLM-induced lung fibrosis, fibroblast senescence and activation of TGF-β1/Smad signalling pathway.",
+    "The baicalein group received baicalein orally (100 mg/kg/day)."
+   ],
+   "notes": "ICR mice, bleomycin 3 mg/kg intratracheal; baicalein 100 mg/kg/day oral; bleomycin-induced fibroblast senescence (p53/p21/p16, MCP-1, PAI-1, TNF-alpha, MMP-10/12) and fibrosis attenuated via Sirt3 restoration; Sirt3 siRNA abolished the effect.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37463652/",
+   "title": "Baicalein mitigates oxidative stress and enhances lifespan through modulation of Wnt ligands and GATA factor: ELT-3 in Caenorhabditis elegans",
+   "authors": "Mohanty SK; Suchiang K",
+   "year": "2023",
+   "journal_or_publisher": "Life sciences",
+   "vol_pages": "329: 121946",
+   "doi": "10.1016/j.lfs.2023.121946",
+   "pmid": "37463652",
+   "page_file": "research/senescence/pages/baicalein-elegans-wnt-elt3-2023.txt",
+   "quotes": [
+    "it was observed that BAI could enhance the worm's lifespan via ELT-3 and SKN-1 transcription factors",
+    "BAI could downregulate different Wnt ligands mRNA expressions in C. elegans, resulting in enhanced expression of GATA transcription factor ELT-3 and antiaging gene Klotho."
+   ],
+   "notes": "C. elegans mutant/transgenic strains; Wnt ligand downregulation with ELT-3 and Klotho upregulation; lifespan via ELT-3 + SKN-1; oxidative-stress protection via ELT-3 + DAF-16; lipofuscin/ROS and functional declines ameliorated.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38795756/",
+   "title": "Apigenin and baicalein ameliorate thoracic aortic structural deterioration and cognitive deficit via inhibiting AGEs/RAGE/NF-κB pathway in D-galactose-induced aging rats",
+   "authors": "Ma Y; Ma Z; Zhang Y; Luo C; Huang P; Tong J; Ding H; Liu H",
+   "year": "2024",
+   "journal_or_publisher": "European journal of pharmacology",
+   "vol_pages": "976: 176660",
+   "doi": "10.1016/j.ejphar.2024.176660",
+   "pmid": "38795756",
+   "page_file": "research/senescence/pages/baicalein-apigenin-dgal-aorta-2024.txt",
+   "quotes": [
+    "We found that apigenin and baicalein supplementation significantly ameliorated aging-related changes such as declines in the spatial learning and memory and histopathological damage of the hippocampus and thoracic aorta."
+   ],
+   "notes": "D-galactose-induced aging rats; apigenin and baicalein co-supplemented; improved spatial learning/memory and hippocampal and thoracic aortic histopathology via AGEs/RAGE/NF-kB inhibition; authors state the two flavonoids showed almost equal anti-aging efficacy; baicalein-only arm not separated.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38941045/",
+   "title": "Baicalin Prevents Colon Cancer by Suppressing CDKN2A Protein Expression",
+   "authors": "Li GG; Chu XF; Xing YM; Xue X; Ihtisham B; Liang XF; Xu JX; Mi Y; Zheng PY",
+   "year": "2024",
+   "journal_or_publisher": "Chinese journal of integrative medicine",
+   "vol_pages": "30(11): 1007-1017",
+   "doi": "10.1007/s11655-024-4109-6",
+   "pmid": "38941045",
+   "page_file": "research/senescence/pages/baicalin-cdkn2a-p16-2024.txt",
+   "quotes": [
+    "In vitro, the expressions of CDKN2A, MAPK, and p-AKT were suppressed by baicalin in MC38 and CT26 cells."
+   ],
+   "notes": "MC38 and CT26 colon cancer cells plus mouse tumor model; baicalin suppressed CDKN2A (p16) protein expression; note the contrast with p16-upregulating baicalin data in HCT116 cells (PMID 29440765) - cell-line dependent directionality.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39040475/",
+   "title": "Wogonin protects against bleomycin-induced mouse pulmonary fibrosis via the inhibition of CDK9/p53-mediated cell senescence",
+   "authors": "Wang L; Lin F; Liu Y; Li W; Ding Q; Duan X; Yang L; Bai Z; Zhang M; Guo Y",
+   "year": "2024",
+   "journal_or_publisher": "Frontiers in pharmacology",
+   "vol_pages": "15: 1407891",
+   "doi": "10.3389/fphar.2024.1407891",
+   "pmid": "39040475",
+   "page_file": "research/senescence/pages/wogonin-pulmonary-senescence-2024.txt",
+   "quotes": [
+    "wogonin attenuated the expressions of DNA damage marker γ-H2AX and senescence-related markers including phosphorylated p53, p21, retinoblastoma protein (pRB), and senescence-associated β-galactosidase (SA-β-gal).",
+    "wogonin, as a direct and selective inhibitor of cyclin-dependent kinase 9 (CDK9)"
+   ],
+   "notes": "Bleomycin-induced pulmonary fibrosis mice plus BLM/H2O2-stimulated epithelial cells; wogonin attenuated gamma-H2AX, phospho-p53, p21, pRB and SA-beta-gal; direct selective CDK9 inhibitor; anti-senescence in vivo.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39339746/",
+   "title": "Botanical Bioflavonoid Composition from Scutellaria baicalensis- and Acacia catechu-Protected Mice against D-Galactose-Induced Immunosenescence, and Cyclophosphamide Induced Immune Suppression",
+   "authors": "Yimam M; Horm T; O'Neal A; Chua P; Jiao P; Hong M; Jia Q",
+   "year": "2024",
+   "journal_or_publisher": "Nutrients",
+   "vol_pages": "16(18): ",
+   "doi": "10.3390/nu16183144",
+   "pmid": "39339746",
+   "page_file": "research/senescence/pages/scutellaria-acacia-dgal-immunosenescence-2024.txt",
+   "quotes": [
+    "UP446 was administered orally at doses of 100 mg/kg and 200 mg/kg starting in the fifth week of immunosenescence induction."
+   ],
+   "notes": "CD-1 mice, D-galactose 500 mg/kg/day immunosenescence model; UP446 standardized S. baicalensis + Acacia catechu composition 100/200 mg/kg oral for 10 weeks improved immune response; combination product, not isolated constituents.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39620386/",
+   "title": "Wogonin Inhibits Ovarian Cancer by Activating the AMPK-TET2-5hmC Axis",
+   "authors": "Yang SY; Jhang JS; Huang WL; Tsai LHJ; Tsai MC; Chan CP; Lin RI; Lin HY; Li C; Yeh CC; Chan MWY",
+   "year": "2025",
+   "journal_or_publisher": "Molecular carcinogenesis",
+   "vol_pages": "64(3): 440-449",
+   "doi": "10.1002/mc.23856",
+   "pmid": "39620386",
+   "page_file": "research/senescence/pages/wogonin-tet2-5hmc-ovarian-2025.txt",
+   "quotes": [
+    "These results indicate that wogonin promotes DNA demethylation by stabilizing TET2."
+   ],
+   "notes": "A2780 and Kuramochi ovarian cancer cells plus nude-mouse xenograft; wogonin stabilized TET2, increased 5hmC, promoted DNA demethylation via AMPK-TET2 axis; epigenetic bridge in oncology context.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40095355/",
+   "title": "Baicalein prevents skin damage, tumorigenesis and tumor growth in chronic ultraviolet B-irradiated hairless mice",
+   "authors": "Kimura Y; Sumiyoshi M; Taniguchi M",
+   "year": "2025",
+   "journal_or_publisher": "Photochemical & photobiological sciences : Official journal of the European Photochemistry Association and the European Society for Photobiology",
+   "vol_pages": "24(3): 479-497",
+   "doi": "10.1007/s43630-025-00700-3",
+   "pmid": "40095355",
+   "page_file": "research/senescence/pages/baicalein-uvb-photoaging-mice-2025.txt",
+   "quotes": [
+    "Baicalein (at doses of 10 and 30 mg/kg) suppressed UVB-induced increases in skin thickness, improved skin elasticity, and reduced the number and growth of skin tumors."
+   ],
+   "notes": "Hairless mice, UVB 36-192 mJ/cm2 three times weekly for 23 weeks; oral baicalein 10 and 30 mg/kg twice daily for the same duration; suppressed skin thickening, improved elasticity, reduced tumor number/growth and IL-1beta, IL-6, MCP-1, MIF, VEGF, p53, COX-2, NF-kB.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40818185/",
+   "title": "Wogonin modulates macrophage polarization and inflammatory signaling through the LSD1-p65 axis to alleviate osteoarthritis",
+   "authors": "Cai Z; Lu C; Chen D; Zhang S; Zhou J; Yu S; Wong CK; Jia Z; Jin S; Feng Y; Wu P",
+   "year": "2025",
+   "journal_or_publisher": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+   "vol_pages": "146: 157149",
+   "doi": "10.1016/j.phymed.2025.157149",
+   "pmid": "40818185",
+   "page_file": "research/senescence/pages/wogonin-lsd1-oa-2025.txt",
+   "quotes": [
+    "wogonin bound lysine-specific histone demethylase 1A (LSD1/KDM1A), suppressing LPS-induced M1 polarization, while increasing CD163+ M2 macrophages in OA joints.",
+    "In vivo, wogonin reduced serum IL-6, improved cartilage integrity, and stabilized subchondral bone."
+   ],
+   "notes": "DMM-induced OA mice, intra-articular wogonin for 8 weeks, plus Raw264.7 macrophages, MC3T3-E1 osteoblasts, primary chondrocytes; wogonin bound LSD1/KDM1A histone demethylase, blocking NF-kB p65 demethylation; M2 polarization increased, serum IL-6 reduced; epigenetic bridge in an aging-related disease model.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41038143/",
+   "title": "Baicalein specifically suppresses microsatellite instability colorectal cancer by targeting adenosylhomocysteinase to inhibit histone H3 lysine 4 trimethylation-mediated cancer stemness",
+   "authors": "Zheng Y; Li Y; Lu M; Jia Z; Wan T; Li Z; Huang Y; Zhou C; Zeng H; Jin X; Liu Z; Lu L",
+   "year": "2025",
+   "journal_or_publisher": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+   "vol_pages": "148: 157291",
+   "doi": "10.1016/j.phymed.2025.157291",
+   "pmid": "41038143",
+   "page_file": "research/senescence/pages/baicalein-ahcy-histone-msi-crc-2025.txt",
+   "quotes": [
+    "adenosylhomocysteinase (AHCY) was identified as a key direct target of baicalein."
+   ],
+   "notes": "Microsatellite-instability colorectal cancer cell lines, cell-derived and patient-derived xenografts; baicalein directly targeted adenosylhomocysteinase (AHCY, binding residues D134/D303), inhibiting histone H3 lysine 4 trimethylation-mediated cancer stemness; epigenetic bridge in oncology context.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41075517/",
+   "title": "Baicalein Induces Hepatic Stellate Cell Senescence and Attenuates Liver Fibrosis via CEBPZ/p53/HK2-Mediated Glycolysis Inhibition",
+   "authors": "Chen S; Li R; Zhang C; Guo J; Yang A; Yang D; Mao T; Liu H; Ren H; Liang Z; Chen W; Yi C; Xiong Q; Yin D; Wang X; Yang Y",
+   "year": "2025",
+   "journal_or_publisher": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+   "vol_pages": "148: 157222",
+   "doi": "10.1016/j.phymed.2025.157222",
+   "pmid": "41075517",
+   "page_file": "research/senescence/pages/baicalein-hsc-senescence-fibrosis-2025.txt",
+   "quotes": [
+    "BA suppressed cellular activation while inducing senescence through G1-phase cell cycle arrest (P < 0.001) and glycolysis inhibition (lactate decreasing: P < 0.001)."
+   ],
+   "notes": "CCl4 fibrotic mice and TGF-beta1-activated LX-2 human hepatic stellate cells; baicalein INDUCED HSC senescence (G1 arrest, glycolysis inhibition via CEBPZ/p53/HK2) as an anti-fibrotic mechanism; pro-senescence context, opposite of normal-cell senescence delay.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41270385/",
+   "title": "Baicalein facilitates hepatic stellate cell ferroptosis via the DNMT1/SCARA5/GPX4 axis",
+   "authors": "Li M; Hu Y; Yu J; Shen M; Zhang W; Zheng J; Zhou Z",
+   "year": "2025",
+   "journal_or_publisher": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+   "vol_pages": "149: 157554",
+   "doi": "10.1016/j.phymed.2025.157554",
+   "pmid": "41270385",
+   "page_file": "research/senescence/pages/baicalein-dnmt1-hsc-2025.txt",
+   "quotes": [
+    "The SCARA5 promoter harbored a CpG island, and its methylation was facilitated by DNMT1, which could be targeted by baicalein.",
+    "Baicalein inhibited HSC activation and alleviated liver fibrosis."
+   ],
+   "notes": "Activated hepatic stellate cells and CCl4 fibrosis mice; baicalein targeted DNMT1, reducing methylation of the SCARA5 promoter CpG island, derepressing SCARA5 which suppresses GPX4, driving HSC ferroptosis; direct DNA-methylation mechanism for baicalein (epigenetic bridge, fibrosis context).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41415716/",
+   "title": "Baicalein Enhances Longevity and Healthspan of C. elegans Through the Insulin/IGF-1 Signaling Pathway",
+   "authors": "Zhao C; Schrapel D; Schaefer M",
+   "year": "2025",
+   "journal_or_publisher": "MedComm",
+   "vol_pages": "6(12): e70543",
+   "doi": "10.1002/mco2.70543",
+   "pmid": "41415716",
+   "page_file": "research/senescence/pages/baicalein-elegans-healthspan-2025.txt",
+   "quotes": [
+    "extended the median lifespan of wild‐type N2 _C. elegans_ to 22 days (vs. 20 days in controls)",
+    "The findings indicate that baicalein significantly extends lifespan and enhances health markers, including improved motility, increased oxidative stress resistance, and reduced lipofuscin accumulation.",
+    "were maintained on NGM/OP50 plates containing 100 µM baicalein (BC) or 0.1% DMSO (CO) for lifespan analysis."
+   ],
+   "notes": "C. elegans wild-type N2 plus 7 mutant and 3 reporter strains; 100 uM baicalein vs 0.1% DMSO on NGM/OP50; median lifespan 22 vs 20 days across three independent assays; DAF-2/IIS suppression with DAF-16 nuclear translocation and sod-3 upregulation; no baicalein-induced SKN-1 translocation observed (supplementary data). PMC full text appended to page file.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41516334/",
+   "title": "Scutellaria lateriflora Extract Supplementation Provides Resilience to Age-Related Phenotypes in Drosophila melanogaster",
+   "authors": "Long DM; Martinez J; Soumyanath A; Kretzschmar D",
+   "year": "2026",
+   "journal_or_publisher": "International journal of molecular sciences",
+   "vol_pages": "27(1): ",
+   "doi": "10.3390/ijms27010461",
+   "pmid": "41516334",
+   "page_file": "research/senescence/pages/scutellaria-lateriflora-drosophila-2026.txt",
+   "quotes": [
+    "the beneficial effects on mobility were mainly due to baicalin, whereas sleep was improved by a wogonin mix.",
+    "Since neither the extracts nor the compounds extend the lifespan, this suggests that they improve neuronal health and function and do not generally slow down the aging process."
+   ],
+   "notes": "Scutellaria lateriflora (American skullcap, not S. baicalensis) aqueous/ethanol extracts 1-5 mg/mL fed from middle age in Drosophila; mobility improved mainly by baicalin, sleep fragmentation by a wogonin mix; no lifespan extension; 5 mg/mL ethanol extract poorly tolerated and shortened median lifespan. PMC full text appended to page file.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41722125/",
+   "title": "Wogonin ameliorates osteoarthritis by targeting the STAT3/PIM1 axis to attenuate chondrocyte senescence",
+   "authors": "Yuan M; Zhou X; Xu W; Liu J; Han T; Huang Y; Liao F; Chang J; Miao C",
+   "year": "2026",
+   "journal_or_publisher": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+   "vol_pages": "153: 157986",
+   "doi": "10.1016/j.phymed.2026.157986",
+   "pmid": "41722125",
+   "page_file": "research/senescence/pages/wogonin-oa-chondrocyte-senescence-2026.txt",
+   "quotes": [
+    "concomitantly retarded SA-β-gal, senescence-associated secretory phenotype (SASP), γ-H2A.X, P16, P21 and P53.",
+    "Wogonin could ameliorate articular cartilage injury, inhibit synovitis and osteophyte formation in DMM mice"
+   ],
+   "notes": "DMM osteoarthritis mice and IL-1beta-induced C28/I2 chondrocytes; wogonin ameliorated cartilage injury, synovitis, osteophytes; retarded SA-beta-gal, SASP, gamma-H2A.X, p16, p21, p53; STAT3 direct target (SPR, CETSA, DARTS).",
+   "extract_status": "ok"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "In wild-type Caenorhabditis elegans, baicalein extended mean, median and maximum lifespan by 45%, 57% and 24%, respectively, attributed to activation of the Nrf2/SKN-1 signaling pathway.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23339711/",
+   "quote": "Lifespan analysis revealed that baicalein extends the mean, median, and maximum lifespans of the nematode by 45, 57 and 24%, respectively.",
+   "strength": "animal"
+  },
+  {
+   "claim": "Baicalein dose-dependently prolongs C. elegans lifespan and enhances resistance to thermal and sodium arsenite stress via the Nrf2 homolog SKN-1, not DAF-16, since baicalein still induces longevity in a DAF-16 loss-of-function strain.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27370100/",
+   "quote": "baicalein enhances the resistance of C. elegans against lethal thermal and sodium arsenite stress and dose-dependently prolongs the life span of the nematode.",
+   "strength": "animal"
+  },
+  {
+   "claim": "Baicalein prolonged C. elegans lifespan by up to 18.6% in a manner dependent on the SKN-1/Nrf2 pathway, and microarray analysis showed baicalein downregulates age-related genes including mTOR and PARP.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33809299/",
+   "quote": "The results showed that chrysin, 6-hydroxyflavone and baicalein prolonged C. elegans' lifespan by up to 8.5%, 11.8% and 18.6%, respectively.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In wild-type N2 C. elegans maintained on 100 µM baicalein (0.1% DMSO vehicle on NGM/OP50), baicalein extended median lifespan to 22 days versus 20 days in controls across three independent experiments, improved motility and oxidative stress resistance, and reduced lipofuscin, acting through suppression of DAF-2-mediated insulin/IGF-1 signaling, DAF-16 nuclear translocation, and sod-3 upregulation.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41415716/",
+   "quote": "extended the median lifespan of wild‐type N2 _C. elegans_ to 22 days (vs. 20 days in controls)",
+   "strength": "animal"
+  },
+  {
+   "claim": "Baicalein enhanced C. elegans lifespan via the ELT-3 and SKN-1 transcription factors after downregulating Wnt ligands and upregulating ELT-3 and the antiaging gene Klotho, while protection against external oxidative stress involved ELT-3 and DAF-16.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37463652/",
+   "quote": "it was observed that BAI could enhance the worm's lifespan via ELT-3 and SKN-1 transcription factors",
+   "strength": "animal"
+  },
+  {
+   "claim": "In female Drosophila melanogaster, baicalein at 0.04 and 0.2 mg/mL extended mean and maximum lifespan in a natural aging model and reduced oxidative-stress damage in H2O2- and paraquat-induced aging models.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29924517/",
+   "quote": "Baicalein at concentrations of 0.04 mg·m L-1 and 0.2 mg·m L-1 extended the mean and maximum lifespans in the natural aging model, and effectively reduced the damages of oxidative stress by H2O2 and paraquat.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In Drosophila, Scutellaria lateriflora extracts improved age-related mobility (attributed mainly to baicalin) and sleep fragmentation (a wogonin mix), but neither the extracts nor the compounds extended lifespan.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41516334/",
+   "quote": "the beneficial effects on mobility were mainly due to baicalin, whereas sleep was improved by a wogonin mix.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In senescence-accelerated SAMP8 mice, baicalein ameliorated senescence status (grading score) and improved spatial learning, object recognition memory and olfactory memory while inhibiting cortical IL-6, IL-1β and TNF-α release.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29668250/",
+   "quote": "treatment with baicalein ameliorated the senescence status of the SAMP8 mice, as manifested by reducing the grading score of senescence.",
+   "strength": "animal"
+  },
+  {
+   "claim": "Baicalein improved learning and memory impairment in SAMP8 mice by preventing JAK2/STAT1 activation and decreasing Aβ1-42 and RAGE levels in the cortex.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31715136/",
+   "quote": "Our results suggest that baicalein prevented the activation of JAK2/STAT1 signaling pathway and decreased the levels of Aβ1-42 and RAGE in the cortex of SAMP8 mice.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In aged male Wistar rats, baicalein supplementation alleviated pro-oxidant markers, improved the antioxidant profile, and improved age-induced alterations in membrane transporters and eryptosis, supporting the authors' proposal of baicalein as a caloric restriction mimetic candidate.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35316094/",
+   "quote": "Thus, Baicalein may be a potent CRM candidate for antiaging interventions.",
+   "strength": "animal"
+  },
+  {
+   "claim": "Baicalein protected T98G human astrocyte cells and primary rat astrocytes from H2O2-induced damage, delaying senescence and inhibiting SASP secretion (IL-6, IL-8, TNF-α, CXCL1, MMP-1) via suppression of NF-κB and JAK2/STAT1 plus regulation of leucine metabolism.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34152720/",
+   "quote": "treatment with baicalein protects T98G cells from H2O2-induced damage, delays cell senescence, inhibits the secretion of SASP (IL-6, IL-8, TNF-α, CXCL1, and MMP-1), and inhibits SASP-related pathways NF-κB and JAK2/STAT1.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "Of 17 flavonoids isolated from Scutellaria radix, five compounds — including oroxylin A and 2'-hydroxylated flavones, not baicalein or baicalin — potently reduced IL-6 and IL-8 production and SASP gene expression in bleomycin-induced senescent cells, and the strongest inhibitors acted by decreasing IκBζ and C/EBPβ without affecting BrdU uptake or senescence markers such as pRb and p21.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32554301/",
+   "quote": "compounds 8 and 11, the strongest SASP inhibitors, decreased the expression of IκBζ and C/EBPβ protein without affecting either BrdU uptake or the expression of senescence markers, such as pRb and p21.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "Oral administration of compound 8 (2',5,7-trihydroxyflavone) at 2 and 4 mg/kg/day for 10 days significantly inhibited SASP and IκBζ gene expression in the kidneys of 21-month-old rats.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32554301/",
+   "quote": "the oral administration of compound 8 to aged rats at 2 and 4 mg/kg/day for 10 days significantly inhibited the gene expression of SASP and IκBζ in kidneys.",
+   "strength": "animal"
+  },
+  {
+   "claim": "Baicalein (100 mg/kg/day oral) attenuated bleomycin-induced lung fibroblast senescence and fibrosis in ICR mice — reducing collagen deposition, p53, p21, p16, MCP-1, PAI-1, TNF-α, MMP-10 and MMP-12 — by restoring Sirt3 expression; Sirt3 silencing abolished the effect.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36815239/",
+   "quote": "silencing of Sirt3 abolished the inhibitory role of baicalein against BLM-induced lung fibrosis, fibroblast senescence and activation of TGF-β1/Smad signalling pathway.",
+   "strength": "animal"
+  },
+  {
+   "claim": "Wogonin protected against bleomycin-induced pulmonary fibrosis in mice by inhibiting CDK9/p53-mediated cell senescence, attenuating γ-H2AX, phosphorylated p53, p21, pRB and SA-β-gal in lung tissue and in bleomycin- or H2O2-stimulated epithelial cells.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39040475/",
+   "quote": "wogonin attenuated the expressions of DNA damage marker γ-H2AX and senescence-related markers including phosphorylated p53, p21, retinoblastoma protein (pRB), and senescence-associated β-galactosidase (SA-β-gal).",
+   "strength": "animal"
+  },
+  {
+   "claim": "Baicalein induces — rather than delays — senescence in activated hepatic stellate cells, driving G1-phase cell cycle arrest through CEBPZ/p53/HK2-mediated glycolysis inhibition, and this pro-senescence effect attenuates CCl4-induced liver fibrosis in mice.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41075517/",
+   "quote": "BA suppressed cellular activation while inducing senescence through G1-phase cell cycle arrest (P < 0.001) and glycolysis inhibition (lactate decreasing: P < 0.001).",
+   "strength": "animal"
+  },
+  {
+   "claim": "In human colon cancer, baicalein induced apoptosis whereas baicalin induced senescence, and baicalin-induced tumor-cell senescence was attributed to inhibition of telomerase reverse transcriptase expression, with both effects confirmed in mouse xenograft models.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29732005/",
+   "quote": "baicalin-induced senescence in tumor cells is due to its inhibition of telomerase reverse transcriptase expression in tumor cells,",
+   "strength": "animal"
+  },
+  {
+   "claim": "Wogonin and aqueous Scutellaria baicalensis extract down-regulated telomerase activity in HL-60 leukemia cells through inhibition of hTERT, hTP1 and c-myc mRNA expression, and baicalin/wogonoside convert to baicalein/wogonin after beta-glucuronidase treatment.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19577445/",
+   "quote": "treatment of HL-60 cells with wogonin or S. baicalensis led to the inhibition of human telomerase reverse transcriptase (hTERT), human telomerase-associated protein 1 (hTP1) and c-myc messenger ribonucleic acid (m-RNA) expression.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "Baicalein has been identified only by in silico screening — comparing fingerprints of 40,383 natural and semi-synthetic products against reference senolytics — as one of six potential senolytic candidates; no experimental senolytic validation has been published.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36278464/",
+   "quote": "Six drug-like candidates (3,4'-dihydroxypropiophenone, baicalein, α, β-dehydrocurvularin, lovastatin, luteolin, and phloretin) were identified.",
+   "strength": "in-silico"
+  },
+  {
+   "claim": "Wogonin ameliorated osteoarthritis in destabilization-of-medial-meniscus mice and IL-1β-induced C28/I2 chondrocytes, retarding SA-β-gal, SASP, γ-H2A.X, p16, p21 and p53, with STAT3 identified as a direct target.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41722125/",
+   "quote": "concomitantly retarded SA-β-gal, senescence-associated secretory phenotype (SASP), γ-H2A.X, P16, P21 and P53.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In destabilization-of-medial-meniscus-induced osteoarthritis, intra-articular wogonin bound the histone demethylase LSD1/KDM1A, disrupting LSD1-mediated NF-κB p65 demethylation, suppressing M1 macrophage polarization, reducing serum IL-6, and improving cartilage integrity and subchondral bone.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40818185/",
+   "quote": "wogonin bound lysine-specific histone demethylase 1A (LSD1/KDM1A), suppressing LPS-induced M1 polarization, while increasing CD163+ M2 macrophages in OA joints.",
+   "strength": "animal"
+  },
+  {
+   "claim": "Topical baicalin reduced UVB-induced epidermal thickening and raised collagen I/III with lower MMP-1/MMP-3 in mouse skin, and in UVB-irradiated human dermal fibroblasts baicalin decreased SA-β-gal expression, G1 arrest, p16, p21, p53 and γ-H2AX.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24949843/",
+   "quote": "the irradiated fibroblasts additionally treated with baicalin demonstrated a decrease in the expression of SA-β-gal, a increase in the cell viability, a decrease in the G1 phase cell proportion, a downregulation in the level of senescence-associated and γ-H2AX proteins.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In ovariectomized estrogen-deficient Sprague-Dawley rats, oral baicalein (10 mg/kg for 13 weeks) showed no musculoskeletal benefit, and combined baicalein plus zileuton induced even more bone loss than ovariectomy alone.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34354672/",
+   "quote": "Oral administration of Baicalein did not confirm the reported favorable cortical effects in neither vertebra nor femur.",
+   "strength": "animal"
+  },
+  {
+   "claim": "Baicalein promoted ferroptosis of activated hepatic stellate cells by targeting DNMT1, which methylates the SCARA5 promoter CpG island, thereby derepressing SCARA5 and suppressing GPX4.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41270385/",
+   "quote": "The SCARA5 promoter harbored a CpG island, and its methylation was facilitated by DNMT1, which could be targeted by baicalein.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "In a 1-month double-blind randomized pilot study, 103 subjects with moderate knee osteoarthritis received flavocoxid (a proprietary baicalin plus catechin mixture, 500 mg twice daily) or naproxen (500 mg twice daily), and flavocoxid was as effective as naproxen in controlling the signs and symptoms of knee osteoarthritis.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19555810/",
+   "quote": "flavocoxid was as effective as naproxen in controlling the signs and symptoms of OA of the knee",
+   "strength": "human"
+  }
+ ]
+}

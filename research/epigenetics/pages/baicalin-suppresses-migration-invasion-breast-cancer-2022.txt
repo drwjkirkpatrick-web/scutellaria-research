@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/36401368/
+TITLE: Baicalin suppresses the migration and invasion of breast cancer cells via the TGF-β/lncRNA-MALAT1/miR-200c signaling pathway.
+AUTHORS: Jiafeng Li; Huixin Liu; Qiwang Lin; Huajiao Chen; Liya Liu; Hongjuan Liao; Ying Cheng; Xiuli Zhang
+JOURNAL: Medicine
+YEAR: 2022
+VOL_PAGES: 101; e29328
+DOI: 10.1097/MD.0000000000029328
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Metastasis is the major cause of death and failure of cancer chemotherapy in patients with breast cancer (BC). Activation of TGF-β/lncRNA-MALAT1/miR-200c has been reported to play an essential role during the metastasis of BC cells. The present study aimed to validate the suppression of BC-cell migration and invasion by baicalin and explore its regulatory effects on the TGF-β/lncRNA-MALAT1/miR-200c signaling pathway. We found that baicalin treatment inhibited cell viability and migration and invasion. Mechanistically, baicalin treatment significantly downregulated the expression of TGF-β, ZEB1, and N-cadherin and upregulated E-cadherin on both mRNA and protein levels. Additionally, baicalin treatment significantly downregulated the expression of lncRNA-MALAT1 and upregulated that of miR-200c. Collectively, baicalin significantly suppresses cell viability, migration, and invasion of BC cells possibly by regulating the TGF-β/lncRNA-MALAT1/miR-200c pathway.

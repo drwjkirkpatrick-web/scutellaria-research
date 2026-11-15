@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/33052070/
+TITLE: Inhibition of miR-155 potentially protects against lipopolysaccharide-induced acute lung injury through the IRF2BP2-NFAT1 pathway.
+AUTHORS: Hsiao-Fen Li; Yueh-Lin Wu; Tzu-Ling Tseng; Shih-Wei Chao; Heng Lin; Hsi-Hsien Chen
+JOURNAL: American journal of physiology. Cell physiology
+YEAR: 2020
+VOL_PAGES: 319; C1070-C1081
+DOI: 10.1152/ajpcell.00116.2020
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Sepsis-induced lung injury is a lethal complication with no effective treatment options, affecting millions of people worldwide. Oroxylin A (OroA) is a natural flavonoid with potent anticancer effects, but its modulating effect on inflammation through microRNAs (miRs) is not apparent. In this report, we investigated the target genes of the miR pathway mediated by OroA and assessed the potential for novel treatments of septic lung injury. An miR array screening and quantitative polymerase chain reaction identified that miR-155-5p could be a candidate regulated by OroA. Bioinformatics analysis indicated that interferon regulatory factor-2-binding protein-2 (IRF2BP2) might be a target of miR-155-5p, and this hypothesis was verified through reporter assays. In addition, an immunoprecipitation assay demonstrated that OroA increased the binding activity of IRF2BP2 to the nuclear factor of activated T-cells 1 (NFAT1), causing inducible nitric oxide synthase to cause an inflammatory reaction. Finally, the direct injection of short hairpin RNA (shRNA)-miR-155-5p into the bone marrow of mice ameliorated LPS-induced acute lung injury and inflammation in mice. Our results provide new mechanistic insights into the role of the OroA-induced miR-155-5p-IRF2BP2-NFAT1 axis in sepsis, demonstrating that direct bone marrow injection of lentivirus containing shRNA-155-5p could prove to be a potential future clinical application in alleviating sepsis-induced acute lung injury.

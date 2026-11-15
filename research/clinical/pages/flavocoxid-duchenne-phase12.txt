@@ -1,0 +1,12 @@
+PMID: 33467104
+Title: A Phase 1/2 Study of Flavocoxid, an Oral NF-κB Inhibitor, in Duchenne Muscular Dystrophy.
+Authors: Vita, Gian Luca, Sframeli, Maria, Licata, Norma, Bitto, Alessandra, Romeo, Sara, Frisone, Francesca, Ciranni, Annamaria, Pallio, Giovanni, Mannino, Federica, Aguennouz, M'Hammed, Rodolico, Carmelo, Squadrito, Francesco, Toscano, Antonio, Messina, Sonia, Vita, Giuseppe
+Journal: Brain sciences
+ISOAbbrev: Brain Sci
+Year: 2021
+Volume: 11  Issue: 1  Pages: 
+DOI: 10.3390/brainsci11010115
+URL: https://pubmed.ncbi.nlm.nih.gov/33467104/
+Fetched: 2026-11-14 via NCBI E-utilities (efetch db=pubmed)
+--- Abstract ---
+Flavocoxid is a blended extract containing baicalin and catechin with potent antioxidant and anti-inflammatory properties due to the inhibition of the cyclooxygenase (COX) and 5-lipoxygenase (5-LOX) enzymes, nuclear factor-κB (NF-κB), tumor necrosis factor (TNF)-alpha, and the mitogen-activated protein kinases (MAPKs) pathways. This phase 1/2 study was designed to assess the safety and tolerability of flavocoxid in patients with Duchenne muscular dystrophy (DMD). Thirty-four patients were recruited: 17 were treated with flavocoxid at an oral dose of 250 or 500 mg, according to body weight, for one year; 17 did not receive flavocoxid and served as controls. The treatment was well tolerated and nobody dropped out. Flavocoxid induced a significant reduction in serum interleukin (IL)-1 beta and TNF-alpha only in the group of DMD boys on add-on therapy (flavocoxid added to steroids for at least six months). The decrease in IL-1 beta was higher in younger boys. The serum H2O2 concentrations significantly decreased in patients treated with flavocoxid alone with a secondary reduction of serum glutathione peroxidase (GPx) levels, especially in younger boys. The exploratory outcome measures failed to show significant effects but there was a trend showing that the younger boys who received treatment were faster at performing the Gowers' maneuver, while the older boys who received treatment were faster at doing the 10-m walk test (10MWT). Therefore, a double-blind, placebo-controlled study for at least two/three years is warranted to verify flavocoxid as a steroid substitute or as add-on therapy to steroids.

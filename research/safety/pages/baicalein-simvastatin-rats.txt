@@ -1,0 +1,14 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/34214011/
+PMID: 34214011
+Title: Baicalein inhibits the pharmacokinetics of simvastatin in rats
+Authors: Meng Meng; Xin Li; Xiuwen Zhang; Bin Sun
+Journal: Pharmaceutical biology (2021)
+DOI: 10.1080/13880209.2021.1942927
+Fetched: 2026-11-14
+
+ABSTRACT
+CONTEXT: Baicalein and simvastatin possess similar pharmacological activities and indications. The risk of their co-administration was unclear.
+OBJECTIVE: The interaction between baicalein and simvastatin was investigated to provide reference and guidance for the clinical application of the combination of these two drugs.
+MATERIALS AND METHODS: The pharmacokinetics of simvastatin was investigated in Sprague-Dawley rats (n = 6). The rats were pre-treated with 20 mg/kg baicalein for 10 days and then administrated with 40 mg/kg simvastatin. The single administration of simvastatin was set as the control group. The rat liver microsomes were employed to assess the metabolic stability and the effect of baicalein on the activity of CYP3A4.
+RESULTS: Baicalein significantly increased the AUC(0-t) (2018.58 ± 483.11 vs. 653.05 ± 160.10 μg/L × h) and Cmax (173.69 ± 35.49 vs. 85.63 ± 13.28 μg/L) of simvastatin. The t1/2 of simvastatin was prolonged by baicalein in vivo and in vitro. The metabolic stability of simvastatin was also improved by the co-administration of baicalein. Baicalein showed an inhibitory effect on the activity of CYP3A4 with the IC50 value of 12.03 μM, which is responsible for the metabolism of simvastatin.
+DISCUSSION AND CONCLUSION: The co-administration of baicalein and simvastatin may induce drug-drug interaction through inhibiting CYP3A4. The dose of baicalein and simvastatin should be adjusted when they are co-administrated.

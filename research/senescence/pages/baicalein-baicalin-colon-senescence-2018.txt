@@ -1,0 +1,8 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/29732005/
+Accessed: 2026-11-14
+Title: Baicalein and baicalin inhibit colon cancer using two distinct fashions of apoptosis and senescence.
+Journal: Oncotarget
+Year: 2018
+---
+
+Baicalein and baicalin are active components of the Scutellaria baicalensis Georgi and both have broad anti-tumor activity. However, how and whether baicalein and baicalin inhibit colon cancer is unclear. Here we demonstrate that baicalein and baicalin can significantly inhibit human colon cancer cell growth and proliferation. Furthermore, both can induce cell cycle arrest, and suppress cancer cell colony formation and migration. The suppressive effects are mechanistically due to the induction of colon cancer cell apoptosis and senescence mediated by baicalein and baicalin, respectively. Furthermore, we revealed that baicalin-induced senescence in tumor cells is due to its inhibition of telomerase reverse transcriptase expression in tumor cells, and that MAPK ERK and p38 signaling pathways are causatively involved in the regulation of colon cancer cell apoptosis and senescence mediated by baicalein and baicalin. In addition, our in vivo studies using human colon cancer cells in humanized mouse xenograft models, further demonstrated that baicalein and baicalin can induce tumor cell apoptosis and senescence, resulting in inhibition of tumorigenesis and growth of colon cancer in vivo. These data clearly suggest that baicalein and baicalin have potent anti-cancer effects against human colon cancer and could be potential novel and effective target drugs for cancer therapy.

@@ -1,0 +1,8 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/25596147/
+Accessed: 2026-11-14
+Title: Wogonin increases β-amyloid clearance and inhibits tau phosphorylation via inhibition of mammalian target of rapamycin: potential drug to treat Alzheimer's disease.
+Journal: Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology
+Year: 2015
+---
+
+Alzheimer's disease (AD) is a progressive neurodegenerative disorder. Many molecular lesions have been detected in AD, of which the most commonly observed is the accumulation of misfolded proteins, including β-amyloid (Aβ40 and Aβ42) and tau, in the aging brain. The mammalian target of rapamycin (mTOR) pathway mediates Aβ clearance through autophagy and regulates tau phosphorylation via glycogen synthase kinase-3β (GSK3β). Thus, mTOR becomes an important therapeutic target for AD. However, no mTOR inhibitor has yet been marketed to treat AD. Here, we discovered a natural product, wogonin, which could potently promote Aβ clearance in the primary neural astrocytes and significantly decrease Aβ secretion in SH-SY5Y-APP and BACE1 cells [SH-SY5Y cells stably expressing the human amyloid precursor protein (APP) and β-secretase (BACE1)] through the mTOR/autophagy signaling pathway. Additionally, further research revealed that wogonin inhibited the activity of GSK3β via mTOR inhibition, finally leading to tau phosphorylation reduction in SH-SHY5Y cells and primary neural astrocytes. In conclusion, our study identified a small molecule, wogonin, which could effectively promote Aβ clearance and decrease tau phosphorylation, and highlighted its therapeutic potential for AD treatment.

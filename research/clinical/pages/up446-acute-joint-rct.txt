@@ -1,0 +1,12 @@
+PMID: 24611484
+Title: A combination of Scutellaria baicalensis and Acacia catechu extracts for short-term symptomatic relief of joint discomfort associated with osteoarthritis of the knee.
+Authors: Arjmandi, Bahram H, Ormsbee, Lauren T, Elam, Marcus L, Campbell, Sara C, Rahnama, Nader, Payton, Mark E, Brummel-Smith, Ken, Daggy, Bruce P
+Journal: Journal of medicinal food
+ISOAbbrev: J Med Food
+Year: 2014
+Volume: 17  Issue: 6  Pages: 707-13
+DOI: 10.1089/jmf.2013.0010
+URL: https://pubmed.ncbi.nlm.nih.gov/24611484/
+Fetched: 2026-11-14 via NCBI E-utilities (efetch db=pubmed)
+--- Abstract ---
+The extracts of Scutellaria baicalensis and Acacia catechu have been shown in previous studies to alleviate joint discomfort, reduce stiffness, and improve mobility by reducing the production of proinflammatory molecules over long periods of supplementation. The acute effects of intake of these extracts have not yet been investigated. Thus, we carried out a 1 week clinical trial to examine the extent to which UP446-a natural proprietary blend of S. baicalensis and A. catechu (UP446)-decreases knee joint pain, mobility, and biomarkers of inflammation in comparison to naproxen. Seventy-nine men and women (40-90 years old) diagnosed as having mild to moderate osteoarthritis (OA) consumed either 500 mg/day of the UP446 supplement or 440 mg/day of naproxen for 1 week in a double-blind randomized control trial. Pain, knee range of motion (ROM), and overall physical activity were evaluated at the start and at the end of treatment. Fasting blood was collected to determine serum interleukins 1β and 6, tumor necrosis factor-α, C-reactive protein, and hyaluronic acid. The UP446 group experienced a significant decrease in perceived pain (P=.009) time dependently. Stiffness was significantly reduced by both treatments (P=.002 UP446, P=.008 naproxen). Significant increases in mean ROM over time (P=.04) were found in the UP446 group. These findings suggest that UP446 is effective in reducing the physical symptoms associated with knee OA.

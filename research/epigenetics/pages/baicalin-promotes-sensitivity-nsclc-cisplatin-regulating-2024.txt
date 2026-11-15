@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/39061086/
+TITLE: Baicalin promotes the sensitivity of NSCLC to cisplatin by regulating ferritinophagy and macrophage immunity through the KEAP1-NRF2/HO-1 pathway.
+AUTHORS: Yang Chen; Shujun Bao; Zhongzhao Wang; Zheng Fang; Hao Tang
+JOURNAL: European journal of medical research
+YEAR: 2024
+VOL_PAGES: 29; 387
+DOI: 10.1186/s40001-024-01930-4
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Cisplatin (DDP) chemotherapy is commonly used in therapy for non-small cell lung cancer (NSCLC), but increased drug resistance has become a huge obstacle. Baicalin (BA) contributed to the sensitivity of NSCLC to DDP. Here, we aimed to further probe the pathophysiological mechanisms of BA in NSCLC. A549 and A549/DDP cells and xenograft mice were treated with BA and DDP. Xenograft mice were treated additionally with the NRF2 inducer (Bardoxolone methyl, BM) and KEAP1 knockdown. The levels of ferritinophagy-related proteins and biomarkers were determined. The autophagosomes were observed. M1 macrophage polarization and the contents of related indicators were analyzed. The involvement of KEAP1/NRF2/HO-1 was determined. BA inhibited cell development, and the effect of BA and DDP on cell development was additive. The abundance of ferritinophagy-related proteins and the number of autophagosomes were induced by BA. BA also promoted the transition of GSH to GSSH. BA favored M1 macrophage polarization and affected the expression of related proteins. When BA and DDP combined, these molecular phenomena were further exacerbated. BA induced accumulation of KEAP1 and reduction of NRF2 and HO-1. However, BM and KEAP1 knockdown disrupted the synergistic effects of BA and DDP on inhibiting NSCLC growth. BM and KEAP1 knockdown reversed DDP and BA-promoted protein expression activity and M1 macrophage polarization. Our findings suggest that BA is involved in ferritinophagy and macrophage immunity through the KEAP1-NRF2/HO-1 axis, thereby improving the DDP sensitivity in NSCLC, which could provide new candidates for treatment strategies.

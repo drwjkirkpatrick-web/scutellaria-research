@@ -1,0 +1,12 @@
+PMID: 12033492
+Title: Metabolism of constituents in Huangqin-Tang, a prescription in traditional Chinese medicine, by human intestinal flora.
+Authors: Zuo, Feng, Zhou, Zhong-Ming, Yan, Mei-Zhen, Liu, Mei-Lan, Xiong, Yu-Lan, Zhang, Qing, Song, Hong-Yue, Ye, Wen-Hua
+Journal: Biological & pharmaceutical bulletin
+ISOAbbrev: Biol Pharm Bull
+Year: 2002
+Volume: 25  Issue: 5  Pages: 558-63
+DOI: 10.1248/bpb.25.558
+URL: https://pubmed.ncbi.nlm.nih.gov/12033492/
+Fetched: 2026-11-14 via NCBI E-utilities (efetch db=pubmed)
+--- Abstract ---
+In the course of studies on the metabolism of active components of Huangqin-Tang by human intestinal flora (HIF), Huangqin-Tang and all individual herbs in the decoctions were incubated with a human fecal suspension separately. By using a high-performance liquid chromatographic (HPLC) method which was previously established in our laboratory, the metabolites in both the compound prescription and all the single herb decoctions were identified and determined both qualitatively and quantitatively. We found that the constituents of Huangqin-Tang, incluing baicalin (baicalein 7-glucuronide; BG), wogonoside (wogoninoglucuronide; WG), oroxylin-A-glucuronide (OG) from Scutellariae Radix, paeoniflorin (PF) from Paeoniae Radix, liquiritin (liquiritigenin 4'-O-glucoside; LG), isoliquirtin (isoliquiritigenin 4-glucoside; ILG) and glycyrrhizic acid (GL) from Glycyhhizea Radix, were converted to their metabolites baicalein (B), wogonin (W), oroxylin-A (O), paeonimetabolin-I (PM-I), liquiritigenin (L), isoliquiritigenin (IL) and glycyrrhetinic acid (GA) by HIF. The contents of the metabolites in Huangqin-Tang and in each single herb decoction increased significantly after incubation with intestinal flora. Comparing with single herb decoctions, the transformation of BG, WG, OG, LG and ILG in the compound prescription was promoted, however, that of PF and GL was inhibited. All the results suggested that the glycosides of many medicinal herbs could be converted to aglycones by HIF, and the metabolism of most glycosides was improved in the compound prescription.

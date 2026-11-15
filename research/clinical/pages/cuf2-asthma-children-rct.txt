@@ -1,0 +1,15 @@
+PMID: 19821718
+Title: Randomized, double-blind, placebo-controlled trial of herbal therapy for children with asthma.
+Authors: Wong, Eliza L Y, Sung, Rita Yn Tz, Leung, Ting Fan, Wong, Yeuk Oi, Li, Albert M C, Cheung, Kam Lau, Wong, Chun Kwok, Fok, Tai Fai, Leung, Ping Chung
+Journal: Journal of alternative and complementary medicine (New York, N.Y.)
+ISOAbbrev: J Altern Complement Med
+Year: 2009
+Volume: 15  Issue: 10  Pages: 1091-7
+DOI: 10.1089/acm.2008.0626
+URL: https://pubmed.ncbi.nlm.nih.gov/19821718/
+Fetched: 2026-11-14 via NCBI E-utilities (efetch db=pubmed)
+--- Abstract ---
+OBJECTIVES: The purpose of this trial was to evaluate whether the herbal formula of CUF2 used as complementary therapy improves the clinical symptoms and biochemical markers in children with asthma using inhaled corticosteroids.
+PATIENTS AND METHODS: In a double-blind, placebo-controlled prospective trial, 85 children with asthma aged 7-15 years were randomly assigned to receive either a daily oral herbal formula of 0.619-g CUF2 capsule of dried aqueous extract with an equal weight of five herbs (Astragalus mongholius Bunge, Cordyceps sinensis Sacc., Radix stemonae, Bulbus fritillariae cirrhosae, and Radix scutellariae) or placebo for 6 months.
+RESULTS: The primary endpoint was the change in steroids dosage; the secondary outcomes included the disease severity score, lung function test, and biochemical markers in blood. Eighty-five (85) children (42 on active treatment and 43 on placebo) completed the 6-month clinical trial. Children randomized to the herbal formula of CUF2 and the placebo showed a similar improvement in clinical symptoms and biomedical markers. The comparison between the CUF2 group and the placebo group showed no significant difference on the dosage of steroids (-2.3 versus -3.1 mg, p = 0.915), disease severity score (-2.3 versus -3.1, p = 0.215), and lung function test of forced expiratory volume in 1 second/forced vital capacity percent (0.1 versus 0.6%, p = 0.809) and peak expiratory flow rate (-7.3 versus -0.6 l/minutes, p = 0.118). No significant difference was found between the two study groups in the biochemical outcomes measured. The intervention effect of CUF2 was smaller than the placebo effect.
+CONCLUSIONS: This study provides no evidence to support the use of the herbal formula of CUF2 in children with asthma. Parents are thus advised to discuss with health professionals before choosing an herbal formula in preference to conventional treatment modes.

@@ -1,0 +1,650 @@
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13709419/
+Fetched: 2026-11-14
+
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#main-content)
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** (
+Lock
+Locked padlock icon
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+[Home](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg)![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+Search PMC Full-Text Archive
+
+Search in PMC![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg)
+
+- [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+- [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+- ![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg)
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)](https://doi.org/10.3390/toxics14100919) View on publisher site
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/pdf/toxics-14-00919.pdf) Download PDF
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Add to Collections
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg)
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+
+Learn more:
+[PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/)
+\|
+[PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Toxics logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-toxics.png)
+
+Toxics
+
+. 2026 Oct 17;14(10):919. doi: [10.3390/toxics14100919](https://doi.org/10.3390/toxics14100919)
+
+# Safety Evaluation of _Scutellaria baicalensis_: Acute and 26-Week Repeated-Dose Oral Toxicity Studies in Rats
+
+[Jungbin Song](https://pubmed.ncbi.nlm.nih.gov/?term=%22Song%20J%22[Author])
+
+### Jungbin Song
+
+1Department of Herbal Pharmacology, College of Korean Medicine, Kyung Hee University, 26, Kyungheedae-ro, Dongdaemun-gu, Seoul 02447, Republic of Korea; jbsong@khu.ac.kr
+
+Investigation, Writing – original draft, Visualization
+
+Find articles by [Jungbin Song](https://pubmed.ncbi.nlm.nih.gov/?term=%22Song%20J%22[Author])
+
+1, [Hocheol Kim](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kim%20H%22[Author])
+
+### Hocheol Kim
+
+1Department of Herbal Pharmacology, College of Korean Medicine, Kyung Hee University, 26, Kyungheedae-ro, Dongdaemun-gu, Seoul 02447, Republic of Korea; jbsong@khu.ac.kr
+
+Conceptualization, Investigation, Writing – review & editing, Supervision, Project administration
+
+Find articles by [Hocheol Kim](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kim%20H%22[Author])
+
+1,\*
+
+Editor: Małgorzata Maria Dobrzyńska1
+
+- Author information
+- Article notes
+- Copyright and License information
+
+1Department of Herbal Pharmacology, College of Korean Medicine, Kyung Hee University, 26, Kyungheedae-ro, Dongdaemun-gu, Seoul 02447, Republic of Korea; jbsong@khu.ac.kr
+
+\*
+
+Correspondence: hckim@khu.ac.kr; Tel.: +82-2-961-0419
+
+#### Roles
+
+**Jungbin Song**: Investigation, Writing – original draft, Visualization
+
+**Hocheol Kim**: Conceptualization, Investigation, Writing – review & editing, Supervision, Project administration
+
+**Małgorzata Maria Dobrzyńska**: Academic Editor
+
+Received 2026 Sep 2; Revised 2026 Oct 6; Accepted 2026 Oct 8; Collection date 2026 Oct.
+
+© 2026 by the authors.
+
+Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the [Creative Commons Attribution (CC BY) license](https://creativecommons.org/licenses/by/4.0/).
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC13709419  PMID: [42931707](https://pubmed.ncbi.nlm.nih.gov/42931707/)
+
+## Abstract
+
+_Scutellaria baicalensis_ root is widely used in traditional medicine and functional foods, but information on its long-term toxicity remains limited. This study evaluated the acute and 26-week repeated-dose oral toxicity of _S. baicalensis_ root extract (SBE) in male and female Sprague–Dawley rats under Good Laboratory Practice conditions. In the acute study, SBE was administered once at 2500 or 5000 mg/kg, followed by 14 days of observation. In the repeated-dose study, SBE was administered at 500, 1000, or 2000 mg/kg/day for 26 weeks, followed by a 4-week recovery period. No mortality occurred in either study. Acute administration caused only transient, non-adverse clinical signs, and the minimum lethal dose was >5000 mg/kg. Repeated administration at 2000 mg/kg/day increased relative liver weight and urinary ketone grades in both sexes, while absolute liver weight and serum triglycerides increased in females. These findings were considered treatment-related but non-adverse, without corroborating clinical, serum biochemical, or histopathological evidence of organ injury. The no-observed-effect level and no-observed-adverse-effect level were 1000 and 2000 mg/kg/day, respectively, and no target organ of toxicity was identified. These findings provide preclinical safety information for acute and long-term oral exposure to SBE.
+
+**Keywords:** _Scutellaria baicalensis_, Scutellariae Radix, toxicity, safety, minimum lethal dose, no-observed-adverse-effect level, no-observed-effect level
+
+## 1\. Introduction
+
+_Scutellaria baicalensis_ Georgi, a perennial plant of the Lamiaceae family commonly known as Baikal skullcap or Chinese skullcap, is widely distributed in East Asia. Its dried root, Scutellariae Radix, has been used for centuries in traditional East Asian medicine for the treatment of dysentery, hypertension, and various inflammatory and infectious diseases \[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B1-toxics-14-00919)\]. It is also widely used worldwide in herbal medicines and functional food prod-ucts \[ [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B2-toxics-14-00919), [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B3-toxics-14-00919), [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B4-toxics-14-00919)\]. Scutellariae Radix is rich in flavonoids, particularly baicalin, wogonoside, bai-calein, and wogonin \[ [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B4-toxics-14-00919)\]. These constituents have been extensively investigated for their anti-inflammatory, antioxidant, neuroprotective, hepatoprotective, immunomodulatory, and anticancer activities \[ [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B3-toxics-14-00919), [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B4-toxics-14-00919), [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B5-toxics-14-00919), [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B6-toxics-14-00919), [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B7-toxics-14-00919)\].
+
+Despite its long history of use, the toxicological profile of Scutellariae Radix has not been fully established. Acute oral toxicity studies of aqueous, hydroalcoholic, and fermented extracts of Scutellariae Radix reported no mortality or treatment-related toxicity at the tested doses \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B8-toxics-14-00919), [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B9-toxics-14-00919), [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B10-toxics-14-00919)\]. However, these studies provide limited information on the effects of prolonged exposure.
+
+Potential safety concerns have also emerged from clinical observations. Sporadic cases of clinically apparent liver injury have been reported following the use of _S. bai-calensis_-containing products \[ [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B11-toxics-14-00919)\]. A recent literature review identified 16 suspected cases of _S. baicalensis_-associated drug-induced liver injury; however, most involved multi-ingredient preparations, making the specific contribution of _S. baicalensis_ difficult to determine \[ [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B12-toxics-14-00919)\].
+
+Preclinical studies have further raised concerns regarding potential hepatic, renal, and cardiac effects. A 26-week repeated-dose study of an ethanol extract of _S. baicalensis_ reported inflammatory changes in the liver at 2500 mg/kg/day, which resolved after treatment withdrawal \[ [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B13-toxics-14-00919)\]. High-dose exposure to major flavonoids of Scutellariae Radix has also been associated with organ-specific toxicity, including renal injury and fibrosis with baicalin and cardiac injury with wogonin \[ [14](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B14-toxics-14-00919), [15](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B15-toxics-14-00919)\]. More recently, repeated administration of baicalin at 4000 mg/kg/day for 28 days produced mild hepatic and renal alterations in mice \[ [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B16-toxics-14-00919)\]. In addition, a 13-week repeated-dose study of a combined extract of _S. baicalensis_ and _Pueraria lobata_ showed centrilobular hepatocellular hypertrophy and increased relative liver weight at high doses, although these changes were considered adaptive and reversible \[ [17](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B17-toxics-14-00919)\].
+
+These findings suggest that repeated or high-dose exposure to _S. baicalensis_ and its constituents may affect the liver, kidney, and heart. However, comprehensive long-term toxicity data for _S. baicalensis_ root extract remain limited, and key toxicological parameters, including dose–response relationships, no-observed-effect levels (NOELs), no-observed-adverse-effect levels (NOAELs), potential target organs, and the reversibility of treatment-related effects, have not been adequately defined under regulatory-compliant conditions.
+
+To address these gaps, the present study evaluated the acute and 26-week repeated-dose oral toxicity of _S. baicalensis_ root extract in male and female Sprague–Dawley rats, including a 4-week recovery period. The studies were conducted under Good Laboratory Practice (GLP) conditions in accordance with the toxicity testing guidelines of the Korean Ministry of Food and Drug Safety (MFDS) to assess general toxicity, determine NOEL and NOAEL values, identify potential target organs, and evaluate the reversibility of treatment-related effects.
+
+## 2\. Materials and Methods
+
+### 2.1. Preparation of S. baicalensis Extract (SBE)
+
+Dried roots of _S. baicalensis_ from Shandong province, China, were purchased from Dong Kyung Pharm Co., Ltd. (Seoul, Republic of Korea). The roots were extracted with 70% ethanol for 3 h at 80 °C under reflux conditions, and the resulting extract was filtered. The filtrate was then concentrated under reduced pressure using a rotary evaporator at 45 °C and lyophilized with a freeze dryer to yield a yellow powder. The extraction yield was 26.08%. A single batch of SBE was used in both the single-dose and 26-week repeated-dose toxicity studies. The contents of the major flavonoids in this batch, as determined using a validated high-performance liquid chromatography method, were 19.8% baicalin, 3.78% baicalein, 3.82% wogonoside, and 0.62% wogonin (all _w_/ _w_, on a dry extract basis).
+
+### 2.2. Animals
+
+Seven-week-old and five-week-old Sprague–Dawley (SD) rats were obtained from Koatech (Pyeongtaek, Gyeonggi-do, Republic of Korea) for the acute and the 26-week repeated-dose oral toxicity studies, respectively. Toxicity tests were conducted at Chemon Inc. (Yongin, Gyeonggi-do, Republic of Korea) and complied with the Korea Food and Drug Administration (KFDA; now the Korean MFDS)’s Standard for Toxicity Study of Pharmaceuticals (No. 2005-60) and GLP Regulation for Non-clinical Laboratory Studies (No. 2005-79). The acute and the 26-week repeated-dose oral toxicity studies were approved by the Institutional Animal Care and Use Committee of the Preclinical Research Center, Chemon Inc. (Approval Nos.: 07-RA-136, 07-RR-137). Animals were allowed free access to standard food and water and were acclimatized to facility conditions for 7 days prior to the experiments. The animals were kept under the following conditions: 23 ± 3 °C, 55 ± 15% relative humidity, and a 12-h light-dark cycle (08:00 lights on–20:00 lights off).
+
+### 2.3. Acute Oral Toxicity Study
+
+Fifteen female and fifteen male SD rats were ranked by body weight and allocated to three groups per sex using a serpentine allocation method: control, SBE 2500 mg/kg, and SBE 5000 mg/kg groups, with five rats in each group. The rats were fasted overnight before dosing. SBE was dissolved in sterile water for injection (vehicle) and administered orally at a volume of 15 mL/kg directly into the stomach via an oral gavage needle in a single dose. The control group was administered the vehicle following the same procedure. The rats were continuously monitored for 1 h post-administration, and then hourly for up to 6 h for any signs of mortality or clinical symptoms. Observations continued at least once daily for 14 days post-administration. Body weights of all rats were measured just before administration, and on days 1, 3, 7, and 14 post-administration. On day 14 post-administration, the rats were anesthetized with ether inhalation and euthanized by exsanguination through the posterior vena cava and abdominal aorta. A gross necropsy was performed to examine the external surfaces and organs.
+
+### 2.4. Twenty-Six-Week Repeated-Dose Oral Toxicity Study
+
+#### 2.4.1. Group Allocation and Dosing
+
+Fifty female and fifty male SD rats with body weights close to the mean were ranked by body weight. The rats were then allocated to four main groups (10 rats per group) and two recovery groups (5 rats per group) for each sex to balance initial body weights across groups. The sample size was determined in accordance with the toxicity testing guidelines (Notification No. 2005-60) of the KFDA, now the Korean MFDS. All rats underwent 26 weeks of treatment with once daily dosing, with those in the recovery groups undergoing an additional 4 weeks of observation without further dosing. One main group and one recovery group were designated as controls and received the vehicle (sterile water for injection) at a dosing volume of 10 mL/kg via oral gavage needle. The three other main groups received SBE at doses of 500, 1000, and 2000 mg/kg/day, respectively, and the additional recovery group received SBE at 2000 mg/kg/day. All treatments were administered under the same conditions (volume and route) as the control group.
+
+Dose levels were selected based on the results of our acute oral toxicity study and a 2-week preliminary repeated-dose study. No mortality was observed following a single oral dose of 5000 mg/kg. In the preliminary repeated-dose study, administration at 1000 and 2000 mg/kg/day produced no mortality or clinical signs and had no effect on body-weight gain. Based on these preliminary findings, 2000 mg/kg/day was selected as the high dose, corresponding to 20 times the pharmacologically effective dose of 100 mg/kg identified in our previous pharmacological studies in rats (unpublished data). The middle and low doses of 1000 and 500 mg/kg/day, respectively, were selected using twofold descending intervals.
+
+#### 2.4.2. Clinical Signs
+
+During the administration and recovery periods, mortality, the types of clinical signs observed, the onset days of these signs, and their severity were monitored daily. Each observation was recorded individually for every rat.
+
+#### 2.4.3. Body Weight
+
+The body weight of all rats was measured on the day dosing began, and subsequently once a week, as well as on the day before and on the day of necropsy. The body weight at necropsy was measured after overnight fasting.
+
+#### 2.4.4. Food and Water Consumption
+
+Food consumption was measured on the day dosing began, weekly until week 13 post-dosing, once every four weeks from week 14 to 26, and on the day before necropsy. For the recovery group after week 26, measurements were taken bi-weekly. A predetermined amount of food was provided per cage, and the remaining quantity was measured the following day. The difference was calculated to determine the average intake per rat per day (g/rat/day).
+
+Water consumption was measured at the same frequency as food consumption. A predetermined amount of water was provided per cage, and the remaining quantity was measured the following day. The difference was calculated to determine the average intake per rat per day (g/rat/day).
+
+#### 2.4.5. Ophthalmologic Examination
+
+Upon group allocation, the appearance of the eyes of all rats was observed with the naked eye. In the final week of observation, for rats in both the control and high-dose groups (2000 mg/kg/day), the appearance of the eyes was again examined with the naked eye. Mydriasis was induced in both eyes using homatropine hydrobromide (Samil Pharm, Seoul, Republic of Korea) administered as eye drops. Then, observations and photography of the anterior segment, intermediate transparent media, and fundus were conducted using a fundus camera (Genesis, Kowa Co., Ltd., Nagoya, Japan). Since no abnormalities were observed in the eyes of the high-dose group, fundus examinations were not extended to the other lower dose groups.
+
+#### 2.4.6. Urinalysis
+
+Urinalysis was performed during the last week of the 26-week administration period in the main groups and during the last week of the 4-week recovery period in the recovery groups. In the main groups, the five rats with the lowest identification numbers within each group and sex were selected for urinalysis. In the recovery groups, all five rats of each sex per group underwent urinalysis. The rats from each group were individually housed in metabolic cages for urine collection. Fresh urine collected over a period of 3–4 h was applied to a test strip (Multistix 10SG, Bayer, Elkhart, IN, USA) and analyzed with an automated urine analyzer (CliniTek 100, Bayer) to measure the following parameters: glucose, bilirubin, ketone bodies, specific gravity, occult blood, pH, protein, urobilinogen, nitrite, and leukocytes. The fresh urine was also visually examined for color, then centrifuged at 1500 rpm for 5 min to prepare for urine sediment examination. The sediment was stained using the Sternheimer–Malbin method and observed under a microscope for red blood cells, white blood cells (WBCs), epithelial cells, and casts. Additionally, the total urine volume collected over 24 h was measured.
+
+#### 2.4.7. Necropsy and Organ Weight
+
+On the day of necropsy, fasting rats were anesthetized via ether inhalation. Blood was collected from the posterior vena cava for hematological and biochemical analyses. Then, the abdominal aorta and posterior vena cava were severed to exsanguinate and euthanize the animals. A gross necropsy was performed to examine the external surfaces, subcutaneous areas, head, thoracic and abdominal cavities, and all organs therein. Organ weights were measured, and tissues were fixed for further analysis.
+
+#### 2.4.8. Hematology
+
+The collected blood was placed into a CBC bottle containing EDTA-2K, and the following parameters were measured using an automated blood analyzer (ADVIA 2120, Siemens, Tarrytown, NY, USA): WBC count, red blood cell count, hemoglobin concentration, hematocrit, mean corpuscular volume, mean corpuscular hemoglobin, mean corpuscular hemoglobin concentration, red cell distribution width, hemoglobin concentration distribution width, platelet count, mean platelet volume, and reticulocyte count. A differential WBC count was conducted for neutrophils, lymphocytes, monocytes, eosinophils, basophils, and large unstained cells.
+
+#### 2.4.9. Serum Biochemistry
+
+Blood was placed into a vacutainer tube containing a clot activator (Insepack, Sekisui, Tokyo, Japan) and allowed to clot at room temperature for 15–20 min before being centrifuged at 3000 rpm for 10 min to obtain serum. The serum was analyzed using an automated clinical chemistry analyzer (AU400, Olympus, Tokyo, Japan) for the following parameters: aspartate aminotransferase, alanine aminotransferase, alkaline phosphatase, blood urea nitrogen, creatinine, glucose, total cholesterol, total protein, creatine phosphokinase, albumin, total bilirubin, triglycerides, inorganic phosphorus, calcium ion, and albumin/globulin ratio. Electrolyte levels, including sodium, potassium, and chloride ions, were measured using an electrolyte analyzer (Ciba-Corning 644 Na/K/Cl Analyzer, Ciba-Corning, Medfield, MA, USA).
+
+#### 2.4.10. Plasma Coagulation
+
+Blood was placed into a microtube containing 0.2 mL of 3.2% sodium citrate and then centrifuged at 3000 rpm for 10 min to obtain plasma. The coagulation times, specifically the prothrombin time and activated partial thromboplastin time (aPTT), were measured in seconds using a coagulation analyzer (ACL 100, Instrumentation Laboratory, Bedford, MA, USA) through nephelometric analysis.
+
+#### 2.4.11. Histopathology
+
+The organs of all rats were fixed in 10% neutral buffered formalin solution, except for the eyes, which were fixed in Davidson’s solution, and the testes and epididymides, which were fixed in Bouin’s solution. The following organs were included: testes, epididymides, seminal vesicles, prostate, ovaries, uterus, vagina, urinary bladder, spleen, stomach, pancreas, duodenum, jejunum, ileum, cecum, colon, rectum, mesenteric lymph nodes, adrenal glands, kidneys, liver, skeletal muscle (femoral muscle), sciatic nerve, femur, mandibular lymph nodes, salivary glands, sternum, thymus, heart, lungs, aorta, thoracic spinal cord, tongue, trachea, esophagus, thyroid gland, eyes, brain, pituitary gland, and skin (including mammary glands).
+
+Histopathologic examinations were conducted for all rats in the control and high-dose groups, as well as for organs with gross abnormalities identified during necropsy in the low and mid-dose groups. The organs or tissues were dehydrated, embedded in paraffin, sectioned at 4–5 µm thickness, and stained with Hematoxylin and Eosin. The scope of histopathological examination was prespecified in accordance with Notification No. 2005-60 issued by the KFDA, now the Korean MFDS. This notification specifies examination of the control and high-dose groups, with examination of other dose groups when warranted by the findings. Since no histopathological changes attributable to the SBE were observed in the control and high-dose groups, histopathological examinations were not extended to the other lower dose groups.
+
+Histopathological findings were recorded for individual animals by organ. Lesion incidence was summarized as the number and percentage of affected animals among those examined, separately by sex and group. Lesion severity was graded as 1+ (minimal), 2+ (mild), 3+ (moderate), or 4+ (marked).
+
+### 2.5. Statistical Analysis
+
+Data from male and female rats were analyzed separately. Body weight and food and water consumption were compared between groups separately at each measurement time point. No repeated-measures analysis was performed. Continuous data were analyzed using one-way analysis of variance (ANOVA). When ANOVA indicated a statistically significant difference, post hoc comparisons with the control group were performed using tests selected based on group size and the results of Levene’s test for homogeneity of variances. When variances were homogeneous and group sizes were equal, Duncan’s multiple range test was used for pairwise comparisons among group means \[ [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B18-toxics-14-00919)\]. When variances were homogeneous but group sizes were unequal, Scheffé’s procedure was used because it accommodates unequal sample sizes and provides simultaneous inference for all contrasts among group means \[ [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B19-toxics-14-00919)\]. When the equal-variance assumption was not met, Dunnett’s T3 test was used for pairwise comparisons because it does not require a common variance across groups \[ [20](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B20-toxics-14-00919)\]. Discrete data were transformed before applying the Kruskal–Wallis H-test. If significance was identified, the Mann–Whitney U-test was employed to confirm significance with the control group. Fisher’s exact test was applied to urine color and the incidences of individual necropsy and histopathological findings. Data were expressed as mean ± standard deviation (SD). A _p_-value of <0.05 was considered statistically significant. SPSS (version 10.1, SPSS Inc., Chicago, IL, USA) was used for statistical analysis.
+
+## 3\. Results
+
+### 3.1. Acute Oral Toxicity Study
+
+No deaths were observed in any of the groups during the study period. On the day of administration, one female rat in the 2500 mg/kg dose group exhibited soft stool, while in the 5000 mg/kg dose group, soft stool and soiled perineal regions were observed in one male and three female rats, respectively. These symptoms had disappeared by the first day following administration. Body weight changes and gains observed over the 14 days following administration were similar across all groups for both sexes ( [Table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#toxics-14-00919-t001)). Necropsy findings included testicular and epididymal atrophy in one male rat from the 5000 mg/kg dose group, with the organs displaced to the right upper abdomen and adhered to the diaphragm. Additionally, one female rat from both the control group and the 5000 mg/kg dose group exhibited uterine retention of clear liquid.
+
+#### Table 1.
+
+Body weight changes and gains in the acute toxicity study of _Scutellaria baicalensis_ extract.
+
+| Groups | Day 0 1 | Day 1 | Day 3 | Day 7 | Day 14 | Gains |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **Male** |  |  |  |  |  |  |
+| Control | 226.20 ± 2.81 2 | 253.46 ± 3.81 | 267.59 ± 6.00 | 294.77 ± 8.58 | 337.25 ± 13.01 | 111.06 ± 10.90 |
+| 2500 mg/kg | 227.76 ± 4.49 | 254.89 ± 5.31 | 269.25 ± 8.83 | 293.28 ± 9.25 | 325.02 ± 14.59 | 97.26 ± 12.14 |
+| 5000 mg/kg | 227.53 ± 4.72 | 252.92 ± 5.31 | 267.13 ± 5.73 | 291.44 ± 5.52 | 328.92 ± 7.98 | 101.39 ± 8.90 |
+| **Female** |  |  |  |  |  |  |
+| Control | 172.49 ± 2.29 | 193.49 ± 2.69 | 197.26 ± 4.74 | 202.88 ± 3.81 | 217.01 ± 4.46 | 44.52 ± 4.47 |
+| 2500 mg/kg | 175.14 ± 2.28 | 192.81 ± 4.42 | 197.07 ± 3.89 | 203.00 ± 6.27 | 213.74 ± 9.04 | 38.60 ± 7.84 |
+| 5000 mg/kg | 173.72 ± 3.78 | 193.17 ± 3.06 | 198.37 ± 5.22 | 202.41 ± 5.20 | 216.55 ± 7.97 | 42.83 ± 7.78 |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/table/toxics-14-00919-t001/)
+
+1 The day of administration was designated Day 0. 2 Data are expressed as mean ± SD in grams (g). Male and female data are presented in the upper and lower sections, respectively, with bold subheadings distinguishing the two sections.
+
+### 3.2. Twenty-Six-Week Repeated-Dose Oral Toxicity Study
+
+#### 3.2.1. Clinical Signs
+
+During the experimental period, no deaths or clinical symptoms were observed in any of the groups, including both the main and recovery groups.
+
+#### 3.2.2. Body Weight
+
+During the 26-week administration period, males in the 500 and 2000 mg/kg/day dose groups tended to show increased body weights and weight gains compared to the control group ( [Figure 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#toxics-14-00919-f001) a,e). Nonetheless, none of these trends were statistically significant. For females, no significant differences in body weight were observed between the groups during both the administration and recovery periods.
+
+##### Figure 1.
+
+![Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/75f0/13709419/a10db529f2f6/toxics-14-00919-g001a.webp)
+
+![Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/75f0/13709419/1e8c682716b7/toxics-14-00919-g001b.webp)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/figure/toxics-14-00919-f001/)
+
+Body weight changes and weight gains of male and female rats during the administration and recovery period in the 26-week repeated-dose oral toxicity study of _Scutellaria baicalensis_. ( **a**, **b**) represent the body weights of male and female rats, respectively, during the administration period, while ( **c**, **d**) represent the body weights of male and female rats, respectively, during the recovery period. ( **e**, **f**) show the body weight gains of male and female rats, respectively, over the 26-week period, while ( **g**, **h**) show the body weight gains of male and female rats, respectively, during the 4-week recovery period. Con, control; SBE, _Scutellaria baicalensis_ extract. Values are mean ± SD.
+
+#### 3.2.3. Food and Water Consumption
+
+There was no significant change in food consumption across all treatment and control groups for both male and female rats ( [Figure 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#toxics-14-00919-f002)). Males in all SBE dosing groups exhibited a tendency toward increased water consumption compared to the control group throughout the administration and recovery periods; however, these increases were not statistically significant ( [Figure 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#toxics-14-00919-f003) a). Water consumption among female rats did not show any significant differences between the groups during the experimental period ( [Figure 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#toxics-14-00919-f003) b).
+
+##### Figure 2.
+
+![Figure 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/75f0/13709419/06407f025e93/toxics-14-00919-g002.webp)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/figure/toxics-14-00919-f002/)
+
+Food consumption of male ( **a**) and female ( **b**) rats in the 26-week repeated-dose oral toxicity study of _Scutellaria baicalensis_ extract (SBE). Values are mean ± SD.
+
+##### Figure 3.
+
+![Figure 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/75f0/13709419/04343afc06d9/toxics-14-00919-g003.webp)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/figure/toxics-14-00919-f003/)
+
+Water consumption of male ( **a**) and female ( **b**) rats in the 26-week repeated-dose oral toxicity study of _Scutellaria baicalensis_ extract (SBE). Values are mean ± SD.
+
+#### 3.2.4. Ophthalmologic Examination
+
+External eye and fundus examinations revealed no ophthalmologic abnormalities in either sex in the control or high-dose groups.
+
+#### 3.2.5. Urinalysis
+
+Ketone body grades shifted toward higher categories with increasing dose during the administration period in both male and female rats, with significant increases ( _p_ < 0.05) observed in both sexes at a dose of 2000 mg/kg/day compared to the control group ( [Table 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#toxics-14-00919-t002)). At 2000 mg/kg/day, 1 + ketones were observed in 3/5 males and 2/5 females, compared with 0/5 animals in each control group; the remaining high-dose animals had trace ketones. In the recovery groups, no statistically significant differences in ketone body levels were observed between the SBE and control groups in either sex.
+
+##### Table 2.
+
+Summary of selected 1 urinalysis findings in the 26-week repeated-dose oral toxicity study of _Scutellaria baicalensis_ extract.
+
+| Parameter | Result | Groups (mg/kg/Day) |
+| :-: | :-: | :-: |
+| Male | Female |
+| :-: | :-: |
+| 0 | 500 | 1000 | 2000 | 0 | 500 | 1000 | 2000 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Ketone body | − | 4 | 1 | 1 | 0 | 5 | 5 | 2 | 0 |
+|  | +/− | 1 | 4 | 3 | 2 | 0 | 0 | 3 | 3 |
+|  | 1+ | 0 | 0 | 1 | **3 \*** | 0 | 0 | 0 | **2 \*** |
+| Specific gravity | ≤1.005 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 |
+|  | 1.01 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+|  | 1.015 | 0 | 1 | 1 | 0 | 4 | 2 | 1 | 0 |
+|  | 1.02 | 2 | 2 | 2 | 3 | 0 | 1 | 1 | 2 |
+|  | 1.025 | 1 | 1 | 2 | 2 | 1 | 0 | 2 | 2 |
+|  | ≥1.030 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| pH | 6.5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+|  | 7.0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+|  | 7.5 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 |
+|  | 8.0 | 1 | 2 | 4 | 5 | 5 | 2 | 3 | 2 |
+|  | 8.5 | 3 | 3 | 1 | 0 | 0 | 3 | 1 | 3 |
+|  | ≥9.0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Protein | − | 0 | 0 | 0 | 0 | 3 | 4 | 1 | 0 |
+|  | +/− | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 |
+|  | 1+ | 0 | 1 | 1 | 0 | 1 | 0 | 2 | 0 |
+|  | 2+ | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 |
+|  | 3+ | 4 | 4 | 3 | 4 | 0 | 0 | 1 | 4 |
+| Nitrite | − | 5 | 5 | 5 | 5 | 5 | 5 | 4 | 2 |
+|  | + | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
+| Occult blood | − | 1 | 5 | 5 | 4 | 3 | 5 | 5 | 5 |
+|  | +/− | 2 | 0 | 0 | 1 | 2 | 0 | 0 | 0 |
+|  | 1+ | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Leukocyte | − | 0 | 0 | 0 | 0 | 3 | 4 | 1 | 0 |
+|  | +/− | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 0 |
+|  | 1+ | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 3 |
+|  | 2+ | 4 | 0 | 2 | 4 | 0 | 0 | 1 | 2 |
+|  | 3+ | 0 | 4 | 3 | 1 | 0 | 0 | 0 | 0 |
+| Urine volume (mL) |  | 17.4 ± 4.7 2 | 14.6 ± 1.1 | 18.8 ± 7.1 | 15.4 ± 5.7 | 29.2 ± 13.5 | 26.0 ± 7.3 | 20.2 ± 6.4 | 18.2 ± 3.7 |
+| Urine color | Yellow | 5 | 5 | 3 | 2 | 5 | 5 | 2 | 0 |
+|  | Dark Yellow | 0 | 0 | 2 | 3 | 0 | 0 | 3 | **5 \*\*** |
+| No. of rats examined |  | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/table/toxics-14-00919-t002/)
+
+1 Only parameters with statistical significance or tendency are shown in table. 2 Data are expressed as mean ± SD. \* _p_ < 0.05 and \*\* _p_ < 0.01 compared with the control. Bold values indicate statistical significance.
+
+The following numerical differences were observed in the parameters of specific gravity, pH, protein, nitrite, leukocyte, and occult blood, although none of these reached statistical significance: (1) specific gravity tended toward higher categories at 1000 and 2000 mg/kg/day in both sexes (values ≥ 1.020 in 5/5 animals of each sex at 2000 mg/kg/day, compared with 3/5 males and 1/5 females in the control groups), (2) pH levels exhibited a decreasing trend in males at doses of 1000 and 2000 mg/kg/day, (3) protein, nitrite, and leukocyte levels showed an increasing trend in females at doses of 1000 and 2000 mg/kg/day, and (4) occult blood levels tended to decrease in the SBE-treated groups in both sexes. Urine sediment examination results showed no dose-related changes in either the main or recovery groups in both sexes.
+
+Urine volume decreased numerically across doses in female main groups, with a 37.67% lower mean at 2000 mg/kg/day than in controls (18.2 ± 3.7 vs. 29.2 ± 13.5 mL). In the female recovery groups, urine volume was also numerically lower at 2000 mg/kg/day (control 24.4 ± 7.7 mL, SBE 2000 mg/kg/day 18.4 ± 7.2 mL; 24.59% lower), with no statistically significant differences in either the main or recovery groups.
+
+The frequency of dark yellow urine increased with dose in both sexes during the administration period, with a significant increase ( _p_ < 0.01) observed in females at a dose of 2000 mg/kg/day compared to the control group (5/5 vs. 0/5 rats). However, no difference in urine color was observed during the recovery period between the SBE and control groups.
+
+#### 3.2.6. Hematology
+
+The WBC counts in males receiving doses of 500 and 2000 mg/kg/day significantly increased by 34.67% and 32.64%, respectively, compared to the control group ( _p_ < 0.01), although the increase did not show dose-dependency ( [Table 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#toxics-14-00919-t003)). After the recovery period, the WBC counts in males treated with SBE at 2000 mg/kg/day (8.52 ± 0.93 × 103/μL) were numerically 8.59% lower than those in the control group (9.32 ± 1.76 × 103/μL), with no significant difference noted. Neutrophil percentages were numerically higher in all SBE-treated male groups; however, this increase was not statistically significant. Monocyte percentages were numerically lower in males at 1000 and 2000 mg/kg/day and in all SBE-treated female groups, with a significant decrease of 18.03% observed in male rats at a dose of 2000 mg/kg/day compared to the control group ( _p_ < 0.05). After the recovery period, monocyte percentages in SBE-treated males at 2000 mg/kg/day (3.5 ± 0.7%) were numerically 10.19% higher than those in the control group (3.1 ± 0.6%), yet no significant difference was observed.
+
+##### Table 3.
+
+Summary of selected 1 hematological findings in the 26-week repeated-dose oral toxicity study of _Scutellaria baicalensis_ extract.
+
+| Parameter (Units) | Groups (mg/kg/Day) |
+| :-: | :-: |
+| Male | Female |
+| :-: | :-: |
+| 0 | 500 | 1000 | 2000 | 0 | 500 | 1000 | 2000 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| WBC (×103/μL) | 7.25 ± 0.89 2 | **9.77 ± 1.62 \*\*** | 8.58 ± 2.11 | **9.62 ± 1.02 \*\*** | 3.98 ± 1.03 | 4.23 ± 1.02 | 4.49 ± 1.10 | 4.87 ± 1.48 |
+| Differential leukocyte counts |  |  |  |  |  |  |  |  |
+| Neutrophils (%) | 26.8 ± 8.2 | 31.5 ± 10.4 | 30.5 ± 14.3 | 37.1 ± 11.6 | 17.0 ± 5.0 | 17.7 ± 6.2 | 17.5 ± 4.5 | 17.4 ± 4.7 |
+| Lymphocytes (%) | 66.4 ± 7.4 | 61.3 ± 10.1 | 63.1 ± 13.8 | 56.8 ± 10.7 | 75.5 ± 5.8 | 76.3 ± 5.6 | 76.3 ± 4.2 | 75.8 ± 4.3 |
+| Monocytes (%) | 4.2 ± 0.9 | 4.4 ± 0.8 | 3.8 ± 0.7 | **3.4 ± 0.6 \*** | 3.8 ± 1.0 | 3.1 ± 0.8 | 3.2 ± 0.9 | 3.4 ± 0.8 |
+| Eosinophil (%) | 1.2 ± 0.3 | 1.2 ± 0.5 | 1.2 ± 0.3 | 1.3 ± 0.5 | 2.5 ± 1.3 | 1.6 ± 0.6 | 1.8 ± 0.7 | 2.1 ± 1.1 |
+| Basophils (%) | 0.3 ± 0.1 | 0.3 ± 0.1 | 0.3 ± 0.1 | 0.2 ± 0.1 | 0.2 ± 0.1 | 0.1 ± 0.1 | 0.1 ± 0.1 | 0.1 ± 0.1 |
+| LUC (%) | 1.2 ± 0.4 | 1.4 ± 0.3 | 1.2 ± 0.3 | 1.1 ± 0.5 | 1.1 ± 0.5 | 1.2 ± 0.3 | 1.1 ± 0.2 | 1.2 ± 0.2 |
+| No. of rats examined | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/table/toxics-14-00919-t003/)
+
+1 Only parameters with statistical significance or tendency are shown in table. 2 Data are expressed as mean ± SD. \* _p_ < 0.05 and \*\* _p_ < 0.01 compared with the control. Bold values indicate statistical significance. LUC, Large unstained cells; WBC, White blood cell count.
+
+#### 3.2.7. Serum Biochemistry
+
+A significant increase of 28.65% in triglyceride levels was observed in females at a dose of 2000 mg/kg/day compared to the control group ( _p_ < 0.05, [Table 4](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#toxics-14-00919-t004)). After the recovery period, triglyceride levels were numerically higher in the 2000 mg/kg/day male recovery group than in the control group (117.0 ± 21.7 vs. 83.6 ± 29.6 mg/dL; 39.95% higher), but the difference was not statistically significant.
+
+##### Table 4.
+
+Summary of selected 1 serum biochemistry findings in the 26-week repeated-dose oral toxicity study of _Scutellaria baicalensis_ extract.
+
+| Parameter (Units) | Groups (mg/kg/Day) |
+| :-: | :-: |
+| Male | Female |
+| :-: | :-: |
+| 0 | 500 | 1000 | 2000 | 0 | 500 | 1000 | 2000 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Triglyceride (mg/dL) | 73.6 ± 40.9 2 | 89.8 ± 20.0 | 71.2 ± 20.2 | 88.4 ± 15.6 | 38.4 ± 6.3 | 42.1 ± 10.6 | 40.2 ± 7.7 | **49.4 ± 8.2 \*** |
+| Albumin (g/dL) | 3.17 ± 0.17 | 3.10 ± 0.10 | 3.06 ± 0.09 | 3.08 ± 0.12 | 3.40 ± 0.14 | 3.33 ± 0.19 | 3.27 ± 0.25 | 3.29 ± 0.16 |
+| Creatinine (mg/dL) | 0.52 ± 0.03 | 0.54 ± 0.03 | 0.50 ± 0.03 | 0.51 ± 0.03 | 0.61 ± 0.05 | 0.58 ± 0.04 | 0.59 ± 0.08 | 0.57 ± 0.07 |
+| Ca2+ (mg/dL) | 10.17 ± 0.27 | 10.15 ± 0.28 | 9.94 ± 0.27 | 9.91 ± 0.38 | 9.91 ± 0.26 | 9.56 ± 0.50 | 9.69 ± 0.35 | 9.58 ± 0.29 |
+| No. of rats examined | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/table/toxics-14-00919-t004/)
+
+1 Only parameters with statistical significance or tendency are shown in table. 2 Data are expressed as mean ± SD. \* _p_ < 0.05 compared with the control. Bold values indicate statistical significance.
+
+Albumin levels were numerically lower in all SBE-treated groups of both sexes, with decreases of 2.84% in males and 3.32% in females at 2000 mg/kg/day, but no significant difference was found compared to the control group. Creatinine levels in females and Ca2+ levels in both sexes were also numerically lower in the SBE-treated groups than in the control group, without statistically significant differences.
+
+#### 3.2.8. Plasma Coagulation
+
+In females of the main groups, aPTT exhibited a dose-dependent increasing trend, but it did not reach a significant difference compared to the control group ( [Table 5](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#toxics-14-00919-t005)). In the recovery groups, prothrombin time and aPTT were similar between the control and 2000 mg/kg/day groups (males: 15.80 ± 0.66 vs. 15.66 ± 0.48 s and 17.96 ± 0.60 vs. 17.84 ± 0.98 s; females: 16.76 ± 0.22 vs. 16.66 ± 0.26 s and 18.64 ± 1.57 vs. 18.74 ± 0.91 s, respectively).
+
+##### Table 5.
+
+Plasma coagulation values of male and female rats in the 26-week repeated-dose oral toxicity study of _Scutellaria baicalensis_ extract.
+
+| Parameter (Units) | Groups (mg/kg/Day) |
+| :-: | :-: |
+| Male | Female |
+| :-: | :-: |
+| 0 | 500 | 1000 | 2000 | 0 | 500 | 1000 | 2000 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| PT (s) | 16.04 ± 0.73 1 | 15.74 ± 0.57 | 16.30 ± 1.15 | 15.62 ± 1.10 | 15.94 ± 0.58 | 16.23 ± 0.38 | 16.48 ± 0.46 | 16.22 ± 0.45 |
+| aPTT (s) | 18.46 ± 1.10 | 18.55 ± 1.03 | 18.12 ± 1.41 | 17.65 ± 1.31 | 17.72 ± 2.05 | 18.48 ± 1.37 | 18.64 ± 0.68 | 19.11 ± 1.05 |
+| No. of rats examined | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/table/toxics-14-00919-t005/)
+
+1 Data are expressed as mean ± SD. aPTT, activated partial thromboplastin time; PT, Prothrombin time.
+
+#### 3.2.9. Organ Weight
+
+The absolute and relative liver weights were numerically higher in the SBE-treated groups in both male and female rats, with significant increases in both the absolute (12.79%) and relative (12.50%) weights observed in the 2000 mg/kg/day female group ( _p_ < 0.01 and _p_ < 0.05, respectively; [Table 6](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#toxics-14-00919-t006)) and in all SBE-treated male groups’ relative weights (9.31%, 9.16%, and 14.97% at 500, 1000, and 2000 mg/kg/day, respectively; all _p_ < 0.05) compared to the control group. After the recovery period, an increasing trend in liver weight was observed in the SBE 2000 mg/kg/day-treated male recovery group (absolute weight: 13.5458 ± 1.2001 g; relative weight: 2.5492 ± 0.0738% of body weight), but this was not statistically significant when compared to the control group (absolute weight: 11.2826 ± 1.6751 g; relative weight: 2.2986 ± 0.2152% of body weight). In males, both the absolute and relative weights of the spleen and the relative weights of the left and right kidneys showed an increasing trend in the treated groups, but these were not significantly different from the control. A significant increase of 18.09% in the relative weight of the left adrenal gland was observed in males treated with 500 mg/kg/day ( _p_ < 0.05) compared to the control group, but this change did not correlate with dose.
+
+##### Table 6.
+
+Summary of selected 1 absolute and relative organ weights in the 26-week repeated-dose oral toxicity study of _Scutellaria baicalensis_ extract.
+
+| Organ (Units) | Groups (mg/kg/Day) |
+| :-- | :-: |
+| Male | Female |
+| :-: | :-: |
+| 0 | 500 | 1000 | 2000 | 0 | 500 | 1000 | 2000 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Liver (g) | 12.4515 ± 0.8402 2 | 13.6710 ± 1.6110 | 12.8915 ± 1.4997 | 14.2316 ± 1.9118 | 6.0878 ± 0.5471 | 6.3077 ± 0.6146 | 6.3630 ± 0.5781 | **6.8665 ± 0.6300 \*\*** |
+| Per body weight (%) | 2.3356 ± 0.2268 | **2.5531 ± 0.1444 \*** | **2.5494 ± 0.1841 \*** | **2.6852 ± 0.2140 \*** | 2.2780 ± 0.1886 | 2.3489 ± 0.2077 | 2.3609 ± 0.2004 | **2.5627 ± 0.2742 \*** |
+| Spleen (g) | 0.8666 ± 0.0771 | 0.9255 ± 0.1230 | 0.8723 ± 0.1452 | 0.9444 ± 0.3031 | 0.5673 ± 0.0427 | 0.5430 ± 0.0555 | 0.5900 ± 0.0759 | 0.5772 ± 0.0653 |
+| Per body weight (%) | 0.1630 ± 0.0219 | 0.1740 ± 0.0244 | 0.1728 ± 0.0275 | 0.1776 ± 0.0479 | 0.2121 ± 0.0119 | 0.2021 ± 0.0170 | 0.2187 ± 0.0249 | 0.2146 ± 0.0181 |
+| Kidney-left (g) | 1.5500 ± 0.1068 | 1.6006 ± 0.1460 | 1.5420 ± 0.1653 | 1.6989 ± 0.2075 | 0.7883 ± 0.0488 | 0.7801 ± 0.0403 | 0.7856 ± 0.0593 | 0.7914 ± 0.0447 |
+| Per body weight (%) | 0.2909 ± 0.0302 | 0.2998 ± 0.0197 | 0.3053 ± 0.0229 | 0.3211 ± 0.0277 | 0.2959 ± 0.0296 | 0.2913 ± 0.0242 | 0.2919 ± 0.0262 | 0.2953 ± 0.0223 |
+| Kidney-right (g) | 1.5568 ± 0.1044 | 1.5971 ± 0.1531 | 1.5148 ± 0.1814 | 1.5921 ± 0.3106 | 0.7820 ± 0.0409 | 0.7824 ± 0.0519 | 0.7907 ± 0.0370 | 0.7893 ± 0.0514 |
+| Per body weight (%) | 0.2922 ± 0.0305 | 0.2989 ± 0.0169 | 0.2998 ± 0.0259 | 0.3031 ± 0.0611 | 0.2931 ± 0.0215 | 0.2918 ± 0.0229 | 0.2938 ± 0.0189 | 0.2947 ± 0.0268 |
+| Adrenal gland-left (g) | 0.0263 ± 0.0040 | 0.0308 ± 0.0031 | 0.0286 ± 0.0044 | 0.0266 ± 0.0041 | 0.0642 ± 0.1016 | 0.0319 ± 0.0027 | 0.0328 ± 0.0044 | 0.0300 ± 0.0046 |
+| Per body weight (%) | 0.0049 ± 0.0007 | **0.0058 ± 0.0008 \*** | 0.0057 ± 0.0008 | 0.0050 ± 0.0008 | 0.0247 ± 0.0401 | 0.0119 ± 0.0009 | 0.0122 ± 0.0017 | 0.0112 ± 0.0019 |
+| Adrenal gland-right (g) | 0.0256 ± 0.0044 | 0.0294 ± 0.0044 | 0.0274 ± 0.0032 | 0.0261 ±0.0030 | 0.0293 ± 0.0047 | 0.0288 ± 0.0029 | 0.0292 ± 0.0026 | 0.0278 ± 0.0043 |
+| Per body weight (%) | 0.0048 ± 0.0010 | 0.0055± 0.0009 | 0.0054 ± 0.0006 | 0.0049 ± 0.0006 | 0.0110 ± 0.0021 | 0.0107 ± 0.0012 | 0.0109 ± 0.0011 | 0.0104 ± 0.0018 |
+| No. of rats examined | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/table/toxics-14-00919-t006/)
+
+1 Only parameters with statistical significance or tendency are shown in table. 2 Data are expressed as mean ± SD. \* _p_ < 0.05 and \*\* _p_ < 0.01 compared with the control. Bold values indicate statistical significance.
+
+#### 3.2.10. Necropsy
+
+Upon necropsy of the main groups, small thymuses were observed in one case each in the male and female control groups, as well as in the male 1000 mg/kg/day group. Diffuse red spots in the thymus were observed in one case each in the male control group and the female 1000 mg/kg/day group. Red mandibular lymph nodes were observed in two cases in the male 2000 mg/kg/day group and in one case in the female 1000 mg/kg/day group. Red sublingual lymph nodes were observed in two cases in the male 2000 mg/kg/day group. A red ovary was observed in one case in the female 2000 mg/kg/day group. Necropsy of the uterus in the female main groups revealed a cyst in one case in the 500 mg/kg/day group, and retention of clear fluid was observed in one case each in the control and 500 mg/kg/day groups, and in three cases in the 1000 mg/kg/day group. In the female recovery groups, a cyst filled with clear liquid in the ovary and a milky round spot in the kidney were each observed in one case in the control group. Additionally, retention of clear fluid in the uterus was observed in one case in the female 2000 mg/kg/day recovery group.
+
+#### 3.2.11. Histopathology
+
+Organs observed with findings in both males and females included the kidneys, lungs, mandibular lymph nodes, thymus, and thyroid, with specific findings, incidences, and severity grades detailed in [Table S1](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#app1-toxics-14-00919) and [Table S2](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#app1-toxics-14-00919). There were no statistically significant differences in the incidence of the listed histopathological findings between the control and 2000 mg/kg/day groups in either sex in the main or recovery groups.
+
+## 4\. Discussion
+
+This study aimed to assess the potential toxicity of SBE after single and 26-week re-peated oral administration in rats of both sexes. No adverse effects were identified at the tested doses, although some treatment-related changes were observed during repeated administration.
+
+In the acute toxicity study, single oral administration of SBE at doses up to 5000 mg/kg caused no mortality or treatment-related changes in body weight or gross necropsy findings. Transient soft stools and soiled perineal regions were considered treatment-related but non-adverse clinical signs. Consistent with these findings, previous single-dose studies of aqueous, hydroalcoholic, and fermented extracts of Scutellariae Radix similarly reported no mortality or treatment-related toxicity at the tested doses \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B8-toxics-14-00919), [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B9-toxics-14-00919), [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B10-toxics-14-00919)\]. Under the present experimental conditions, the minimum lethal dose (MLD) of SBE was considered to exceed 5000 mg/kg in rats of both sexes, indicating low acute oral toxicity. This interpretation was based on the absence of mortality at the highest tested dose; the exact MLD was not determined. Based on the U.S. Environmental Protection Agency acute oral toxicity classification, this level corresponds to Toxicity Category IV, the lowest toxicity category, for which no acute oral hazard statement is required \[ [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B21-toxics-14-00919)\].
+
+During the 26-week administration period, no mortality or treatment-related clinical abnormalities were observed at doses up to 2000 mg/kg/day. Body weights tended to in-crease in males receiving 500 and 2000 mg/kg/day, although the changes were not statistically significant. No toxicologically relevant changes were observed in food or water consumption or ophthalmologic examinations. All necropsy and histopathological findings were neither dose-dependent nor statistically significant and were considered spontaneous or sporadic lesions \[ [22](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B22-toxics-14-00919), [23](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B23-toxics-14-00919)\]; thus, they were considered unrelated to SBE administration. Yi et al. (2018) similarly reported no mortality or significant changes in body weight or food consumption during 26 weeks of SBE administration at doses up to 2500 mg/kg/day, and no gross pathological abnormalities were observed \[ [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B13-toxics-14-00919)\].
+
+At the end of the 26-week administration period, statistically significant differences from the controls were identified in eight parameters: (1) WBC counts increased in males at 500 and 2000 mg/kg/day; (2) monocyte percentage decreased in males at 2000 mg/kg/day; (3) relative left adrenal weight increased in males at 500 mg/kg/day; (4) the incidence of dark yellow urine increased in females at 2000 mg/kg/day; (5) urinary ketone grades increased in both sexes at 2000 mg/kg/day; (6) serum triglyceride levels increased in females at 2000 mg/kg/day; (7) absolute liver weight increased in females at 2000 mg/kg/day; and (8) relative liver weight increased in males at 500, 1000, and 2000 mg/kg/day and in females at 2000 mg/kg/day. The magnitude and dose–response pattern of each change, published control data, and related clinical and pathological findings were considered to assess treatment relatedness and adversity.
+
+The increases in WBC counts and decrease in monocyte percentage were not clearly related to SBE administration. In males, the WBC increases did not show a monotonic dose–response relationship, and the mean counts at 500 and 2000 mg/kg/day (9.77 and 9.62 × 103/μL, respectively) were within the range reported in published control data for male Crl:CD(SD) rats aged 23–47 weeks (9.40–10.10 × 103/μL) \[ [24](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B24-toxics-14-00919)\]. The decrease in monocyte percentage at 2000 mg/kg/day occurred alongside an increased total WBC count and did not necessarily indicate a reduction in absolute monocyte numbers. The mean monocyte percentage of 3.4% was also comparable to control means for male SD rats reported in the 26-week PM012 and UP446 studies (3.05% and 3.7%, respectively) \[ [25](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B25-toxics-14-00919), [26](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B26-toxics-14-00919)\]. In particular, the PM012 study used the same animal supplier and hematology analyzer as the present study. Furthermore, these hematological changes were not accompanied by corresponding clinical signs or treatment-related histopathological findings in the present study. Consistent with this interpretation, Yi et al. reported no significant differences in WBC counts or monocyte percentages in either sex after 26 weeks of administration of an ethanol extract of _S. baicalensis_ to Wistar rats at doses up to 2500 mg/kg/day \[ [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B13-toxics-14-00919)\].
+
+Relative left adrenal weight in males was significantly increased only at 500 mg/kg/day and was comparable to the control value at 2000 mg/kg/day. In addition, the relative left adrenal weight at 500 mg/kg/day (0.0058 ± 0.0008%) was numerically similar to the male control value reported in the 26-week PM012 study (0.0054 ± 0.0007%), which used male SD rats from the same supplier \[ [25](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B25-toxics-14-00919)\]. Taken together, these findings supported the interpretation that the increase was incidental and unlikely to be related to SBE administration.
+
+The increased incidence of dark yellow urine in high-dose females was considered related to SBE administration, given the dose-associated increase in both sexes. In females, the numerically lower urine volume at 2000 mg/kg/day than in controls (18.2 ± 3.7 vs. 29.2 ± 13.5 mL) and the greater proportion of animals with a urine specific gravity ≥ 1.020 (5/5 vs. 1/5) suggested that urine concentration may have contributed to the darker color. Yi et al. similarly reported dose-associated darkening of urine following administration of an ethanol extract of _S. baicalensis_ at doses up to 2500 mg/kg/day and suggested a relationship with the color of the extract \[ [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B13-toxics-14-00919)\]. The urine discoloration was not accompanied by serum biochemical or histopathological evidence of treatment-related hepatic or renal injury. Dark yellow urine was not observed in the recovery groups. The discoloration was therefore considered non-adverse.
+
+The liver-weight findings were evaluated together with the changes in urinary ketones and serum triglycerides. Relative liver weights were significantly increased in males at all three doses, whereas both absolute and relative liver weights were significantly increased in females at 2000 mg/kg/day. The mean relative liver weights in males at 500 and 1000 mg/kg/day (2.5531% and 2.5494%, respectively; [Table S3](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#app1-toxics-14-00919)) were comparable to control means for male SD rats reported in the 26-week PM012 and UP446 studies (2.4422% and 2.53%, respectively) \[ [25](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B25-toxics-14-00919), [26](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B26-toxics-14-00919)\] and were also within the reference range reported in the test facility’s historical control data for 32-week-old male SD rats (2.0312–2.8946% of body weight; _n_ = 50). Body weight differences were also considered when interpreting the male findings: at 1000 mg/kg/day, mean terminal body weight was 5.82% lower than the control value, while absolute liver weight was only 3.53% higher ( [Table S3](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#app1-toxics-14-00919)), suggesting that the lower body weight contributed in part to the increased organ-to-body weight ratio. The relative liver-weight increases at 500 and 1000 mg/kg/day, without accompanying significant increases in absolute liver weight or significant changes in serum chemistry or urinary ketone grades, were interpreted as incidental variation when considered together with the published and historical control data and the possible contribution of lower terminal body weight at 1000 mg/kg/day. These lower-dose findings were therefore not considered treatment-related. At 2000 mg/kg/day, the liver-weight increases coincided with increased urinary ketone grades in both sexes and increased serum triglycerides in females. This combined pattern, observed only at 2000 mg/kg/day, supported an SBE-related hepatic and metabolic response. However, these findings were not accompanied by significant increases in conventional serum markers of hepatic injury or treatment-related hepatic histopathological lesions. The nonsignificant decrease in serum albumin was not accompanied by a corresponding decrease in total protein and did not, by itself, establish impaired hepatic protein synthesis. Yi et al. also reported significant increases in relative liver weight in female Wistar rats receiving a 70% ethanol extract of Scutellariae Radix at 300 and 1250 mg/kg/day for 26 weeks, without significant increases in serum biochemical indicators of hepatocellular injury and cholestasis and without notable hepatic histopathological changes \[ [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B13-toxics-14-00919)\]. Based on this integrated assessment, the hepatic and metabolic changes observed at 2000 mg/kg/day were considered treatment-related but non-adverse under the present experimental conditions.
+
+Several mechanisms may account for the liver-weight increases, including enzyme-induction-associated hepatocellular hypertrophy, altered intracellular lipid or glycogen storage, and proliferative, inflammatory, congestive, or hydropic changes \[ [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B27-toxics-14-00919)\]. The absence of treatment-related hepatic histopathological lesions at 2000 mg/kg/day did not support the latter processes as primary explanations. Previous studies have reported that Scutellariae Radix extracts increased hepatic CYP1A and glutathione S-transferase Yc1/2 expression in rats and CYP2E1-mediated metabolism in humans, while baicalein induced CYP3A4 expression in vitro \[ [28](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B28-toxics-14-00919), [29](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B29-toxics-14-00919), [30](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B30-toxics-14-00919), [31](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B31-toxics-14-00919)\]. These enzyme-related findings provide indirect support for an adaptive hepatic response involving induction of selected drug-metabolizing and detoxification enzymes as a possible explanation. Altered glycogen storage is another possibility: baicalin significantly increased hepatic glycogen in diabetic rats \[ [32](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B32-toxics-14-00919)\], whereas Scutellariae Radix extract tended to increase hepatic glycogen in rats \[ [33](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B33-toxics-14-00919)\]. These glycogen findings suggest altered hepatic glycogen storage as a possible explanation.
+
+Urine concentration and altered ketone metabolism are possible contributors to the increased urinary ketone grades. At 2000 mg/kg/day, urine volume was numerically lower and a greater proportion of rats had a urine specific gravity ≥ 1.020 in both sexes compared with controls, although neither difference was statistically significant. The reagent-strip assay (Multistix 10SG, Bayer, USA) used in the present study provides a semiquantitative measure of urinary acetoacetate concentration. Consequently, more concentrated urine could yield higher ketone grades even if the total amount of acetoacetate excreted remained unchanged. A metabolic contribution is also plausible: Dai et al. demonstrated that baicalin activated hepatic carnitine palmitoyltransferase 1A (CPT1A), enhanced fatty acid oxidation, and increased plasma total ketone bodies in diet-induced obese mice \[ [34](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B34-toxics-14-00919)\]. Li et al. reported that _S. baicalensis_ root extract counteracted the reduction in urinary β-hydroxybutyrate, one of the ketone bodies, in D-galactose-induced aging rats \[ [35](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B35-toxics-14-00919)\]. These findings suggest a possible contribution of altered ketone metabolism, although differences in experimental models, sample matrices, and measured ketone species limit direct comparison.
+
+The triglyceride increase may reflect altered lipid metabolism. Consistent with our finding, Yi et al. reported increased serum triglycerides after 26 weeks of oral administration of an ethanol extract of _S. baicalensis_, with normalization after a 4-week recovery period \[ [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B13-toxics-14-00919)\]. Triglyceride elevations were also reported in single- and multiple-dose phase I trials of baicalein in healthy volunteers \[ [36](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B36-toxics-14-00919), [37](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B37-toxics-14-00919)\]. The increase observed in the present study could result from increased hepatic very-low-density lipoprotein (VLDL) secretion or reduced peripheral triglyceride clearance. Regarding the latter possibility, baicalin and baicalein have been reported to reduce lipoprotein lipase (LPL) expression in cell models of adipogenic differentiation \[ [38](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B38-toxics-14-00919), [39](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B39-toxics-14-00919)\]. Because LPL participates in the hydrolysis of circulating triglycerides, these findings provide an indirect basis for considering reduced triglyceride clearance. However, all adaptive and metabolic mechanisms proposed in this Discussion remain hypothetical because they were not directly investigated in the present study.
+
+Potential renal effects were also considered because baicalin, a major flavonoid of Scutellariae Radix, has been reported to induce renal injury and fibrosis in rats at doses of 400–1600 mg/kg/day \[ [14](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B14-toxics-14-00919)\]. In the present study, urinary specific gravity increased or tend-ed to increase, while urinary protein, nitrite, and leukocytes tended to increase and urine volume tended to decrease in females. Serum creatinine tended to decrease in females, neutrophil percentages tended to increase in males, and relative kidney weights tended to increase in males. However, these changes were not statistically significant or consistently supported by other renal parameters, and no treatment-related renal histopathological lesions were observed. Therefore, these findings were not considered indicative of a treatment-related renal effect. More recently, administration of baicalin at 4000 mg/kg/day for 28 days in mice was associated with increased serum creatinine in females and mild renal inflammatory changes \[ [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B16-toxics-14-00919)\]. However, direct comparison is limited because the previous studies evaluated baicalin itself, whereas baicalin constituted 19.8% of the SBE used in the present study. No adverse renal effects were identified following SBE administration at doses up to 2000 mg/kg/day in the present study.
+
+Cardiac injury has also been reported following intravenous administration of wogonin at 120 mg/kg/day, another major flavonoid of Scutellariae Radix \[ [15](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B15-toxics-14-00919)\]. In the present study, however, no consistent treatment-related changes in heart weight, gross pathology, or histopathology were observed. A single case of focal myocarditis in a high-dose male was considered spontaneous because it occurred in only one animal and was not accompanied by other related findings. Thus, the heart was not considered a target organ under the present experimental conditions.
+
+Despite the absence of hepatotoxicity in the present study, clinical cases of _S. baicalensis_-associated liver injury have been reported. Sporadic cases of clinically apparent liver injury have been associated with the use of _S. baicalensis_-containing products \[ [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B11-toxics-14-00919)\], and a recent review identified 16 suspected cases of _S. baicalensis_-associated drug-induced liver injury \[ [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B12-toxics-14-00919)\]. These cases have been suggested to represent rare idiosyncratic reactions, potentially involving immune-mediated mechanisms. Conventional repeated-dose toxicity studies in healthy animals are primarily designed to identify reproducible, dose-related toxicity and may not detect rare idiosyncratic reactions. Therefore, the absence of treatment-related hepatic lesions in the present study does not exclude the possibility of idiosyncratic liver injury in susceptible individuals.
+
+Findings after the 4-week recovery period further supported the reversibility of the observed effects. Urinary ketone bodies in males showed a decreasing trend toward control levels, while most other parameters were comparable between control and SBE-treated animals. Although relative liver weight in males remained numerically higher and urine volume in females remained lower, neither difference was statistically significant. Overall, the treatment-related changes observed during administration tended to return toward control levels.
+
+The NOEL and NOAEL represent the highest tested doses without observed treatment-related effects and without observed treatment-related adverse effects, respectively. Treatment relatedness and adversity were evaluated through an integrated assessment that considered not only statistical significance but also the magnitude and dose pattern of changes and related study findings \[ [40](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B40-toxics-14-00919), [41](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B41-toxics-14-00919)\]. Based on this integrated assessment, no findings at doses up to 1000 mg/kg/day were judged to be treatment-related; therefore, the NOEL was determined to be 1000 mg/kg/day. At 2000 mg/kg/day, treatment-related but non-adverse findings included statistically significant increases in relative liver weight and urinary ketone grades in both sexes, as well as in absolute liver weight, serum triglyceride levels, and the incidence of dark yellow urine in females. These findings were considered non-adverse because they were not accompanied by corroborating clinical, serum biochemical, or histopathological evidence of organ injury. Therefore, 2000 mg/kg/day was established as the NOAEL, and no target organ of toxicity was identified.
+
+The rat NOAEL of 2000 mg/kg/day corresponds to an estimated human-equivalent extract dose of approximately 324.3 mg/kg/day based on body-surface-area scaling (2000 × 6/37, with rat and adult human Km factors of 6 and 37, respectively) \[ [42](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B42-toxics-14-00919)\]. For a 60-kg adult, this corresponds to approximately 19.46 g of extract per day and, based on the extraction yield of 26.08%, approximately 75 g/day of Scutellariae Radix raw material (19.46/0.2608). This raw-material-equivalent amount is approximately 7.5–25 times the daily raw-material dose of 3–10 g described in the Chinese Pharmacopoeia. However, this calculation does not account for differences in constituent composition among preparations or interspecies differences in pharmacokinetics, including absorption, metabolism, and elimination. It therefore serves only as a theoretical dose comparison and does not establish equivalent systemic exposure.
+
+One limitation of the present study is that the highest repeated dose was 2000 mg/kg/day, which was lower than the 2500 mg/kg/day dose associated with hepatic inflammatory changes in the previous 26-week study published in 2018 \[ [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B13-toxics-14-00919)\]. Thus, potential effects at higher doses cannot be excluded. The histopathological examination plan was consistent with the approach described in OECD TG 408, which recommends full examination of the control and high-dose groups and extension to lower-dose groups when treatment-related histopathological changes are observed in the high-dose group \[ [43](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B43-toxics-14-00919), [44](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B44-toxics-14-00919)\]. Nevertheless, histopathological examination was not systematically performed in the 500 and 1000 mg/kg/day groups, limiting the assessment of potential dose-dependent histopathological changes. In particular, the relationship between liver weight increases and microscopic hepatic changes could not be fully assessed across dose groups, although no treatment-related hepatic histopathological lesions were observed in either sex at 2000 mg/kg/day. Overall, the present GLP-compliant study provides comprehensive information on the acute and long-term repeated-dose toxicity of SBE, including its MLD, NOEL, NOAEL, reversibility, and potential target-organ profile.
+
+## 5\. Conclusions
+
+In conclusion, single oral administration of SBE caused no mortality at doses up to 5000 mg/kg, and the MLD was considered to exceed 5000 mg/kg in rats of both sexes. In the 26-week repeated-dose study, treatment-related findings at 2000 mg/kg/day included increased liver weight, together with urinalysis and serum biochemical changes suggestive of hepatic effects. These changes were considered non-adverse and tended to return toward control levels after the 4-week recovery period. The NOEL and NOAEL were therefore determined to be 1000 and 2000 mg/kg/day, respectively, and no target organ of toxicity was identified. These findings provide comprehensive preclinical safety information for SBE following acute and long-term repeated oral exposure.
+
+## Abbreviations
+
+The following abbreviations are used in this manuscript:
+
+|     |     |
+| --- | --- |
+| aPTT | Activated partial thromboplastin time |
+| CBC | Complete blood count |
+| EDTA | Ethylenediaminetetraacetic acid |
+| FDA | U.S. Food and Drug Administration |
+| GLP | Good Laboratory Practice |
+| ICH | International Council for Harmonisation |
+| LUC | Large unstained cells |
+| MLD | Minimum lethal dose |
+| NOAEL | No-observed-adverse-effect level |
+| NOEL | No-observed-effect level |
+| PT | Prothrombin time |
+| SBE | _Scutellaria baicalensis_ extract |
+| SD | Sprague–Dawley |
+| SD | Standard deviation |
+| SPSS | Statistical Package for the Social Sciences |
+| WBC | White blood cell |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/table/array1/)
+
+## Supplementary Materials
+
+The following supporting information can be downloaded at [https://www.mdpi.com/article/10.3390/toxics14100919/s1](https://www.mdpi.com/article/10.3390/toxics14100919/s1), Table S1: Histopathological findings in male and female rats from the main groups of the 26-week repeated-dose oral toxicity study of _Scutellaria baicalensis_ extract; Table S2: Histopathological findings in male and female rats from the recovery groups of the 26-week repeated-dose oral toxicity study of _Scutellaria baicalensis_ extract; Table S3: Body and liver weights of male rats in the main groups of the 26-week repeated-dose oral toxicity study of _Scutellaria baicalensis_ extract.
+
+[toxics-14-00919-s001.zip](https://pmc.ncbi.nlm.nih.gov/articles/instance/13709419/bin/toxics-14-00919-s001.zip) (129.5KB, zip)
+
+## Author Contributions
+
+Conceptualization, H.K.; investigation, J.S. and H.K.; writing—original draft preparation, J.S.; writing—review and editing, H.K.; visualization, J.S.; supervision, H.K.; project administration, H.K. All authors have read and agreed to the published version of the manuscript.
+
+## Institutional Review Board Statement
+
+The animal study protocols were approved by the Institutional Animal Care and Use Committee of the Preclinical Research Center, Chemon Inc. (acute oral toxicity study: approval no. 07-RA-136, approved on 4 April 2007; 26-week repeated-dose oral toxicity study: approval no. 07-RR-137, approved on 11 April 2007).
+
+## Data Availability Statement
+
+The datasets generated and analyzed during the current study are available from the corresponding author upon reasonable request.
+
+## Conflicts of Interest
+
+The authors declare no conflicts of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript; or in the decision to publish the results.
+
+## Funding Statement
+
+This research was supported by the Seoul R&BD Program (No. 10524), funded by the Seoul Metropolitan Government; by a grant of the Korea Health Technology R&D Project through the Korea Health Industry Development Institute (KHIDI), funded by the Ministry of Health & Welfare, Republic of Korea (grant number: RS-2025-02310150); and by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (No. RS-2025-00555303).
+
+## Footnotes
+
+**Disclaimer/Publisher’s Note:** The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+## References
+
+- 1.Zhao T., Tang H., Xie L., Zheng Y., Ma Z., Sun Q., Li X. Scutellaria baicalensis Georgi. (Lamiaceae): A review of its traditional uses, botany, phytochemistry, pharmacology and toxicology. J. Pharm. Pharmacol. 2019;71:1353–1369. doi: 10.1111/jphp.13129. \[ [DOI](https://doi.org/10.1111/jphp.13129)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31236960/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Pharm.%20Pharmacol.&title=Scutellaria%20baicalensis%20Georgi.%20(Lamiaceae):%20A%20review%20of%20its%20traditional%20uses,%20botany,%20phytochemistry,%20pharmacology%20and%20toxicology&author=T.%20Zhao&author=H.%20Tang&author=L.%20Xie&author=Y.%20Zheng&author=Z.%20Ma&volume=71&publication_year=2019&pages=1353-1369&pmid=31236960&doi=10.1111/jphp.13129&)\]
+- 2.Li C., Lin G., Zuo Z. Pharmacological effects and pharmacokinetics properties of Radix Scutellariae and its bioactive flavones. Biopharm. Drug Dispos. 2011;32:427–445. doi: 10.1002/bdd.771. \[ [DOI](https://doi.org/10.1002/bdd.771)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21928297/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Biopharm.%20Drug%20Dispos.&title=Pharmacological%20effects%20and%20pharmacokinetics%20properties%20of%20Radix%20Scutellariae%20and%20its%20bioactive%20flavones&author=C.%20Li&author=G.%20Lin&author=Z.%20Zuo&volume=32&publication_year=2011&pages=427-445&pmid=21928297&doi=10.1002/bdd.771&)\]
+- 3.Wang Z.L., Wang S., Kuang Y., Hu Z.M., Qiao X., Ye M. A comprehensive review on phytochemistry, pharmacology, and flavonoid biosynthesis of Scutellaria baicalensis. Pharm. Biol. 2018;56:465–484. doi: 10.1080/13880209.2018.1492620. \[ [DOI](https://doi.org/10.1080/13880209.2018.1492620)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6292351/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31070530/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Pharm.%20Biol.&title=A%20comprehensive%20review%20on%20phytochemistry,%20pharmacology,%20and%20flavonoid%20biosynthesis%20of%20Scutellaria%20baicalensis&author=Z.L.%20Wang&author=S.%20Wang&author=Y.%20Kuang&author=Z.M.%20Hu&author=X.%20Qiao&volume=56&publication_year=2018&pages=465-484&pmid=31070530&doi=10.1080/13880209.2018.1492620&)\]
+- 4.Ma W., Liu T., Ogaji O.D., Li J., Du K., Chang Y. Recent advances in Scutellariae radix: A comprehensive review on ethnobotanical uses, processing, phytochemistry, pharmacological effects, quality control and influence factors of biosynthesis. Heliyon. 2024;10:e36146. doi: 10.1016/j.heliyon.2024.e36146. \[ [DOI](https://doi.org/10.1016/j.heliyon.2024.e36146)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC11388511/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/39262990/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Heliyon&title=Recent%20advances%20in%20Scutellariae%20radix:%20A%20comprehensive%20review%20on%20ethnobotanical%20uses,%20processing,%20phytochemistry,%20pharmacological%20effects,%20quality%20control%20and%20influence%20factors%20of%20biosynthesis&author=W.%20Ma&author=T.%20Liu&author=O.D.%20Ogaji&author=J.%20Li&author=K.%20Du&volume=10&publication_year=2024&pages=e36146&pmid=39262990&doi=10.1016/j.heliyon.2024.e36146&)\]
+- 5.Gaire B.P., Moon S.K., Kim H. Scutellaria baicalensis in stroke management: Nature’s blessing in traditional Eastern medicine. Chin. J. Integr. Med. 2014;20:712–720. doi: 10.1007/s11655-014-1347-9. \[ [DOI](https://doi.org/10.1007/s11655-014-1347-9)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24752475/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Chin.%20J.%20Integr.%20Med.&title=Scutellaria%20baicalensis%20in%20stroke%20management:%20Nature%E2%80%99s%20blessing%20in%20traditional%20Eastern%20medicine&author=B.P.%20Gaire&author=S.K.%20Moon&author=H.%20Kim&volume=20&publication_year=2014&pages=712-720&pmid=24752475&doi=10.1007/s11655-014-1347-9&)\]
+- 6.Li Y., Song K., Zhang H., Yuan M., An N., Wei Y., Wang L., Sun Y., Xing Y., Gao Y. Anti-inflammatory and immunomodulatory effects of baicalin in cerebrovascular and neurological disorders. Brain Res. Bull. 2020;164:314–324. doi: 10.1016/j.brainresbull.2020.08.016. \[ [DOI](https://doi.org/10.1016/j.brainresbull.2020.08.016)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32858128/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Brain%20Res.%20Bull.&title=Anti-inflammatory%20and%20immunomodulatory%20effects%20of%20baicalin%20in%20cerebrovascular%20and%20neurological%20disorders&author=Y.%20Li&author=K.%20Song&author=H.%20Zhang&author=M.%20Yuan&author=N.%20An&volume=164&publication_year=2020&pages=314-324&pmid=32858128&doi=10.1016/j.brainresbull.2020.08.016&)\]
+- 7.Li-Weber M. New therapeutic aspects of flavones: The anticancer properties of Scutellaria and its main active constituents wogonin, baicalein and baicalin. Cancer Treat. Rev. 2009;35:57–68. doi: 10.1016/j.ctrv.2008.09.005. \[ [DOI](https://doi.org/10.1016/j.ctrv.2008.09.005)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/19004559/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cancer%20Treat.%20Rev.&title=New%20therapeutic%20aspects%20of%20flavones:%20The%20anticancer%20properties%20of%20Scutellaria%20and%20its%20main%20active%20constituents%20wogonin,%20baicalein%20and%20baicalin&author=M.%20Li-Weber&volume=35&publication_year=2009&pages=57-68&pmid=19004559&doi=10.1016/j.ctrv.2008.09.005&)\]
+- 8.Lee J.W., Jung Y.S., Jung T.Y., Kim J.D., Choi H.Y. Mouse single oral dose toxicity test of Scutellariae Radix aqueous extracts. Korean J. Orient. Int. Med. 2013;34:46–58. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Korean%20J.%20Orient.%20Int.%20Med.&title=Mouse%20single%20oral%20dose%20toxicity%20test%20of%20Scutellariae%20Radix%20aqueous%20extracts&author=J.W.%20Lee&author=Y.S.%20Jung&author=T.Y.%20Jung&author=J.D.%20Kim&author=H.Y.%20Choi&volume=34&publication_year=2013&pages=46-58&)\]
+- 9.Liu F., Li L.F., Liu G.J., Jiang H., Zhang Q.Z. Study on the acute toxicity of water and alcohol extract of Radix Scutellariae. Hebei J. Tradit. Chin. Med. 2014;36:425–427. (In Chinese) \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Hebei%20J.%20Tradit.%20Chin.%20Med.&title=Study%20on%20the%20acute%20toxicity%20of%20water%20and%20alcohol%20extract%20of%20Radix%20Scutellariae&author=F.%20Liu&author=L.F.%20Li&author=G.J.%20Liu&author=H.%20Jiang&author=Q.Z.%20Zhang&volume=36&publication_year=2014&pages=425-427&)\]
+- 10.Kim M.S., Ham S.H., Kim J.H., Shin J.E., Oh J., Kim T.W., Yun H.I., Lim J.H., Jang B.S., Cho J.H. Single-dose oral toxicity of fermented Scutellariae Radix extract in rats and dogs. Toxicol. Res. 2012;28:263–268. doi: 10.5487/TR.2012.28.4.263. \[ [DOI](https://doi.org/10.5487/TR.2012.28.4.263)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3834431/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24278619/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxicol.%20Res.&title=Single-dose%20oral%20toxicity%20of%20fermented%20Scutellariae%20Radix%20extract%20in%20rats%20and%20dogs&author=M.S.%20Kim&author=S.H.%20Ham&author=J.H.%20Kim&author=J.E.%20Shin&author=J.%20Oh&volume=28&publication_year=2012&pages=263-268&pmid=24278619&doi=10.5487/TR.2012.28.4.263&)\]
+- 11.National Institute of Diabetes and Digestive and Kidney Diseases . LiverTox: Clinical and Research Information on Drug-Induced Liver Injury \[Internet\] National Institute of Diabetes and Digestive and Kidney Diseases; Bethesda, MD, USA: 2012. \[(accessed on 30 August 2026)\]. Skullcap. Updated 28 March 2020. Available online: [https://www.ncbi.nlm.nih.gov/books/NBK548757/](https://www.ncbi.nlm.nih.gov/books/NBK548757/) \[ [Google Scholar](https://scholar.google.com/scholar_lookup?title=LiverTox:%20Clinical%20and%20Research%20Information%20on%20Drug-Induced%20Liver%20Injury%20[Internet]&publication_year=2012&)\]
+- 12.Han C. Drug-induced liver injury associated with Scutellaria baicalensis: A literature review of clinical cases. J. Intern. Korean Med. 2025;46:1467–1482. doi: 10.22246/jikm.2025.46.6.1467. \[ [DOI](https://doi.org/10.22246/jikm.2025.46.6.1467)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Intern.%20Korean%20Med.&title=Drug-induced%20liver%20injury%20associated%20with%20Scutellaria%20baicalensis:%20A%20literature%20review%20of%20clinical%20cases&author=C.%20Han&volume=46&publication_year=2025&pages=1467-1482&doi=10.22246/jikm.2025.46.6.1467&)\]
+- 13.Yi Y., Zhao Y., Li C., Zhang Y., Bin Y., Yuan Y., Pan C., Wang L., Liang A. Potential chronic liver toxicity in rats orally administered an ethanol extract of Huangqin (Radix Scutellariae baicalensis) J. Tradit. Chin. Med. 2018;38:242–256. doi: 10.1016/j.jtcm.2017.05.002. \[ [DOI](https://doi.org/10.1016/j.jtcm.2017.05.002)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32186063/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Tradit.%20Chin.%20Med.&title=Potential%20chronic%20liver%20toxicity%20in%20rats%20orally%20administered%20an%20ethanol%20extract%20of%20Huangqin%20(Radix%20Scutellariae%20baicalensis)&author=Y.%20Yi&author=Y.%20Zhao&author=C.%20Li&author=Y.%20Zhang&author=Y.%20Bin&volume=38&publication_year=2018&pages=242-256&pmid=32186063&doi=10.1016/j.jtcm.2017.05.002&)\]
+- 14.Cai Y., Ma W., Xiao Y., Wu B., Li X., Liu F., Qiu J., Zhang G. High doses of baicalin induces kidney injury and fibrosis through regulating TGF-β/Smad signaling pathway. Toxicol. Appl. Pharmacol. 2017;333:1–9. doi: 10.1016/j.taap.2017.08.003. \[ [DOI](https://doi.org/10.1016/j.taap.2017.08.003)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28803990/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxicol.%20Appl.%20Pharmacol.&title=High%20doses%20of%20baicalin%20induces%20kidney%20injury%20and%20fibrosis%20through%20regulating%20TGF-%CE%B2/Smad%20signaling%20pathway&author=Y.%20Cai&author=W.%20Ma&author=Y.%20Xiao&author=B.%20Wu&author=X.%20Li&volume=333&publication_year=2017&pages=1-9&pmid=28803990&doi=10.1016/j.taap.2017.08.003&)\]
+- 15.Qi Q., Peng J., Liu W., You Q., Yang Y., Lu N., Wang G., Guo Q. Toxicological studies of wogonin in experimental animals. Phytother. Res. 2009;23:417–422. doi: 10.1002/ptr.2645. \[ [DOI](https://doi.org/10.1002/ptr.2645)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/19003942/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Phytother.%20Res.&title=Toxicological%20studies%20of%20wogonin%20in%20experimental%20animals&author=Q.%20Qi&author=J.%20Peng&author=W.%20Liu&author=Q.%20You&author=Y.%20Yang&volume=23&publication_year=2009&pages=417-422&pmid=19003942&doi=10.1002/ptr.2645&)\]
+- 16.Yang J., Chen M., Zhang W., Liu J., Zhao J., Ping X., Lu Y., He P., Pei L. Integrated neurobehavioral and organ-specific safety profiling of baicalin: Acute/subacute toxicity studies. Front. Pharmacol. 2025;16:1607919. doi: 10.3389/fphar.2025.1607919. \[ [DOI](https://doi.org/10.3389/fphar.2025.1607919)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC12408625/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/40918531/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Front.%20Pharmacol.&title=Integrated%20neurobehavioral%20and%20organ-specific%20safety%20profiling%20of%20baicalin:%20Acute/subacute%20toxicity%20studies&author=J.%20Yang&author=M.%20Chen&author=W.%20Zhang&author=J.%20Liu&author=J.%20Zhao&volume=16&publication_year=2025&pages=1607919&pmid=40918531&doi=10.3389/fphar.2025.1607919&)\]
+- 17.Song J., Kim Y.S., Lee D., Kim H. Safety evaluation of root extract of Pueraria lobata and Scutellaria baicalensis in rats. BMC Complement. Med. Ther. 2020;20:226. doi: 10.1186/s12906-020-02998-1. \[ [DOI](https://doi.org/10.1186/s12906-020-02998-1)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7368675/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32680504/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMC%20Complement.%20Med.%20Ther.&title=Safety%20evaluation%20of%20root%20extract%20of%20Pueraria%20lobata%20and%20Scutellaria%20baicalensis%20in%20rats&author=J.%20Song&author=Y.S.%20Kim&author=D.%20Lee&author=H.%20Kim&volume=20&publication_year=2020&pages=226&pmid=32680504&doi=10.1186/s12906-020-02998-1&)\]
+- 18.Duncan D.B. Multiple range and multiple F tests. Biometrics. 1955;11:1–42. doi: 10.2307/3001478. \[ [DOI](https://doi.org/10.2307/3001478)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Biometrics&title=Multiple%20range%20and%20multiple%20F%20tests&author=D.B.%20Duncan&volume=11&publication_year=1955&pages=1-42&doi=10.2307/3001478&)\]
+- 19.Scheffé H. A method for judging all contrasts in the analysis of variance. Biometrika. 1953;40:87–104. doi: 10.1093/biomet/40.1-2.87. \[ [DOI](https://doi.org/10.1093/biomet/40.1-2.87)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Biometrika&title=A%20method%20for%20judging%20all%20contrasts%20in%20the%20analysis%20of%20variance&author=H.%20Scheff%C3%A9&volume=40&publication_year=1953&pages=87-104&doi=10.1093/biomet/40.1-2.87&)\]
+- 20.Dunnett C.W. Pairwise multiple comparisons in the unequal variance case. J. Am. Stat. Assoc. 1980;75:796–800. doi: 10.1080/01621459.1980.10477552. \[ [DOI](https://doi.org/10.1080/01621459.1980.10477552)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Am.%20Stat.%20Assoc.&title=Pairwise%20multiple%20comparisons%20in%20the%20unequal%20variance%20case&author=C.W.%20Dunnett&volume=75&publication_year=1980&pages=796-800&doi=10.1080/01621459.1980.10477552&)\]
+- 21.U.S. Environmental Protection Agency . Label Review Manual, Chapter 7: Precautionary Statements. Office of Pesticide Programs, U.S. Environmental Protection Agency; Washington, DC, USA: 2018. \[(accessed on 1 September 2026)\]. Available online: [https://www.epa.gov/sites/default/files/2018-04/documents/chap-07-mar-2018.pdf](https://www.epa.gov/sites/default/files/2018-04/documents/chap-07-mar-2018.pdf). \[ [Google Scholar](https://scholar.google.com/scholar_lookup?title=Label%20Review%20Manual,%20Chapter%207:%20Precautionary%20Statements&publication_year=2018&)\]
+- 22.Greaves P. Histopathology of Preclinical Toxicity Studies: Interpretation and Relevance in Drug Safety Evaluation. 4th ed. Academic Press; Amsterdam, The Netherlands: 2012.  \[ [Google Scholar](https://scholar.google.com/scholar_lookup?title=Histopathology%20of%20Preclinical%20Toxicity%20Studies:%20Interpretation%20and%20Relevance%20in%20Drug%20Safety%20Evaluation&author=P.%20Greaves&publication_year=2012&)\]
+- 23.Elmore S.A. Histopathology of the lymph nodes. Toxicol. Pathol. 2006;34:425–454. doi: 10.1080/01926230600964722. \[ [DOI](https://doi.org/10.1080/01926230600964722)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC1892634/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/17067938/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxicol.%20Pathol.&title=Histopathology%20of%20the%20lymph%20nodes&author=S.A.%20Elmore&volume=34&publication_year=2006&pages=425-454&pmid=17067938&doi=10.1080/01926230600964722&)\]
+- 24.Giknis M.L.A., Clifford C.B. Clinical Laboratory Parameters for Crl:CD(SD) Rats. Charles River Laboratories; Wilmington, MA, USA: 2006. \[(accessed on 28 September 2026)\]. Available online: [https://www.criver.com/sites/default/files/resources/rm\_rm\_r\_clinical\_parameters\_cd\_rat\_06.pdf](https://www.criver.com/sites/default/files/resources/rm_rm_r_clinical_parameters_cd_rat_06.pdf). \[ [Google Scholar](https://scholar.google.com/scholar_lookup?title=Clinical%20Laboratory%20Parameters%20for%20Crl:CD(SD)%20Rats&author=M.L.A.%20Giknis&author=C.B.%20Clifford&publication_year=2006&)\]
+- 25.Sohn S.H., Kim S.J., Kim Y., Shim I., Bae H. Safety and efficacy assessment of standardized herbal formula PM012. BMC Complement. Altern. Med. 2012;12:24. doi: 10.1186/1472-6882-12-24. \[ [DOI](https://doi.org/10.1186/1472-6882-12-24)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3342231/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22458507/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMC%20Complement.%20Altern.%20Med.&title=Safety%20and%20efficacy%20assessment%20of%20standardized%20herbal%20formula%20PM012&author=S.H.%20Sohn&author=S.J.%20Kim&author=Y.%20Kim&author=I.%20Shim&author=H.%20Bae&volume=12&publication_year=2012&pages=24&pmid=22458507&doi=10.1186/1472-6882-12-24&)\]
+- 26.Lee Y.C., Hyun E., Yimam M., Brownell L., Jia Q. Acute and 26-week repeated oral dose toxicity study of UP446, a combination of Scutellaria extract and Acacia extract in rats. Food Nutr. Sci. 2013;4:14–27. doi: 10.4236/fns.2013.47A003. \[ [DOI](https://doi.org/10.4236/fns.2013.47A003)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Food%20Nutr.%20Sci.&title=Acute%20and%2026-week%20repeated%20oral%20dose%20toxicity%20study%20of%20UP446,%20a%20combination%20of%20Scutellaria%20extract%20and%20Acacia%20extract%20in%20rats&author=Y.C.%20Lee&author=E.%20Hyun&author=M.%20Yimam&author=L.%20Brownell&author=Q.%20Jia&volume=4&publication_year=2013&pages=14-27&doi=10.4236/fns.2013.47A003&)\]
+- 27.Hall A.P., Elcombe C.R., Foster J.R., Harada T., Kaufmann W., Knippel A., Küttler K., Malarkey D.E., Maronpot R.R., Nishikawa A., et al. Liver hypertrophy: A review of adaptive (adverse and non-adverse) changes—Conclusions from the 3rd International ESTP Expert Workshop. Toxicol. Pathol. 2012;40:971–994. doi: 10.1177/0192623312448935. \[ [DOI](https://doi.org/10.1177/0192623312448935)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22723046/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxicol.%20Pathol.&title=Liver%20hypertrophy:%20A%20review%20of%20adaptive%20(adverse%20and%20non-adverse)%20changes%E2%80%94Conclusions%20from%20the%203rd%20International%20ESTP%20Expert%20Workshop&author=A.P.%20Hall&author=C.R.%20Elcombe&author=J.R.%20Foster&author=T.%20Harada&author=W.%20Kaufmann&volume=40&publication_year=2012&pages=971-994&pmid=22723046&doi=10.1177/0192623312448935&)\]
+- 28.Kang J.J., Chen Y.C., Kuo W.C., Chen T., Cheng Y.W., Kuo M.L., Ueng T.H. Modulation of microsomal cytochrome P450 by Scutellariae Radix and Gentianae scabrae Radix in rat liver. Am. J. Chin. Med. 1996;24:19–29. doi: 10.1142/S0192415X96000049. \[ [DOI](https://doi.org/10.1142/S0192415X96000049)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/8739178/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am.%20J.%20Chin.%20Med.&title=Modulation%20of%20microsomal%20cytochrome%20P450%20by%20Scutellariae%20Radix%20and%20Gentianae%20scabrae%20Radix%20in%20rat%20liver&author=J.J.%20Kang&author=Y.C.%20Chen&author=W.C.%20Kuo&author=T.%20Chen&author=Y.W.%20Cheng&volume=24&publication_year=1996&pages=19-29&pmid=8739178&doi=10.1142/S0192415X96000049&)\]
+- 29.Yi S., Cho J.Y., Lim K.S., Kim K.P., Kim J., Kim B.H., Hong J.H., Jang I.J., Shin S.G., Yu K.S. Effects of Angelicae tenuissima radix, Angelicae dahuricae radix and Scutellariae radix extracts on cytochrome P450 activities in healthy volunteers. Basic Clin. Pharmacol. Toxicol. 2009;105:249–256. doi: 10.1111/j.1742-7843.2009.00423.x. \[ [DOI](https://doi.org/10.1111/j.1742-7843.2009.00423.x)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/19422358/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Basic%20Clin.%20Pharmacol.%20Toxicol.&title=Effects%20of%20Angelicae%20tenuissima%20radix,%20Angelicae%20dahuricae%20radix%20and%20Scutellariae%20radix%20extracts%20on%20cytochrome%20P450%20activities%20in%20healthy%20volunteers&author=S.%20Yi&author=J.Y.%20Cho&author=K.S.%20Lim&author=K.P.%20Kim&author=J.%20Kim&volume=105&publication_year=2009&pages=249-256&pmid=19422358&doi=10.1111/j.1742-7843.2009.00423.x&)\]
+- 30.Li Y., Wang Q., Yao X., Li Y. Induction of CYP3A4 and MDR1 gene expression by baicalin, baicalein, chlorogenic acid, and ginsenoside Rf through constitutive androstane receptor- and pregnane X receptor-mediated pathways. Eur. J. Pharmacol. 2010;640:46–54. doi: 10.1016/j.ejphar.2010.05.017. \[ [DOI](https://doi.org/10.1016/j.ejphar.2010.05.017)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20580705/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Eur.%20J.%20Pharmacol.&title=Induction%20of%20CYP3A4%20and%20MDR1%20gene%20expression%20by%20baicalin,%20baicalein,%20chlorogenic%20acid,%20and%20ginsenoside%20Rf%20through%20constitutive%20androstane%20receptor-%20and%20pregnane%20X%20receptor-mediated%20pathways&author=Y.%20Li&author=Q.%20Wang&author=X.%20Yao&author=Y.%20Li&volume=640&publication_year=2010&pages=46-54&pmid=20580705&doi=10.1016/j.ejphar.2010.05.017&)\]
+- 31.Kim Y.S., Kim D.H., Choi M.J., Kim S.M., Park R.K., Kwon K.B., Ryu D.G., Kim B.R. Inductive effect of Scutellariae radix on glutathione S-transferase Yc1/2 from rat liver. Korean J. Orient. Physiol. Pathol. 2003;17:1448–1452. (In Korean) \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Korean%20J.%20Orient.%20Physiol.%20Pathol.&title=Inductive%20effect%20of%20Scutellariae%20radix%20on%20glutathione%20S-transferase%20Yc1/2%20from%20rat%20liver&author=Y.S.%20Kim&author=D.H.%20Kim&author=M.J.%20Choi&author=S.M.%20Kim&author=R.K.%20Park&volume=17&publication_year=2003&pages=1448-1452&)\]
+- 32.Li H.T., Wu X.D., Davey A.K., Wang J. Antihyperglycemic effects of baicalin on streptozotocin–nicotinamide induced diabetic rats. Phytother. Res. 2011;25:189–194. doi: 10.1002/ptr.3238. \[ [DOI](https://doi.org/10.1002/ptr.3238)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20632297/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Phytother.%20Res.&title=Antihyperglycemic%20effects%20of%20baicalin%20on%20streptozotocin%E2%80%93nicotinamide%20induced%20diabetic%20rats&author=H.T.%20Li&author=X.D.%20Wu&author=A.K.%20Davey&author=J.%20Wang&volume=25&publication_year=2011&pages=189-194&pmid=20632297&doi=10.1002/ptr.3238&)\]
+- 33.Huang L., Peng S., Meng X., Hu Q., Zhang S., Yu R., Liu H., Sun J. Study of hepatic energy metabolism on rats by six cold property traditional Chinese medicines. Zhongguo Zhong Yao Za Zhi. 2009;34:3255–3258. (In Chinese) \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20353013/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Zhongguo%20Zhong%20Yao%20Za%20Zhi&title=Study%20of%20hepatic%20energy%20metabolism%20on%20rats%20by%20six%20cold%20property%20traditional%20Chinese%20medicines&author=L.%20Huang&author=S.%20Peng&author=X.%20Meng&author=Q.%20Hu&author=S.%20Zhang&volume=34&publication_year=2009&pages=3255-3258&pmid=20353013&)\]
+- 34.Dai J., Liang K., Zhao S., Jia W., Liu Y., Wu H., Lv J., Cao C., Chen T., Zhuang S., et al. Chemoproteomics reveals baicalin activates hepatic CPT1 to ameliorate diet-induced obesity and hepatic steatosis. Proc. Natl. Acad. Sci. USA. 2018;115:E5896–E5905. doi: 10.1073/pnas.1801745115. \[ [DOI](https://doi.org/10.1073/pnas.1801745115)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6042128/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29891721/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Proc.%20Natl.%20Acad.%20Sci.%20USA&title=Chemoproteomics%20reveals%20baicalin%20activates%20hepatic%20CPT1%20to%20ameliorate%20diet-induced%20obesity%20and%20hepatic%20steatosis&author=J.%20Dai&author=K.%20Liang&author=S.%20Zhao&author=W.%20Jia&author=Y.%20Liu&volume=115&publication_year=2018&pages=E5896-E5905&pmid=29891721&doi=10.1073/pnas.1801745115&)\]
+- 35.Li M.-R., Zhou Y.-Z., Chai J.-X., Chen Q., Gao L., Du G.-H., Qin X.-M. The anti-aging effects of different parts of Scutellaria baicalensis Georgi based on 1H NMR urine metabolomics. Acta Pharm. Sin. 2020;55:2702–2712. doi: 10.16438/j.0513-4870.2020-0865. (In Chinese) \[ [DOI](https://doi.org/10.16438/j.0513-4870.2020-0865)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Acta%20Pharm.%20Sin.&title=The%20anti-aging%20effects%20of%20different%20parts%20of%20Scutellaria%20baicalensis%20Georgi%20based%20on%201H%20NMR%20urine%20metabolomics&author=M.-R.%20Li&author=Y.-Z.%20Zhou&author=J.-X.%20Chai&author=Q.%20Chen&author=L.%20Gao&volume=55&publication_year=2020&pages=2702-2712&doi=10.16438/j.0513-4870.2020-0865&)\]
+- 36.Dong R., Li L., Gao H., Lou K., Luo H., Hao S., Yuan J., Liu Z. Safety, tolerability, pharmacokinetics, and food effect of baicalein tablets in healthy Chinese subjects: A single-center, randomized, double-blind, placebo-controlled, single-dose phase I study. J. Ethnopharmacol. 2021;274:114052. doi: 10.1016/j.jep.2021.114052. \[ [DOI](https://doi.org/10.1016/j.jep.2021.114052)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33753147/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Ethnopharmacol.&title=Safety,%20tolerability,%20pharmacokinetics,%20and%20food%20effect%20of%20baicalein%20tablets%20in%20healthy%20Chinese%20subjects:%20A%20single-center,%20randomized,%20double-blind,%20placebo-controlled,%20single-dose%20phase%20I%20study&author=R.%20Dong&author=L.%20Li&author=H.%20Gao&author=K.%20Lou&author=H.%20Luo&volume=274&publication_year=2021&pages=114052&pmid=33753147&doi=10.1016/j.jep.2021.114052&)\]
+- 37.Li L., Gao H., Lou K., Luo H., Hao S., Yuan J., Liu Z., Dong R. Safety, tolerability, and pharmacokinetics of oral baicalein tablets in healthy Chinese subjects: A single-center, randomized, double-blind, placebo-controlled multiple-ascending-dose study. Clin. Transl. Sci. 2021;14:2017–2024. doi: 10.1111/cts.13063. \[ [DOI](https://doi.org/10.1111/cts.13063)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8504836/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/34156161/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin.%20Transl.%20Sci.&title=Safety,%20tolerability,%20and%20pharmacokinetics%20of%20oral%20baicalein%20tablets%20in%20healthy%20Chinese%20subjects:%20A%20single-center,%20randomized,%20double-blind,%20placebo-controlled%20multiple-ascending-dose%20study&author=L.%20Li&author=H.%20Gao&author=K.%20Lou&author=H.%20Luo&author=S.%20Hao&volume=14&publication_year=2021&pages=2017-2024&pmid=34156161&doi=10.1111/cts.13063&)\]
+- 38.Lee H., Bae S., Kim K., Kim W., Chung S.-I., Yoon Y. β-Catenin mediates the anti-adipogenic effect of baicalin. Biochem. Biophys. Res. Commun. 2010;398:741–746. doi: 10.1016/j.bbrc.2010.07.015. \[ [DOI](https://doi.org/10.1016/j.bbrc.2010.07.015)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20627088/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Biochem.%20Biophys.%20Res.%20Commun.&title=%CE%B2-Catenin%20mediates%20the%20anti-adipogenic%20effect%20of%20baicalin&author=H.%20Lee&author=S.%20Bae&author=K.%20Kim&author=W.%20Kim&author=S.-I.%20Chung&volume=398&publication_year=2010&pages=741-746&pmid=20627088&doi=10.1016/j.bbrc.2010.07.015&)\]
+- 39.Fang C.-L., Wang Y., Tsai K.H.-Y., Chang H.-I. Liposome-encapsulated baicalein suppressed lipogenesis and extracellular matrix formation in Hs68 human dermal fibroblasts. Front. Pharmacol. 2018;9:155. doi: 10.3389/fphar.2018.00155. \[ [DOI](https://doi.org/10.3389/fphar.2018.00155)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5845745/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29559910/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Front.%20Pharmacol.&title=Liposome-encapsulated%20baicalein%20suppressed%20lipogenesis%20and%20extracellular%20matrix%20formation%20in%20Hs68%20human%20dermal%20fibroblasts&author=C.-L.%20Fang&author=Y.%20Wang&author=K.H.-Y.%20Tsai&author=H.-I.%20Chang&volume=9&publication_year=2018&pages=155&pmid=29559910&doi=10.3389/fphar.2018.00155&)\]
+- 40.Kerlin R., Bolon B., Burkhardt J., Francke S., Greaves P., Meador V., Popp J. Scientific and Regulatory Policy Committee: Recommended (“best”) practices for determining, communicating, and using adverse effect data from nonclinical studies. Toxicol. Pathol. 2016;44:147–162. doi: 10.1177/0192623315623265. \[ [DOI](https://doi.org/10.1177/0192623315623265)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26704930/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxicol.%20Pathol.&title=Scientific%20and%20Regulatory%20Policy%20Committee:%20Recommended%20(%E2%80%9Cbest%E2%80%9D)%20practices%20for%20determining,%20communicating,%20and%20using%20adverse%20effect%20data%20from%20nonclinical%20studies&author=R.%20Kerlin&author=B.%20Bolon&author=J.%20Burkhardt&author=S.%20Francke&author=P.%20Greaves&volume=44&publication_year=2016&pages=147-162&pmid=26704930&doi=10.1177/0192623315623265&)\]
+- 41.Sellers R.S., Morton D., Michael B., Roome N., Johnson J.K., Yano B.L., Perry R., Schafer K. Society of Toxicologic Pathology position paper: Organ weight recommendations for toxicology studies. Toxicol. Pathol. 2007;35:751–755. doi: 10.1080/01926230701595300. \[ [DOI](https://doi.org/10.1080/01926230701595300)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/17849358/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxicol.%20Pathol.&title=Society%20of%20Toxicologic%20Pathology%20position%20paper:%20Organ%20weight%20recommendations%20for%20toxicology%20studies&author=R.S.%20Sellers&author=D.%20Morton&author=B.%20Michael&author=N.%20Roome&author=J.K.%20Johnson&volume=35&publication_year=2007&pages=751-755&pmid=17849358&doi=10.1080/01926230701595300&)\]
+- 42.Nair A.B., Jacob S. A simple practice guide for dose conversion between animals and human. J. Basic Clin. Pharm. 2016;7:27–31. doi: 10.4103/0976-0105.177703. \[ [DOI](https://doi.org/10.4103/0976-0105.177703)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4804402/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27057123/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Basic%20Clin.%20Pharm.&title=A%20simple%20practice%20guide%20for%20dose%20conversion%20between%20animals%20and%20human&author=A.B.%20Nair&author=S.%20Jacob&volume=7&publication_year=2016&pages=27-31&pmid=27057123&doi=10.4103/0976-0105.177703&)\]
+- 43.Organisation for Economic Co-Operation and Development . Test No. 408: Repeated Dose 90-Day Oral Toxicity Study in Rodents. OECD Publishing; Paris, France: 1998. \[(accessed on 3 October 2026)\]. OECD Guidelines for the Testing of Chemicals, Section 4. Available online: [https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/testing-of-chemicals/previous-test-guidelines/section-4/replaced-test-guidelines/e408\_1998.pdf](https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/testing-of-chemicals/previous-test-guidelines/section-4/replaced-test-guidelines/e408_1998.pdf). \[ [Google Scholar](https://scholar.google.com/scholar_lookup?title=Test%20No.%20408:%20Repeated%20Dose%2090-Day%20Oral%20Toxicity%20Study%20in%20Rodents&publication_year=1998&)\]
+- 44.Organisation for Economic Co-Operation and Development . Test No. 408: Repeated Dose 90-Day Oral Toxicity Study in Rodents. OECD Publishing; Paris, France: 2025. OECD Guidelines for the Testing of Chemicals, Section 4. \[ [DOI](https://doi.org/10.1787/9789264070707-en)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?title=Test%20No.%20408:%20Repeated%20Dose%2090-Day%20Oral%20Toxicity%20Study%20in%20Rodents&publication_year=2025&)\]
+
+## Associated Data
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Supplementary Materials
+
+[toxics-14-00919-s001.zip](https://pmc.ncbi.nlm.nih.gov/articles/instance/13709419/bin/toxics-14-00919-s001.zip) (129.5KB, zip)
+
+### Data Availability Statement
+
+The datasets generated and analyzed during the current study are available from the corresponding author upon reasonable request.
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+## ACTIONS
+
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)View on publisher site](https://doi.org/10.3390/toxics14100919)
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)PDF (1.1 MB)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/pdf/toxics-14-00919.pdf)
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Collections
+- ![Permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+## RESOURCES
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+Back to Top![back to top icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg)

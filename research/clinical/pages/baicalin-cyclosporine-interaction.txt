@@ -1,0 +1,12 @@
+PMID: 31156436
+Title: A Single Dose of Baicalin Has No Clinically Significant Effect on the Pharmacokinetics of Cyclosporine A in Healthy Chinese Volunteers.
+Authors: Liu, Ruijuan, Li, Xia, Wei, Jingyao, Liu, Shuaibing, Chang, Yuanyuan, Zhang, Jiali, Zhang, Ji, Zhang, Xiaojian, Fuhr, Uwe, Taubert, Max, Tian, Xin
+Journal: Frontiers in pharmacology
+ISOAbbrev: Front Pharmacol
+Year: 2019
+Volume: 10  Issue:   Pages: 518
+DOI: 10.3389/fphar.2019.00518
+URL: https://pubmed.ncbi.nlm.nih.gov/31156436/
+Fetched: 2026-11-14 via NCBI E-utilities (efetch db=pubmed)
+--- Abstract ---
+Despite its narrow therapeutic window and large interindividual variability, cyclosporine A (CsA) is the first-line therapy following organ transplantation. Metabolized mainly by CYP3A and being a substrate of P-glycoprotein (P-gp), CsA is susceptible to drug-drug interactions. Baicalin (BG) is a drug used for adjuvant therapy of hepatitis in traditional Chinese medicine. Since its aglycone baicalein (B) inhibits CYP3A and P-gP, co-administration might affect CsA pharmacokinetics. This study investigated the effect of BG on CsA pharmacokinetics. In a two-period study, 16 healthy volunteers received a single 200 mg oral CsA dose alone (reference period) or in combination with 500 mg BG (test period). Pharmacokinetic evaluation of CsA was carried out using non-compartmental analysis (NCA) and population pharmacokinetics (popPK). Treatments were compared using the standard bioequivalence method. Based on NCA, 90% CIs of AUC and C max test-to-reference ratios were within bioequivalence boundaries. In the popPK analysis, a two-compartment model (clearance/F 62.8 L/h, central and peripheral volume of distribution/F 254 L and 388 L) with transit compartments for absorption appropriately described CsA concentrations. No clinically relevant effect of 500 mg BG co-administration on CsA pharmacokinetics was identified and both treatments were well tolerated.

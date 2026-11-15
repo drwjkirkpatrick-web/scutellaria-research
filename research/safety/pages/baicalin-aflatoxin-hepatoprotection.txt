@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/38913091/
+PMID: 38913091
+Title: Baicalin attenuates aflatoxin B
+Authors: Defeng Wen; Jie Zhang; Hualin Zhou; Yinsheng Qiu; Pu Guo; Qirong Lu; Jianglin Xiong
+Journal: Mycotoxin research (2024)
+DOI: 10.1007/s12550-024-00540-7
+Fetched: 2026-11-14
+
+ABSTRACT
+Aflatoxin B1 (AFB1) is classified as a Class I carcinogen and common pollutant in human and animal food products. Prolonged exposure to AFB1 can induce hepatocyte apoptosis and lead to hepatotoxicity. Therefore, preventing AFB1-induced hepatotoxicity remains a critical issue and is of great significance. Baicalin, a polyphenolic compound derived from Scutellaria baicalensis Georgi, has a variety of pharmacodynamic activities, such as antiapoptotic and anticancer activities. This study systematically investigated the alleviating effect of baicalin on AFB1-induced hepatotoxicity from the perspective of apoptosis and explored the possible molecular mechanism. In the normal human liver cell line L02, baicalin treatment significantly inhibited AFB1-induced c-Jun-N-terminal Kinase (JNK) activation and cell apoptosis. In addition, the in vitro mechanism study demonstrated that baicalin alleviates AFB1-induced hepatocyte apoptosis through suppressing the translocation of phosphorylated JNK to the nucleus and decreasing the phosphorylated c-Jun/c-Jun ratio and the Bax/Bcl2 ratio. Molecular docking and drug affinity responsive target stability assays demonstrated that baicalin has the potential to target JNK. This study provides a basis for the therapeutic effect of baicalin on hepatocyte apoptosis caused by AFB1, indicating that the development of baicalin and JNK pathway inhibitors has broad application prospects in the prevention of hepatotoxicity, especially hepatocyte apoptosis.

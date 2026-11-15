@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/41003537/
+PMID: 41003537
+Title: Development of a UHPLC-MS/MS Method for Quantitative Analysis of Aflatoxin B
+Authors: Yuanfang Liu; Cuiping Zeng; Ying-Ying Li; Jiayu Guo; Jinming Xu
+Journal: Toxins (2025)
+DOI: 10.3390/toxins17090473
+Fetched: 2026-11-14
+
+ABSTRACT
+Aflatoxin B1 (AFB1) contamination in Scutellaria baicalensis poses a serious threat to the safety of traditional Chinese medicinal products. In this study, a sensitive and reliable ultra-high performance liquid chromatography-tandem mass spectrometry (UHPLC-MS/MS) method was developed for the quantitative determination of AFB1 in Scutellaria baicalensis. Method optimization included selection of chromatographic columns, mobile phase composition, and mass spectrometric parameters. Sample pretreatment was also optimized to reduce matrix interference and enhance extraction efficiency. The method showed excellent linearity (R2 > 0.999) in the range of 0.1-10.0 µg/L, with a limit of detection (LOD) of 0.03 µg/kg and a limit of quantification (LOQ) of 0.10 µg/kg. Precision and recovery studies demonstrated good repeatability and accuracy, with intra- and inter-day relative standard deviations (RSDs) below 5.2% and recoveries ranging from 88.7% to 103.4%. Application of the method to six commercial Scutellaria baicalensis samples revealed detectable AFB1 in two samples, though all levels were below national safety limits. This method provides a robust tool for routine monitoring of AFB1 in herbal medicines and supports the establishment of quality control systems for Scutellaria baicalensis.

@@ -1,0 +1,11 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/32305527/
+Accessed: 2026-11-14
+Title: Comparative safety of flavocoxid vs prescription NSAIDs among osteoarthritis patients.
+Journal: Osteoarthritis and cartilage
+Year: 2020
+---
+
+OBJECTIVE: Flavocoxid is a prescription medical food used to manage osteoarthritis (OA) symptoms. Safety concerns based on case reports raised an association with acute liver injury and hypersensitivity pneumonitis. We determined incidence rates (IR) of these safety events in a cohort of new users of flavocoxid and prescription non-steroidal anti-inflammatory drugs (NSAIDs).
+METHOD: MarketScan® claims data (2006-2017) was used to identify patients initiating flavocoxid or NSAIDs. Propensity score matching (1:2 ratio) was used to balance patient characteristics. Outcomes included hospitalization for hypersensitivity pneumonitis, liver injury, gastrointestinal bleeding, myocardial infarction, and acute kidney injury. Poisson regression was used to calculate IRs and Cox regression for calculating adjusted hazard ratios (aHR).
+RESULTS: 3,337 flavocoxid and 6,674 NSAID users met eligibility criteria. Before matching, flavocoxid users were older (mean 57 vs 51 years), had more polypharmacy (68% vs 29% taking ≥11 medications). After matching, characteristics were well balanced. The rate of hypersensitivity pneumonitis was 1.1 (95% CI 0.0-5.9) per 1,000 PY for flavocoxid and 0.0 (95% CI 0.0-2.2) for NSAIDs. For hospitalized liver injury, it was 3.2 (95% CI 0.7-9.3) for flavocoxid and 2.4 (95% CI 0.7-6.1) for NSAIDs, aHR = 1.16, 95% CI 0.23-6.01. A lower rate of GI bleed was observed, IR: 5.3 (1.7-12.3) for flavocoxid and 10.2 (5.9-16.3) for NSAIDs, aHR 0.49 (0.18-1.68). There were no significant differences for MI or AKI.
+CONCLUSION: The rate of hypersensitivity pneumonitis and liver injury associated with flavocoxid was low and minimally elevated compared to NSAIDs. Flavocoxid users had a significantly lower risk for hospitalized GI bleeding. The risk-benefit profile of flavocoxid may warrant reevaluation in light of these findings.

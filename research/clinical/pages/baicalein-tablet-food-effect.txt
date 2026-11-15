@@ -1,0 +1,16 @@
+PMID: 33753147
+Title: Safety, tolerability, pharmacokinetics, and food effect of baicalein tablets in healthy Chinese subjects: A single-center, randomized, double-blind, placebo-controlled, single-dose phase I study.
+Authors: Dong, Ruihua, Li, Lijun, Gao, Hongzhi, Lou, Kun, Luo, Hongmei, Hao, Sheng, Yuan, Jing, Liu, Zeyuan
+Journal: Journal of ethnopharmacology
+ISOAbbrev: J Ethnopharmacol
+Year: 2021
+Volume: 274  Issue:   Pages: 114052
+DOI: 10.1016/j.jep.2021.114052
+URL: https://pubmed.ncbi.nlm.nih.gov/33753147/
+Fetched: 2026-11-14 via NCBI E-utilities (efetch db=pubmed)
+--- Abstract ---
+ETHNOPHARMACOLOGICAL RELEVANCE: Scutellaria baicalensis (Huang-Qin in Chinese) is a dry root of the perennial herb Scutellaria baicalensis Georgi, which has been used extensively in current prescriptions. Scutellaria baicalensis is an herb high in flavonoids, and baicalein is the one flavonoid found in the highest amount in Scutellaria baicalensis.
+AIM OF THE STUDY: Influenza virus could cause mild respiratory tract illness to severe pneumonia and even death. Baicalein has been proved to be one of the effective components against the influenza virus. However, there have been few reports on human trials of baicalein. The purpose of this study was to evaluate the safety of baicalein in vivo and analyze its pharmacokinetic characteristics.
+MATERIALS AND METHODS: Three randomized studies were conducted to evaluate the pharmacokinetics (PK), safety, tolerability, and food effects of baicalein tablets. In the 7-month single-dose safety study, 60 subjects were enrolled and randomized to receive 100-800 mg baicalein tablets or placebo. In the single-dose PK study, 40 subjects were enrolled and randomized to receive 200 mg, 400 mg, 600 mg, 800 mg baicalein tablets. In the study of food effect on PK of baicalein, an additional 10 subjects were enrolled in the 400 mg group, this part of the trial lasted for 7 months. Blood and urine samples for PK analysis were collected at a pre-specified time. PK properties in both fasted and fed states were evaluated, as well as safety and tolerability.
+RESULTS: Among the 80 subjects who were evaluable for the single-dose safety and tolerability, 56 adverse events (AEs) were observed in 32/80 subjects, of which 49 events were from 28/68 subjects in baicalein group and 7 events were from 4/12 subjects in placebo group. All AEs were mild and resolved without any medical intervention. The most common AEs were elevated high-sensitivity C-reactive protein (hs-CRP) level and high triglycerides. After a single administration of baicalein tablets (200 mg, 400 mg, 600 mg, or 800 mg), Cmax were 280.44, 628.80, 845.20, 489.55 ng/mL; AUC0-∞ were 2035.57, 2939.31, 4494.88, and 3754.43 h*ng/mL, respectively. And t1/2z ranged from 7.80 to 14.91 h. The exposure of baicalein and its metabolites increased in a less than dose-proportional manner.
+CONCLUSION: Baicalein tablets within the studied dose range were safe and well-tolerated in healthy Chinese subjects with no serious or severe adverse effects. Further investigation will be needed to assess the safety and efficacy in the target patients.

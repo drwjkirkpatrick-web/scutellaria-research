@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/42931707/
+PMID: 42931707
+Title: Safety Evaluation of
+Authors: Jungbin Song; Hocheol Kim
+Journal: Toxics (2026)
+DOI: 10.3390/toxics14100919
+Fetched: 2026-11-14
+
+ABSTRACT
+Scutellaria baicalensis root is widely used in traditional medicine and functional foods, but information on its long-term toxicity remains limited. This study evaluated the acute and 26-week repeated-dose oral toxicity of S. baicalensis root extract (SBE) in male and female Sprague-Dawley rats under Good Laboratory Practice conditions. In the acute study, SBE was administered once at 2500 or 5000 mg/kg, followed by 14 days of observation. In the repeated-dose study, SBE was administered at 500, 1000, or 2000 mg/kg/day for 26 weeks, followed by a 4-week recovery period. No mortality occurred in either study. Acute administration caused only transient, non-adverse clinical signs, and the minimum lethal dose was >5000 mg/kg. Repeated administration at 2000 mg/kg/day increased relative liver weight and urinary ketone grades in both sexes, while absolute liver weight and serum triglycerides increased in females. These findings were considered treatment-related but non-adverse, without corroborating clinical, serum biochemical, or histopathological evidence of organ injury. The no-observed-effect level and no-observed-adverse-effect level were 1000 and 2000 mg/kg/day, respectively, and no target organ of toxicity was identified. These findings provide preclinical safety information for acute and long-term oral exposure to SBE.

@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/19074529/
+PMID: 19074529
+Title: Mechanism of CYP2C9 inhibition by flavones and flavonols.
+Authors: Dayong Si; Ying Wang; Yi-Han Zhou; Yingjie Guo; Juan Wang; Hui Zhou; Ze-Sheng Li; J Paul Fawcett
+Journal: Drug metabolism and disposition: the biological fate of chemicals (2009)
+DOI: 10.1124/dmd.108.023416
+Fetched: 2026-11-14
+
+ABSTRACT
+This article describes an in vitro investigation of the inhibition of cytochrome P450 (P450) 2C9 by a series of flavonoids made up of flavones (flavone, 6-hydroxyflavone, 7-hydroxyflavone, chrysin, baicalein, apigenin, luteolin, scutellarein, and wogonin) and flavonols (galangin, fisetin, kaempferol, morin, and quercetin). With the exception of flavone, all flavonoids were shown to inhibit CYP2C9-mediated diclofenac 4'-hydroxylation in the CYP2C9 RECO system, with K(i) value <or= 2.2 microM. In terms of the mechanism of inhibition, 6-hydroxyflavone was found to be a noncompetitive inhibitor of CYP2C9, whereas the other flavonoids were competitive inhibitors. Computer docking simulation and constructed mutants substituted at residue 100 of CYP2C9.1 indicate that the noncompetitive binding site of 6-hydroxyflavone lies beside Phe100, similar to the reported allosteric binding site of warfarin. The other flavonoids exert competitive inhibition through interaction with the substrate binding site of CYP2C9 accessed by flurbiprofen. These results suggest flavonoids can participate in interactions with drugs that act as substrates for CYP2C9 and provide a possible molecular basis for understanding cooperativity in human P450-mediated drug-drug interactions.

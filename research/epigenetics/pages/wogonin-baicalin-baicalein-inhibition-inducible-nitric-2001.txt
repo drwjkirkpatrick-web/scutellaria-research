@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/11331078/
+TITLE: Wogonin, baicalin, and baicalein inhibition of inducible nitric oxide synthase and cyclooxygenase-2 gene expressions induced by nitric oxide synthase inhibitors and lipopolysaccharide.
+AUTHORS: Y C Chen; S C Shen; L G Chen; T J Lee; L L Yang
+JOURNAL: Biochemical pharmacology
+YEAR: 2001
+VOL_PAGES: 61; 1417-27
+DOI: 10.1016/s0006-2952(01)00594-9
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+We previously reported that oroxylin A, a polyphenolic compound, was a potent inhibitor of lipopolysaccharide (LPS)-induced expression of inducible nitric oxide synthase (iNOS) and cyclooxygenase-2 (COX-2). In the present study, three oroxylin A structurally related polyphenols isolated from the Chinese herb Huang Qui, namely baicalin, baicalein, and wogonin, were examined for their effects on LPS-induced nitric oxide (NO) production and iNOS and COX-2 gene expressions in RAW 264.7 macrophages. The results indicated that these three polyphenolic compounds inhibited LPS-induced NO production in a concentration-dependent manner without a notable cytotoxic effect on these cells. The decrease in NO production was in parallel with the inhibition by these polyphenolic compounds of LPS-induced iNOS gene expression. However, these three compounds did not directly affect iNOS enzyme activity. In addition, wogonin, but not baicalin or baicalein, inhibited LPS-induced prostaglandin E2 (PGE2) production and COX-2 gene expression without affecting COX-2 enzyme activity. Furthermore, N-nitro-L-arginine (NLA) and N-nitro-L-arginine methyl ester (L-NAME) pretreatment enhanced LPS-induced iNOS (but not COX-2) protein expression, which was inhibited by these three polyphenolic compounds. Wogonin, but not baicalin or baicalein, similarly inhibited PGE2 production and COX-2 protein expression in NLA/LPS or L-NAME/LPS-co-treated RAW 264.7 cells. These results indicated that co-treatment with NOS inhibitors and polyphenolic compounds such as wogonin effectively blocks acute production of NO and, at the same time, inhibits expression of iNOS and COX-2 genes.

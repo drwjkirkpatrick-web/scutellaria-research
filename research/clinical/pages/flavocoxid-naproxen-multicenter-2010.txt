@@ -1,0 +1,15 @@
+PMID: 20845002
+Title: Efficacy and safety of flavocoxid, a novel therapeutic, compared with naproxen: a randomized multicenter controlled trial in subjects with osteoarthritis of the knee.
+Authors: Levy, Robert M, Khokhlov, Alexander, Kopenkin, Sergey, Bart, Boris, Ermolova, Tatiana, Kantemirova, Raiasa, Mazurov, Vadim, Bell, Marjorie, Caldron, Paul, Pillai, Lakshmi, Burnett, Bruce P
+Journal: Advances in therapy
+ISOAbbrev: Adv Ther
+Year: 2010
+Volume: 27  Issue: 10  Pages: 731-42
+DOI: 10.1007/s12325-010-0064-z
+URL: https://pubmed.ncbi.nlm.nih.gov/20845002/
+Fetched: 2026-11-14 via NCBI E-utilities (efetch db=pubmed)
+--- Abstract ---
+INTRODUCTION: Flavocoxid is a novel flavonoid-based "dual inhibitor" of the 5-lipoxygenase (5-LOX) enzyme and the cyclooxygenase (COX) enzymes. This study was designed to compare the effectiveness and safety of flavocoxid to naproxen in subjects with moderate to severe osteoarthritis (OA) of the knee.
+METHODS: In this randomized, multicenter, double-blind study, 220 subjects were assigned to receive either flavocoxid (500 mg twice daily) or naproxen (500 mg twice daily) for 12 weeks. The trial was structured to show noninferiority of flavocoxid to naproxen. Primary outcome measures included the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) and subscales and a timed walk.
+RESULTS: More than 90% of the subjects in both groups noted significant reduction in the signs and symptoms of knee OA. There were no statistically significant differences in efficacy between the flavocoxid and naproxen groups when the entire intent-to-treat population was analyzed. The flavocoxid group had significantly fewer upper gastrointestinal (UGI) and renal (edema) adverse events (AEs) as well as a strong trend toward fewer respiratory AEs.
+CONCLUSION: Flavocoxid, a first-in-class flavonoid-based therapeutic that inhibits COX-1 and COX-2 as well as 5-LOX, was as effective as naproxen in managing the signs and symptoms of OA of the knee. Flavocoxid demonstrated better UGI, renal (edema), and respiratory safety profiles than naproxen.

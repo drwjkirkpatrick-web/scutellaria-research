@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/22114686/
+TITLE: FDA-approved drugs that protect mammalian neurons from glucose toxicity slow aging dependent on cbp and protect against proteotoxicity.
+AUTHORS: Alex Lublin; Fumiko Isoda; Harshil Patel; Kelvin Yen; Linda Nguyen; Daher Hajje; Marc Schwartz; Charles Mobbs
+JOURNAL: PloS one
+YEAR: 2011
+VOL_PAGES: 6; e27762
+DOI: 10.1371/journal.pone.0027762
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Screening a library of drugs with known safety profiles in humans yielded 30 drugs that reliably protected mammalian neurons against glucose toxicity. Subsequent screening demonstrated that 6 of these 30 drugs increase lifespan in C. elegans: caffeine, ciclopirox olamine, tannic acid, acetaminophen, bacitracin, and baicalein. Every drug significantly reduced the age-dependent acceleration of mortality rate. These protective effects were blocked by RNAi inhibition of cbp-1 in adults only, which also blocks protective effects of dietary restriction. Only 2 drugs, caffeine and tannic acid, exhibited a similar dependency on DAF-16. Caffeine, tannic acid, and bacitracin also reduced pathology in a transgenic model of proteotoxicity associated with Alzheimer's disease. These results further support a key role for glucose toxicity in driving age-related pathologies and for CBP-1 in protection against age-related pathologies. These results also provide novel lead compounds with known safety profiles in human for treatment of age-related diseases, including Alzheimer's disease and diabetic complications.

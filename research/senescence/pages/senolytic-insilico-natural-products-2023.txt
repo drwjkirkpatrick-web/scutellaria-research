@@ -1,0 +1,12 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/36278464/
+Accessed: 2026-11-14
+Title: Natural Products as a Major Source of Candidates for Potential Senolytic Compounds obtained by in silico Screening.
+Journal: Medicinal chemistry (Shariqah (United Arab Emirates))
+Year: 2023
+---
+
+BACKGROUND: Preclinical studies suggest that senolytic compounds such as quercetin (a natural product) and dasatinib (a synthetic product) decrease senescent cells, reduce inflammation, and alleviate human frailty. This evidence has opened a new field of research for studying the effect of these compounds on age-related dysfunction and diseases.
+OBJECTIVE: The present study performed in silico and we identified new potential senolytic candidates from an extensive database that contains natural products (NPs) and semi-synthetic products (SMSs).
+METHODS: Computer programs Chemminer and rcdk packages, which compared the fingerprints of numerous molecules (40,383) with reference senolytics, and the creation of a pharmacological network built with signaling pathways and targets involved in senescence processes were used to identify compounds with a potential activity.
+RESULTS: Six drug-like candidates (3,4'-dihydroxypropiophenone, baicalein, α, β-dehydrocurvularin, lovastatin, luteolin, and phloretin) were identified.
+CONCLUSION: To our knowledge, this is the first time that these six natural molecules have been proposed to have senolytic activity. To validate the methodology employed in the identification of new drug-like senolytics, experimental evidence is needed with models that evaluate senolytic activity.

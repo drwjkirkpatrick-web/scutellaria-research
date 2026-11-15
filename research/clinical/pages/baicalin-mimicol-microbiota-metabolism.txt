@@ -1,0 +1,12 @@
+PMID: 39152558
+Title: Metabolism of baicalin by different microbiota determined by MimiCol.
+Authors: Seradj, D-S, Neubauer, L, Senekowitsch, S, Weitschies, W, Schick, P
+Journal: Die Pharmazie
+ISOAbbrev: Pharmazie
+Year: 2024
+Volume: 79  Issue: 7  Pages: 151-158
+DOI: 10.1691/ph.2024.4014
+URL: https://pubmed.ncbi.nlm.nih.gov/39152558/
+Fetched: 2026-11-14 via NCBI E-utilities (efetch db=pubmed)
+--- Abstract ---
+Substances metabolised by the intestinal microbiota can be used as colon markers and are gaining importance. The flavonoid glycoside baicalin has been described in the literature to be metabolised by the intestinal microbiota. The aim of this work was to investigate how the biotransformation of baicalin to baicalein is related to the intestinal microbiota. For this purpose, stool samples from healthy volunteers with different dietary habits were used. From the pre-cultured stool samples, different standard microbiota were obtained which were used for the subsequent metabolism studies in the in vitro model MimiCol. MimiCol represents the ascending section of the colon, the colon ascendens, in terms of available volume, pH-value, redox potential and bacterial abundance. While during the experiments with added standard microbiota a metabolism of baicalin to baicalein could be detected, this was not the case in a series of experiments without added microbiota. This confirmed the hypothesis that the metabolism of baicalin relies on the bacterial species that are present in the colon. The data collected in the MimiCol therefore support the use of baicalin as a potential marker for the determination of the colon arrival. This can be explained by the fact that baicalin in its native form is poorly absorbed from the gastrointestinal tract. Enzymes of the colonic microbiota, namely β-glucuronidases, hydrolyze baicalin to the aglycone baicalein. The resulting aglycone can be absorbed through the intestinal mucosa and detected in blood plasma. This potentially enables the use of baicalin as a marker to determine the time of arrival in the colon.

@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/25268843/
+PMID: 25268843
+Title: Baicalein inhibits agonist- and tumor cell-induced platelet aggregation while suppressing pulmonary tumor metastasis via cAMP-mediated VASP phosphorylation along with impaired MAPKs and PI3K-Akt activation.
+Authors: Sung Dae Kim; Young Ji Lee; Ji Sue Baik; Joeng Yoon Han; Chang Geun Lee; Kyu Heo; You Soo Park; Joong Sun Kim
+Journal: Biochemical pharmacology (2014)
+DOI: 10.1016/j.bcp.2014.09.019
+Fetched: 2026-11-14
+
+ABSTRACT
+Recently, the importance of platelet activation in cancer metastasis has become generally accepted. As a result, the development of new platelet inhibitors with minimal adverse effects is now a promising area of targeted cancer therapy. Baicalein is a functional ingredient derived from the root of Scutellaria baicalensis Georgi, a plant used intraditional medicine. The pharmacological effects of this compound including anti-oxidative and anti-inflammatory activities have already been demonstrated. However, its effects on platelet activation are unknown. We therefore investigated the effects of baicalein on ligand-induced platelet aggregation and pulmonary cancer metastasis. In the present study, baicalein inhibited agonist-induced platelet aggregation, granule secretion markers (P-selectin expression and ATP release), [Ca(2+)]i mobilization, and integrin αIIbβ3 expression. Additionally, baicalein attenuated ERK2, p38, and Akt activation, and enhanced VASP phosphorylation. Indeed, baicalein was shown to directly inhibit PI3K kinase activity. Moreover, baicalein attenuated the platelet aggregation induced by C6 rat glioma tumor cells in vitro and suppressed CT26 colon cancer metastasis in mice. These features indicate that baicalein is a potential therapeutic drug for the prevention of cancer metastasis.

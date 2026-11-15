@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/35955525/
+TITLE: Regulation of Cell Signaling Pathways and Non-Coding RNAs by Baicalein in Different Cancers.
+AUTHORS: Ammad Ahmad Farooqi; Gulnara Kapanova; Sundetgali Kalmakhanov; Gulnur Tanbayeva; Kairat S Zhakipbekov; Venera S Rakhmetova; Marat K Syzdykbayev
+JOURNAL: International journal of molecular sciences
+YEAR: 2022
+VOL_PAGES: 23; 
+DOI: 10.3390/ijms23158377
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Landmark discoveries in molecular oncology have provided a wide-angle overview of the heterogenous and therapeutically challenging nature of cancer. The power of modern 'omics' technologies has enabled researchers to deeply and comprehensively characterize molecular mechanisms underlying cellular functions. Interestingly, high-throughput technologies have opened new horizons for the design and scientific fool-proof evaluation of the pharmacological properties of targeted chemical compounds to tactfully control the activities of the oncogenic protein networks. Groundbreaking discoveries have galvanized the expansion of the repertoire of available pharmacopoeia to therapeutically target a myriad of deregulated oncogenic pathways. Natural product research has undergone substantial broadening, and many of the drugs which constitute the backbone of modern pharmaceuticals have been derived from the natural cornucopia. Baicalein has gradually gained attention because of its unique ability to target different oncogenic signal transduction cascades in various cancers. We have partitioned this review into different sub-sections to provide a broader snapshot of the oncogenic pathways regulated by baicalein. In this review, we summarize baicalein-mediated targeting of WNT/β-catenin, AKT/mTOR, JAK/STAT, MAPK, and NOTCH pathways. We also critically analyze how baicalein regulates non-coding RNAs (microRNAs and long non-coding RNAs) in different cancers. Finally, we conceptually interpret baicalein-mediated inhibition of primary and secondary growths in xenografted mice.

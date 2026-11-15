@@ -1,0 +1,8 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/39620386/
+Accessed: 2026-11-14
+Title: Wogonin Inhibits Ovarian Cancer by Activating the AMPK-TET2-5hmC Axis.
+Journal: Molecular carcinogenesis
+Year: 2025
+---
+
+Ovarian cancer is one of the most common gynecologic cancers. In the quest for effective anti-cancer agents, this study explores the effects of wogonin, a naturally occurring flavonoid, on the viability and migration of A2780 and Kuramochi ovarian cancer cells. A2780 and Kuramochi human ovarian cancer cell lines were utilized. Cytotoxicity and migration were evaluated using the CCK8 assay and the wound-healing assay, respectively. The effect of wogonin on the growth of A2780 ovarian cancer cells in vivo was assessed using a nude mouse model. The phosphorylation and half-life of AMPK were determined by western blot analysis. The level of 5hmC was assessed using dot blot analysis. The impact of wogonin on gene expression was examined through RNA-Seq. Our results show that wogonin not only impedes cancer cell growth and mobility both in vitro and in vivo but also significantly increases the cytotoxicity of cisplatin. Investigations of the mechanism underlying these effects reveal that wogonin suppresses genes associated with cell proliferation and the EMT and upregulates metabolic pathways, particularly the AMPK signaling pathway, which is crucial for increasing 5hmC levels. These results indicate that wogonin promotes DNA demethylation by stabilizing TET2. In conclusion, our findings highlight not only the therapeutic potential of wogonin but also its preventative capability against ovarian cancer in individuals with metabolic disorders, such as diabetes, who are at increased risk of ovarian cancer.

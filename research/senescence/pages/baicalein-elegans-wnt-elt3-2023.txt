@@ -1,0 +1,11 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/37463652/
+Accessed: 2026-11-14
+Title: Baicalein mitigates oxidative stress and enhances lifespan through modulation of Wnt ligands and GATA factor: ELT-3 in Caenorhabditis elegans.
+Journal: Life sciences
+Year: 2023
+---
+
+AIMS: Age predispose individual to major diseases, and the biological processes contributing to aging are currently under intense investigation. Hence, plant-based natural compounds could be a potential target to counteract aging and age-associated diseases. So, the present study aims to investigate the antiaging properties of a natural compound Baicalein (BAI) on C. elegans and to elucidate the pathways or signaling molecules involved.
+METHODS: Herein, we investigated the inhibitory effects of BAI on different Wnt ligands of C. elegans and its underlying mechanisms. Moreover, we monitored BAI's antiaging effect on the worms' lifespan and its different aging parameters. We employed different mutant and transgenic C. elegans strains to identify the pathways and transcription factors involved.
+KEY FINDINGS: We first showed that BAI could downregulate different Wnt ligands mRNA expressions in C. elegans, resulting in enhanced expression of GATA transcription factor ELT-3 and antiaging gene Klotho. On further evaluation, it was observed that BAI could enhance the worm's lifespan via ELT-3 and SKN-1 transcription factors, whereas, for the protection of worms against external oxidative stress, both ELT-3 and DAF-16 transcription factors were involved. Moreover, sensitive aging parameters of worms, including lipofuscin and ROS accumulation, and the declined physiological and mechanical functions observed in aged worms were ameliorated by BAI.
+SIGNIFICANCE: This study highlighted BAI as a promising antiaging compound. This study also revealed the Wnt inhibitory potential of BAI with future implications for pharmacological target of age-associated diseases with aberrant activation of the Wnt pathway.

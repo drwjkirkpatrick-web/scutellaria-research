@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/33838155/
+TITLE: MiR-3663-3p participates in the anti-hepatocellular carcinoma proliferation activity of baicalein by targeting SH3GL1 and negatively regulating EGFR/ERK/NF-κB signaling.
+AUTHORS: Jing Tian; Jun Li; Beibei Bie; Jin Sun; Yanhua Mu; Mengjiao Shi; Shuqun Zhang; Guangyao Kong
+JOURNAL: Toxicology and applied pharmacology
+YEAR: 2021
+VOL_PAGES: 420; 115522
+DOI: 10.1016/j.taap.2021.115522
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Baicalein is a purified flavonoid that exhibits anticancer effects in hepatocellular carcinoma (HCC). However, its underlying molecular mechanisms remain largely unclear. In this study, we found that baicalein inhibited HCC cell growth, induced apoptosis, and blocked cell cycle arrest at the S phase in vitro, as well as reduced HCC tumor volume and weight in vivo. Quantitative reverse transcriptase-PCR (qRT-PCR) results suggested that miR-3663-3p was downregulated in HCC tissues. After baicalein treatment, miR-3663-3p expression was upregulated in HCC cells. Transfection of miR-3663-3p suppressed HCC cell proliferation and colony formation, increased the proportion of apoptotic cells in vitro, and reduced the volume and weight of tumors in vivo. The results of dual-luciferase reporter assay showed that miR-3663-3p could directly bind to the 3'-UTR of SH3GL1. SH3GL1 overexpression partly reduced the growth-inhibiting effect of miR-3663-3p. Both baicalein treatment and miR-3663-3p overexpression downregulated the expression of SH3GL1 and inactivated the Erk1/2, p-NF-κB/p65, and EGFR signaling pathways. Overall, our data suggest that baicalein may act as a novel HCC suppressor, and that the miR-3663-3p/SH3GL1/EGFR/ERK/NF-κB pathway plays a vital role in HCC progression. Thus, baicalein treatment or miR-3663-3p induction may be a promising strategy for HCC therapy.

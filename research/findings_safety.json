@@ -1,0 +1,1032 @@
+{
+ "sources": [
+  {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/",
+   "title": "Acute liver injury due to flavocoxid (Limbrel), a medical food for osteoarthritis: a case series",
+   "authors": "Chalasani N; Vuppalanchi R; Navarro V; Fontana R; Bonkovsky H; Barnhart H; Kleiner DE; Hoofnagle JH",
+   "year": "2012",
+   "journal_or_publisher": "Annals of Internal Medicine",
+   "vol_pages": "156(12):857-860",
+   "doi": "10.7326/0003-4819-156-12-201206190-00006",
+   "pmid": "22711078",
+   "page_file": "research/safety/pages/chalasani-flavocoxid-cases-full.txt",
+   "quotes": [
+    "Among 877 patients enrolled in the DILIN Prospective Study, 4 were attributed to flavocoxid.",
+    "All recovered uneventfully with no evidence acute liver failure or chronic liver injury.",
+    "Flavocoxid can cause significant liver injury which appears to resolve within weeks after its cessation.",
+    "The primary ingredients of flavocoxid are baicalin and catechins which are concentrated and standardized to greater than 90% purity.",
+    "Baicalin is a free-B ring flavonoid derived from the root of _Scutellaria baicalensis_ (Chinese skullcap), and multiple _in-vitro_ and animal experiments showed its hepatoprotective activity against a variety of hepatotoxic insults"
+   ],
+   "notes": "DILIN prospective case series; full text fetched from PMC (abstract saved separately).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://www.ncbi.nlm.nih.gov/books/NBK548129/",
+   "title": "Flavocoxid [LiverTox: Clinical and Research Information on Drug-Induced Liver Injury]",
+   "authors": "National Institute of Diabetes and Digestive and Kidney Diseases",
+   "year": "2018",
+   "journal_or_publisher": "NCBI Bookshelf, National Library of Medicine",
+   "vol_pages": "NBK548129 (last update 2018 Jan 30)",
+   "doi": "",
+   "pmid": "",
+   "page_file": "research/safety/pages/livertox-flavocoxid.txt",
+   "quotes": [
+    "In premarketing clinical trials, serum aminotransferase elevations occurred in up to 10% of patients on flavocoxid therapy, but elevations above 3 times the upper limit of normal occurred in only 1% to 2% of recipients.",
+    "The time to onset was 1 to 5 months, and the pattern of enzyme elevations was usually hepatocellular or mixed.",
+    "Most cases were moderate in severity and no instance of acute liver failure or death has been reported.",
+    "this approval was withdrawn in December 2017 and it is not longer available as an FDA approved medical food.",
+    "The typical dose was 500 mg twice daily."
+   ],
+   "notes": "LiverTox monograph; likelihood score C (probable rare cause).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://www.ncbi.nlm.nih.gov/books/NBK548757/",
+   "title": "Skullcap [LiverTox: Clinical and Research Information on Drug-Induced Liver Injury]",
+   "authors": "National Institute of Diabetes and Digestive and Kidney Diseases",
+   "year": "2020",
+   "journal_or_publisher": "NCBI Bookshelf, National Library of Medicine",
+   "vol_pages": "NBK548757 (last update 2020 Mar 28)",
+   "doi": "",
+   "pmid": "",
+   "page_file": "research/safety/pages/livertox-skullcap.txt",
+   "quotes": [
+    "Skullcap has been implicated in rare instances of clinically apparent liver injury, although in most cases multiple herbal medications were being taken and the role of skullcap in the hepatic damage was unclear.",
+    "in some instances phytochemical analysis has identified significant adulterants (germander) or mislabeling in cases of suspected skullcap hepatotoxicity.",
+    "Recovery was rapid once the herbal was discontinued, but some cases have resulted in acute liver failure.",
+    "Chinese skullcap is a different species, but may also have adverse effects on the liver.",
+    "There have been several reports and small case series of acute liver injury with jaundice arising after 1 to 3 months of starting herbals or dietary supplements with Chinese skullcap (Scutellaria baicalensis), the liver injury resembling that associated with North American skullcap (Scutellaria lateriflora).",
+    "The authors review the literature on hepatotoxicity of Scutellaria baicalensis \\[Chinese skullcap\\] and conclude that there is no convincing evidence that it causes liver injury).",
+    "51 year old man developed abdominal pain followed by jaundice 10 days after starting a herbal supplement that contained Scutellariae baicalensis \\[400 mg\\] \\[bilirubin 2.6 rising to 24.0 mg/dL, ALT 147 U/L, Alk P 147 U/L, INR 1.0\\], worsening for 3 weeks but then resolving within 12 weeks of stopping).",
+    "Two patients developed liver injury within weeks of taking “Move Free Advanced”, which contains Chinese skullcap \\[Scutellaria baicalensis\\] for arthralgias, resolving upon stopping).",
+    "there is no obvious adverse reaction in the oral preparation of Scutellaria baicalensis”, but it may cause stomach discomfort, diarrhea and other minor symptoms in some patients)."
+   ],
+   "notes": "LiverTox monograph distinguishing American and Chinese skullcap; annotated bibliography carries case-level details for Braude, Linnebur and Puri reports.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://www.fda.gov/media/109965/download",
+   "title": "FDA requested recall: letter to Primus Pharmaceuticals, Inc. regarding Limbrel (flavocoxid) products",
+   "authors": "U.S. Food and Drug Administration",
+   "year": "2017",
+   "journal_or_publisher": "U.S. Food and Drug Administration",
+   "vol_pages": "Letter of December 18, 2017",
+   "doi": "",
+   "pmid": "",
+   "page_file": "research/safety/pages/fda-limbrel-warning-letter.txt",
+   "quotes": [
+    "Between January 1, 2007, and November 9, 2017, FDA received 194 adverse event reports associated with the use of Limbrel products. The adverse event reports identified a close relationship between the use of Limbrel and adverse events involving the development of drug-induced liver injury (DILI), pancreatitis, and hypersensitivity pneumonitis (HP).",
+    "This letter is to request that you cease distribution and immediately initiate a recall of all lots within expiry of the following products:"
+   ],
+   "notes": "FDA recall-request letter documenting 194 adverse event reports (2007-2017).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/primus-announces-voluntary-nationwide-recall-all-lots-within-expiry-prescription-medical-food",
+   "title": "Primus Announces a Voluntary Nationwide Recall of All Lots Within Expiry of Prescription Medical Food",
+   "authors": "Primus Pharmaceuticals, Inc.",
+   "year": "2018",
+   "journal_or_publisher": "FDA Recalls, Market Withdrawals & Safety Alerts",
+   "vol_pages": "Company Announcement, January 2018",
+   "doi": "",
+   "pmid": "",
+   "page_file": "research/safety/pages/fda-limbrel-recall.txt",
+   "quotes": [
+    "Between January 1, 2007, and November 9, 2017, FDA received 30 adverse event reports of elevated liver function tests or acute hypersensitivity pneumonitis associated with the use of Limbrel products.",
+    "There have been no deaths reported with the use of Limbrel, and in all reported cases adverse effects resolved without residual effects after discontinuing use of the product.",
+    "Primus voluntarily ceased its promotion and distribution of Limbrel on December 21, 2017, and is now recalling Limbrel as FDA has requested."
+   ],
+   "notes": "Company recall announcement: 30 reports of elevated liver function tests or acute hypersensitivity pneumonitis; no deaths.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32305527/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "32305527",
+   "page_file": "research/safety/pages/flavocoxid-vs-nsaid-safety.txt",
+   "quotes": [
+    "For hospitalized liver injury, it was 3.2 (95% CI 0.7-9.3) for flavocoxid and 2.4 (95% CI 0.7-6.1) for NSAIDs, aHR = 1.16, 95% CI 0.23-6.01.",
+    "The rate of hypersensitivity pneumonitis and liver injury associated with flavocoxid was low and minimally elevated compared to NSAIDs."
+   ],
+   "notes": "MarketScan claims cohort comparing 3,337 flavocoxid and 6,674 matched NSAID users.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10941739/",
+   "title": "Insights into skullcap herb-induced liver injury",
+   "authors": "Jonathan Soldera",
+   "year": "2024",
+   "journal_or_publisher": "World Journal of Hepatology",
+   "vol_pages": "16(2):120-122",
+   "doi": "10.4254/wjh.v16.i2.120",
+   "pmid": "38495279",
+   "page_file": "research/safety/pages/skullcap-hili-review-2024-full.txt",
+   "quotes": [
+    "reveals a considerable mortality rate of 14.2% was described, and in some severe cases, liver transplantation was necessary, potentially influenced by publication bias favoring the reporting of more severe outcomes.",
+    "Skullcap-induced HILI demonstrated hepatocellular patterns and mild-to-moderate severity",
+    "The onset of symptoms and jaundice occurred within one week to three months, with a pattern of typically hepatocellular liver injury, with a few cases of mixed hepatocellular and cholestatic liver injury."
+   ],
+   "notes": "Editorial on the Thakral skullcap autoimmune-hepatitis case plus the Ballotin et al. 936-case HILI systematic review; full text via PMC.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31557595/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "31557595",
+   "page_file": "research/safety/pages/scut-hepatic-function-2019.txt",
+   "quotes": [
+    "Pre- and post-supplementation serum assays of alanine transaminase, aspartate transaminase, alkaline phosphatase and bilirubin were carried out in 17 patients (16 female) of average age 38.6 (standard error 4.4) years who had each taken 1335 mg dried root daily for an average of 444 (71) days.",
+    "None of these changes was statistically significant; indeed, three of the four parameters showed a non-significant decrease over time.",
+    "Careful perusal of all such published case reports showed that in each case the patient was concurrently taking at least one other supplement which had an established association with hepatic dysfunction."
+   ],
+   "notes": "Uncontrolled series: 17 patients, 1,335 mg dried root daily, mean 444 days; no liver function changes.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42665171/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "42665171",
+   "page_file": "research/safety/pages/abcb1-scut-dili-2026.txt",
+   "quotes": [
+    "the confirmed clinical incidence of SBG-DILI was 0.095% (72/75,564).",
+    "daily doses exceeding the pharmacopoeia recommendation (>10 g/day) significantly increased the risk of liver injury (adjusted OR = 2.210, 95% CI = 1.185-4.122, P = 0.013).",
+    "The homozygote C/C genotype was remarkably overrepresented in SBG-DILI patients (58.3%) compared to other-DILI cases (4.5%) and population controls (16.3%)."
+   ],
+   "notes": "Multicenter Shanghai study of SBG-DILI incidence, dose dependence, and ABCB1 rs2032582 susceptibility.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41431018/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "41431018",
+   "page_file": "research/safety/pages/abcb1-scut-dili-case.txt",
+   "quotes": [
+    "The report describes a rare case of IDILI induced by Scutellariae Radix, and the presence of the rs2032582 variant in ABCB1 was revealed in this patient, which may represent an individual observation of potential relevance."
+   ],
+   "notes": "Case report: Scutellariae Radix idiosyncratic DILI in an ABCB1 rs2032582 carrier.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29434136/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "29434136",
+   "page_file": "research/safety/pages/kampo-recurrent-dili.txt",
+   "quotes": [
+    "Both shosaikoto and saikokeishikankyoto contain Scutellariae Radix. This case is thought to be one of recurrent drug-induced liver injury caused by the incidental readministration of a Kampo formula containing Scutellariae Radix."
+   ],
+   "notes": "Rechallenge-positive recurrent DILI from two Scutellariae Radix-containing Kampo formulas.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20586134/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "20586134",
+   "page_file": "research/safety/pages/movefree-skullcap-dili-cases.txt",
+   "quotes": [
+    "Use of the Naranjo adverse drug reaction probability scale indicated a probable relationship (score of 6 for both patients) between the patients' development of hepatotoxicity and the Move Free Advanced supplement."
+   ],
+   "notes": "Two probable (Naranjo 6) hepatotoxicity cases with Chinese skullcap in Move Free Advanced.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22855699/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "22855699",
+   "page_file": "research/safety/pages/chineseskullcap-dili-case-2012.txt",
+   "quotes": [
+    "Since neither the patient nor the treating physician recognized this supplement as a potential hepatotoxin, she resumed taking the supplement and again suffered from considerable hepatotoxicity."
+   ],
+   "notes": "Case report with inadvertent positive rechallenge of a Chinese skullcap + black catechu supplement.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30957370/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "30957370",
+   "page_file": "research/safety/pages/braude-scutellaria-dili-case.txt",
+   "quotes": [],
+   "notes": "Letter; PubMed record has no abstract. Case details obtained via the LiverTox annotated bibliography (see livertox-skullcap.txt).",
+   "extract_status": "stub"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42931707/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "42931707",
+   "page_file": "research/safety/pages/scut-26wk-toxicity-rats.txt",
+   "quotes": [
+    "The no-observed-effect level and no-observed-adverse-effect level were 1000 and 2000 mg/kg/day, respectively, and no target organ of toxicity was identified.",
+    "Acute administration caused only transient, non-adverse clinical signs, and the minimum lethal dose was >5000 mg/kg."
+   ],
+   "notes": "GLP acute and 26-week repeated-dose oral toxicity in rats; abstract record (full text saved separately).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/",
+   "title": "Safety Evaluation of Scutellaria baicalensis: Acute and 26-Week Repeated-Dose Oral Toxicity Studies in Rats",
+   "authors": "Jungbin Song; Hocheol Kim",
+   "year": "2026",
+   "journal_or_publisher": "Toxics",
+   "vol_pages": "14(10):919",
+   "doi": "10.3390/toxics14100919",
+   "pmid": "42931707",
+   "page_file": "research/safety/pages/scut-26wk-toxicity-rats-full.txt",
+   "quotes": [
+    "Potential safety concerns have also emerged from clinical observations. Sporadic cases of clinically apparent liver injury have been reported following the use of _S. bai-calensis_-containing products \\[ [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/#B11-toxics-14-00919)\\]. A recent literature review identified 16 suspected cases of _S. baicalensis_-associated drug-induced liver injury;",
+    "This raw-material-equivalent amount is approximately 7.5–25 times the daily raw-material dose of 3–10 g described in the Chinese Pharmacopoeia."
+   ],
+   "notes": "Full text via PMC; NOAEL-to-pharmacopoeial-dose margin and the 16-case DILI literature framing.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40918531/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "40918531",
+   "page_file": "research/safety/pages/baicalin-acute-subacute-toxicity.txt",
+   "quotes": [
+    "Baicalin showed high acute safety with an LD50 over 4,000 mg/kg in mice, and a subacute no-observed-adverse-effect level (NOAEL) of 2,000 mg/kg, indicating its potential as a neuroprotective agent.",
+    "However, 4,000 mg/kg doses led to reversible hepatorenal toxicity and biochemical alterations, highlighting the need to monitor organ function during extended high-dose use."
+   ],
+   "notes": "Acute/subacute baicalin toxicity with neurobehavioral and organ-specific profiling (OECD 423/407).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/14686800/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "14686800",
+   "page_file": "research/safety/pages/baicalin-acetaminophen-hepatoprotection.txt",
+   "quotes": [
+    "Treatment with BA (300 mg/kg, p.o.) 0.5 h after AP administration significantly prevented an increase in plasma alanine aminotransferase and aspartate aminotransferase activities and AP-induced hepatic necrosis, and also reduced AP-induced mortality from 43% to 0%."
+   ],
+   "notes": "Classic baicalin hepatoprotection study in the acetaminophen model (CYP2E1 inhibition).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38913091/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "38913091",
+   "page_file": "research/safety/pages/baicalin-aflatoxin-hepatoprotection.txt",
+   "quotes": [
+    "In the normal human liver cell line L02, baicalin treatment significantly inhibited AFB1-induced c-Jun-N-terminal Kinase (JNK) activation and cell apoptosis."
+   ],
+   "notes": "Baicalin inhibits aflatoxin-B1-induced apoptosis in human L02 hepatocytes (in vitro).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17851565/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "17851565",
+   "page_file": "research/safety/pages/baicalin-rosuvastatin-human.txt",
+   "quotes": [
+    "After baicalin treatment, the area under the plasma concentration-time curve (AUC)(0-72) and AUC(0-infinity) of rosuvastatin decreased by 47.0+/-11.0% (P=0.001) and 41.9+/-7.19% (P=0.001) in OATP1B1*1b/*1b,",
+    "Baicalin reduces plasma concentrations of rosuvastatin in an OATP1B1 haplotype-dependent manner."
+   ],
+   "notes": "Human crossover study: baicalin 50 mg TID for 14 days reduced rosuvastatin exposure OATP1B1-genotype-dependently.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31156436/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "31156436",
+   "page_file": "research/safety/pages/baicalin-cyclosporine-human.txt",
+   "quotes": [
+    "No clinically relevant effect of 500 mg BG co-administration on CsA pharmacokinetics was identified and both treatments were well tolerated."
+   ],
+   "notes": "Only human cyclosporine-baicalin interaction study (single-dose, negative result).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/14994190/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "14994190",
+   "page_file": "research/safety/pages/scut-decoction-cyclosporine-rats.txt",
+   "quotes": [
+    "coadministration of SR decoction at doses of 1 g/kg and 2 g/kg significantly decreased the C (max) of cyclosporine by 62.9 % and 79.6 % and reduced the AUC (0 - 540) by 55.2 % and 82.0 %, respectively.",
+    "In order to ensure the efficacy and safety of cyclosporine, the coadministration of SR and its preparations with oral cyclosporine should be avoided."
+   ],
+   "notes": "Rat PK study of Scutellariae Radix decoction and constituents vs oral and IV cyclosporine.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30663770/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "30663770",
+   "page_file": "research/safety/pages/baicalin-ciclosporin-pgp-rats.txt",
+   "quotes": [
+    "Multiple doses of BG decreased the oral bioavailability of CsA in rats significantly, which may be mainly attributable to inhibition of absorption of CsA in intestine and induction of P-gp.",
+    "The dosage adjustment and blood concentration monitoring of CsA may be required in clinic."
+   ],
+   "notes": "Multiple-dose baicalin reduces oral ciclosporin bioavailability in rats via intestinal P-gp induction.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24587011/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "24587011",
+   "page_file": "research/safety/pages/baicalin-cyp1a2-phenacetin.txt",
+   "quotes": [
+    "baicalin exhibited a mixed-type inhibition in pooled HLMs, with a Ki value of 25.4 µM.",
+    "In conclusion, baicalin can inhibit the activity of CYP1A2 in HLMs and exhibit large inter-individual variation that has no relationship with gene polymorphism."
+   ],
+   "notes": "Baicalin inhibits CYP1A2 in human liver microsomes (Ki 25.4 uM) and alters phenacetin PK in rats.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19074529/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "19074529",
+   "page_file": "research/safety/pages/flavones-cyp2c9-mechanism.txt",
+   "quotes": [
+    "This article describes an in vitro investigation of the inhibition of cytochrome P450 (P450) 2C9 by a series of flavonoids made up of flavones (flavone, 6-hydroxyflavone, 7-hydroxyflavone, chrysin, baicalein, apigenin, luteolin, scutellarein, and wogonin) and flavonols (galangin, fisetin, kaempferol, morin, and quercetin). With the exception of flavone, all flavonoids were shown to inhibit CYP2C9-mediated diclofenac 4'-hydroxylation in the CYP2C9 RECO system, with K(i) value <or= 2.2 microM."
+   ],
+   "notes": "In vitro CYP2C9 inhibition by flavones including baicalein and wogonin (Ki <= 2.2 uM).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34214011/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "34214011",
+   "page_file": "research/safety/pages/baicalein-simvastatin-rats.txt",
+   "quotes": [
+    "Baicalein showed an inhibitory effect on the activity of CYP3A4 with the IC50 value of 12.03 μM, which is responsible for the metabolism of simvastatin.",
+    "The co-administration of baicalein and simvastatin may induce drug-drug interaction through inhibiting CYP3A4."
+   ],
+   "notes": "Baicalein inhibits CYP3A4 (IC50 12.03 uM) and raises simvastatin AUC about three-fold in rats.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33711551/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "33711551",
+   "page_file": "research/safety/pages/scut-drug-interactions-review.txt",
+   "quotes": [
+    "S. baicalensis and its bioactives also affected the pharmacokinetic profile of many drugs in absorption, distribution, metabolism and elimination via the regulatory actions of the efflux pumps and cytochrome P450 enzymes."
+   ],
+   "notes": "Review of S. baicalensis drug-herb interactions from experimental studies to clinical implications.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26978333/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "26978333",
+   "page_file": "research/safety/pages/baicalin-microbiota-ddi-review.txt",
+   "quotes": [
+    "Recently, concerns about drug interaction with baicalin and/or baicalein have been raised, because of the co-administration of Scutellaria species with certain drugs."
+   ],
+   "notes": "Review of gut-microbiota baicalin-baicalein interconversion and drug-interaction implications.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25268843/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "25268843",
+   "page_file": "research/safety/pages/baicalein-platelet-aggregation.txt",
+   "quotes": [
+    "In the present study, baicalein inhibited agonist-induced platelet aggregation, granule secretion markers (P-selectin expression and ATP release), [Ca(2+)]i mobilization, and integrin αIIbβ3 expression."
+   ],
+   "notes": "Baicalein inhibits agonist- and tumor-cell-induced platelet aggregation in vitro and in vivo.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24849036/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "24849036",
+   "page_file": "research/safety/pages/baicalin-antiplatelet.txt",
+   "quotes": [
+    "Our data showed that baicalin inhibited thrombin-catalyzed fibrin polymerization and platelet functions, prolonged aPTT and PT significantly and inhibited the activities and production of thrombin and FXa.",
+    "Baicalin also prolonged in vivo bleeding time and inhibited TNF-α induced PAI-1 production."
+   ],
+   "notes": "Baicalin antiplatelet, anticoagulant, profibrinolytic activities; prolonged in vivo bleeding time.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25020199/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "25020199",
+   "page_file": "research/safety/pages/wogonin-antithrombotic.txt",
+   "quotes": [
+    "In addition, WGN(S) inhibited thrombin-catalyzed fibrin polymerization and platelet aggregation. WGN(S) also elicited anticoagulant effects in mice."
+   ],
+   "notes": "Wogonin and wogonoside antithrombotic activity via platelet aggregation inhibition.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28109809/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "28109809",
+   "page_file": "research/safety/pages/wogonin-mao-inhibition.txt",
+   "quotes": [
+    "Wogonin (11) effectively inhibited MAO-A and MAO-B (IC50=6.35 and 20.8μM, respectively).",
+    "compounds 5 (decursinol angelate) and 10 (baicalein) were observed to selectively and moderately inhibit MAO-A."
+   ],
+   "notes": "In vitro MAO inhibition: wogonin MAO-A IC50 6.35 uM and MAO-B 20.8 uM; baicalein moderately MAO-A-selective.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34666128/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "34666128",
+   "page_file": "research/safety/pages/baicalein-mpp-mptp.txt",
+   "quotes": [
+    "baicalein improved the neurotoxicity induced by MPTP as seen by a significant raise of tyrosine hydroxylase (TH) and simultaneous decrease of monoamine-oxidase-B (MAO-B)."
+   ],
+   "notes": "Baicalein decreased brain MAO-B in the MPTP mouse model.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42976909/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "42976909",
+   "page_file": "research/safety/pages/baicalein-stress-mice-2026.txt",
+   "quotes": [
+    "baicalein elevated the concentrations of serotonin and dopamine and suppressed monoamine oxidase activity within the hippocampus and cortex of stressed mice."
+   ],
+   "notes": "Baicalein suppressed hippocampal and cortical monoamine oxidase activity in chronically stressed mice.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42170474/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "42170474",
+   "page_file": "research/safety/pages/baicalein-alloxan-glucose.txt",
+   "quotes": [
+    "TXN and BCN significantly reduced blood glucose levels, improved lipid profiles, and decreased oxidative stress in diabetic rats."
+   ],
+   "notes": "Baicalein (with taxifolin) significantly reduced blood glucose in alloxan-diabetic rats.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36216728/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "36216728",
+   "page_file": "research/safety/pages/scut-pregnancy-review-2023.txt",
+   "quotes": [
+    "In ancient China, S. baicalensis root was used to clear heat, protect the fetus, and avoid a miscarriage for thousands of years.",
+    "The mechanisms, potential targets and experimental models of S. baicalensis root for ameliorating pregnancy-related diseases, such as recurrent spontaneous abortion, preeclampsia, preterm birth, fetal growth restriction and gestational diabetes mellitus, are highlighted."
+   ],
+   "notes": "Review of S. baicalensis root in pregnancy-related diseases: traditional use and mechanistic models.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8448419/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "8448419",
+   "page_file": "research/safety/pages/scut-teratogenicity-rats-1993.txt",
+   "quotes": [
+    "There was a significant (P < 0.05) dose-dependent increase in the incidence of skeletal variations (presence of lumbar rib)."
+   ],
+   "notes": "Teratogenicity study of Scutellariae Radix water extract in pregnant rats (lumbar rib, ureter dilation).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20549833/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "20549833",
+   "page_file": "research/safety/pages/scut-fetal-lumbar-rib-rats.txt",
+   "quotes": [
+    "The present data suggest that the appearance of lumbar rib induced by SR is a transient fetal variation rather than teratogenicity or maternal toxicity.",
+    "at a dose of 186 mg/kg/day, equivalent to 25 g/kg of starting material, representing a 100-fold increase over typical human intake level."
+   ],
+   "notes": "Fetal lumbar rib from Scutellariae radix characterized as a transient variation at 100-fold typical human intake.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19283861/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "19283861",
+   "page_file": "research/safety/pages/scut-embryonic-mice.txt",
+   "quotes": [
+    "Oral administration of aqueous extract of S. baicalensis roots at or below 32 g/kg/day to ICR mice during organogenesis did not cause significant fetal external or skeletal malformations.",
+    "However, 32 g/kg/day presented potential maternal toxicity."
+   ],
+   "notes": "Mouse embryonic development: no malformations up to 32 g/kg/day; maternal toxicity at the top dose.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/",
+   "title": "Determination of Toxic Pyrrolizidine Alkaloids in Traditional Chinese Herbal Medicines by UPLC-MS/MS and Accompanying Risk Assessment for Human Health",
+   "authors": "Wang J; Zhang M; Chen L; Qiao Y; Ma S; Sun D; Si J; Liao Y",
+   "year": "2021",
+   "journal_or_publisher": "Molecules",
+   "vol_pages": "26(6):1648",
+   "doi": "10.3390/molecules26061648",
+   "pmid": "33809536",
+   "page_file": "research/safety/pages/pa-tcm-survey.txt",
+   "quotes": [
+    "Results showed that PAs was detected in 271 out of 386 samples with a content of 0.1–25,567.4 μg/kg, and there were 20 samples with EDI values above the baseline, 0.007 μg/kg bw/day.",
+    "HM-11 | _Scutellaria barbata_ | 5 (LyNO, Ly, ImNO) | 61.7 | 30 | 1.8 | 0.026 | 8958.3 | 232,917.5",
+    "the MOE values for 10 out of 271 positive samples were below 10,000.",
+    "_A. euchroma_, _T. farfara_, _E. fortunei_, and _E. lindleyanum_ may pose a potential risk for human health, when consumed for two weeks a year at the dosage of Chinese Pharmacopoeia (2020) recommended maximum daily consumption."
+   ],
+   "notes": "Survey of 386 pharmacopoeial herbs; S. barbata PA-positive (61.7 ug/kg; lifetime MOE 8,958); S. baicalensis not named in the publication.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34075510/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "34075510",
+   "page_file": "research/safety/pages/heavy-metals-tcm-risk.txt",
+   "quotes": [
+    "This research aims to determine the levels of Cr, Ni, Cu, Zn, As, Cd, Hg and Pb in four medicinal plant species (Aster tataricus L.f., Salvia miltiorrhiza Bge, Radix Aucklandiae, Scutellaria baicalensis Georgi) and their native soil.",
+    "The contents of Cu, Cd, Hg and Pb in some medicinal herbs exceeded the standards.",
+    "The comprehensive health risk assessment of heavy metals with chronic non-carcinogenic effects for human body showed that none of the four medicinal herbs can create a health risk."
+   ],
+   "notes": "Heavy metals in four medicinal species including S. baicalensis and their native soil; no chronic health risk.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41003537/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "41003537",
+   "page_file": "research/safety/pages/aflatoxin-scut-products.txt",
+   "quotes": [
+    "Application of the method to six commercial Scutellaria baicalensis samples revealed detectable AFB1 in two samples, though all levels were below national safety limits."
+   ],
+   "notes": "UHPLC-MS/MS survey: aflatoxin B1 detected in 2 of 6 commercial S. baicalensis samples, below national limits.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40673531/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "40673531",
+   "page_file": "research/safety/pages/scut-cosmetics-safety-assessment.txt",
+   "quotes": [
+    "concluded that Scutellaria Baicalensis Root Extract and Scutellaria Baicalensis Root Powder are safe in cosmetics in the present practices of use and concentration described in this safety assessment."
+   ],
+   "notes": "Cosmetic Ingredient Review Expert Panel conclusion on S. baicalensis-derived cosmetic ingredients.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25219601/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "25219601",
+   "page_file": "research/safety/pages/baicalein-sad-human-2014.txt",
+   "quotes": [
+    "This was a Phase I, randomized, double-blind, single-dose trial of baicalein (100-2800 mg) in 72 healthy adults."
+   ],
+   "notes": "Phase I single-ascending-dose baicalein chewable tablets, 100-2,800 mg in 72 healthy adults.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27352310/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "27352310",
+   "page_file": "research/safety/pages/baicalein-mad-human-2016.txt",
+   "quotes": [
+    "In dose range of 200-800 mg, multiple-dose oral baicalein administration was safe and well tolerated, dose proportionality was inconclusive, and no serious accumulation of baicalein was observed."
+   ],
+   "notes": "Multiple-ascending-dose baicalein 200-800 mg safe and well tolerated; no serious accumulation.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33753147/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "33753147",
+   "page_file": "research/safety/pages/baicalein-food-effect-human.txt",
+   "quotes": [
+    "All AEs were mild and resolved without any medical intervention."
+   ],
+   "notes": "Single-dose safety (100-800 mg) and food-effect PK study; all adverse events mild.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34156161/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "34156161",
+   "page_file": "research/safety/pages/baicalein-sad-human-2021.txt",
+   "quotes": [
+    "Our study had shown that Baicalein tablet was generally safe and well-tolerated."
+   ],
+   "notes": "Multiple-ascending-dose baicalein tablets 200/400/600 mg generally safe and well tolerated.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12852558/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "12852558",
+   "page_file": "research/safety/pages/scut-teucrium-lcms-2003.txt",
+   "quotes": [
+    "The presence of phenylpropane glycosides can therefore be used to distinguish between the S. lateriflora L. and the two Teucrium species by LC-UV and TLC.",
+    "These cell structures were used to determine the adulteration of S. lateriflora crude herb with either of the two Teucrium species."
+   ],
+   "notes": "LC-UV/MS, TLC and photomicroscopy distinguishing S. lateriflora from Teucrium adulterants.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19610368/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "19610368",
+   "page_file": "research/safety/pages/teucrium-adulterant-scut-baicalensis.txt",
+   "quotes": [
+    "The method is sensitive and can detect T. chamaedrys at levels as low as 0.5% (w/w).",
+    "Teucrium chamaedrys (Gemander) has been reported as an adulterant of Scutellaria lateriflora (American skullcap) herbal preparations and is also known to be hepatotoxic."
+   ],
+   "notes": "HPTLC detection of Teucrium chamaedrys adulterant in S. baicalensis raw material and Univestin extract.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25184892/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "25184892",
+   "page_file": "research/safety/pages/skullcap-germander-hyperspectral.txt",
+   "quotes": [
+    "due to intentional or unintentional adulteration, cases of hepatotoxicity have been reported."
+   ],
+   "notes": "Hyperspectral imaging plus UHPLC-MS to prevent skullcap-germander adulteration toxicity.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31236960/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "31236960",
+   "page_file": "research/safety/pages/zhao-scutellaria-tox-review-2019.txt",
+   "quotes": [
+    "The compounds and extracts isolated from Scutellaria baicalensis exhibit a wide range of pharmacological activities, including the effects on the nervous system, effects on the immune system, liver protection, antitumour effects, antibacterial and antiviral effects, antioxidant effects and other pharmacological effects."
+   ],
+   "notes": "Comprehensive review of traditional uses, phytochemistry, pharmacology and toxicology (anchor source).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23121117/",
+   "title": "",
+   "authors": "",
+   "year": "",
+   "journal_or_publisher": "",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "23121117",
+   "page_file": "research/safety/pages/hds-hepatotoxicity-review-2013.txt",
+   "quotes": [
+    "Hepatotoxicity features of commonly used herbal products, such as Ayurvedic and Chinese herbs, black cohosh, chaparral, germander, greater celandine, green tea, Herbalife, Hydroxycut, kava, pennyroyal, pyrrolizidine alkaloids, skullcap, and usnic acid, have been individually reviewed."
+   ],
+   "notes": "Herbal and dietary supplement hepatotoxicity review covering germander, pyrrolizidine alkaloids and skullcap (anchor source).",
+   "extract_status": "ok"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "Four cases of acute liver injury among 877 patients in the DILIN prospective study were attributed to flavocoxid (Limbrel), a baicalin-catechin prescription medical food for osteoarthritis, all recovering after cessation.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/",
+   "quote": "Among 877 patients enrolled in the DILIN Prospective Study, 4 were attributed to flavocoxid.",
+   "strength": "human"
+  },
+  {
+   "claim": "The primary ingredients of flavocoxid are baicalin and catechins concentrated and standardized to greater than 90% purity, linking the DILI signal to a concentrated flavonoid pair rather than to whole Scutellaria baicalensis root.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3825458/",
+   "quote": "The primary ingredients of flavocoxid are baicalin and catechins which are concentrated and standardized to greater than 90% purity.",
+   "strength": "human"
+  },
+  {
+   "claim": "FDA received 194 adverse event reports associated with Limbrel products between January 2007 and November 2017, identified a close relationship with drug-induced liver injury, pancreatitis, and hypersensitivity pneumonitis, and requested a recall of all lots in December 2017.",
+   "url": "https://www.fda.gov/media/109965/download",
+   "quote": "Between January 1, 2007, and November 9, 2017, FDA received 194 adverse event reports associated with the use of Limbrel products. The adverse event reports identified a close relationship between the use of Limbrel and adverse events involving the development of drug-induced liver injury (DILI), pancreatitis, and hypersensitivity pneumonitis (HP).",
+   "strength": "review"
+  },
+  {
+   "claim": "In a US claims cohort of 3,337 new flavocoxid users and 6,674 matched NSAID users, hospitalized liver injury occurred at 3.2 versus 2.4 per 1,000 person-years (adjusted HR 1.16, 95% CI 0.23-6.01), a low and statistically indistinguishable rate.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32305527/",
+   "quote": "For hospitalized liver injury, it was 3.2 (95% CI 0.7-9.3) for flavocoxid and 2.4 (95% CI 0.7-6.1) for NSAIDs, aHR = 1.16, 95% CI 0.23-6.01.",
+   "strength": "human"
+  },
+  {
+   "claim": "LiverTox states that skullcap has been implicated in rare instances of clinically apparent liver injury but that in most cases multiple herbal medications were being taken, and that in some instances phytochemical analysis identified germander adulterants or mislabeling.",
+   "url": "https://www.ncbi.nlm.nih.gov/books/NBK548757/",
+   "quote": "Skullcap has been implicated in rare instances of clinically apparent liver injury, although in most cases multiple herbal medications were being taken and the role of skullcap in the hepatic damage was unclear.",
+   "strength": "review"
+  },
+  {
+   "claim": "Published analytical methods document Teucrium chamaedrys (germander) as a potential adulterant detectable in Scutellaria baicalensis raw material and extracts at levels as low as 0.5% (w/w).",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19610368/",
+   "quote": "The method is sensitive and can detect T. chamaedrys at levels as low as 0.5% (w/w).",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "Hepatotoxicity case reports implicate Chinese skullcap in multi-ingredient US joint supplements, including two Move Free Advanced cases scored probable on the Naranjo scale and a 2012 case with an inadvertent positive rechallenge.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20586134/",
+   "quote": "Use of the Naranjo adverse drug reaction probability scale indicated a probable relationship (score of 6 for both patients) between the patients' development of hepatotoxicity and the Move Free Advanced supplement.",
+   "strength": "human"
+  },
+  {
+   "claim": "A Japanese case report documents recurrent drug-induced liver injury after incidental readministration of two different Kampo formulas (shosaikoto and saikokeishikankyoto), both containing Scutellariae Radix.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29434136/",
+   "quote": "Both shosaikoto and saikokeishikankyoto contain Scutellariae Radix. This case is thought to be one of recurrent drug-induced liver injury caused by the incidental readministration of a Kampo formula containing Scutellariae Radix.",
+   "strength": "human"
+  },
+  {
+   "claim": "A large Chinese multicenter study estimated a confirmed SBG-DILI incidence of 0.095% (72 of 75,564 outpatients), with risk significantly increased above 10 g/day (adjusted OR 2.210) and the ABCB1 rs2032582 C/C genotype overrepresented among cases (58.3% vs 16.3% of controls).",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42665171/",
+   "quote": "the confirmed clinical incidence of SBG-DILI was 0.095% (72/75,564).",
+   "strength": "human"
+  },
+  {
+   "claim": "In a small uncontrolled series, 17 patients supplemented with 1,335 mg dried S. baicalensis root daily for an average of 444 days showed no significant change in ALT, AST, alkaline phosphatase, or bilirubin.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31557595/",
+   "quote": "Pre- and post-supplementation serum assays of alanine transaminase, aspartate transaminase, alkaline phosphatase and bilirubin were carried out in 17 patients (16 female) of average age 38.6 (standard error 4.4) years who had each taken 1335 mg dried root daily for an average of 444 (71) days.",
+   "strength": "human"
+  },
+  {
+   "claim": "A GLP-compliant 26-week repeated-dose rat study of S. baicalensis root extract found no mortality, no target organ of toxicity, a NOEL of 1,000 mg/kg/day, and a NOAEL of 2,000 mg/kg/day, with an acute minimum lethal dose above 5,000 mg/kg.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42931707/",
+   "quote": "The no-observed-effect level and no-observed-adverse-effect level were 1000 and 2000 mg/kg/day, respectively, and no target organ of toxicity was identified.",
+   "strength": "animal"
+  },
+  {
+   "claim": "The 2,000 mg/kg/day NOAEL corresponds to roughly 75 g/day of raw Scutellariae Radix for a 60-kg adult, approximately 7.5-25 times the 3-10 g daily raw-material dose described in the Chinese Pharmacopoeia.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13709419/",
+   "quote": "This raw-material-equivalent amount is approximately 7.5–25 times the daily raw-material dose of 3–10 g described in the Chinese Pharmacopoeia.",
+   "strength": "animal"
+  },
+  {
+   "claim": "A 2024 systematic review and meta-analysis of 936 herb-induced liver injury cases reported a 14.2% mortality rate among published skullcap-HILI cases, with occasional transplantation, although publication bias favoring severe outcomes was noted.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10941739/",
+   "quote": "reveals a considerable mortality rate of 14.2% was described, and in some severe cases, liver transplantation was necessary, potentially influenced by publication bias favoring the reporting of more severe outcomes.",
+   "strength": "review"
+  },
+  {
+   "claim": "Baicalin is hepatoprotective in classic injury models: 300 mg/kg given 0.5 h after acetaminophen significantly prevented hepatic necrosis and reduced mortality from 43% to 0% in mice.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/14686800/",
+   "quote": "Treatment with BA (300 mg/kg, p.o.) 0.5 h after AP administration significantly prevented an increase in plasma alanine aminotransferase and aspartate aminotransferase activities and AP-induced hepatic necrosis, and also reduced AP-induced mortality from 43% to 0%.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In a randomized crossover study in 18 healthy volunteers, baicalin 50 mg three times daily for 14 days reduced rosuvastatin AUC(0-72) by 47.0% in OATP1B1*1b/*1b homozygotes, with smaller reductions in other haplotypes — a documented transporter-mediated herb-drug interaction in humans.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17851565/",
+   "quote": "After baicalin treatment, the area under the plasma concentration-time curve (AUC)(0-72) and AUC(0-infinity) of rosuvastatin decreased by 47.0+/-11.0% (P=0.001) and 41.9+/-7.19% (P=0.001) in OATP1B1*1b/*1b,",
+   "strength": "human"
+  },
+  {
+   "claim": "In the only human cyclosporine interaction study, a single 500 mg baicalin dose had no clinically significant effect on cyclosporine A pharmacokinetics in 16 healthy volunteers and both treatments were well tolerated.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31156436/",
+   "quote": "No clinically relevant effect of 500 mg BG co-administration on CsA pharmacokinetics was identified and both treatments were well tolerated.",
+   "strength": "human"
+  },
+  {
+   "claim": "In rats, coadministration of Scutellariae Radix decoction at 1-2 g/kg significantly decreased oral cyclosporine Cmax by 62.9-79.6% and AUC by 55.2-82.0%, and the authors advise avoiding coadministration with oral cyclosporine.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/14994190/",
+   "quote": "coadministration of SR decoction at doses of 1 g/kg and 2 g/kg significantly decreased the C (max) of cyclosporine by 62.9 % and 79.6 % and reduced the AUC (0 - 540) by 55.2 % and 82.0 %, respectively.",
+   "strength": "animal"
+  },
+  {
+   "claim": "Baicalein and wogonin are among flavones shown to competitively inhibit CYP2C9-mediated diclofenac 4-prime hydroxylation with Ki values at or below 2.2 microM, a mechanistic basis for interactions with narrow-therapeutic-index substrates.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19074529/",
+   "quote": "This article describes an in vitro investigation of the inhibition of cytochrome P450 (P450) 2C9 by a series of flavonoids made up of flavones (flavone, 6-hydroxyflavone, 7-hydroxyflavone, chrysin, baicalein, apigenin, luteolin, scutellarein, and wogonin) and flavonols (galangin, fisetin, kaempferol, morin, and quercetin). With the exception of flavone, all flavonoids were shown to inhibit CYP2C9-mediated diclofenac 4'-hydroxylation in the CYP2C9 RECO system, with K(i) value <or= 2.2 microM.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "Baicalein inhibits CYP3A4 with an IC50 of 12.03 uM and raised simvastatin AUC about three-fold in rats, prompting a recommendation for dose adjustment on coadministration.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34214011/",
+   "quote": "Baicalein showed an inhibitory effect on the activity of CYP3A4 with the IC50 value of 12.03 μM, which is responsible for the metabolism of simvastatin.",
+   "strength": "animal"
+  },
+  {
+   "claim": "Baicalin exhibits antiplatelet, anticoagulant, and profibrinolytic activities, inhibiting thrombin-catalyzed fibrin polymerization, platelet function, and thrombin/FXa activities, and prolonging in vivo bleeding time in mice.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24849036/",
+   "quote": "Our data showed that baicalin inhibited thrombin-catalyzed fibrin polymerization and platelet functions, prolonged aPTT and PT significantly and inhibited the activities and production of thrombin and FXa.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "Wogonin inhibits human MAO-A and MAO-B in vitro (IC50 6.35 and 20.8 uM, respectively) while baicalein selectively and moderately inhibits MAO-A — in vitro enzymology with no clinical MAO-inhibitor-type interaction data.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28109809/",
+   "quote": "Wogonin (11) effectively inhibited MAO-A and MAO-B (IC50=6.35 and 20.8μM, respectively).",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "Baicalein significantly reduces blood glucose in alloxan-diabetic rats, warranting awareness of potential hypoglycemic additivity with antidiabetic drugs despite the absence of clinical reports.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42170474/",
+   "quote": "TXN and BCN significantly reduced blood glucose levels, improved lipid profiles, and decreased oxidative stress in diabetic rats.",
+   "strength": "animal"
+  },
+  {
+   "claim": "Classic developmental-toxicity studies found a significant dose-dependent increase in fetal skeletal variations (lumbar rib) in rats given Scutellariae Radix water extract during organogenesis, although follow-up work characterized the lumbar rib as a transient fetal variation at 100-fold typical human intake.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8448419/",
+   "quote": "There was a significant (P < 0.05) dose-dependent increase in the incidence of skeletal variations (presence of lumbar rib).",
+   "strength": "animal"
+  },
+  {
+   "claim": "A UPLC-MS/MS survey of 386 Chinese Pharmacopoeia herbal medicines detected pyrrolizidine alkaloids in 271 samples (0.1-25,567.4 ug/kg), with 20 samples above the 0.007 ug/kg bw/day baseline and 10 with lifetime MOE below 10,000.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/",
+   "quote": "Results showed that PAs was detected in 271 out of 386 samples with a content of 0.1–25,567.4 μg/kg, and there were 20 samples with EDI values above the baseline, 0.007 μg/kg bw/day.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "Scutellaria barbata was among the PA-positive herbs in that survey (total PAs 61.7 ug/kg; EDI 0.026 ug/kg bw/day at the 30 g/day pharmacopoeial maximum; lifetime MOE 8,958; two-weeks-per-year MOE 232,918), whereas Scutellaria baicalensis is not among the herbs named in the publication.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8000276/",
+   "quote": "HM-11 | _Scutellaria barbata_ | 5 (LyNO, Ly, ImNO) | 61.7 | 30 | 1.8 | 0.026 | 8958.3 | 232,917.5",
+   "strength": "in-vitro"
+  }
+ ]
+}

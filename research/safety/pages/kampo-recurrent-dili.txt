@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/29434136/
+PMID: 29434136
+Title: Recurrent Drug-induced Liver Injury Caused by the Incidental Readministration of a Kampo Formula Containing Scutellariae Radix.
+Authors: Yutaka Shimada; Makoto Fujimoto; Tatsuya Nogami; Hidetoshi Watari; Hideyuki Kitahara; Hiroki Misawa; Yoshiyuki Kimbara; Kei-Ichiro Kita
+Journal: Internal medicine (Tokyo, Japan) (2018)
+DOI: 10.2169/internalmedicine.0275-17
+Fetched: 2026-11-14
+
+ABSTRACT
+A 67-year-old woman experiencing coughing visited a clinic and was prescribed drugs, including shosaikoto extract, for 4 days. She subsequently suffered from liver injury, but her condition improved after the discontinuation of all medications. Approximately 1 year later, she experienced fatigue, consulted another clinic, and received saikokeishikankyoto extract for 21 days. She subsequently suffered liver injury again. Both shosaikoto and saikokeishikankyoto contain Scutellariae Radix. This case is thought to be one of recurrent drug-induced liver injury caused by the incidental readministration of a Kampo formula containing Scutellariae Radix. An awareness of adverse drug events caused by Kampo formulas, especially those containing Scutellariae Radix, is essential.

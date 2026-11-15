@@ -1,0 +1,8 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/29924517/
+Accessed: 2026-11-14
+Title: [Baicalein prolongs the lifespan of Drosophila melanogaster through antioxidation activity].
+Journal: Yao xue xue bao = Acta pharmaceutica Sinica
+Year: 2016
+---
+
+In order to explore the anti-aging effect of baicalein, female Drosophila melanogaster as a model organism was used to study the effects of baicalein on natural aging model and aging models induced by hydrogen peroxide（H2O2） and paraquat. The bioinformatics approach was used to predict the possible target for the anti-aging activity of baicalein, and the target pathways were identified. The oxidative stress pathway was a focus in experiment. Baicalein at concentrations of 0.04 mg·m L-1 and 0.2 mg·m L-1 extended the mean and maximum lifespans in the natural aging model, and effectively reduced the damages of oxidative stress by H2O2 and paraquat. 31 senescence-related targets together with the oxidative stress pathway were modulated by baicalein. The experiments revealed that baicalein might delay aging process through attenuation of the oxidative stress response by decreasing the reactive oxygen species（ROS）, malondialdehyde（MDA） and oxidized glutathione（GSSG） in Drosophila melanogaster.

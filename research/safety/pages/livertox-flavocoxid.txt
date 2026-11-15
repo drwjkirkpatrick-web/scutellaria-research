@@ -1,0 +1,332 @@
+URL: https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=classic
+Fetched: 2026-11-14
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+LiverTox: Clinical and Research Information on Drug-Induced Liver Injury \[Internet\]. Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases; 2012-.
+
+[![Cover of LiverTox](https://cdn.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/bookshelf/thumbs/th-livertox-lrg.png)](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/ "All Drug Records")
+
+## LiverTox: Clinical and Research Information on Drug-Induced Liver Injury \[Internet\].
+
+[Show details](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=classic#__NBK548129_dtls__)
+
+Bethesda (MD): [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/); 2012-.
+
+- [Drug Records](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/)
+
+Search term
+
+[![Clear input](https://www.ncbi.nlm.nih.gov/core/jig/1.15.2/img/clear.png)](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=classic#)
+
+# Flavocoxid
+
+Last Update: January 30, 2018.
+
+## OVERVIEW
+
+### Introduction
+
+Flavocoxid is a medical food consisting of plant derived flavonoids which have antiinflammatory activity and are used to treat chronic osteoarthritis. Flavocoxid has been linked to minor elevations in serum enzyme levels during therapy and to rare instances of clinically apparent liver injury.
+
+### Background
+
+Flavocoxid (flay" voe kox' id) is a proprietary blend of purified plant derived bioflavonoids including baicalin and catechins. Flavocoxid inhibits cyclooxygenases (both Cox-1 and Cox-2) as well as lipoxygenases (5-Lox) in vitro and in animal models, which may account for its antiinflammatory and antioxidant activity. Flavocoxid inhibits the conversion of arachidonic acid to reactive prostaglandins and reduces the levels of these inflammatory mediators in synovial fluid. Flavocoxid was approved for use as a medical food in the United States in 2004. However, this approval was withdrawn in December 2017 and it is not longer available as an FDA approved medical food. It was previously available by prescription for use in chronic osteoarthritis in tablets of 500 mg under the commercial name Limbrel. The typical dose was 500 mg twice daily. Side effects were not common and were similar in frequency to those experienced by patients on placebo.
+
+### Hepatotoxicity
+
+In premarketing clinical trials, serum aminotransferase elevations occurred in up to 10% of patients on flavocoxid therapy, but elevations above 3 times the upper limit of normal occurred in only 1% to 2% of recipients. Since its release, however, there have been several reports of clinically apparent acute liver injury attributed to flavocoxid. Most cases have occurred in women, who perhaps are more likely to use flavocoxid. The time to onset was 1 to 5 months, and the pattern of enzyme elevations was usually hepatocellular or mixed. Most cases were moderate in severity and no instance of acute liver failure or death has been reported. Resolution upon stopping flavocoxid occurred in 1 to 3 months. Immunoallergic features were present in some patients, but were mild and autoantibodies were not common. At least one instance of recurrence upon rechallenge has been reported.
+
+[Likelihood score](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/def-item/glossary.likelihood-score/): C (probable rare cause of clinically apparent liver injury).
+
+### Mechanism of Injury
+
+Flavocoxid is a proprietary mixture of plants and herbs and it is unclear which component(s) might be responsible for liver injury. The mixture includes extracts from Scutellaria baicalensis (skullcap, containing the phytochemical baicalin) and Acacia catechu (catechin), both of which have been implicated in causing rare instances of idiosyncratic acute liver injury, but the mechanism is unknown.
+
+### Outcome and Management
+
+No instances of acute liver failure or chronic liver injury have been linked to flavocoxid use and all cases have been self-limited, without subsequent chronic hepatitis or vanishing bile duct syndrome. Recurrence upon reexposure has been reported and rechallenge should be avoided. There is no information on possible cross sensitivity of hepatic injury with other medications or herbal agents such as skull cap or green tea.
+
+Drug Class: [Herbal and Dietary Supplements](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/HerbalDietarySuppl/); [Antirheumatic Agents](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/AntirheumaticAgents/)
+
+## CASE REPORT
+
+### Case 1. Acute hepatitis with jaundice after flavocoxid therapy.
+
+\[Modified from Case 1: Chalasani N, Vuppalanchi R, Navarro V, Fontana R, Bonkovsky H, Barnhart H, Kleiner DE, Hoofnagle JH. Acute liver injury due to flavocoxid (Limbrel), a medical food for osteoarthritis: a case series. Ann Intern Med 2012; 156: 857-60, W297-300. [PubMed Citation](https://www.ncbi.nlm.nih.gov/pubmed/22711078)\]
+
+A 58 year old woman developed jaundice 10 weeks after starting flavocoxid (500 mg twice daily) for osteoarthritis. She had no history of liver disease, risk factors for viral hepatitis and did not drink alcohol. Other medications included aspirin, tramadol, omeprazole, ezetimibe, zolpidem, glucosamine, calcium, flaxseed oil and vitamins, all of which she had taken chronically. Physical examination was largely unremarkable, but her laboratory tests showed elevations in serum bilirubin (2.5 mg/dL), [ALT](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/def-item/glossary.alanine-aminotransferase-alt-/) (1105 U/L), [AST](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/def-item/glossary.aspartate-aminotransferase-ast-/) (1198 U/L) and alkaline phosphatase (487 U/L) (Table). There was no eosinophilia and the prothrombin time was normal. Liver tests had been normal on several occasions in the past. Flavocoxid was discontinued, but over the next week she became jaundiced (peak bilirubin 7.3 mg/dL) and serum enzyme levels remained elevated. Tests for hepatitis A, B, C and E were negative as were autoantibodies. Ultrasound of the abdomen showed no evidence of biliary obstruction or hepatic masses. A liver biopsy showed a moderately severe, acute lobular hepatitis with portal inflammation (including eosinophils) without evidence of chronic liver disease or fibrosis. Two weeks after stopping flavocoxid she began to improve. Symptoms resolved within a month and all liver tests were normal when she was seen 3 months after onset. Flavocoxid was not restarted.
+
+#### Key Points
+
+[View in own window](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/table/Flavocoxid.T1/?report=objectonly)
+
+|     |     |
+| --- | --- |
+| Medication: | Flavocoxid (500 mg twice daily) |
+| Pattern: | Hepatocellular (R=5.9) |
+| Severity: | 3+ (jaundice, hospitalization) |
+| [Latency](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/def-item/glossary.latency/): | 3 months |
+| Recovery: | 3 months |
+| Other medications: | Aspirin, tramadol, omeprazole, ezetimibe, zolpidem, glucosamine, calcium, flaxseed oil and vitamins |
+
+#### Laboratory Values
+
+[View in own window](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/table/Flavocoxid.T2/?report=objectonly)
+
+| Time After Starting | Time After Stopping | [ALT](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/def-item/glossary.alanine-aminotransferase-alt-/) (U/L) | Alk P (U/L) | [Bilirubin](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/def-item/glossary.bilirubin/) (mg/dL) | Other |
+| --- | --- | --- | --- | --- | --- |
+| Pre | Pre | 23 | 109 | 0.6 |  |
+| 3 months | 0 | 1105 | 487 | 2.5 | Admission |
+|  | 4 days | 1259 | 530 | 3.4 |  |
+|  | 10 days | 1540 | 525 | 7.3 | Liver biopsy |
+|  | 16 days | 1195 | 433 | 3.9 |  |
+| 4 months | 26 days | 431 | 218 | 2.1 |  |
+|  | 30 days | 298 | 215 | 1.3 | Asymptomatic |
+|  | 5 weeks | 97 | 151 | 0.8 |  |
+| 5 months | 6 weeks | 42 | 124 | 0.8 |  |
+| 6 months | 12 weeks | 11 | 117 | 0.5 |  |
+| 9 months | 24 weeks | 14 | 89 | 0.2 |  |
+| **Normal Values** | **<42** | **<105** | **<1.2** |  |
+
+#### Comment
+
+A 58 year old woman suffered a moderate case of acute liver injury with a hepatocellular pattern of serum enzyme elevations arising after three months of flavocoxid therapy. A liver biopsy suggested drug induced liver injury, and no other obvious cause of acute hepatitis was identified. The serum [ALT](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/def-item/glossary.alanine-aminotransferase-alt-/) and [AST](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/def-item/glossary.aspartate-aminotransferase-ast-/) were in the typical range for acute viral hepatitis, but the prominent elevation in alkaline phosphatase suggested a somewhat “mixed” pattern, which is more typical of drug induced liver injury. Flavocoxid is a medical food and regulated more as a nutritional supplement than a drug. Medical foods can be prescribed for specific indications (such as osteoarthritis), but have not undergone the rigorous proof of efficacy and safety that are required of medications. They are "generally recognized as safe" by the FDA. Flavocoxid, however, has recently been withdrawn, more likely due to questions of efficacy rather than safety.
+
+## PRODUCT INFORMATION
+
+**REPRESENTATIVE TRADE NAMES**
+
+Flavocoxid – Limbrel®
+
+**DRUG CLASS**
+
+Herbal and [Dietary Supplements](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/def-item/glossary.dietary-supplements/)
+
+[COMPLETE LABELING](https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=Flavocoxid)
+
+Product labeling at DailyMed, National Library of Medicine, NIH
+
+## CHEMICAL FORMULAS AND STRUCTURES
+
+[View in own window](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/table/Flavocoxid.T3/?report=objectonly)
+
+| DRUG | CAS REGISTRY NO. | MOLECULAR FORMULA | STRUCTURE |
+| --- | --- | --- | --- |
+| Baicalin | 21967-41-9 | C21-H18-O11 | ![Baicalin Chemical Structure](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/bin/Baicalin_Structure.jpg) |
+| Catechin | 154-23-4 | C15-H14-O6 | ![Catechin Chemical Structure](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/bin/Catechin_Structure.jpg) |
+
+## ANNOTATED BIBLIOGRAPHY
+
+References updated: 30 January 2018
+
+- Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. The NSAIDS. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-41.
+
+_(Review of hepatotoxicity of NSAIDs published in 1999, discusses hepatotoxicity of NSAIDs, but does not specifically mention flavocoxid)._
+
+- Lewis JH, Stine JG. Nonsteroidal anti-inflammatory drugs and leukotriene receptor antagonists. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 369-401. (Review of hepatotoxicity of NSAIDs;
+
+_flavocoxid is not mentioned)._
+
+- Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34.
+\[ [PMC free article: PMC3654244](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3654244/)\] \[ [PubMed: 18955056](https://pubmed.ncbi.nlm.nih.gov/18955056)\]
+
+_(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, none were attributed to flavocoxid)._
+
+- Morgan SL, Baggott JE, Moreland L, Desmond R, Kendrach AC. The safety of flavocoxid, a medical food, in the dietary management of knee osteoarthritis. J Med Food 2009; 12: 1143-8.
+\[ [PMC free article: PMC2784890](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2784890/)\] \[ [PubMed: 19857081](https://pubmed.ncbi.nlm.nih.gov/19857081)\]
+
+_(Among 59 patients with osteoarthritis treated with placebo or flavocoxid for 12 weeks, side effects were mild and similar to placebo, with no overall differences in serum aminotransferase levels)._
+
+- Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76.
+\[ [PMC free article: PMC3992250](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3992250/)\] \[ [PubMed: 20949552](https://pubmed.ncbi.nlm.nih.gov/20949552)\]
+
+_(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none to flavocoxid)._
+
+- Levy RM, Khokhlov A, Kopenkin S, Bart B, Ermolova T, Kantemirova R, Mazurov V, et al. Efficacy and safety of flavocoxid, a novel therapeutic, compared with naproxen: a randomized multicenter controlled trial in subjects with osteoarthritis of the knee. Adv Ther 2010; 27: 731-42.
+\[ [PubMed: 20845002](https://pubmed.ncbi.nlm.nih.gov/20845002)\]
+
+_(Controlled trial of 12 week course of flavocoxid versus naproxen in 220 patients with osteoarthritis found similar rates of ALT elevations, and no patient had clinically apparent hepatitis or an ALT level >5 times ULN)._
+
+- Pillai L, Burnett BP, Levy RM; GOAL Study Cooperative Group. GOAL: multicenter, open-label, post-marketing study of flavocoxid, a novel dual pathway inhibitor anti-inflammatory agent of botanical origin. Curr Med Res Opin 2010; 26: 1055-63.
+\[ [PubMed: 20225990](https://pubmed.ncbi.nlm.nih.gov/20225990)\]
+
+_(Among 1005 patients with osteoarthritis treated with flavocoxid in an open label study, liver test abnormalities occurred in only one \[0.1%\], but no details given)._
+
+- Levy RM. Flavocoxid and hypersensitivity pneumonitis. Chest 2011; 140: 827-8; author reply 828.
+\[ [PubMed: 21896531](https://pubmed.ncbi.nlm.nih.gov/21896531)\]
+
+_(Letter mentions that among an estimated 270,000 persons treated with flavocoxid since its marketing in 2004, 3 cases of drug induced hypersensitivity pneumonitis were reported to the sponsor)._
+
+- Product information. Limbrel. 2011.
+
+_(The product sponsor mentions that liver test abnormalities were found in less than 10% of patients treated with flavocoxid, but that levels of 3-5 times ULN occurred in less than 2% and that there were rare instances of hepatitis \[n=3\] and jaundice \[n=6\] that were self-limited and resolved rapidly with stopping)._
+
+- Chalasani N, Vuppalanchi R, Navarro V, Fontana R, Bonkovsky H, Barnhart H, Kleiner DE, Hoofnagle JH. Acute liver injury due to flavocoxid(Limbrel), a medical food for osteoarthritis: a case series. Ann Intern Med 2012; 156: 857-60, W297-300.
+\[ [PMC free article: PMC3825458](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3825458/)\] \[ [PubMed: 22711078](https://pubmed.ncbi.nlm.nih.gov/22711078)\]
+
+_(Four women, ages 57 to 68 years, developed jaundice 1-3 months after starting flavocoxid \[peak bilirubin 2.0 to 20.8 mg/dL, ALT 741 to 1540 U/L, Alk P 286 to 770 U/L\], resolving in 1 to 3 months: Case 1)._
+
+- Reichenbach S, Jüni P. Medical food and food supplements: not always as safe as generally assumed. Ann Intern Med 2012; 156: 894-5, W314.
+\[ [PubMed: 22711083](https://pubmed.ncbi.nlm.nih.gov/22711083)\]
+
+_(Editorial in response to Chalasani \[2012\] discussing the potential of herbals and medical foods for causing adverse events and the need for better regulation and monitoring of their use)._
+
+- [https://www​.fda.gov/safety​/recalls/ucm594357.htm](https://www.fda.gov/safety/recalls/ucm594357.htm)
+
+.
+
+_(News report on the voluntary nationwide recall of flavocoxid due to rare, but serious adverse events including liver enzyme elevations and hepatitis)._
+
+
+[Copyright Notice](https://www.ncbi.nlm.nih.gov/sites/books/about/copyright/)
+
+Bookshelf ID: NBK548129PMID: [31643459](https://pubmed.ncbi.nlm.nih.gov/31643459 "PubMed record of this page")
+
+[Drug Records](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/)
+
+[Share](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=classic#)
+
+### Views
+
+[Show/hide content](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=classic# "Show/hide content")
+
+- [PubReader](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=reader)
+- [Print View](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=printable)
+- [Cite this Page](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=classic#_ncbi_dlg_citbx_NBK548129)
+- [PDF version of this page](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/pdf/Bookshelf_NBK548129.pdf) (112K)
+- [Disable Glossary Links](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=classic# "Enable/disable links to the glossary")
+
+### New and Updated
+
+[Show/hide content](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=classic# "Show/hide content")
+
+- [In PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22LiverTox%22+AND+pmcbook&sort=date&size=200)
+
+### Bulk Download
+
+[Show/hide content](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=classic# "Show/hide content")
+
+- [Bulk download LiverTox data from FTP](https://ftp.ncbi.nlm.nih.gov/pub/litarch/29/31/)
+
+### Overviews
+
+[Show/hide content](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=classic# "Show/hide content")
+
+- [Introduction](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/intro/)
+- [Clinical Course](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/ClinicalCourse/)
+- [Clinical Outcomes](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/ClinicalOutcome/)
+- [Immune Features](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/ImmuneFeatures/)
+- [Phenotypes](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/Phenotypes_intro/)
+- [Causality](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/Causality/)
+- [Likelihood Scale](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/DrugCategory/)
+- [Severity Grading](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/Severity/)
+- [Writing a Case Report](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/CaseReport/)
+
+### Support Links
+
+[Show/hide content](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=classic# "Show/hide content")
+
+- [LiverTox Homepage](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/)
+- [Master List of LiverTox Drugs \[with Metadata\]](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/masterlistintro/)
+- [LiverTox Drugs by Drug Class](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/drugliverinjury/)
+- [About LiverTox](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/aboutus/)
+- [New in LiverTox - Last updated 05 Nov 2026](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/updates/)
+- [Editors and Review Committee](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/editorsandreviewers/)
+- [Meetings and News](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/alert/)
+- [Abbreviations Used](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/abbreviation/)
+- [Glossary](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/glossary/)
+- [Information Resources](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/resource/)
+- [User/Medical Advice Disclaimer](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/disclaimer/)
+- [Contact Us](https://www.ncbi.nlm.nih.gov/sites/books/n/livertox/Contactus/)
+
+### OTHER REFERENCE LINKS
+
+[Show/hide content](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=classic# "Show/hide content")
+
+- [Recent References on Flavocoxid: from PubMed.gov](https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&pubmedfilters=true&term=Flavocoxid+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D))
+- [Trials on Flavocoxid: from ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?term=Flavocoxid)
+
+### Related information
+
+[Show/hide content](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=classic# "Show/hide content")
+
+- [PMC](https://www.ncbi.nlm.nih.gov/books/?Db=pmc&DbFrom=books&Cmd=Link&LinkName=books_pmc_refs&IdsFromResult=4860378)
+PubMed Central citations
+
+- [PubMed](https://www.ncbi.nlm.nih.gov/books/?Db=pubmed&DbFrom=books&Cmd=Link&LinkName=books_pubmed_refs&IdsFromResult=4860378)
+Links to PubMed
+
+
+### Similar articles in PubMed
+
+[Show/hide content](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=classic# "Show/hide content")
+
+- [Comparative safety of flavocoxid vs prescription NSAIDs among osteoarthritis patients.](https://www.ncbi.nlm.nih.gov/pubmed/32305527)\[Osteoarthritis Cartilage. 2020\]
+Comparative safety of flavocoxid vs prescription NSAIDs among osteoarthritis patients.
+
+_Curtis JR, Owensby JK, Xie F._ _Osteoarthritis Cartilage. 2020 Jul; 28(7):917-923. Epub 2020 Apr 17._
+
+- [Flavocoxid, a dual inhibitor of COX-2 and 5-LOX of natural origin, attenuates the inflammatory response and protects mice from sepsis.](https://www.ncbi.nlm.nih.gov/pubmed/22356547)\[Crit Care. 2012\]
+Flavocoxid, a dual inhibitor of COX-2 and 5-LOX of natural origin, attenuates the inflammatory response and protects mice from sepsis.
+
+_Bitto A, Minutoli L, David A, Irrera N, Rinaldi M, Venuti FS, Squadrito F, Altavilla D._ _Crit Care. 2012 Feb 22; 16(1):R32. Epub 2012 Feb 22._
+
+- [Review Roflumilast.](https://www.ncbi.nlm.nih.gov/pubmed/31643522)\[LiverTox: Clinical and Researc...\]
+Review Roflumilast.
+
+_._ _LiverTox: Clinical and Research Information on Drug-Induced Liver Injury. 2012_
+
+- [Flavocoxid, a dual inhibitor of cyclooxygenase and 5-lipoxygenase, blunts pro-inflammatory phenotype activation in endotoxin-stimulated macrophages.](https://www.ncbi.nlm.nih.gov/pubmed/19681869)\[Br J Pharmacol. 2009\]
+Flavocoxid, a dual inhibitor of cyclooxygenase and 5-lipoxygenase, blunts pro-inflammatory phenotype activation in endotoxin-stimulated macrophages.
+
+_Altavilla D, Squadrito F, Bitto A, Polito F, Burnett BP, Di Stefano V, Minutoli L._ _Br J Pharmacol. 2009 Aug; 157(8):1410-8._
+
+- [Review Glatiramer Acetate.](https://www.ncbi.nlm.nih.gov/pubmed/31644036)\[LiverTox: Clinical and Researc...\]
+Review Glatiramer Acetate.
+
+_Hoofnagle JH._ _LiverTox: Clinical and Research Information on Drug-Induced Liver Injury. 2012_
+
+
+[See reviews...](https://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=link&linkname=pubmed_pubmed_reviews&uid=31643459) [See all...](https://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=link&linkname=pubmed_pubmed&uid=31643459)
+
+### Recent Activity
+
+[Show/hide content](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=classic# "Show/hide content")
+
+ClearTurn OffTurn On
+
+- [Flavocoxid - LiverTox](https://www.ncbi.nlm.nih.gov/portal/utils/pageresolver.fcgi?recordid=6af93f5fe2ddc57f83ff2c91)
+Flavocoxid - LiverTox
+
+
+Your browsing activity is empty.
+
+Activity recording is turned off.
+
+Turn recording back on
+
+[See more...](https://www.ncbi.nlm.nih.gov/sites/myncbi/recentactivity)
+
+[Preferences](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=classic#) [Turn off](https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=classic#)
+
+External link. Please review our [privacy policy](https://www.nlm.nih.gov/privacy.html).
+
+Cite this PageClose
+
+LiverTox: Clinical and Research Information on Drug-Induced Liver Injury \[Internet\]. Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases; 2012-. Flavocoxid. \[Updated 2018 Jan 30\]. Available from: https://www.ncbi.nlm.nih.gov/sites/books/NBK548129/?report=classic
+
+Making content easier to read in BookshelfClose
+
+We are experimenting with display styles that make it easier to read books and documents in Bookshelf. Our first effort uses ebook readers, which have several "ease of reading" features already built in.
+
+The content is best viewed in the _iBooks reader_. You may notice problems with the display of some features of books or documents in other eReaders.
+
+CancelDownload
+
+Share
+
+- Share on Facebook
+- Share on Twitter
+
+URL

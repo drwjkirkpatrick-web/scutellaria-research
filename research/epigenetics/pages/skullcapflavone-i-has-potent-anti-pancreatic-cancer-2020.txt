@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/32141657/
+TITLE: Skullcapflavone I has a potent anti-pancreatic cancer activity by targeting miR-23a.
+AUTHORS: Jing Cui; Hao Li; Ying Wang; Tian Tian; Chao Liu; Yanan Wang; Shukai Sun; Baisui Feng
+JOURNAL: BioFactors (Oxford, England)
+YEAR: 2020
+VOL_PAGES: 46; 821-830
+DOI: 10.1002/biof.1621
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Baicalein has been widely studied and showed a potent activity against pancreatic cancer in both in vivo and in vitro studies. Little is known regarding the effects of Skullcapflavone I (SFI), despite they have similar structures. So, this study was to explore the function of SFI on human pancreatic cancer. Panc-1 cells were transfected with miR-23a precursor, miR-23a inhibitor or the negative controls, and subsequently treated by SFI. Cell viability, Bromodeoxyuridine (BrdU)-positive cell rate, apoptosis, migration, invasion, and related protein expression were assessed by utilizing Cell Counting Kit-8 (CCK-8), BrdU staining, apoptosis assessment, transwell assay, and western blot. SFI significantly reduced the proliferation, migration, and invasion, as well as induced apoptosis of Panc-1 cells. MiR-23a, miR-21, and miR-155 were lowly expressed while miR-145 and miR-146a were highly expressed in SFI-treated cell. Of note, the antitumor effects of SFI were promoted by miR-23a suppression whereas attenuated by miR-23a overexpression. JAK/STAT and MAPK pathways were inhibited by SFI. Also, the pathway inhibition in SFI-treated cells was reversed by miR-23a overexpression. SFI might be a promising anti-pancreatic cancer agent by inhibiting cancer cells growth and motility. The anticancer activities of SFI might be through downregulation of miR-23a, as well as inhibition of JAK/STAT and MAPK pathways.

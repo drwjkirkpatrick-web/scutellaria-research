@@ -1,0 +1,808 @@
+{
+  "sources": [
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27352310/",
+      "title": "Multiple-Ascending-Dose Pharmacokinetics and Safety Evaluation of Baicalein Chewable Tablets in Healthy Chinese Volunteers.",
+      "authors": "Pang, Hongxian, Xue, Wei, Shi, Aixin, Li, Min, Li, Yang, Cao, Guoying, Yan, Bei, Dong, Fan, Xiao, Wei, He, Guorong, Du, Guanhua, Hu, Xin, Cheng, Gang",
+      "year": "2016",
+      "journal_or_publisher": "Clinical drug investigation",
+      "vol_pages": ":",
+      "doi": "10.1007/s40261-016-0418-7",
+      "pmid": "27352310",
+      "page_file": "research/clinical/pages/baicalein-mad-phase1.txt",
+      "quotes": [
+        "Dosing regimens were 200, 400, and 800 mg once daily on days 1 and 10, twice daily on days 3-9.",
+        "A steady-state concentration of analytes in plasma was achieved on day 8 after repeated dosing.",
+        "CONCLUSION: In dose range of 200-800 mg, multiple-dose oral baicalein administration was safe and well tolerated, dose proportionality was inconclusive, and no serious accumulation of baicalein was observed."
+      ],
+      "notes": "Phase I MAD, China: baicalein chewable tablets 200/400/800 mg, 10 days, n=36 randomized (8 active/dose); steady state by day 8; accumulation index 1.66-2.45; safe and well tolerated.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25219601/",
+      "title": "Safety, tolerability, and pharmacokinetics of a single ascending dose of baicalein chewable tablets in healthy subjects.",
+      "authors": "Li, Min, Shi, Aixin, Pang, Hongxian, Xue, Wei, Li, Yang, Cao, Guoying, Yan, Bei, Dong, Fan, Li, Kexin, Xiao, Wei, He, Guorong, Du, Guanhua, Hu, Xin",
+      "year": "2014",
+      "journal_or_publisher": "Journal of ethnopharmacology",
+      "vol_pages": ":",
+      "doi": "10.1016/j.jep.2014.08.031",
+      "pmid": "25219601",
+      "page_file": "research/clinical/pages/baicalein-sad-phase1.txt",
+      "quotes": [
+        "MATERIALS AND METHODS: This was a Phase I, randomized, double-blind, single-dose trial of baicalein (100-2800 mg) in 72 healthy adults.",
+        "CONCLUSIONS: Single oral doses of 100-2800 mg of baicalein were safe and well tolerated by healthy subjects.",
+        "The total urinary clearance of baicalein and baicalin was <1%."
+      ],
+      "notes": "Phase I SAD, China: baicalein chewable tablets 100-2800 mg in 72 healthy adults; safe, mild AEs only; baicalein Tmax 0.5-3.5 h; <1% urinary clearance; ~27% unchanged in feces; inconclusive dose proportionality.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9549431/",
+      "title": "[The chemical structure of new substance as the metabolite of baicalin and time profiles for the plasma concentration after oral administration of sho-saiko-to in human].",
+      "authors": "Muto, R, Motozuka, T, Nakano, M, Tatsumi, Y, Sakamoto, F, Kosaka, N",
+      "year": "1998",
+      "journal_or_publisher": "Yakugaku zasshi : Journal of the Pharmaceutical Society of Japan",
+      "vol_pages": ":",
+      "doi": "10.1248/yakushi1947.118.3_79",
+      "pmid": "9549431",
+      "page_file": "research/clinical/pages/baicalein-sulfate-human-plasma.txt",
+      "quotes": [
+        "The metabolite was identified as baicalein 6-O-sulfate (BS) by comparing its retention time in HPLC and electrospray ionization mass spectra (ESI-MS)/MS methods with that of an authentic sample.",
+        "BG was detected after 1 h, reached a maximum level at 5 h and then decreased to the level less than the quantitative limit after 36 h, and the plasma level of BG showed two peaks at 12 h and 24 h."
+      ],
+      "notes": "Classic human metabolism study: 14 healthy men, oral Sho-saiko-to 6 g/day; identified baicalein 6-O-sulfate as a baicalin metabolite in plasma; baicalin showed secondary plasma peaks at 12 and 24 h (enterohepatic pattern); Japanese-language journal with English abstract.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33753147/",
+      "title": "Safety, tolerability, pharmacokinetics, and food effect of baicalein tablets in healthy Chinese subjects: A single-center, randomized, double-blind, placebo-controlled, single-dose phase I study.",
+      "authors": "Dong, Ruihua, Li, Lijun, Gao, Hongzhi, Lou, Kun, Luo, Hongmei, Hao, Sheng, Yuan, Jing, Liu, Zeyuan",
+      "year": "2021",
+      "journal_or_publisher": "Journal of ethnopharmacology",
+      "vol_pages": ":",
+      "doi": "10.1016/j.jep.2021.114052",
+      "pmid": "33753147",
+      "page_file": "research/clinical/pages/baicalein-tablet-food-effect.txt",
+      "quotes": [
+        "After a single administration of baicalein tablets (200 mg, 400 mg, 600 mg, or 800 mg), Cmax were 280.44, 628.80, 845.20, 489.55 ng/mL; AUC0-∞ were 2035.57, 2939.31, 4494.88, and 3754.43 h*ng/mL, respectively.",
+        "The exposure of baicalein and its metabolites increased in a less than dose-proportional manner.",
+        "CONCLUSION: Baicalein tablets within the studied dose range were safe and well-tolerated in healthy Chinese subjects with no serious or severe adverse effects."
+      ],
+      "notes": "Phase I SAD + food effect, China: baicalein tablets 200-800 mg, 100 subjects total; Cmax 280-845 ng/mL, t1/2 7.8-14.9 h, less-than-dose-proportional exposure; all AEs mild.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34156161/",
+      "title": "Safety, tolerability, and pharmacokinetics of oral baicalein tablets in healthy Chinese subjects: A single-center, randomized, double-blind, placebo-controlled multiple-ascending-dose study.",
+      "authors": "Li, Lijun, Gao, Hongzhi, Lou, Kun, Luo, Hongmei, Hao, Sheng, Yuan, Jing, Liu, Zeyuan, Dong, Ruihua",
+      "year": "2021",
+      "journal_or_publisher": "Clinical and translational science",
+      "vol_pages": ":",
+      "doi": "10.1111/cts.13063",
+      "pmid": "34156161",
+      "page_file": "research/clinical/pages/baicalein-tablet-sad-phase1.txt",
+      "quotes": [
+        "In this multiple-ascending-dose placebo-controlled trial, 36 healthy subjects were randomized to receive 200, 400, and 600 mg of baicalein tablet or placebo once daily on day 1 and day 10, 3 times daily on days 4-9.",
+        "Oral baicalein tablets were rapidly absorbed with peak plasma levels being reached within 2 h after multiple administration."
+      ],
+      "notes": "Phase I MAD of a different baicalein tablet (anti-influenza program), China: 200/400/600 mg, n=36; rapidly absorbed, peak plasma within 2 h; urinary excretion double peaks.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42105002/",
+      "title": "Baicalin as a multifunctional flavone glycoside: pharmacological mechanisms, ADME profile, and therapeutic potential.",
+      "authors": "Kumari, Alpana, Kabra, Atul",
+      "year": "2026",
+      "journal_or_publisher": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "vol_pages": ":",
+      "doi": "10.1007/s00210-026-05381-y",
+      "pmid": "42105002",
+      "page_file": "research/clinical/pages/baicalin-adme-review.txt",
+      "quotes": [
+        "ing clinical evidence suggests that baicalin is generally well tolerated and has translational potential in inflammatory disorders, neurodegenerative diseases, and cardiometabolic conditions, whereas nanodelivery systems such as liposomes and metal-organic frameworks help overcome bioavailability limitations.",
+        "This review underscores the need for well-designed clinical trials to establish standardized dosing, efficacy, and long-term safety, while positioning baicalin as a multifunctional bioactive molecule with substantial promise for future drug development."
+      ],
+      "notes": "2026 review of baicalin pharmacology and ADME: nanodelivery systems (liposomes, MOFs) help overcome bioavailability limitations; underscores need for well-designed clinical trials for standardized dosing and long-term safety.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29935544/",
+      "title": "Baicalin reduces blood lipids and inflammation in patients with coronary artery disease and rheumatoid arthritis: a randomized, double-blind, placebo-controlled trial.",
+      "authors": "Hang, Yuanxing, Qin, Xian, Ren, Tianli, Cao, Jianing",
+      "year": "2018",
+      "journal_or_publisher": "Lipids in health and disease",
+      "vol_pages": ":",
+      "doi": "10.1186/s12944-018-0797-2",
+      "pmid": "29935544",
+      "page_file": "research/clinical/pages/baicalin-cad-ra-rct.txt",
+      "quotes": [
+        "METHODS: Three hundred seventy four patients with CAD and RA were randomized to receive either 500 mg baicalin or placebo orally everyday for 12 weeks.",
+        "Significantly higher proportion of patients in the baicalin group (71%) reported good/moderate EULAR response than the placebo group (53%)."
+      ],
+      "notes": "12-week double-blind RCT: n=374 patients with coexisting CAD+RA; baicalin 500 mg/day improved lipids, hs-CRP, CT-1, EULAR response; single-center, mid-tier journal, no trial registration stated in abstract — treat with caution.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31156436/",
+      "title": "A Single Dose of Baicalin Has No Clinically Significant Effect on the Pharmacokinetics of Cyclosporine A in Healthy Chinese Volunteers.",
+      "authors": "Liu, Ruijuan, Li, Xia, Wei, Jingyao, Liu, Shuaibing, Chang, Yuanyuan, Zhang, Jiali, Zhang, Ji, Zhang, Xiaojian, Fuhr, Uwe, Taubert, Max, Tian, Xin",
+      "year": "2019",
+      "journal_or_publisher": "Frontiers in pharmacology",
+      "vol_pages": ":",
+      "doi": "10.3389/fphar.2019.00518",
+      "pmid": "31156436",
+      "page_file": "research/clinical/pages/baicalin-cyclosporine-interaction.txt",
+      "quotes": [
+        "In a two-period study, 16 healthy volunteers received a single 200 mg oral CsA dose alone (reference period) or in combination with 500 mg BG (test period).",
+        "No clinically relevant effect of 500 mg BG co-administration on CsA pharmacokinetics was identified and both treatments were well tolerated."
+      ],
+      "notes": "Human PK interaction study: 16 healthy Chinese volunteers; single 500 mg baicalin did not clinically significantly alter cyclosporine A PK (bioequivalence boundaries met).",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41847306/",
+      "title": "Baicalin as a Multifunctional Regulator of Gut Health: Integrative Mechanisms Involving Inflammation, Barrier Integrity, and Gut-Organ Axis.",
+      "authors": "Zhu, Weiyu, Jia, Chaoyi, Fei, Tianyuan, Chen, Zhaoyue, Lin, Zhanyu, Pan, Yu, Ma, Guobing, Ma, Fengjun",
+      "year": "2026",
+      "journal_or_publisher": "Drug design, development and therapy",
+      "vol_pages": ":",
+      "doi": "10.2147/DDDT.S585486",
+      "pmid": "41847306",
+      "page_file": "research/clinical/pages/baicalin-gut-health-review.txt",
+      "quotes": [
+        "In parallel, BAI remodels microbial community structure and microbial metabolites, including short-chain fatty acids and bile-acid signaling, providing a plausible basis for benefits along gut-organ axes such as the gut-liver and gut-metabolic axes.",
+        "Across diverse preclinical models, BAI attenuates inflammatory signaling and frequently converges on NF-κB-centered networks; it also rebalances immune responses by modulating macrophage polarization and T-cell subsets, limits oxidative and ferroptotic damage thr"
+      ],
+      "notes": "2026 review: baicalin remodels microbial community structure and metabolites (SCFAs, bile acids) with gut-organ axis benefits — evidence base is preclinical; flags limited oral bioavailability and translational gaps.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26978333/",
+      "title": "Role of Intestinal Microbiota in Baicalin-Induced Drug Interaction and Its Pharmacokinetics.",
+      "authors": "Noh, Keumhan, Kang, Youra, Nepal, Mahesh Raj, Jeong, Ki Sun, Oh, Do Gyeong, Kang, Mi Jeong, Lee, Sangkyu, Kang, Wonku, Jeong, Hye Gwang, Jeong, Tae Cheon",
+      "year": "2016",
+      "journal_or_publisher": "Molecules (Basel, Switzerland)",
+      "vol_pages": ":",
+      "doi": "10.3390/molecules21030337",
+      "pmid": "26978333",
+      "page_file": "research/clinical/pages/baicalin-microbiota-drug-interaction-review.txt",
+      "quotes": [
+        "Although there have been numerous reports regarding the pharmacological effects of baicalin and baicalein in vivo and in vitro, some reports indicated that the glycoside form would hardly be absorbed in the intestine and that it should be hydrolyzed to baicalein in advance for absorption.",
+        "In addition, baicalin contains a glucuronide moiety in its structure, by which baicalin and baicalein show complex pharmacokinetic behaviors, due to the interconversion between them by phase II enzymes in the body."
+      ],
+      "notes": "2016 review: the glycoside baicalin is hardly absorbed and should be hydrolyzed to baicalein in advance for absorption; baicalin and baicalein interconvert via phase II enzymes; intestinal microbiota central to baicalin disposition and interactions.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39152558/",
+      "title": "Metabolism of baicalin by different microbiota determined by MimiCol.",
+      "authors": "Seradj, D-S, Neubauer, L, Senekowitsch, S, Weitschies, W, Schick, P",
+      "year": "2024",
+      "journal_or_publisher": "Die Pharmazie",
+      "vol_pages": ":",
+      "doi": "10.1691/ph.2024.4014",
+      "pmid": "39152558",
+      "page_file": "research/clinical/pages/baicalin-mimicol-microbiota-metabolism.txt",
+      "quotes": [
+        "Enzymes of the colonic microbiota, namely β-glucuronidases, hydrolyze baicalin to the aglycone baicalein.",
+        "While during the experiments with added standard microbiota a metabolism of baicalin to baicalein could be detected, this was not the case in a series of experiments without added microbiota."
+      ],
+      "notes": "In vitro colon model (MimiCol) seeded with stool microbiota from healthy volunteers: baicalin converted to baicalein only when microbiota present; colonic beta-glucuronidases hydrolyze baicalin — mechanistic basis for poor native absorption of baicalin.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30209794/",
+      "title": "Pharmacokinetics and Bioavailability Enhancement of Baicalin: A Review.",
+      "authors": "Huang, Ting, Liu, Yanan, Zhang, Chengliang",
+      "year": "2019",
+      "journal_or_publisher": "European journal of drug metabolism and pharmacokinetics",
+      "vol_pages": ":",
+      "doi": "10.1007/s13318-018-0509-3",
+      "pmid": "30209794",
+      "page_file": "research/clinical/pages/baicalin-pk-bioavailability-review.txt",
+      "quotes": [
+        "Baicalin displays a distinct pharmacokinetic profile including gastrointestinal hydrolysis, enterohepatic recycling, carrier-mediated transport, and complicated metabolism.",
+        "Due to its low bioavailability, emerging novel baicalin preparations including nano/micro-scale baicalin delivery systems show better absorption and higher bioavailability in preclinical studies, and show promise for future clinical applications."
+      ],
+      "notes": "2019 pharmacokinetic review: baicalin shows gastrointestinal hydrolysis, enterohepatic recycling, carrier-mediated transport and complicated metabolism; low bioavailability; nano/micro delivery systems improve absorption only in preclinical studies.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26043563/",
+      "title": "[Effect of baicalin on signal transduction and activating transcription factor expression in ulcerative colitis patients].",
+      "authors": "Yu, Feng-yan, Huang, Shao-gang, Zhang, Hai-yan, Chi, Hong-gang, Zou, Ying, Lu, Ru-xi, Zheng, Xue-bao",
+      "year": "2015",
+      "journal_or_publisher": "Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine",
+      "vol_pages": ":",
+      "doi": "",
+      "pmid": "26043563",
+      "page_file": "research/clinical/pages/baicalin-uc-exvivo.txt",
+      "quotes": [
+        "CONCLUSION: 40 µmoL baicalin could in vitro inhibit p-STAT4/STAT4 ratios, adjust p-STAT6/STAT6 ratios and related cytokines, thereby balancing the immunity and relieving inflammatory reactions of UC."
+      ],
+      "notes": "Ex-vivo study of PBMCs from UC patients (n=33): baicalin 40 µmol modulated STAT4/STAT6 phosphorylation and cytokines; NOT a clinical trial — documents the gap in UC human evidence.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19821718/",
+      "title": "Randomized, double-blind, placebo-controlled trial of herbal therapy for children with asthma.",
+      "authors": "Wong, Eliza L Y, Sung, Rita Yn Tz, Leung, Ting Fan, Wong, Yeuk Oi, Li, Albert M C, Cheung, Kam Lau, Wong, Chun Kwok, Fok, Tai Fai, Leung, Ping Chung",
+      "year": "2009",
+      "journal_or_publisher": "Journal of alternative and complementary medicine (New York, N.Y.)",
+      "vol_pages": ":",
+      "doi": "10.1089/acm.2008.0626",
+      "pmid": "19821718",
+      "page_file": "research/clinical/pages/cuf2-asthma-children-rct.txt",
+      "quotes": [
+        "PATIENTS AND METHODS: In a double-blind, placebo-controlled prospective trial, 85 children with asthma aged 7-15 years were randomly assigned to receive either a daily oral herbal formula of 0.619-g CUF2 capsule of dried aqueous extract with an equal weight of five herbs (Astragalus mongholius Bunge, Cordyceps sinensis Sacc., Radix stemonae, Bulbus fritillariae cirrhosae, and Radix scutellariae) or placebo for 6 months.",
+        "CONCLUSIONS: This study provides no evidence to support the use of the herbal formula of CUF2 in children with asthma."
+      ],
+      "notes": "6-month double-blind placebo-controlled RCT: n=85 children with asthma; 5-herb formula including Radix scutellariae (CUF2); no benefit over placebo — honest negative result; longest RCT of an S. baicalensis-containing formula.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19857081/",
+      "title": "The safety of flavocoxid, a medical food, in the dietary management of knee osteoarthritis.",
+      "authors": "Morgan, Sarah L, Baggott, Joseph E, Moreland, Larry, Desmond, Renee, Kendrach, Angela C",
+      "year": "2009",
+      "journal_or_publisher": "Journal of medicinal food",
+      "vol_pages": ":",
+      "doi": "10.1089/jmf.2008.0244",
+      "pmid": "19857081",
+      "page_file": "research/clinical/pages/flavocoxid-60d-safety-rct.txt",
+      "quotes": [
+        "The 12-week, randomized, double-blind, placebo-controlled trial in an academic medical center enrolled 59 patients with moderate osteoarthritis of at least one knee who were recruited who were classified as having \"below average\" to \"a moderately above average cardiovascular risk\" with a Framingham-based scoring tool.",
+        "There were no intra- or inter-group differences in any of the laboratory parameters from study baseline to completion."
+      ],
+      "notes": "Independent academic RCT (UAB): 12 weeks, n=59, placebo-controlled safety study, flavocoxid 250 mg BID in knee OA with cardiovascular risk stratification; no lab/BP differences; more upper-respiratory AEs in placebo.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33467104/",
+      "title": "A Phase 1/2 Study of Flavocoxid, an Oral NF-κB Inhibitor, in Duchenne Muscular Dystrophy.",
+      "authors": "Vita, Gian Luca, Sframeli, Maria, Licata, Norma, Bitto, Alessandra, Romeo, Sara, Frisone, Francesca, Ciranni, Annamaria, Pallio, Giovanni, Mannino, Federica, Aguennouz, M'Hammed, Rodolico, Carmelo, Squadrito, Francesco, Toscano, Antonio, Messina, Sonia, Vita, Giuseppe",
+      "year": "2021",
+      "journal_or_publisher": "Brain sciences",
+      "vol_pages": ":",
+      "doi": "10.3390/brainsci11010115",
+      "pmid": "33467104",
+      "page_file": "research/clinical/pages/flavocoxid-duchenne-phase12.txt",
+      "quotes": [
+        "Thirty-four patients were recruited: 17 were treated with flavocoxid at an oral dose of 250 or 500 mg, according to body weight, for one year; 17 did not receive flavocoxid and served as controls.",
+        "The treatment was well tolerated and nobody dropped out."
+      ],
+      "notes": "Phase 1/2 open-label study: 17 DMD boys on flavocoxid 250-500 mg for 1 year (longest controlled flavocoxid exposure), 17 untreated controls; well tolerated, no dropouts; exploratory motor outcomes nonsignificant.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22711078/",
+      "title": "Acute liver injury due to flavocoxid (Limbrel), a medical food for osteoarthritis: a case series.",
+      "authors": "Chalasani, Naga, Vuppalanchi, Raj, Navarro, Victor, Fontana, Robert, Bonkovsky, Herbert, Barnhart, Huiman, Kleiner, David E, Hoofnagle, Jay H",
+      "year": "2012",
+      "journal_or_publisher": "Annals of internal medicine",
+      "vol_pages": ":",
+      "doi": "10.7326/0003-4819-156-12-201206190-00006",
+      "pmid": "22711078",
+      "page_file": "research/clinical/pages/flavocoxid-liver-injury-cases.txt",
+      "quotes": [
+        "RESULTS: Among 877 patients enrolled in the prospective study, 4 had liver injury suspected to have been caused by flavocoxid.",
+        "CONCLUSION: Flavocoxid can cause clinically significant liver injury, which seems to resolve within weeks after cessation."
+      ],
+      "notes": "DILIN prospective case series: 4 adults (all women) with hepatocellular injury within 1-3 months of flavocoxid, mean peak ALT 1268 U/L; all recovered after cessation; causality highly likely in 3.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20845002/",
+      "title": "Efficacy and safety of flavocoxid, a novel therapeutic, compared with naproxen: a randomized multicenter controlled trial in subjects with osteoarthritis of the knee.",
+      "authors": "Levy, Robert M, Khokhlov, Alexander, Kopenkin, Sergey, Bart, Boris, Ermolova, Tatiana, Kantemirova, Raiasa, Mazurov, Vadim, Bell, Marjorie, Caldron, Paul, Pillai, Lakshmi, Burnett, Bruce P",
+      "year": "2010",
+      "journal_or_publisher": "Advances in therapy",
+      "vol_pages": ":",
+      "doi": "10.1007/s12325-010-0064-z",
+      "pmid": "20845002",
+      "page_file": "research/clinical/pages/flavocoxid-naproxen-multicenter-2010.txt",
+      "quotes": [
+        "METHODS: In this randomized, multicenter, double-blind study, 220 subjects were assigned to receive either flavocoxid (500 mg twice daily) or naproxen (500 mg twice daily) for 12 weeks.",
+        "There were no statistically significant differences in efficacy between the flavocoxid and naproxen groups when the entire intent-to-treat population was analyzed.",
+        "The flavocoxid group had significantly fewer upper gastrointestinal (UGI) and renal (edema) adverse events (AEs) as well as a strong trend toward fewer respiratory AEs."
+      ],
+      "notes": "Flagship RCT: n=220, 12 weeks, multicenter, double-blind, noninferiority vs naproxen in moderate-severe knee OA; WOMAC primary endpoint; fewer UGI/renal AEs with flavocoxid; no Jadad score stated in abstract.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32305527/",
+      "title": "Comparative safety of flavocoxid vs prescription NSAIDs among osteoarthritis patients.",
+      "authors": "Curtis, J R, Owensby, J K, Xie, F",
+      "year": "2020",
+      "journal_or_publisher": "Osteoarthritis and cartilage",
+      "vol_pages": ":",
+      "doi": "10.1016/j.joca.2020.03.017",
+      "pmid": "32305527",
+      "page_file": "research/clinical/pages/flavocoxid-nsaid-comparative-safety.txt",
+      "quotes": [
+        "RESULTS: 3,337 flavocoxid and 6,674 NSAID users met eligibility criteria.",
+        "For hospitalized liver injury, it was 3.2 (95% CI 0.7-9.3) for flavocoxid and 2.4 (95% CI 0.7-6.1) for NSAIDs, aHR = 1.16, 95% CI 0.23-6.01.",
+        "Flavocoxid users had a significantly lower risk for hospitalized GI bleeding."
+      ],
+      "notes": "US MarketScan claims analysis 2006-2017: 3337 flavocoxid initiators propensity-matched 1:2 to 6744 prescription NSAID users; liver-injury and pneumonitis rates low and not significantly elevated vs NSAIDs; lower GI-bleed rate.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20556559/",
+      "title": "Flavocoxid, an anti-inflammatory agent of botanical origin, does not affect coagulation or interact with anticoagulation therapies.",
+      "authors": "Pillai, Lakshmi, Levy, Robert M, Yimam, Mesfin, Zhao, Yuan, Jia, Qi, Burnett, Bruce P",
+      "year": "2010",
+      "journal_or_publisher": "Advances in therapy",
+      "vol_pages": ":",
+      "doi": "10.1007/s12325-010-0040-7",
+      "pmid": "20556559",
+      "page_file": "research/clinical/pages/flavocoxid-warfarin-trial.txt",
+      "quotes": [
+        "Flavocoxid did not significantly inhibit thromboxane production or platelet aggregation, and did not increase bleeding times in healthy volunteers.",
+        "Finally, flavocoxid did not inhibit or potentiate the anticoagulant effect of warfarin."
+      ],
+      "notes": "Multi-part interaction study: mouse bleeding-time model, human platelet/bleeding-time assessment in healthy volunteers, and INR assessment in warfarinized OA patients; no coagulation interaction found.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28426226/",
+      "title": "Brain Uptake of Bioactive Flavones in Scutellariae Radix and Its Relationship to Anxiolytic Effect in Mice.",
+      "authors": "Fong, Sophia Yui Kau, Li, Chenrui, Ho, Yiu Cheong, Li, Rui, Wang, Qian, Wong, Yin Cheong, Xue, Hong, Zuo, Zhong",
+      "year": "2017",
+      "journal_or_publisher": "Molecular pharmaceutics",
+      "vol_pages": ":",
+      "doi": "10.1021/acs.molpharmaceut.7b00029",
+      "pmid": "28426226",
+      "page_file": "research/clinical/pages/flavones-brain-uptake-mice.txt",
+      "quotes": [
+        "Our results indicated that all six SR flavones including three aglycons (baicalein, wogonin, and oroxylin A) and three glucuronides (baicalin, wogonoside, and oroxyloside) could pass through the blood-brain barrier, with brain concentrations ranging from 7.9 to 224.0 pmol/g.",
+        "extract contains flavones that are positive modulators of the benzodiazepine binding site of GABAA receptors (baicalein, wogonin, and baicalin), our behavioral study for the first time indicated that SR extract (a mixture of six flavones) did not elicit significant anxiolytic effect at the studied doses."
+      ],
+      "notes": "Animal BBB study (mice): all six SR flavones (aglycones baicalein/wogonin/oroxylin A; glucuronides baicalin/wogonoside/oroxyloside) cross the blood-brain barrier (7.9-224 pmol/g); oroxylin A highest; whole extract showed no anxiolytic effect at tested doses.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20225990/",
+      "title": "GOAL: multicenter, open-label, post-marketing study of flavocoxid, a novel dual pathway inhibitor anti-inflammatory agent of botanical origin.",
+      "authors": "Pillai, Lakshmi, Burnett, Bruce P, Levy, Robert M, GOAL Study Cooperative Group",
+      "year": "2010",
+      "journal_or_publisher": "Current medical research and opinion",
+      "vol_pages": ":",
+      "doi": "10.1185/03007991003694522",
+      "pmid": "20225990",
+      "page_file": "research/clinical/pages/goal-openlabel-flavocoxid.txt",
+      "quotes": [
+        "METHODS: A total of 1067 individuals at 41 rheumatology practices were enrolled and prescribed flavocoxid, 500 mg b.i.d., for 60 days.",
+        "RESULTS: Of the 1005 patients who completed all follow-up visits, physicians recorded an average improvement in VAS scores from 60.1 +/- 18.8 at baseline to 42.5 +/- 21.9 at 8 weeks (p < 0.001) in 65.8% of patients.",
+        "A limitation of this study was that it was open-label and not rigorously controlled."
+      ],
+      "notes": "Open-label post-marketing study (no control): n=1067 enrolled/1005 completers at 41 US rheumatology practices, 60 days flavocoxid 500 mg BID; VAS improvement ~18 points; ~10% AE incidence; >30% reduction in gastroprotective use.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12033492/",
+      "title": "Metabolism of constituents in Huangqin-Tang, a prescription in traditional Chinese medicine, by human intestinal flora.",
+      "authors": "Zuo, Feng, Zhou, Zhong-Ming, Yan, Mei-Zhen, Liu, Mei-Lan, Xiong, Yu-Lan, Zhang, Qing, Song, Hong-Yue, Ye, Wen-Hua",
+      "year": "2002",
+      "journal_or_publisher": "Biological & pharmaceutical bulletin",
+      "vol_pages": ":",
+      "doi": "10.1248/bpb.25.558",
+      "pmid": "12033492",
+      "page_file": "research/clinical/pages/huangqin-tang-human-flora-metabolism.txt",
+      "quotes": [
+        "ubmed) --- Abstract --- In the course of studies on the metabolism of active components of Huangqin-Tang by human intestinal flora (HIF), Huangqin-Tang and all individual herbs in the decoctions were incubated with a human fecal suspension separately.",
+        "All the results suggested that the glycosides of many medicinal herbs could be converted to aglycones by HIF, and the metabolism of most glycosides was improved in the compound prescription."
+      ],
+      "notes": "Classic in vitro incubation study: Scutellariae Radix glucuronides (baicalin, wogonoside, oroxylin-A-glucuronide) converted to their aglycones by human fecal flora; transformation promoted within the compound prescription Huangqin-Tang.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19555810/",
+      "title": "Flavocoxid is as effective as naproxen for managing the signs and symptoms of osteoarthritis of the knee in humans: a short-term randomized, double-blind pilot study.",
+      "authors": "Levy, Robert M, Saikovsky, Roman, Shmidt, Evgeniya, Khokhlov, Alexander, Burnett, Bruce P",
+      "year": "2009",
+      "journal_or_publisher": "Nutrition research (New York, N.Y.)",
+      "vol_pages": ":",
+      "doi": "10.1016/j.nutres.2009.04.003",
+      "pmid": "19555810",
+      "page_file": "research/clinical/pages/levy-2009-flavocoxid-naproxen-rct.txt",
+      "quotes": [
+        "In this double-blind study, 103 subjects were randomly assigned to receive either flavocoxid [500 mg twice daily (BID)] or naproxen (500 mg BID) in a 1-month onset of action trial.",
+        "There were no statistically detectable differences between the flavocoxid and naproxen groups with respect to any of the outcome variables.",
+        "In this short-term pilot study, flavocoxid was as effective as naproxen in controlling the signs and symptoms of OA of the knee and would present a safe and effective option for those individuals on traditional nonsteroidal anti-inflammatory drugs or cyclooxygenase-2 inhibitors."
+      ],
+      "notes": "First double-blind flavocoxid RCT; 1-month pilot, n=103, flavocoxid 500 mg BID vs naproxen 500 mg BID in moderate knee OA; no between-group efficacy differences; no Jadad score stated.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40903694/",
+      "title": "Safety and pharmacokinetics evaluation of oroxylin A in Chinese healthy volunteers: a phase I, double-blind, placebo-controlled, single ascending dose, multiple dose, and food effect study.",
+      "authors": "Yang, Fan, Meng, Xianmin, Qin, Shukui, Guo, Qinglong, Wei, Libin, Zhao, Di",
+      "year": "2026",
+      "journal_or_publisher": "Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico",
+      "vol_pages": ":",
+      "doi": "10.1007/s12094-025-04017-6",
+      "pmid": "40903694",
+      "page_file": "research/clinical/pages/oroxylin-a-phase1.txt",
+      "quotes": [
+        "RESULTS: No dose-limiting toxic events (DLT), no serious adverse events (SAEs) or death occurred, and incidence of gastrointestinal AEs were higher in multiple doses than in single dose.",
+        "The Cmax of OA approximately increased in dose-proportional manner (Cmax slope 1.114), and the AUC0-t increased less than dose increasing (AUC0-t slope 0.7513).",
+        "High-fat diet can increase the Cmax of OA (1.6-fold), and its metabolites increased more significantly (p < 0.05), there was no effect of food on tmax or terminal half-life."
+      ],
+      "notes": "2026 phase I, China: purified oroxylin A tablets 400-2400 mg SAD/MAD/food-effect; no DLT/SAE; Cmax dose-proportional (slope 1.114); accumulation 1.51-1.73-fold; high-fat meal raises Cmax 1.6-fold; ChiCTR registered.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41194549/",
+      "title": "Effects of a Scutellaria baicalensis/Crataegus laevigata, magnesium and chromium supplement on stressed individuals: A randomised, double-blind, placebo-controlled, crossover trial.",
+      "authors": "Dodd, Fiona, Weishaupt, Ramon, Katumba, Philipp K M, Elcoate, Rian, Wightman, Emma",
+      "year": "2025",
+      "journal_or_publisher": "Journal of psychopharmacology (Oxford, England)",
+      "vol_pages": ":",
+      "doi": "10.1177/02698811251381261",
+      "pmid": "41194549",
+      "page_file": "research/clinical/pages/sb-crataegus-stress-rct.txt",
+      "quotes": [
+        "METHODS: Forty-three participants (35 analysed) aged 18-75 years received the herbal supplement and a placebo for 15 days.",
+        "Chronic supplementation improved mood and anxiety, reducing total mood disturbance, anger/hostility, and Trait anxiety scores."
+      ],
+      "notes": "2025 randomized double-blind placebo-controlled crossover trial: 43 participants (35 analysed), 15 days; S. baicalensis/Crataegus laevigata/magnesium/chromium supplement improved attention/working memory acutely and under stress, improved mood and trait anxiety; NCT05757050; cognitive effects variable without stressor.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36443977/",
+      "title": "The Flavonoid Components of Scutellaria baicalensis: Biopharmaceutical Properties and their Improvement using Nanoformulation Techniques.",
+      "authors": "Wang, Jilin, Feng, Xiaojiao, Li, Ziwei, Liu, Yiting, Yang, Wenzhuo, Zhang, Tingen, Guo, Pan, Liu, Zhidong, Qi, Dongli, Pi, Jiaxin",
+      "year": "2023",
+      "journal_or_publisher": "Current topics in medicinal chemistry",
+      "vol_pages": ":",
+      "doi": "10.2174/1568026623666221128144258",
+      "pmid": "36443977",
+      "page_file": "research/clinical/pages/sb-flavonoid-biopharmaceutics-review.txt",
+      "quotes": [
+        "baicalensis have limited clinical application due to their low water solubility, poor permeability, and microbial transformation in vivo.",
+        "However, due to the limited number of clinical trials, doubts remain about their toxicity and improvements in human absorption as a result of nanoformulations."
+      ],
+      "notes": "2023 biopharmaceutics review: S. baicalensis flavonoids limited by low solubility/permeability and microbial transformation; nanoformulation techniques improve absorption preclinically, but doubts remain about human absorption gains due to limited clinical trials.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39183390/",
+      "title": "A study on the impact of gargling with compound Scutellaria baicalensis Georgi on oral health and microflora changes in fixed orthodontic patients: An experimental study.",
+      "authors": "Zhang, Peng, Chen, Shen Guo, Wang, Jia Ting, Wang, Jin Dong, Chen, Zai Hong, Lin, Hai Sheng",
+      "year": "2024",
+      "journal_or_publisher": "Medicine",
+      "vol_pages": ":",
+      "doi": "10.1097/MD.0000000000039397",
+      "pmid": "39183390",
+      "page_file": "research/clinical/pages/sb-gargle-rct.txt",
+      "quotes": [
+        "Results: The detection levels of PLI, PD, and sBI in the experimental group were lower than those in the control group (P < .05) 3 months after orthodontic surgery (P < .05); after orthodontic correction for 3 months, there was a significant difference in coccus, bacillus, Campylobacter, Clostridium, Helicobacter, and filamentous bacteria between",
+        "CONCLUSION SUBSECTIONS: In fixed orthodontic treatment, S. baicalensis Georgi gargle can effectively inhibit oral pathogens and maintain periodontal health."
+      ],
+      "notes": "2024 RCT: n=110 orthodontic patients; compound S. baicalensis gargle vs saline 3 months; lower plaque index/probing depth/bleeding; shifts in cultured oral flora including P. gingivalis suppression; Medicine (Baltimore), low-moderate rigor.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31557595/",
+      "title": "The effect of supplementation with Scutellaria baicalensis on hepatic function.",
+      "authors": "Puri, Basant K, White, Nikita, Monro, Jean A",
+      "year": "2019",
+      "journal_or_publisher": "Medical hypotheses",
+      "vol_pages": ":",
+      "doi": "10.1016/j.mehy.2019.109402",
+      "pmid": "31557595",
+      "page_file": "research/clinical/pages/sb-hepatic-function-study.txt",
+      "quotes": [
+        "ssays of alanine transaminase, aspartate transaminase, alkaline phosphatase and bilirubin were carried out in 17 patients (16 female) of average age 38.6 (standard error 4.4) years who had each taken 1335 mg dried root daily for an average of 444 (71) days.",
+        "These results suggest that daily intake of a relatively high level of Scutellaria baicalensis for over a year is not associated with any biochemical or clinical evidence of hepatic dysfunction."
+      ],
+      "notes": "Uncontrolled pre-post study (n=17): 1335 mg dried root daily, mean 444 days; no significant LFT changes — longest single-herb S. baicalensis human exposure; published as hypothesis-testing paper in Med Hypotheses.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25980420/",
+      "title": "Herb-drug interactions between Scutellariae Radix and mefenamic acid: Simultaneous investigation of pharmacokinetics, anti-inflammatory effect and gastric damage in rats.",
+      "authors": "Fong, Sophia Yui Kau, Wong, Yin Cheong, Xie, Chen, Zuo, Zhong",
+      "year": "2015",
+      "journal_or_publisher": "Journal of ethnopharmacology",
+      "vol_pages": ":",
+      "doi": "10.1016/j.jep.2015.04.036",
+      "pmid": "25980420",
+      "page_file": "research/clinical/pages/sb-mefenamic-acid-interaction.txt",
+      "quotes": [
+        "RESULTS: Minimal pharmacokinetic interaction between SR extract and MEF was observed.",
+        "CONCLUSIONS: Co-administration of SR extract and MEF potentiated the anti-inflammatory effects, alleviated the MEF-induced stomach adverse effect while having minimal pharmacokinetic interactions."
+      ],
+      "notes": "Rat PK/PD interaction study (flag: animal): Scutellariae Radix + mefenamic acid showed minimal PK interaction but potentiated PGE2 inhibition and reduced NSAID gastric damage.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31770016/",
+      "title": "Combined effects of Scutellaria baicalensis with metformin on glucose tolerance of patients with type 2 diabetes via gut microbiota modulation.",
+      "authors": "Shin, Na Rae, Gu, Namyi, Choi, Han Seok, Kim, Hojun",
+      "year": "2020",
+      "journal_or_publisher": "American journal of physiology. Endocrinology and metabolism",
+      "vol_pages": ":",
+      "doi": "10.1152/ajpendo.00221.2019",
+      "pmid": "31770016",
+      "page_file": "research/clinical/pages/sb-metformin-t2d-rct.txt",
+      "quotes": [
+        "Glucose tolerance was lower in the SB group than the placebo group.",
+        "SB treatment influenced the gut microbiota, especially Lactobacillus and Akkermansia, which showed remarkable increases after SB treatment.",
+        "Some subjects showed high liver enzyme levels after SB treatment, and their microbiota composition at baseline differed with subjects whose liver enzymes were not affected."
+      ],
+      "notes": "Crossover RCT (8wk/4wk-washout/8wk): S. baicalensis 3.52 g/day added to metformin in T2D; improved glucose tolerance, reduced TNF-alpha, increased Lactobacillus and Akkermansia (human microbiome evidence); some subjects had elevated liver enzymes.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20936314/",
+      "title": "Clinical and antibacterial effect of an anti-inflammatory toothpaste formulation with Scutellaria baicalensis extract on experimental gingivitis.",
+      "authors": "Arweiler, Nicole Birgit, Pergola, Gregory, Kuenz, Jana, Hellwig, Elmar, Sculean, Anton, Auschill, Thorsten Mathias",
+      "year": "2011",
+      "journal_or_publisher": "Clinical oral investigations",
+      "vol_pages": ":",
+      "doi": "10.1007/s00784-010-0471-1",
+      "pmid": "20936314",
+      "page_file": "research/clinical/pages/sb-toothpaste-gingivitis.txt",
+      "quotes": [
+        "Forty subjects (20 per group) discontinued all oral hygiene measures for four teeth for a period of 21 days using a shield (to generate a possible gingivitis) while they could brush the other teeth normally.",
+        "The results suggest that the new toothpaste formulation was able to significantly reduce the extent of gingivitis, plaque development, and vital flora."
+      ],
+      "notes": "Controlled experimental gingivitis study: n=40; S. baicalensis toothpaste vs placebo 21 days; significantly lower gingival/plaque indices; Freiburg group; rigorous design for oral care.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40077679/",
+      "title": "The Effects of Combined Scutellaria and Saffron Supplementation on Mood Regulation in Participants with Mild-to-Moderate Depressive Symptoms: A Randomized, Double-Blind, Placebo-Controlled Study.",
+      "authors": "Dormal, Valérie, Suchareau, Marlène, Copine, Sylvie, Simar, Laurent, Deldicque, Louise",
+      "year": "2025",
+      "journal_or_publisher": "Nutrients",
+      "vol_pages": ":",
+      "doi": "10.3390/nu17050809",
+      "pmid": "40077679",
+      "page_file": "research/clinical/pages/scutellaria-saffron-mood-rct.txt",
+      "quotes": [
+        "Methods: In a randomized, double-blind, placebo-controlled trial, 180 participants with mild-to-moderate depressive symptoms were assigned to receive either scutellaria extract alone (SCUTELL'UP®), saffron extract alone (SAFFR'ACTIV®), a combination of scutellaria and saffron extracts (SAFFR'UP®), or a placebo for six weeks.",
+        "For the first time in humans, scutellaria extract demonstrated a positive effect on mood regulation."
+      ],
+      "notes": "2025 four-arm RCT: n=180 with mild-to-moderate depressive symptoms; scutellaria extract (SCUTELL'UP), saffron, both, or placebo for 6 weeks; first human evidence of scutellaria mood effect and synergy with saffron; Nutrients (MDPI), branded extracts.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12520178/",
+      "title": "Urinary pharmacokinetics of baicalein, wogonin and their glycosides after oral administration of Scutellariae Radix in humans.",
+      "authors": "Lai, Miao-Ying, Hsiu, Su-Lan, Chen, Chung-Chuan, Hou, Yu-Chi, Chao, Pei-Dawn Lee",
+      "year": "2003",
+      "journal_or_publisher": "Biological & pharmaceutical bulletin",
+      "vol_pages": ":",
+      "doi": "10.1248/bpb.26.79",
+      "pmid": "12520178",
+      "page_file": "research/clinical/pages/scutellariae-radix-urinary-pk.txt",
+      "quotes": [
+        "Ten healthy male volunteers received a dose of 5.2 g commercial powder (comparable to 9 g crude drug), respectively.",
+        "Our results showed that the mean cumulated renal excretion of baicalein glucuronides and sulfates were 43.1+/-4.5 micromol (2.9% of dose) and 64.8+/-6.3 micromol (4.3% of dose), respectively, whereas wogonin glucuronides and sulfates were 21.6+/-2.0 micromol (5.9% of dose) and 20.7+/-1.7 micromol (5.7% of dose), respectively.",
+        "The baicalein sulfates was predominant than the corresponding glucuronides, whereas wogonin sulfates was comparable to the corresponding glucuronides."
+      ],
+      "notes": "Human urinary excretion study: 10 healthy men, 5.2 g Scutellariae Radix powder; renal excretion of baicalein conjugates ~7.2% of dose (sulfates > glucuronides); wogonin conjugates 11.6%.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35713475/",
+      "title": "Qualitative and quantitative determination of the primary active components and metabolites in human plasma after oral administration of Shuanghuanglian liquid.",
+      "authors": "Zhang, Shengman, Liu, Ying, Peng, Ni, Chen, Xiaoyan",
+      "year": "2022",
+      "journal_or_publisher": "Journal of separation science",
+      "vol_pages": ":",
+      "doi": "10.1002/jssc.202200121",
+      "pmid": "35713475",
+      "page_file": "research/clinical/pages/shuanghuanglian-human-pk.txt",
+      "quotes": [
+        "Thirteen components from baicalin were identified, including the parent drug baicalin and aglycone baicalein.",
+        "The validated method was successfully applied to a pharmacokinetic study of an oral administration of 60 ml Shuanghuanglian in healthy subjects."
+      ],
+      "notes": "Human plasma metabolite screen: 60 mL oral Shuanghuanglian in healthy subjects; 13 baicalin-derived components identified including parent baicalin and aglycone baicalein; LC-MS/MS method for baicalin 5-2000 ng/mL, baicalein 1-100 ng/mL.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24611484/",
+      "title": "A combination of Scutellaria baicalensis and Acacia catechu extracts for short-term symptomatic relief of joint discomfort associated with osteoarthritis of the knee.",
+      "authors": "Arjmandi, Bahram H, Ormsbee, Lauren T, Elam, Marcus L, Campbell, Sara C, Rahnama, Nader, Payton, Mark E, Brummel-Smith, Ken, Daggy, Bruce P",
+      "year": "2014",
+      "journal_or_publisher": "Journal of medicinal food",
+      "vol_pages": ":",
+      "doi": "10.1089/jmf.2013.0010",
+      "pmid": "24611484",
+      "page_file": "research/clinical/pages/up446-acute-joint-rct.txt",
+      "quotes": [
+        "The UP446 group experienced a significant decrease in perceived pain (P=.009) time dependently."
+      ],
+      "notes": "1-week double-blind RCT: n=79 mild-moderate knee OA; UP446 500 mg/day vs naproxen 440 mg/day; significant time-dependent pain reduction with UP446 (P=.009).",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39701593/",
+      "title": "Effects of Acacia catechu and Scutellaria baicalensis extract on cognitive function in a healthy adult population: a double-blind, randomized, placebo-controlled trial.",
+      "authors": "Krieger, Joesi M, Hagele, Anthony M, Mumford, Petey W, De Gregorio, Diego, Gaige, Connor J, Hoffman, Ethan R, Gross, Kristen N, Holley, Kevin F, Allen, Leah E, Kerksick, Chad M",
+      "year": "2025",
+      "journal_or_publisher": "Nutritional neuroscience",
+      "vol_pages": ":",
+      "doi": "10.1080/1028415X.2024.2442425",
+      "pmid": "39701593",
+      "page_file": "research/clinical/pages/up446-cognition-rct.txt",
+      "quotes": [
+        "DISCUSSION: Four-week daily TP supplementation significantly enhanced cognitive function without difference from placebo."
+      ],
+      "notes": "2025 RCT: n=85 healthy adults; UP326 (240 mg S. baicalensis + 51 mg A. catechu) 4 weeks; time-effect improvements but NO difference vs placebo (negative result); ISRCTN16548309 registered.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36413261/",
+      "title": "Role of Acacia catechu and Scutellaria baicalensis in Enhancing Immune Function Following Influenza Vaccination of Healthy Adults: A Randomized, Triple-Blind, Placebo-Controlled Clinical Trial.",
+      "authors": "Lewis, Erin D, Crowley, David C, Guthrie, Najla, Evans, Malkanthi",
+      "year": "2023",
+      "journal_or_publisher": "Journal of the American Nutrition Association",
+      "vol_pages": ":",
+      "doi": "10.1080/27697061.2022.2145525",
+      "pmid": "36413261",
+      "page_file": "research/clinical/pages/up446-flu-vaccine-rct.txt",
+      "quotes": [
+        "RESULTS: In the post-vaccination period, total IgA and IgG levels increased in participants supplemented with UP446 vs."
+      ],
+      "notes": "Randomized triple-blind placebo-controlled trial: n=50 adults 40-80 y; UP446 56 days around influenza vaccination; higher total IgA/IgG and influenza-B IgG; industry-affiliated authors.",
+      "extract_status": "ok"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "In a 12-week randomized multicenter double-blind trial in 220 subjects with moderate-to-severe knee osteoarthritis, flavocoxid 500 mg twice daily was as effective as naproxen 500 mg twice daily, with no statistically significant efficacy differences in the intent-to-treat population.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20845002/",
+      "quote": "There were no statistically significant differences in efficacy between the flavocoxid and naproxen groups when the entire intent-to-treat population was analyzed.",
+      "strength": "human"
+    },
+    {
+      "claim": "The flavocoxid group had significantly fewer upper gastrointestinal and renal (edema) adverse events than the naproxen group in the 220-subject knee osteoarthritis trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20845002/",
+      "quote": "The flavocoxid group had significantly fewer upper gastrointestinal (UGI) and renal (edema) adverse events (AEs) as well as a strong trend toward fewer respiratory AEs.",
+      "strength": "human"
+    },
+    {
+      "claim": "In a one-month randomized double-blind pilot study, 103 subjects with moderate knee osteoarthritis received flavocoxid or naproxen 500 mg twice daily, and there were no statistically detectable between-group differences in any outcome variable.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19555810/",
+      "quote": "There were no statistically detectable differences between the flavocoxid and naproxen groups with respect to any of the outcome variables.",
+      "strength": "human"
+    },
+    {
+      "claim": "In a 12-week randomized double-blind placebo-controlled trial in 59 patients with moderate knee osteoarthritis, flavocoxid 250 mg twice daily produced no intra- or inter-group differences in any laboratory parameter versus placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19857081/",
+      "quote": "There were no intra- or inter-group differences in any of the laboratory parameters from study baseline to completion.",
+      "strength": "human"
+    },
+    {
+      "claim": "Flavocoxid did not increase bleeding times or inhibit platelet aggregation in healthy volunteers and did not inhibit or potentiate the anticoagulant effect of warfarin in warfarinized osteoarthritis patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20556559/",
+      "quote": "Finally, flavocoxid did not inhibit or potentiate the anticoagulant effect of warfarin.",
+      "strength": "human"
+    },
+    {
+      "claim": "In the open-label multicenter post-marketing GOAL study, 1067 patients at 41 rheumatology practices took flavocoxid 500 mg twice daily for 60 days, and completers' physician-assessed disease VAS improved from 60.1 at baseline to 42.5 at 8 weeks with an approximately 10 percent adverse-event incidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20225990/",
+      "quote": "RESULTS: Of the 1005 patients who completed all follow-up visits, physicians recorded an average improvement in VAS scores from 60.1 +/- 18.8 at baseline to 42.5 +/- 21.9 at 8 weeks (p < 0.001) in 65.8% of patients.",
+      "strength": "human"
+    },
+    {
+      "claim": "In a US claims-data cohort of 3337 flavocoxid initiators propensity-matched 1:2 to 6674 prescription NSAID users, hospitalized liver injury rates were 3.2 versus 2.4 per 1000 person-years (adjusted HR 1.16, 95% CI 0.23-6.01) and flavocoxid users had a significantly lower risk of hospitalized gastrointestinal bleeding.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32305527/",
+      "quote": "Flavocoxid users had a significantly lower risk for hospitalized GI bleeding.",
+      "strength": "human"
+    },
+    {
+      "claim": "In a phase 1/2 study, 17 boys with Duchenne muscular dystrophy took oral flavocoxid 250 or 500 mg for one year with good tolerability and no dropouts, and add-on flavocoxid significantly reduced serum IL-1 beta and TNF-alpha.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33467104/",
+      "quote": "The treatment was well tolerated and nobody dropped out.",
+      "strength": "human"
+    },
+    {
+      "claim": "In a randomized triple-blind placebo-controlled trial in 50 healthy adults aged 40-80 years, 56 days of supplementation with the Scutellaria baicalensis and Acacia catechu blend UP446 increased total IgA and IgG after influenza vaccination.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36413261/",
+      "quote": "RESULTS: In the post-vaccination period, total IgA and IgG levels increased in participants supplemented with UP446 vs.",
+      "strength": "human"
+    },
+    {
+      "claim": "In a 2025 randomized double-blind placebo-controlled trial in 85 healthy adults, four weeks of an Acacia catechu and Scutellaria baicalensis blend (UP326) enhanced cognitive function over time but with no difference from placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39701593/",
+      "quote": "DISCUSSION: Four-week daily TP supplementation significantly enhanced cognitive function without difference from placebo.",
+      "strength": "human"
+    },
+    {
+      "claim": "The Drug-Induced Liver Injury Network case series described four adults with acute hepatocellular liver injury within 1-3 months of starting flavocoxid, all recovering after cessation, and concluded that flavocoxid can cause clinically significant liver injury.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22711078/",
+      "quote": "CONCLUSION: Flavocoxid can cause clinically significant liver injury, which seems to resolve within weeks after cessation.",
+      "strength": "human"
+    },
+    {
+      "claim": "In an uncontrolled monitoring study, 17 patients took 1335 mg of dried Scutellaria baicalensis root daily for an average of 444 days with no significant changes in ALT, AST, alkaline phosphatase, or bilirubin, the longest documented single-herb human exposure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31557595/",
+      "quote": "ssays of alanine transaminase, aspartate transaminase, alkaline phosphatase and bilirubin were carried out in 17 patients (16 female) of average age 38.6 (standard error 4.4) years who had each taken 1335 mg dried root daily for an average of 444 (71) days.",
+      "strength": "human"
+    },
+    {
+      "claim": "A six-month randomized double-blind placebo-controlled trial in 85 children with asthma receiving a five-herb formula containing Radix scutellariae (CUF2) found no significant benefit over placebo and provided no evidence to support its use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19821718/",
+      "quote": "CONCLUSIONS: This study provides no evidence to support the use of the herbal formula of CUF2 in children with asthma.",
+      "strength": "human"
+    },
+    {
+      "claim": "In a 12-week randomized double-blind placebo-controlled trial, 374 patients with coexisting coronary artery disease and rheumatoid arthritis received baicalin 500 mg daily, with a significantly higher good or moderate EULAR response rate (71% versus 53%) and improved hs-CRP and lipids versus placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29935544/",
+      "quote": "Significantly higher proportion of patients in the baicalin group (71%) reported good/moderate EULAR response than the placebo group (53%).",
+      "strength": "human"
+    },
+    {
+      "claim": "In a crossover trial in metformin-treated type 2 diabetes patients, adding 3.52 g per day of Scutellaria baicalensis for 8 weeks improved glucose tolerance and reduced TNF-alpha expression versus placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31770016/",
+      "quote": "Glucose tolerance was lower in the SB group than the placebo group.",
+      "strength": "human"
+    },
+    {
+      "claim": "In the same type 2 diabetes crossover trial, Scutellaria baicalensis treatment produced remarkable increases in gut Lactobacillus and Akkermansia, and some subjects developed high liver enzyme levels during treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31770016/",
+      "quote": "SB treatment influenced the gut microbiota, especially Lactobacillus and Akkermansia, which showed remarkable increases after SB treatment.",
+      "strength": "human"
+    },
+    {
+      "claim": "In 110 fixed-orthodontic patients randomized to a compound Scutellaria baicalensis gargle or saline gargle for three months, plaque index, probing depth, and bleeding index were significantly lower in the Scutellaria gargle group.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39183390/",
+      "quote": "Results: The detection levels of PLI, PD, and sBI in the experimental group were lower than those in the control group (P < .05) 3 months after orthodontic surgery (P < .05); after orthodontic correction for 3 months, there was a significant difference in coccus, bacillus, Campylobacter, Clostridium, Helicobacter, and filamentous bacteria between",
+      "strength": "human"
+    },
+    {
+      "claim": "In a 21-day experimental gingivitis model in 40 subjects, a toothpaste containing Scutellaria baicalensis extract significantly reduced gingival index, plaque development, and vital flora compared with placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20936314/",
+      "quote": "The results suggest that the new toothpaste formulation was able to significantly reduce the extent of gingivitis, plaque development, and vital flora.",
+      "strength": "human"
+    },
+    {
+      "claim": "A phase I single-ascending-dose trial found single oral doses of baicalein from 100 to 2800 mg safe and well tolerated in 72 healthy subjects, with less than 1 percent urinary clearance and about 27 percent eliminated unchanged in feces.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25219601/",
+      "quote": "CONCLUSIONS: Single oral doses of 100-2800 mg of baicalein were safe and well tolerated by healthy subjects.",
+      "strength": "human"
+    },
+    {
+      "claim": "In a multiple-ascending-dose phase I study of baicalein chewable tablets (200-800 mg) in healthy Chinese volunteers, steady-state plasma concentrations were achieved by day 8 with accumulation indices of 1.66 to 2.45 and no serious accumulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27352310/",
+      "quote": "A steady-state concentration of analytes in plasma was achieved on day 8 after repeated dosing.",
+      "strength": "human"
+    },
+    {
+      "claim": "In a phase I study, single oral doses of baicalein tablets (200-800 mg) in healthy Chinese subjects produced Cmax values of roughly 280-845 ng/mL with terminal half-lives of 7.8-14.9 hours and less-than-dose-proportional exposure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33753147/",
+      "quote": "After a single administration of baicalein tablets (200 mg, 400 mg, 600 mg, or 800 mg), Cmax were 280.44, 628.80, 845.20, 489.55 ng/mL; AUC0-∞ were 2035.57, 2939.31, 4494.88, and 3754.43 h*ng/mL, respectively.",
+      "strength": "human"
+    },
+    {
+      "claim": "A 2026 phase I study of purified oroxylin A tablets (400-2400 mg) in Chinese healthy volunteers found no dose-limiting toxicity, approximately dose-proportional Cmax, moderate accumulation (1.51-1.73-fold), and a 1.6-fold higher Cmax with a high-fat meal.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40903694/",
+      "quote": "The Cmax of OA approximately increased in dose-proportional manner (Cmax slope 1.114), and the AUC0-t increased less than dose increasing (AUC0-t slope 0.7513).",
+      "strength": "human"
+    },
+    {
+      "claim": "After oral Sho-saiko-to in 14 healthy male volunteers, baicalein 6-O-sulfate was identified as a baicalin metabolite in human plasma, and plasma baicalin concentrations showed secondary peaks at 12 and 24 hours.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9549431/",
+      "quote": "BG was detected after 1 h, reached a maximum level at 5 h and then decreased to the level less than the quantitative limit after 36 h, and the plasma level of BG showed two peaks at 12 h and 24 h.",
+      "strength": "human"
+    },
+    {
+      "claim": "In an in vitro colon model seeded with microbiota from healthy volunteers, baicalin was metabolized to baicalein only when microbiota were present, confirming that colonic beta-glucuronidases hydrolyze baicalin to its aglycone.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39152558/",
+      "quote": "Enzymes of the colonic microbiota, namely β-glucuronidases, hydrolyze baicalin to the aglycone baicalein.",
+      "strength": "in-vitro"
+    },
+    {
+      "claim": "In mice, all six Scutellariae Radix flavones tested (baicalein, wogonin, oroxylin A and their glucuronides baicalin, wogonoside, oroxyloside) crossed the blood-brain barrier, with oroxylin A showing the highest brain uptake.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28426226/",
+      "quote": "Our results indicated that all six SR flavones including three aglycons (baicalein, wogonin, and oroxylin A) and three glucuronides (baicalin, wogonoside, and oroxyloside) could pass through the blood-brain barrier, with brain concentrations ranging from 7.9 to 224.0 pmol/g.",
+      "strength": "animal"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/30663770/
+PMID: 30663770
+Title: Baicalin reduces ciclosporin bioavailability by inducing intestinal p-glycoprotein in rats.
+Authors: Xin Tian; Yuanyuan Chang; Jingyao Wei; Ruijuan Liu; Li Wang; Ji Zhang; Xiaojian Zhang
+Journal: The Journal of pharmacy and pharmacology (2019)
+DOI: 10.1111/jphp.13067
+Fetched: 2026-11-14
+
+ABSTRACT
+OBJECTIVES: To investigate the effects of multiple doses of baicalin (BG) on the pharmacokinetics of ciclosporin (CsA) in rats and the potential mechanisms.
+METHODS: Pharmacokinetic parameters of CsA were determined in male rats after administration of CsA (3 mg/kg, i.g. or i.v.) to rats in the presence and absence of BG (80 mg/kg, i.g. or i.v.) for 7 days. The livers and intestines of rats were isolated and the CYP3A and p-glycoprotein (P-gp) expression were analysed. The effect of BG on the intestinal absorptive behaviour of CsA was also investigated using in-vitro everted rat gut sac model.
+KEY FINDINGS: Baicalin (80 mg/kg, i.v., 7 days) had no effect on the intravenously administered CsA. However, BG (80 mg/kg, i.g., 7 days) significantly decreased the Cmax , AUC0-t and AUC0-∞ of orally administered CsA by 38, 26 and 25%, respectively (P < 0.01 or P < 0.05). Further study revealed that the expression of P-gp in intestine increased in oral multiple doses of BG-treated rats. The in-vitro everted rat gut sac model demonstrated BG (10 μm) significantly decreased the absorption of CsA (10 μm) in intestine (P < 0.05).
+CONCLUSIONS: Multiple doses of BG decreased the oral bioavailability of CsA in rats significantly, which may be mainly attributable to inhibition of absorption of CsA in intestine and induction of P-gp. The interaction between BG and CsA may occur when BG and CsA were co-administered for long-term use. The dosage adjustment and blood concentration monitoring of CsA may be required in clinic.

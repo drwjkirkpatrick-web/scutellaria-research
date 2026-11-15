@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/36216728/
+PMID: 36216728
+Title: Effectiveness of Scutellaria baicalensis Georgi root in pregnancy-related diseases: A review.
+Authors: Dan-Na Fang; Chang-Wu Zheng; Ye-Ling Ma
+Journal: Journal of integrative medicine (2023)
+DOI: 10.1016/j.joim.2022.09.005
+Fetched: 2026-11-14
+
+ABSTRACT
+The root of Scutellaria baicalensis Georgi, also called Huangqin, is frequently used in traditional Chinese medicine. In ancient China, S. baicalensis root was used to clear heat, protect the fetus, and avoid a miscarriage for thousands of years. In modern times, pregnancy-related diseases can seriously affect maternal and fetal health, but few systematic studies have explored the mechanisms and potential targets of S. baicalensis root in the treatment of pregnancy-related diseases. Flavonoids (baicalein, wogonin and oroxylin A) and flavonoid glycosides (baicalin and wogonoside) are the main chemical components in the root of S. baicalensis. This study presents the current understanding of the major chemical components in the root of S. baicalensis, focusing on their traditional uses, potential therapeutic effects and ethnopharmacological relevance to pregnancy-related disorders. The mechanisms, potential targets and experimental models of S. baicalensis root for ameliorating pregnancy-related diseases, such as recurrent spontaneous abortion, preeclampsia, preterm birth, fetal growth restriction and gestational diabetes mellitus, are highlighted.

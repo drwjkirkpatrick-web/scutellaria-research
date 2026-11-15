@@ -1,0 +1,13 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/20549833/
+PMID: 20549833
+Title: Occurrence and fate of fetal lumbar rib induced by Scutellariae radix in rats.
+Authors: Eun A Ko; Won Sun Park; Inja Lim; Jihyun Yun; Jung-Ha Kim; Young-Ku Kang; Nari Kim; Jin Han
+Journal: Birth defects research. Part B, Developmental and reproductive toxicology (2010)
+DOI: 10.1002/bdrb.20242
+Fetched: 2026-11-14
+
+ABSTRACT
+BACKGROUND: This study was conducted to evaluate the occurrence and fate of fetal lumbar rib induced by Scutellariae radix (SR) in rats.
+METHODS: Water extracts of SR were orally administered to pregnant rats from day 7 to day 17 of gestation at a dose of 186 mg/kg/day, equivalent to 25 g/kg of starting material, representing a 100-fold increase over typical human intake level.
+RESULTS: The incidence of fetal lumbar rib in the SR-treated group was increased on gestational day 20 and then decreased on postnatal day 50. The weight of fetuses in the SR-treated group tended to be less than that in the control group. Alkaline phosphatase in SR-treated dams was increased on gestational day 20, but was decreased on postnatal day 50. There were no significant differences between the vehicle control and SR-treated groups in maternal body weight, embryological, histopathological, hematological, and serum biochemical changes.
+CONCLUSIONS: The present data suggest that the appearance of lumbar rib induced by SR is a transient fetal variation rather than teratogenicity or maternal toxicity.

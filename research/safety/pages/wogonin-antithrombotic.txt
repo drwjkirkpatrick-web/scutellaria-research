@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/25020199/
+PMID: 25020199
+Title: Antithrombotic activities of wogonin and wogonoside via inhibiting platelet aggregation.
+Authors: Sae-Kwang Ku; Jong-Sup Bae
+Journal: Fitoterapia (2014)
+DOI: 10.1016/j.fitote.2014.07.006
+Fetched: 2026-11-14
+
+ABSTRACT
+Wogonin (WGN), a flavonoid extracted from Scutellaria baicalensis Georgi, has several biological effects including antioxidant, anti-inflammatory, antiviral, neuroprotective, anxiolytic, and anticancer activities, and the flavonoid wogonoside (WGNS) can be derived from S. baicalensis, as it is a metabolite of wogonin. Here, the anticoagulant activities of WGN(S) were examined by monitoring activated partial thromboplastin time (aPTT), prothrombin time (PT), and the activities of thrombin (factor IIa, FIIa) and activated factor X (FXa), and the effects of WGN(S) on expression of plasminogen activator inhibitor type 1 (PAI-1) and tissue-type plasminogen activator (t-PA) were evaluated in tumor necrosis factor (TNF)-α activated human umbilical vein endothelial cells (HUVECs). Treatment with WGN(S) resulted in prolonged aPTT and PT and inhibition of the activities of thrombin and FXa, as well as inhibited production of thrombin and FXa in HUVECs. In addition, WGN(S) inhibited thrombin-catalyzed fibrin polymerization and platelet aggregation. WGN(S) also elicited anticoagulant effects in mice. In addition, treatment with WGN(S) resulted in significant reduction of the PAI-1 to t-PA ratio. Collectively, WGN(S) possesses antithrombotic activities and offers a basis for development of a novel anticoagulant.

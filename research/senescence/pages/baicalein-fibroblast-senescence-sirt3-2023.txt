@@ -1,0 +1,12 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/36815239/
+Accessed: 2026-11-14
+Title: Baicalein attenuates bleomycin-induced lung fibroblast senescence and lung fibrosis through restoration of Sirt3 expression.
+Journal: Pharmaceutical biology
+Year: 2023
+---
+
+CONTEXT: Fibroblast senescence was reported to contribute to the pathological development of idiopathic pulmonary fibrosis (IPF), and baicalein is reported to attenuate IPF.
+OBJECTIVE: This study explores whether baicalein attenuates lung fibrosis by regulating lung fibroblast senescence.
+MATERIALS AND METHODS: Institute of Cancer Research (ICR) mice were randomly assigned to control, bleomycin (BLM), baicalein and BLM + baicalein groups. Lung fibrosis was established by a single intratracheal dose of BLM (3 mg/kg). The baicalein group received baicalein orally (100 mg/kg/day). Sirtuin 3 (Sirt3) siRNA (50 μg) was injected through the tail vein once a week for 2 weeks to explore its effect on the anti-pulmonary fibrosis of baicalein.
+RESULTS: BLM-treated mice exhibited obvious lung fibrosis and fibroblast senescence by showing increased levels of collagen deposition (27.29% vs. 4.14%), hydroxyproline (208.05 vs. 40.16 ng/mg), collagen I (25.18 vs. 9.15 μg/mg), p53, p21, p16, MCP-1, PAI-1, TNF-α, MMP-10 and MMP-12 in lung tissues, which were attenuated by baicalein. Baicalein also mitigated BLM-mediated activation of TGF-β1/Smad signalling pathway. Baicalein restored the BLM-induced downregulation of Sirt3 expression in lung tissues and silencing of Sirt3 abolished the inhibitory role of baicalein against BLM-induced lung fibrosis, fibroblast senescence and activation of TGF-β1/Smad signalling pathway.
+CONCLUSIONS: Baicalein preserved the BLM-induced downregulation of lung Sirt3 expression, and thus the suppression of TGF-β1/Smad signalling pathway and lung fibrosis, which might provide an experimental basis for treatment of IPF.

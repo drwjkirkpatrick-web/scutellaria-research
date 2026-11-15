@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/27143122/
+TITLE: Modulation of the Nrf2 signalling pathway in Hct116 colon carcinoma cells by baicalein and its methylated derivative negletein.
+AUTHORS: Susannah Havermann; Yvonni Chovolou; Hans-Ulrich Humpf; Wim Wätjen
+JOURNAL: Pharmaceutical biology
+YEAR: 2016
+VOL_PAGES: 54; 1491-502
+DOI: 10.3109/13880209.2015.1104703
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Baicalein is a major compound in extracts derived from Scutellaria baicalensis Georgi (Lamiaceae) which are used in the Traditional Chinese Medicine for the treatment of inflammatory and gastrointestinal diseases. This flavonoid is an activator of the Nrf2 signalling pathway but the molecular mechanism is not clearly established. We investigated the molecular mode of baicalein-mediated Nrf2-activation in Hct116 cells by the analysis of proteasomal activity, radical-scavenging activity and the comparison with baicalein derivatives. The radical-scavenging activity (TEAC, DCF) up to 25 μM, cytotoxicity (MTT assay, 48 h) up to 100 μM, proteasomal activity and the Nrf2-activation (luciferase assay, ubiquitinylation, western blot, Ser40-phosphorylation; incubation for 1 or 4 h) by concentrations up to 40 or 50 μM of the compounds were analysed in Hct116 human colon carcinoma cells. No change in the ubiquitinylation of Nrf2, proteasomal activity and transcription of the NRF2 gene were detectable. Baicalein decreased the phosphorylation of Nrf2 (IC50-value approximately 20 μM) suggesting an inhibitory effect of the flavonoid on protein kinases. Since the activation of the Nrf2 pathway by baicalein might be also due to redox-activity of the compound, we investigated the effects of methylated baicalein derivatives oroxylin A, negeletein and baicaleintrimethylether. Oroxylin A and negletein showed a comparable redox-active potential, but only negletein (50 μM, 4 h) was able to activate Nrf2. This result confirms the hypothesis that baicalein, a component of extracts derived from Baical Skullcap, causes an activation of Nrf2 independent of a modulation of the cellular redox potential.

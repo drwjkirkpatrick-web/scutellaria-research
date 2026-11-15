@@ -1,0 +1,20 @@
+PMID: 22711078
+Title: Acute liver injury due to flavocoxid (Limbrel), a medical food for osteoarthritis: a case series.
+Authors: Chalasani, Naga, Vuppalanchi, Raj, Navarro, Victor, Fontana, Robert, Bonkovsky, Herbert, Barnhart, Huiman, Kleiner, David E, Hoofnagle, Jay H
+Journal: Annals of internal medicine
+ISOAbbrev: Ann Intern Med
+Year: 2012
+Volume: 156  Issue: 12  Pages: 857-60, W297-300
+DOI: 10.7326/0003-4819-156-12-201206190-00006
+URL: https://pubmed.ncbi.nlm.nih.gov/22711078/
+Fetched: 2026-11-14 via NCBI E-utilities (efetch db=pubmed)
+--- Abstract ---
+BACKGROUND: Flavocoxid is a prescription medical food that is used to treat osteoarthritis. It is a proprietary blend of 2 flavonoids, baicalin and catechins, which are derived from the botanicals Scutellaria baicalensis and Acacia catechu, respectively.
+OBJECTIVE: To describe characteristics of patients with acute liver injury suspected of being caused by flavocoxid.
+DESIGN: Case series.
+SETTING: Drug-Induced Liver Injury Network Prospective Study ongoing at multiple academic medical centers since 2004.
+PATIENTS: Four adults with liver injury.
+MEASUREMENTS: Clinical characteristics, liver biochemistry values, and outcomes.
+RESULTS: Among 877 patients enrolled in the prospective study, 4 had liver injury suspected to have been caused by flavocoxid. All were women; ages ranged from 57 to 68 years. All developed symptoms and signs of liver injury within 1 to 3 months after initiating flavocoxid. Liver injury was characterized by marked elevations in levels of alanine aminotransferase (mean peak, 1268 U/L; range, 741 to 1540 U/L), alkaline phosphatase (mean peak, 510 U/L; range, 286 to 770 U/L), and serum bilirubin (mean peak, 160.7 µmol/L [9.4 mg/dL]; range, 34.2 to 356 µmol/L [2.0 to 20.8 mg/dL]). Liver biochemistry values decreased to the normal range within 3 to 12 weeks after flavocoxid was stopped, and all patients recovered without experiencing acute liver failure or chronic liver injury. Causality was adjudicated as highly likely in 3 patients and as possible in 1 patient.
+LIMITATION: The frequency and mechanism of liver injury could not be assessed.
+CONCLUSION: Flavocoxid can cause clinically significant liver injury, which seems to resolve within weeks after cessation.

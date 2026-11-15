@@ -1,0 +1,253 @@
+\documentclass[11pt]{article}
+
+% Core packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=25mm]{geometry}
+\usepackage{setspace}
+\usepackage{xcolor}
+\usepackage{textcomp}
+\usepackage[version=4]{mhchem}
+\usepackage{xurl}
+
+% Unicode guard: quoted source text is fatal if unhandled (latex-arxiv-tooling lesson)
+\usepackage{newunicodechar}
+\newunicodechar{’}{'}
+\newunicodechar{‘}{`}
+\newunicodechar{“}{{\tt``}}
+\newunicodechar{”}{{\tt''}}
+\newunicodechar{–}{--}
+\newunicodechar{—}{---}
+\newunicodechar{…}{\ldots}
+\newunicodechar{≈}{\ensuremath{\approx}}
+\newunicodechar{≤}{\ensuremath{\leq}}
+\newunicodechar{≥}{\ensuremath{\geq}}
+\newunicodechar{→}{\ensuremath{\rightarrow}}
+\newunicodechar{°}{\textdegree}
+\newunicodechar{×}{\ensuremath{\times}}
+\newunicodechar{²}{\textsuperscript{2}}
+\newunicodechar{³}{\textsuperscript{3}}
+\newunicodechar{µ}{\textmu}
+\newunicodechar{±}{\ensuremath{\pm}}
+\newunicodechar{−}{\ensuremath{-}}
+\newunicodechar{Δ}{\ensuremath{\Delta}}
+\newunicodechar{™}{\texttrademark}
+\newunicodechar{α}{\ensuremath{\alpha}}
+\newunicodechar{β}{\ensuremath{\beta}}
+\newunicodechar{γ}{\ensuremath{\gamma}}
+\newunicodechar{κ}{\ensuremath{\kappa}}
+\newunicodechar{μ}{\textmu}
+\newunicodechar{ζ}{\ensuremath{\zeta}}
+\newunicodechar{∞}{\ensuremath{\infty}}
+\newunicodechar{√}{\ensuremath{\surd}}
+\newunicodechar{′}{$'$}
+\newunicodechar{‐}{-}
+\newunicodechar{‑}{-}
+\newunicodechar{·}{\textperiodcentered}
+\newunicodechar{®}{\textregistered}
+\newunicodechar{ĸ}{k}
+\newunicodechar{黄}{Huang}
+\newunicodechar{芩}{qin}
+
+% Math, tables, layout
+\usepackage{amsmath,amssymb}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{parskip}
+
+% Hyperlinks and metadata
+\usepackage{hyperref}
+\hypersetup{
+    pdftitle={Scutellaria baicalensis as a Longevity Botanical Medicine: Epigenetics, Gene Expression, and the Longevity Substrate},
+    pdfauthor={Walker J. Kirkpatrick, ND},
+    pdfkeywords={Scutellaria baicalensis, Chinese skullcap, huangqin, baicalin, baicalein, wogonin, epigenetics, DNA methylation, histone deacetylase, microRNA, longevity, sirtuins, AMPK, senescence, naturopathic medicine},
+    pdfsubject={Botanical medicine evidence review for naturopathic practice},
+    colorlinks=true,
+    linkcolor=blue!60!black,
+    citecolor=blue!60!black,
+    urlcolor=blue!60!black
+}
+
+% Citation macro: every citation passes through \src{} so the cited-id set is
+% a single regex. ids come from the retrieval ledger, never from memory.
+% \allowbreak lets multi-citation clusters wrap instead of overflowing.
+\newcommand{\src}[1]{\allowbreak[#1]}
+\setlength{\emergencystretch}{3em}
+
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{1em}{}
+\setstretch{1.18}
+
+\title{\Large \textbf{Scutellaria baicalensis (Chinese Skullcap): A Longevity Botanical Medicine \\ A Grounded Review of Epigenetics, Gene Expression, and the Longevity Substrate \\ for Naturopathic Practice}}
+\author{\normalsize Walker J. Kirkpatrick, ND}
+\date{\normalsize November 2026}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+\noindent
+\textit{Scutellaria baicalensis} Georgi --- Chinese skullcap, huangqin, the ``golden root'' of the classical Chinese materia medica --- has entered the longevity conversation on the strength of a remarkable mechanistic literature. This review synthesizes a retrieval ledger of 293 sources fetched and registered during the project, weighted toward work published between 2019 and 2026, and it organizes the answer the way the evidence itself is organized: epigenetics and gene expression first. That foundation is real. Baicalein induces DNMT1-mediated promoter demethylation with gene re-expression in three independent systems, inhibits HDAC-1/8 with proteasomal degradation of HDAC1, suppresses histone H3K4me3 through direct inhibition of adenosylhomocysteinase, and down-regulates the m$^6$A demethylase FTO. Baicalin is a characterized LSD1/KDM1A inhibitor (IC$_{50}$ 3.01\,$\mu$M) whose target has been engaged in human metastatic tissue ex vivo. Wogonin down-regulates the acetyltransferase p300, stabilizes TET2, and demethylates the KEAP1 promoter. MicroRNA remodeling (miR-21 down, miR-139-3p up), whole-transcriptome programs (an Nrf2/ARE hepatic program; a JAK--STAT program in SAMP8 aging mice), and the founding 2001 demonstration of inducible iNOS and COX-2 gene-expression suppression complete a genuinely multi-layer epigenetic pharmacology. Downstream, the longevity circuitry behaves as that model predicts: baicalein extends lifespan in \textit{C. elegans} in five independent studies (up to 45/57/24\% mean/median/maximum in the first, a clean $\sim$10\% median effect in the most rigorous) and is the only constituent with lifespan data --- baicalin and wogonin failed their one direct test; AMPK, mTOR/autophagy, sirtuins, FOXO/insulin signaling, Nrf2, and NF-$\kappa$B are each modulated in preclinical models; senescent-cell pharmacology is senomorphic (SASP suppression, strongest from minor constituents), not senolytic; and the one lifespan screen that asked which epigenetic enzyme the lifespan benefit requires answered cbp-1, the worm ortholog of the p300/CBP acetyltransferase that wogonin down-regulates in mammals. The human evidence is honest about its ceiling: purified baicalein completed phase I at 100--2800 mg in Chinese volunteers; a 374-patient trial of baicalin 500 mg/day improved lipids and hs-CRP; flavocoxid, a baicalin--catechin blend, matched naproxen in two osteoarthritis randomized trials; and no human study has measured a longevity endpoint, nor has any study of any \textit{Scutellaria} constituent touched an epigenetic aging clock --- the single most consequential gap in this literature. Safety resolves into a rare, idiosyncratic liver-injury signal concentrated in concentrated blends and suprapharmacopoeial doses, a germander-adulteration history that owns most of ``skullcap hepatotoxicity,'' wide preclinical margins (26-week rat NOAEL 2{,}000 mg/kg/day), and one genotype-dependent human drug interaction that matters (rosuvastatin AUC reduced 47\% via OATP1B1). The paper closes with the formulary view: what a naturopathic physician can defensibly say, prescribe, and monitor today, and the five studies that would move this plant from mechanistically credible toward clinically proven as a longevity botanical.
+\end{abstract}
+
+\section{Introduction: The Root That Cools Fire}
+
+There are botanicals a physician reaches for because tradition says so, and botanicals whose mechanistic literature has quietly outgrown their reputation. \textit{Scutellaria baicalensis} Georgi --- huangqin, the ``golden herb'' of Chinese medicine --- is increasingly the second kind.\src{81} Its dried root entered the written materia medica in the \textit{Shennong Ben Cao Jing} around 200 AD, giving this plant a documented continuous chart of more than two thousand years.\src{101} The classical physician Zhang Zhongjing built it into the \textit{Shanghan Lun} formulas that Chinese and Japanese medicine still prescribe today, most famously Xiao Chai Hu Tang (Japanese Sho-saiko-to), the seven-herb decoction in which huangqin is paired with bupleurum.\src{81}\src{93} Traditional indications --- ``all kinds of fever, jaundice, diarrhea, edema, and sores'' --- read, to a modern eye, as an inflammatory-conditions list.\src{54}
+
+The question this review asks is narrower and harder than ``is huangqin useful.'' It is whether this plant earns a place in a longevity formulary --- and if so, on what evidentiary basis. The organizing premise, at the client's direction, is that the epigenetic and gene-expression literature is the foundation: not an interesting aside, but the load-bearing story that explains why one root touches inflammation, fibrosis, senescence, and lifespan at once. A plant whose constituents inhibit DNMT1, HDAC1/8, LSD1, and the one-carbon enzyme AHCY, remodel microRNA profiles, and shift whole-transcriptome programs is not acting the way single-target drugs act.\src{142}\src{131}\src{117}\src{156} It is acting like a rheostat on the cell's gene-expression machinery --- turning entire programs up and down --- and that is precisely the pharmacologic shape a longevity botanical would need to have, because aging itself is not one target but a drift of many programs.\src{109}
+
+The method is deliberately paranoid about evidence. Every numbered claim below resolves to one of 293 sources fetched and registered during this review, weighted toward work published between 2019 and 2026 with seminal older anchors retained; most cited sources carry verbatim sentences captured from the fetched text itself, so a colleague can check any sentence against its number and find the trail leads somewhere real (see the Sources section). Six parallel research streams produced the evidence base --- phytochemistry and identity, epigenetics, longevity signaling pathways, senescence and model organisms, human trials and pharmacokinetics, and safety --- and each stream was instructed to flag, rather than round off, every lead it could not verify. Those flags survive into this paper: several plausible-sounding claims (a thyroid-cancer demethylation story, a ``Korean'' phase I trial, lifespan data for baicalin) died under verification and are recorded here as not found, because the negative space is as informative as the findings.
+
+Three registers of evidence run through what follows, and the paper keeps them separate: a two-thousand-year clinical tradition (real data, but of a kind that cannot speak to mechanism); a deep preclinical mechanism literature (mostly cells and rodents, oncology-skewed, with dose-translation problems the paper quantifies rather than hides); and a human trial record that is young, small, and --- for longevity endpoints --- empty. Where the registers disagree, the disagreement is stated. The thesis, previewed honestly: \textit{S. baicalensis} is a mechanistically credible longevity candidate whose epigenetic pharmacology is unusually well mapped for a botanical, whose organismal lifespan evidence rests on a single constituent in a single invertebrate, and whose human longevity evidence does not yet exist. What a clinician does with that asymmetry is a judgment call this paper equips rather than makes.
+
+\section{Identity, Sourcing, and the Two Skullcaps}
+\label{sec:identity}
+
+Before pharmacology comes botany, and skullcap's botany has a practical edge. The species is \textit{Scutellaria baicalensis} Georgi (Lamiaceae), validly published in 1775, accepted by Kew's Plants of the World Online with a native range from Siberia through the Russian Far East to Vietnam.\src{76}\src{98} The medicinal organ is the dried root, which the Chinese Pharmacopoeia requires to contain no less than 9\% baicalin (2015 edition), with comparable monographs in the Japanese ($\geq$10\% total flavones), European ($\geq$9\%), US ($\geq$11.0\%), WHO, and ISO standards.\src{101}\src{100} (One 2024 review states an 8\% minimum --- an internal inconsistency in the secondary literature worth knowing about when reading label claims.\src{54}) Content is not a fixed constant: flavonoid composition varies with cultivation region, growth year --- the optimum harvest window is two to three years --- and post-harvest processing, with drying and cutting-drying the most composition-preserving methods studied.\src{73}\src{104}
+
+The distinction that matters clinically is between two different plants both sold as ``skullcap.'' American skullcap, \textit{S. lateriflora}, uses the aerial parts, and the flavonoid geography is organ-specific and species-specific: the four major root flavonoids of \textit{S. baicalensis} are absent from its own aerial parts, while in \textit{S. lateriflora} they concentrate in the leaves --- baicalin localizes to roots in the Chinese species but to leaves in the American one.\src{94}\src{75} A common botanical-medicine claim that American skullcap contains ``little baicalin'' did not survive verification and is better stated as a difference of organ and species accumulation pattern.\src{94}\src{72} The two are not interchangeable, and Japanese pharmacopoeial practice treats the roots of both species as pharmaceutical raw materials while classifying aerial parts as non-pharmaceutical.\src{94}
+
+The hepatotoxicity history attached to the word ``skullcap'' belongs largely to this sourcing problem, not to the plant itself. LiverTox attributes the classic skullcap liver-injury reports to multiple co-ingested herbals and, in some cases, to phytochemical analysis identifying significant adulteration with germander (\textit{Teucrium} spp.) or outright mislabeling.\src{64} Germander adulteration is detectable and documented: LC-UV/MS and microscopy distinguish \textit{S. lateriflora} from \textit{T. canadense} and \textit{T. chamaedrys} by phenylpropanoid markers absent from \textit{Scutellaria} itself, and HPTLC methods detect \textit{T. chamaedrys} in \textit{S. baicalensis} raw material and finished extracts down to 0.5\% w/w.\src{80}\src{82} Section~\ref{sec:safety} returns to the liver question in full; here the sourcing lesson is that authentication is the safety intervention.
+
+Commercial quality is, bluntly, uneven --- and this is the kind of number a formulary remembers. In one published analysis of commercial \textit{S. baicalensis} extracts, four of ten contained no baicalin at all, and potency varied more than eleven-fold across products.\src{102} Modern authentication is mature even where commerce is not: four variable chloroplast DNA regions differentiate true \textit{S. baicalensis} from adulterant species, and whole-chloroplast-genome super-barcoding distinguishes cultivated varieties that morphology cannot separate before flowering.\src{89}\src{84} The practical rule falls out of the literature directly: prescribe material with a species identity, a stated baicalin content against a pharmacopoeial marker, and third-party contaminant testing --- and treat any unlabeled ``skullcap'' product as a question, not an answer.
+
+\section{Phytochemistry: The Flavone Substrate}
+\label{sec:phyto}
+
+The root's defining chemistry is a family of root-specific 4$'$-deoxyflavones --- more than thirty flavone types have been catalogued --- of which six are the major bioactives: three aglycones (baicalein, wogonin, oroxylin A) and their glucuronide glycosides (baicalin, wogonoside, oroxyloside), all pharmacologically active in their own right.\src{88}\src{54} Baicalin is simply baicalein-7-O-glucuronide (\ce{C21H18O11}); the glycoside--aglycone pair is interconverted by the body and, decisively, by the gut microbiome --- a pharmacokinetic fact that shapes everything in section~\ref{sec:human}.\src{54}\src{234} Beyond the six majors, the root carries skullcapflavones I and II, scutellarin and its aglycone scutellarein, apigenin, and chrysin, among others.\src{99}\src{73} Minor does not mean inert: the strongest senescence-associated secretory phenotype (SASP) inhibitors in the root are minor constituents, a fact with real clinical implications (section~\ref{sec:senes}).\src{211}
+
+Traditional properties frame the same chemistry in a different language. In TCM theory the root is bitter and cold, entering the lung, gallbladder, spleen, large intestine, and small intestine meridians; it clears heat, dries dampness, purges fire, detoxifies, stops bleeding, and --- notably for a longevity conversation --- is traditionally credited with stabilizing pregnancy.\src{79} Processing is pharmacologically real: wine-processing (pao zhi) measurably changes compound dissolution, and growth-year and drying decisions move flavonoid content in documented, quantifiable ways.\src{92}\src{73} The root-specific accumulation pattern itself reflects an evolutionary divergence of the flavonoid pathway within the genus, which is why \textit{S. baicalensis} root is chemically singular rather than merely abundant.\src{75}
+
+The three constituents this paper follows are baicalein, baicalin, and wogonin, because the mechanistic literature follows them. Where oroxylin A and the minor flavones carry unique evidence --- SASP suppression, blood--brain barrier penetration, a completed phase I trial --- they are named explicitly.
+
+\section{The Epigenetic Foundation}
+\label{sec:epigen}
+
+\subsection{Why epigenetics is the right first chapter}
+
+A botanical cannot be a longevity medicine by acting on one target, because aging is not one target. The geroscience consensus picture is a drift of interconnected programs --- inflammatory gene expression, nutrient sensing, mitochondrial quality control, senescence signaling --- and a credible longevity botanical must therefore act \textit{programmatically}. The \textit{S. baicalensis} literature has quietly become one of the best-mapped examples of exactly that in the botanical world: its constituents have documented, mechanistically dissected interactions with DNA methylation enzymes, histone acetyltransferases and deacetylases, histone methyltransferases and demethylases, the ten-eleven translocation dioxygenase TET2, the m$^6$A RNA demethylase FTO, microRNA processing, and whole-transcriptome regulatory programs.\src{142}\src{143}\src{156}\src{153} The founding observation is old enough to vote: in 2001, baicalein, baicalin, and wogonin were shown to suppress inducible nitric oxide synthase gene expression in LPS-stimulated macrophages --- the first modern gene-expression finding for this herb, and one that already displayed the family signature of program-level action.\src{105}
+
+Table~\ref{tab:epigen} maps the foundation. The subsections walk it layer by layer, and the final subsection is the honesty box: where this evidence comes from, at what concentrations, and what it does not yet show.
+
+\begin{table}[ht]
+\caption{The epigenetic enzyme targets of \textit{S. baicalensis} constituents, as verified in this review's citation ledger. Context matters: most rows were demonstrated in oncology or fibrosis models (section~\ref{sec:limits}).}
+\label{tab:epigen}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{>{\raggedright\arraybackslash}p{1.4cm} >{\raggedright\arraybackslash}p{2.6cm} >{\raggedright\arraybackslash}p{5.2cm} >{\raggedright\arraybackslash}p{4.3cm}}
+\toprule
+Flavone & Epigenetic target & Demonstrated effect & Model context \\
+\midrule
+Baicalein & DNMT1 & Promoter demethylation with gene re-expression (SHP-1, GABRD, SCARA5) & Imatinib-resistant CML CD34$^+$ cells; status-epilepticus rat hippocampus in vivo; hepatic stellate cells\src{142}\src{154}\src{157} \\
+Baicalein & HDAC-1/8 & Direct inhibition plus ubiquitin--proteasome degradation of HDAC1; $\uparrow$ histone H3 acetylation; p53 re-acetylation & Core-binding-factor AML; cutaneous T-cell lymphoma\src{131}\src{126} \\
+Baicalein & AHCY & Direct inhibition (residues D134/D303) $\rightarrow$ S-adenosylhomocysteine accumulation $\rightarrow$ $\downarrow$ H3K4me3, loss of OCT4/Nanog stemness & MSI colorectal cancer; validated in patient tissues and PDX\src{156} \\
+Baicalein & FTO (m$^6$A) & $\downarrow$ ZEB1 mRNA stability via enhanced m$^6$A modification & Pancreatic cancer EMT\src{153} \\
+Baicalein & KDM4E & Enhanced demethylase activity; $\downarrow$ H3K9me3 at BICD1 promoter & Triple-negative breast cancer\src{147} \\
+Baicalein & microRNAs & miR-21 $\downarrow$ (fibroblasts; bleomycin-fibrotic rat lung in vivo); miR-139-3p $\uparrow$; miR-29 $\uparrow$; miR-424-3p $\downarrow$ (PTEN $\uparrow$) & Fibrotic lung; pancreatic, hepatoma lines\src{121}\src{111}\src{136}\src{123}\src{120} \\
+Baicalin & LSD1/KDM1A & Direct inhibition, IC$_{50}$ 3.01\,$\mu$M; reduced CD206/PD-L1 in tumor-associated macrophages on pharmacological inhibition & Enzyme kinetics; patient-derived colorectal liver metastasis specimens ex vivo\src{117}\src{162} \\
+Baicalin & non-coding RNAs & miR-139-3p $\uparrow$ (CDK16); miR-124 $\uparrow$ (TLR4/NF-$\kappa$B); lncRNA MALAT1 $\downarrow$; circ\_0000734 axis & Colon cancer; diabetic-nephropathy mice; RA synoviocytes and patient PBMCs\src{141}\src{140}\src{159} \\
+Wogonin & p300 (HAT) & $\downarrow$ p300 expression; $\downarrow$ histone H3/H4 crotonylation at the HIV-1 promoter; blocked latent viral reactivation & Latency models; primary CD4$^+$ T cells from ART-suppressed humans ex vivo\src{143} \\
+Wogonin & HDAC1/2 & $\downarrow$ protein levels & Lung adenocarcinoma\src{113} \\
+Wogonin & TET2 & Stabilization with $\uparrow$ 5hmC via an AMPK--TET2 axis & Ovarian cancer\src{223} \\
+Wogonin & KEAP1 promoter & $\downarrow$ CpG methylation, $\uparrow$ Keap1 protein & Radioresistant breast cancer\src{145} \\
+Wogonin & LSD1 & Blocks LSD1-mediated NF-$\kappa$B p65 demethylation; macrophage M1$\rightarrow$M2 shift & Osteoarthritis mice, an aging-relevant joint model\src{155} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{DNA methylation: a convergent DNMT1 story}
+
+The methylation literature converges on one enzyme: DNMT1, the maintenance methyltransferase --- not the de novo enzymes DNMT3a/3b, for which no \textit{Scutellaria} evidence was found despite targeted searching. In imatinib-resistant chronic myeloid leukemia CD34$^+$ cells, baicalein induced DNMT1-dependent demethylation of the SHP-1 promoter with re-expression of SHP-1 and downstream inhibition of JAK2/STAT5.\src{142} In a lithium-pilocarpine rat model of status epilepticus --- a non-cancer, neurological model, and therefore important for the aging framing --- baicalein interacted with DNMT1 to suppress methylation of the GABRD promoter and restore its protein in hippocampus.\src{154} In hepatic stellate cells and mouse fibrosis models, baicalein targeted DNMT1-facilitated methylation of the SCARA5 promoter, derepressing SCARA5 and driving ferroptosis of the activated cells.\src{157} For wogonin, the demethylation target sits squarely in the longevity circuitry: reduced CpG methylation of the KEAP1 promoter, raising Keap1 protein and dampening the Nrf2/HIF-1$\alpha$ axis in radioresistant breast cancer.\src{145} One demethylation-adjacent finding is a combination, not a single constituent --- baicalin with rosmarinic acid derepressed PPAR$\gamma$ in stellate cells via reduced MeCP2 recruitment and EZH2 suppression --- and it is the only EZH2/H3K27 signal in this literature.\src{108} The convergence is the point: three independent groups, three different promoters, one enzyme.\src{142}\src{154}\src{157}
+
+\subsection{Histone chemistry: acetylation, methylation, and the demethylases}
+
+Baicalein is a characterized natural HDAC-1/8 inhibitor: in core-binding-factor acute myeloid leukemia it inhibited both isoforms, combined mild direct inhibition with ubiquitin--proteasome degradation of HDAC1, and raised histone H3 acetylation; the same group extended the finding to cutaneous T-cell lymphoma, restoring p53 acetylation through HDAC8 inhibition.\src{131}\src{126} Wogonin works the other side of the same ledger, down-regulating the histone acetyltransferase p300 --- and in the most striking paper in this layer, it suppressed latent HIV-1 reactivation in primary CD4$^+$ T cells from ART-suppressed individuals ex vivo by decreasing histone H3/H4 \emph{crotonylation} at the viral promoter.\src{143} Wogonin also reduces HDAC1 and HDAC2 protein levels in lung carcinoma cells, so both directions of the acetylation rheostat are documented for the genus.\src{113}
+
+The demethylase story has two arms. Baicalin was characterized as a natural LSD1 (KDM1A) inhibitor with an IC$_{50}$ of 3.01\,$\mu$M --- among the tighter enzymatic constants in this literature --- and pharmacological LSD1 inhibition with baicalin reduced CD206 and PD-L1 in tumor-associated macrophages from patient-derived colorectal liver metastasis specimens, the strongest human-material epigenetic evidence for any constituent here, though ex vivo.\src{117}\src{162} Wogonin binds LSD1 in osteoarthritic joints, blocking LSD1-mediated demethylation of NF-$\kappa$B p65 and thereby inhibiting JNK/NF-$\kappa$B activation --- an epigenetic mechanism demonstrated inside an aging-relevant disease model, not just a cancer line.\src{155} Baicalein, for its part, suppresses histone methylation indirectly through one-carbon metabolism: it directly inhibits adenosylhomocysteinase (AHCY), causing S-adenosylhomocysteine accumulation, decreased H3K4me3, and loss of OCT4/Nanog stemness in microsatellite-instability colorectal cancer --- validated in patient tissues and patient-derived xenografts.\src{156} In the opposite direction it enhances the H3K9 demethylase KDM4E in triple-negative breast cancer.\src{147} And wogonin stabilizes TET2, increasing 5-hydroxymethylcytosine via an AMPK--TET2 axis --- active DNA demethylation, the layer most often missed in botanical reviews.\src{223}
+
+\subsection{Non-coding RNA}
+
+The microRNA layer is where single sentences need care, because direction depends on constituent and tissue --- that is data, not contradiction. Baicalein suppresses miR-21 --- the profibrotic, proinflammatory oncomiR --- in TGF-$\beta$1-treated human lung fibroblasts, with miR-21 mimics blunting its antifibrotic effect, and in vivo in bleomycin-induced pulmonary fibrosis in rats.\src{121}\src{111} Both baicalein (pancreatic cancer) and baicalin (colon cancer) up-regulate miR-139-3p --- note the 3p arm; the 5p arm that circulates in review folklore was not what the primary studies found.\src{136}\src{141} Baicalein broadly remodels miRNA profiles in hepatoma cells with targets enriched in MAPK, PI3K--Akt, Wnt, Hippo, and mTOR pathways --- the longevity circuitry again --- and separately up-regulates miR-29 in fibroblasts and down-regulates miR-424-3p to raise PTEN.\src{119}\src{123}\src{120} Baicalin up-regulates miR-124, which targets TLR4 in diabetic-nephropathy mice, and down-regulates lncRNA-MALAT1 with compensatory miR-200c induction in breast cancer cells.\src{141}\src{140} The long non-coding RNA AK021954 mediates baicalein's inhibition of vascular smooth-muscle proliferation --- an atherosclerosis-relevant, non-cancer model.\src{115} In human rheumatoid material, baicalin acted through the circ\_0000734/miR-197-5p/IKBKB axis in synoviocytes, and circ\_0000734 levels in patient PBMCs correlated with RF, anti-CCP, CRP, ESR, and DAS28.\src{159} A systematic review has now catalogued the baicalein--miRNA literature in cancer, for readers who want the full map.\src{152}
+
+\subsection{Whole-transcriptome programs}
+
+When the transcriptome is read whole, the programs that surface are the aging-relevant ones. In HepG2 cells, a 42K-probe microarray found baicalein up-regulating 440 and down-regulating 254 probes, with the Nrf2/ARE antioxidant program the top hit and ARE-luciferase transactivation confirmed.\src{110} In SAMP8 senescence-accelerated mice --- the most directly aging-relevant transcriptome study in this literature --- baicalein regulated fifty hub genes with JAK--STAT the most significant pathway, prevented cortical JAK2/STAT1 activation, and lowered A$\beta$1-42 and RAGE.\src{124} In \textit{C. elegans}, microarray work accompanying the lifespan studies found baicalein down-regulating the age-related genes \textit{mtor} and \textit{parp-1} --- a direct transcriptional read on two canonical aging genes.\src{212} Gastric-cancer RNA-seq after baicalin is dominated by the p53 pathway; single-cell and spatial transcriptomics have defined a ten-gene baicalein-response signature in lung cancer.\src{138}\src{158} And at the RNA-modification layer, baicalein down-regulates the m$^6$A demethylase FTO, destabilizing ZEB1 mRNA --- epitranscriptomic regulation, a fifth layer of the gene-expression story.\src{153}
+
+\subsection{The honesty box: concentrations, contexts, and the one lifespan bridge}
+
+Three cautions keep this foundation honest. First, provenance: this literature is oncology-skewed, because epigenetic enzyme assays live in cancer pharmacology; the non-cancer models (epileptic brain, fibrotic lung, arthritic joint, SAMP8 mouse, \textit{C. elegans}) are the exceptions a longevity review must lean on and label.\src{154}\src{124}\src{212} Second, concentration: most in-vitro epigenetic readouts were obtained at 25--100\,$\mu$M, while oral baicalein at 200--800 mg/day produces total plasma peaks of roughly 280--845 ng/mL in humans, mostly as conjugates --- a two-order-of-magnitude gap this paper does not paper over (section~\ref{sec:human} quantifies it, and section~\ref{sec:limits} keeps it).\src{37} Third, direction: epigenetic modulation by these flavones is not uniformly benign --- baicalin acted as an independent fibrogenic factor and \emph{aggravated} isoproterenol-induced myocardial fibrosis via LSD1/AP-1 signaling with increased histone H3 serine-10 phosphorylation.\src{160} A rheostat turns both ways.
+
+And one finding deserves the last word in this section because it is the whole paper in miniature. In a screen of glucose-toxicity-protective drugs, baicalein extended \textit{C. elegans} lifespan --- and the protection was abolished by RNAi of \textit{cbp-1}, the worm ortholog of the CBP/p300 acetyltransferase.\src{109} The lifespan effect of this plant's best-studied constituent ran through an epigenetic enzyme. That is the foundation's foundation: not a metaphor, a gene.
+
+\section{From Epigenome to Longevity Pathways}
+\label{sec:pathways}
+
+\subsection{The insulin/IGF-1 axis: the one direct lifespan experiment}
+
+The single most consequential fact in this literature is also its cleanest: baicalein extends lifespan in \textit{Caenorhabditis elegans}, and no other constituent of the plant has published lifespan data at all. Five studies, 2013--2025, tell a consistent effect with a contested mechanism (Table~\ref{tab:lifespan}). The 2013 founding study reported extensions of 45\%, 57\%, and 24\% in mean, median, and maximum lifespan, activating the Nrf2 homolog SKN-1 in intestinal nuclei.\src{200} A 2016 study found SKN-1 required and DAF-16 dispensable; a 2021 head-to-head comparison of six related flavones at 100\,$\mu$M found baicalein best at an 18.6\% extension, dependent on SKN-1/Nrf2, with \textit{mtor} and \textit{parp-1} down-regulated; a 2023 study implicated ELT-3 and a klotho homolog; and the rigorous 2025 MedComm study --- wild-type N2 worms, seven mutant and three reporter strains, dietary-restriction confounds ruled out --- localized the median-lifespan gain (20 to 22 days at 100\,$\mu$M) to suppression of DAF-2 insulin/IGF-1 signaling with nuclear translocation of the FOXO homolog DAF-16 and \emph{no} SKN-1 translocation.\src{203}\src{212}\src{218}\src{167} The pathway attribution is genuinely unresolved --- SKN-1 without DAF-16 in two studies, DAF-16 without SKN-1 in one, both in another --- but the effect itself replicates in every laboratory that has looked.\src{167}
+
+Two boundary results complete the frame. In \textit{Drosophila}, baicalein at 0.04--0.2 mg/mL in food extended mean and maximum lifespan and reduced oxidative damage in induced-aging models.\src{209} But the only direct lifespan test of baicalin and wogonin --- a 2026 \textit{Drosophila} study feeding American skullcap (\textit{S. lateriflora}) extracts --- found improved mobility (attributed to baicalin) and sleep (a wogonin mix) with no lifespan extension at all; the authors concluded the compounds improve neuronal health ``and do not generally slow down the aging process.''\src{226} For a formulary, that asymmetry matters: the longevity claim belongs to baicalein, and to the aglycone side of the glycoside pair.
+
+\begin{table}[ht]
+\caption{Published lifespan studies of \textit{S. baicalensis} constituents. The 2026 \textit{Drosophila} result bounds what can be claimed for baicalin and wogonin.}
+\label{tab:lifespan}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{>{\raggedright\arraybackslash}p{1.8cm} >{\raggedright\arraybackslash}p{2.7cm} >{\raggedright\arraybackslash}p{2.1cm} >{\raggedright\arraybackslash}p{3.9cm} >{\raggedright\arraybackslash}p{3.9cm}}
+\toprule
+Year, organism & Design & Dose & Lifespan effect & Pathway attribution \\
+\midrule
+2013, \textit{C. elegans} & N2 wild type & not stated (abstract) & $+$45\% mean, $+$57\% median, $+$24\% maximum & SKN-1/Nrf2 activation\src{200} \\
+2016, \textit{C. elegans} & stress-resistance panel & dose--response & extension; heat and arsenite resistance & SKN-1 required; DAF-16 independent\src{203} \\
+2021, \textit{C. elegans} & head-to-head, six flavones, Lifespan Machine & 100\,$\mu$M & $+$18.6\% (best of six) & SKN-1 dependent; \textit{mtor}, \textit{parp} down-regulated\src{212} \\
+2023, \textit{C. elegans} & Wnt/GATA reporter work & --- & extension; stress amelioration & ELT-3 $+$ SKN-1 (lifespan); DAF-16 (stress)\src{218} \\
+2025, \textit{C. elegans} & N2 $+$ 7 mutants $+$ 3 reporters; dietary-restriction confounds ruled out & 100\,$\mu$M & median 20 to 22 days ($\sim$10\%) & DAF-2 $\downarrow$ / DAF-16 nuclear translocation; no SKN-1 shift\src{167} \\
+2017, \textit{Drosophila} & natural and induced aging & 0.04--0.2 mg/mL food & mean and maximum extended & antioxidation\src{209} \\
+2026, \textit{Drosophila} & \textit{S. lateriflora} extracts (baicalin, wogonin arms) & 1--5 mg/mL food & \textbf{null} --- no extension; mobility and sleep improved & neuronal function, not slowed aging\src{226} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Sirtuins}
+
+The sirtuin evidence is real but direction-dependent, and saying so plainly is more useful to a clinician than the usual blanket ``activates SIRT1.'' In fasted and high-fat-diet mice, baicalin restrained \emph{excessive} hepatic SIRT1 induction to check glucose overproduction; in olfactory-bulbectomized rats it \emph{raised} SIRT1 in brain while deacetylating NF-$\kappa$B p65 and lowering hippocampal IL-1$\beta$, IL-6, and TNF-$\alpha$ --- one constituent, two directions, two tissues, both mechanistically documented.\src{192}\src{122} SIRT6 is up-regulated by baicalein in cerebral ischemia--reperfusion, deacetylating FOXA2 to promote the cystine transporter SLC7A11 and limit ferroptosis; baicalin in a \textit{Scutellaria}--\textit{Coptidis} combination enhanced ACSL5 via SIRT6 deacetylation in NAFLD models.\src{178}\src{194} SIRT3 restoration is the proven mechanism of baicalein's anti-senescence effect in bleomycin-fibrotic lung --- Sirt3 siRNA abolishes the benefit --- making the mitochondrial sirtuin the load-bearing member of that story.\src{177} A hepatic review catalogs baicalin among SIRT1-active hepatoprotective flavonoids.\src{193}
+
+\subsection{AMPK, mTOR, and autophagy}
+
+Baicalin's AMPK literature is large enough to have earned its own 2025 review, spanning metabolic and inflammatory contexts.\src{183} The anchors: baicalein activated AMPK and suppressed SREBP1 cleavage to reduce hepatic fat in cells and mice; baicalin activated hippocampal AMPK/PGC-1$\alpha$ with NIX-mediated mitophagy in chronically stressed mice, with molecular docking supporting direct AMPK binding; baicalein activated AMPK and inhibited mTOR from 5\,$\mu$M upward in pancreatic neuroendocrine tumor models.\src{163}\src{182}\src{164} Autophagy dependence is proven the way it should be --- by rescue: baicalein induced autophagic cell death through AMPK/ULK1 with mTORC1 down-regulation, and Beclin-1/Vps34/Atg5/Atg7 knockdown completely reversed the effect; baicalin activated protective autophagy through Akt/mTOR/ULK1 in pulmonary fibrosis, with 3-methyladenine and hydroxychloroquine abolishing the antifibrotic benefit; baicalein drove SIRT1/AMPK/mTOR mitophagy in parkinsonian rats, with 3-methyladenine blocking neuroprotection.\src{165}\src{188}\src{172} No retrieved study names an upstream kinase such as LKB1, so the activation mechanism upstream of AMPK remains open.\src{183}
+
+\subsection{FOXO and insulin signaling in mammals}
+
+Downstream of insulin signaling, the mammalian data parallel the worm story: baicalein inhibited AKT to up-regulate FOXO1 in glucocorticoid-treated osteoblasts; baicalin raised AKT/AS160 signaling with GLUT4 translocation and PGC-1$\alpha$ in obese-mouse muscle while lowering HOMA-IR; and baicalein ameliorated insulin resistance through hepatic and muscular PI3K/AKT in a GLP-1R-dependent manner, the effect disappearing in Glp1r-null mice.\src{170}\src{180}\src{175} Insulin/IGF-1 suppression with FOXO activation is the most replicated longevity pathway in experimental biology; it is reassuring, and no more, that a skullcap flavone reads as a mild modulator of it in mammals.\src{167}\src{175}
+
+\subsection{Nrf2: the non-canonical activation and the two directions}
+
+The Nrf2/ARE axis carries some of the best functional data: baicalin protected rat stomach against stress-, ethanol-, and indomethacin-induced ulcers with 72--80\% efficacy attributed to Nrf2-mediated antisecretory action; a neurodegeneration review documents baicalein induction of HO-1, NQO1, GPx, and SOD across models.\src{190}\src{174} Mechanistically, baicalein's Hct116 activation is \emph{non-canonical}: no change in NRF2 transcription, ubiquitinylation, or proteasomal turnover, and no redox dependence --- instead decreased Nrf2 phosphorylation (IC$_{50}$ $\approx$ 20\,$\mu$M), a kinase-inhibition profile.\src{116} The pathway also runs in the epigenetic layer from section~\ref{sec:epigen}: wogonin's KEAP1-promoter demethylation.\src{145} And direction is context-dependent: baicalein activated Nrf2/SLC7A11/GPX4 to inhibit ferroptosis in cardiomyocyte models, while baicalin in cisplatin-treated lung cancer \emph{accumulated} KEAP1 and reduced NRF2/HO-1 to aid chemosensitization --- oncology's opposite polarity, stated here so the reader is not surprised by it in the primary literature.\src{161}\src{149}
+
+\subsection{NF-$\kappa$B inflammaging}
+
+The inflammaging axis is the most consistently suppressed pathway in the corpus. Baicalin dose-dependently blocked LPS-induced CD14/TLR4/MyD88/NF-$\kappa$B p65 activation and IL-6 release in macrophages and mice; baicalin and baicalein reduced PI3K/AKT/p65 phosphorylation in hyperuricemic nephropathy; and baicalin's SIRT1 effect deacetylates p65 at lysine 310 in the depression model --- the sirtuin--NF-$\kappa$B crosstalk that geroscience readers will recognize as the canonical inflammaging brake.\src{189}\src{186}\src{122} The epigenetic layer connects here too: wogonin's LSD1 binding blocks p65 demethylation in arthritic joints, keeping NF-$\kappa$B signaling in check through a histone-demethylase mechanism.\src{155}
+
+\subsection{Mitochondrial quality control}
+
+The mitochondrial file is coherent: baicalin directly bound p38 MAPK and shifted skeletal-muscle fibers from glycolytic toward oxidative through PGC-1$\alpha$; baicalein restored mitochondrial function and biogenesis in rotenone-parkinsonian rats; baicalin reversed A$\beta$-oligomer memory deficits and hippocampal mitochondrial fragmentation through PDE4/PKA/Drp1; the AMPK/PGC-1$\alpha$/NIX mitophagy axis in stressed hippocampus and the SIRT3 restoration in aging fibrotic lung complete a biogenesis-plus-mitophagy signature.\src{191}\src{176}\src{179}\src{182}\src{177}
+
+\subsection{CNS aging pharmacology: MAO-B, BACE1}
+
+For neuroaging specifically, the enzymology is concrete. Against human recombinant MAO-B, baicalin (IC$_{50}$ 6.262\,$\mu$M) and baicalein (21.01\,$\mu$M) are inhibitors; wogonin is a potent MAO-A inhibitor (IC$_{50}$ 6.35\,$\mu$M, K$_i$ 0.56\,$\mu$M) with MAO-B inhibition at 20.8\,$\mu$M in a second assay system --- the inter-assay discrepancy is acknowledged in the primary papers and reproduced here rather than smoothed.\src{185}\src{196} In LPS-inflamed mice, baicalin and baicalein inhibited astrocytic MAO-B-driven GABA synthesis and reversed aberrant tonic neuronal suppression --- MAO-B engagement demonstrable \emph{in vivo}.\src{184} Baicalein inhibits BACE1 (IC$_{50}$ 23.71 $\pm$ 1.91\,$\mu$M), and in-silico target fishing ranked MAO-B and COMT among its top two targets in a parkinsonian framework.\src{166}\src{171} Amyloid models (not tau models --- none retrieved) round out the preclinical neuro-aging file.\src{179}
+
+\subsection{The caloric-restriction-mimetic question}
+
+Baicalein has been explicitly proposed as a caloric-restriction-mimetic candidate --- the conclusion of a natural-aging Wistar-rat study in which it improved pro-oxidant/antioxidant balance and membrane-transporter changes ``similar to CR.''\src{169} The honest reading: the CRM candidacy rests on redox endpoints, not on a metformin-style AMPK/SIRT1 pathway dossier, and this paper holds that label as a hypothesis rather than awarding it.\src{169}
+
+\input{body2}
+
+\end{document}

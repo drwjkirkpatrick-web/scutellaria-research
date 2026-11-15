@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/22265932/
+TITLE: Gene expression profiling and pathway network analysis of hepatic metabolic enzymes targeted by baicalein.
+AUTHORS: Si Qin; Jihua Chen; Shunsuke Tanigawa; De-Xing Hou
+JOURNAL: Journal of ethnopharmacology
+YEAR: 2012
+VOL_PAGES: 140; 131-40
+DOI: 10.1016/j.jep.2011.12.046
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Baicalein is a flavone originally isolated from the roots of traditional Chinese medicinal herb, Scutellaria baicalensis, which has been proved as a promising chemopreventive compound for many chronic human diseases. The present study aimed to clarify the molecular mechanism targeted by baicalein. Gene expression profiling of HepG2 cells treated with baicalein was carried out, using the Affymetrix 42K oligonucleotide microarray in the present study. Microarray data analyzed by Ingenuity Pathway Analysis (IPA), further study performed by real time PCR, reporter gene assay, and Western blot. Among total 42K gene probes, baicalein treatment up-regulated the signals of 440 gene probes (1.04% of total gene probes) and down-regulated signals of 254 gene probes (0.6% of total gene probes) by ≥2-fold. These genes were categorized into 35 groups and hit for biological processes, molecular functions, and signaling pathways. The network and pathway analyses of these data further revealed that an Nrf2 (nuclear factor-erythroid 2 p45-related factor 2)-mediated ARE (antioxidant response element) pathway is involved in baicalein-induced gene expression of hepatic metabolic enzymes. The representative enzymes involved in Nrf2/ARE pathway were further confirmed at mRNA level by real time PCR and at protein level by Western blot analysis. Moreover, the ARE-reporter gene assay demonstrated that baicalein stimulated Nrf2-mediated ARE transactivation. Our results provide a comprehensive data for understanding the hepatic metabolism, bioactive role and the molecular mechanisms of baicalein.

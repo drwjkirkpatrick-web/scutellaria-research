@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/8448419/
+PMID: 8448419
+Title: Teratogenicity study of Scutellariae Radix in rats.
+Authors: S H Kim; Y H Kim; S S Han; J K Roh
+Journal: Reproductive toxicology (Elmsford, N.Y.) (1993)
+DOI: 10.1016/0890-6238(93)90012-v
+Fetched: 2026-11-14
+
+ABSTRACT
+This teratogenicity study was carried out in pregnant S.P.F. Sprague-Dawley female rats. These animals received for a period of 11 days, from day 7 to 17 of gestation, by daily oral administration, the water extract concentrates of the medicinal herb, Scutellariae Radix, at dose levels of 0.25 g/kg (group I), 12.49 g/kg (group II), and 24.98 g/kg (group III). Two-thirds of pregnant females in each group were sacrificed on day 20 of gestation and their fetuses were examined. The remaining dams were allowed to litter naturally, and postnatal development of the offspring was observed. There was a significant (P < 0.05) dose-dependent increase in the incidence of skeletal variations (presence of lumbar rib). There was also a dose-dependent increase in the incidence of abnormal urinary system (mainly dilatation of ureter) although the abnormality incidence of group III was comparable to group II. There were no significant differences between the control and treated groups in maternal body weight, intake of diet and water, efficiency of diet, hematologic values, resorbed and dead fetuses, corpora lutea, separation of eyelids, emergence of abdominal hair and incisors, traction test values, sex organ function in fetuses, and growth of fetuses.

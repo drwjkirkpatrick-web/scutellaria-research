@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/31984561/
+TITLE: Baicalin relieves lipopolysaccharide-evoked inflammatory injury through regulation of miR-21 in H9c2 cells.
+AUTHORS: Xiangyu Liu; Shengli Wang; Guoan Zhao
+JOURNAL: Phytotherapy research : PTR
+YEAR: 2020
+VOL_PAGES: 34; 1134-1141
+DOI: 10.1002/ptr.6583
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Myocarditis is a common heart disease which lacks effective treatment till now. Baicalin possesses plenty of activities, including anti-inflammation. In this investigation, we attempted to investigate the influences of Baicalin on Lipopolysaccharide (LPS)-evoked H9c2 cells.Cells viability, apoptosis, and expressions of apoptosis-associated proteins were, respectively, measured utilizing CCK-8 assay, flow cytometry and western blot. The levels of IL-6 and TNF-α were detected through enzyme-linked immunosorbent assay, western blot and qRT-PCR. miR-21 expression was detected through qRT-PCR and was silenced using cell transfection. The expressions of NF-κB and PDCD4/JNK pathways related proteins were measured through western blot. We found that LPS stimulation induced cell apoptosis and upregulation of IL-6 and TNF-α. Baicalin treatment effectively suppressed LPS-induced inflammation and apoptosis. The NF-κB and PDCD4/JNK pathways were blocked by Baicalin. Additionally, the enhanced expression of miR-21 triggered by LPS was further elevated by Baicalin. Further study revealed that the inhibiting effects of Baicalin on LPS-evoked injury were largely attenuated by knockdown of miR-21. Moreover, the associated NF-κB and JNK pathways, which were suppressed by Baicalin treatment, were then activated by knockdown of miR-21. Our present study revealed that Baicalin alleviated LPS-evoked inflammatory injury via suppressing the NF-κB and PDCD4/JNK pathways through regulating miR-21 expression.

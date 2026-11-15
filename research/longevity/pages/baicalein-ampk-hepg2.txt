@@ -1,0 +1,8 @@
+Source: https://pubmed.ncbi.nlm.nih.gov/31909773/
+Fetched: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract)
+Title: Baicalein reduces hepatic fat accumulation by activating AMPK in oleic acid-induced HepG2 cells and high-fat diet-induced non-insulin-resistant mice.
+Authors: Sun W; Liu P; Wang T; Wang X; Zheng W; Li J
+Journal: Food Funct 2020;11(1):711-721
+DOI: 10.1039/c9fo02237f
+PMID: 31909773
+Abstract: Nonalcoholic fatty liver disease (NAFLD) has become the most common liver disease worldwide; thus, a dietary supplement that can restrict hepatic fat accumulation is needed. Baicalein, a major component of Scutellaria baicalensis, is used as a dietary supplement in Eastern and Western cultures and can reduce hepatic fat accumulation. However, the detailed mechanism by which baicalein exerts this effect has yet to be elucidated in vivo and in vitro. In this study, we characterized the hepatic fat-lowering activity of baicalein and found that baicalein reduced hepatic fat accumulation by activating AMPK and suppressing SREBP1 cleavage, thus consequently inhibiting the transcriptional activity of SREBP1 and the synthesis of hepatic fat in oleic acid-induced HepG2 cells and high-fat diet-induced non-insulin-resistant mice. Moreover, baicalein improved NAFLD by decreasing TC, increasing HDLC, decreasing LDLC, affecting antioxidant activity, and exerting other effects. Therefore, the mechanism of baicalein with regard to NAFLD prevention and treatment might involve effects on multiple targets and pathways. Our study supports the use of baicalein as a dietary supplement due to its ability to reduce hepatic fat accumulation and to ameliorate NAFLD-related biochemical abnormalities.

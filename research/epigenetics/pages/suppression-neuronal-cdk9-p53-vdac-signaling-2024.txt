@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/39235466/
+TITLE: Suppression of neuronal CDK9/p53/VDAC signaling provides bioenergetic support and improves post-stroke neuropsychiatric outcomes.
+AUTHORS: Jing Xia; Tingting Zhang; Ying Sun; Zhu Huang; Dingfang Shi; Dongshen Qin; Xuejun Yang; Hao Liu
+JOURNAL: Cellular and molecular life sciences : CMLS
+YEAR: 2024
+VOL_PAGES: 81; 384
+DOI: 10.1007/s00018-024-05428-4
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Bioenergy decline occurs with reperfusion following acute ischemic stroke. However, the molecular mechanisms that limit energy metabolism and their impact on post-stroke cognitive and emotional complications are still unclear. In the present study, we demonstrate that the p53 transcriptional response is responsible for neuronal adenosine triphosphate (ATP) deficiency and progressively neuropsychiatric disturbances, involving the downregulation of mitochondrial voltage-dependent anion channels (VDACs). Neuronal p53 transactivated the promoter of microRNA-183 (miR-183) cluster, thereby upregulating biogenesis of miR-183-5p (miR-183), miR-96-5p (miR-96), and miR-182-5p. Both miR-183 and miR-96 directly targeted and post-transcriptionally suppressed VDACs. Neuronal ablation of p53 protected against ATP deficiency and neurological deficits, whereas post-stroke rescue of miR-183/VDAC signaling reversed these benefits. Interestingly, cyclin-dependent kinase 9 (CDK9) was found to be enriched in cortical neurons and upregulated the p53-induced transcription of the miR-183 cluster in neurons after ischemia. Post-treatment with the CDK9 inhibitor oroxylin A promoted neuronal ATP production mainly through suppressing the miR-183 cluster/VDAC axis, further improved long-term sensorimotor abilities and spatial memory, and alleviated depressive-like behaviors in mice following stroke. Our findings reveal an intrinsic CDK9/p53/VDAC pathway that drives neuronal bioenergy decline and underlies post-stroke cognitive impairment and depression, thus highlighting the therapeutic potential of oroxylin A for better outcomes.

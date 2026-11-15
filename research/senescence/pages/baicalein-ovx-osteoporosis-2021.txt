@@ -1,0 +1,8 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/34198266/
+Accessed: 2026-11-14
+Title: Baicalein ameliorates osteoporosis via AKT/FOXO1 signaling.
+Journal: Aging
+Year: 2021
+---
+
+In this study, we used bioinformatics and an in vitro cellular model of glucocorticoid-induced osteoporosis to investigate mechanisms underlying the beneficial effects of baicalein (BN) against osteoporosis. STITCH database analysis revealed 30 BN-targeted genes, including AKT1, CCND1, MTOR, and PTEN. Functional enrichment analysis demonstrated that BN-targeted genes were enriched in 49 Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways. MIRWALK2.0 database analysis identified 110 enriched KEGG pathways related to osteoporosis. A Venn diagram demonstrated that 26 KEGG pathways were common between osteoporosis and BN-targeted genes. The top 5 common KEGG pathways were prostate cancer, bladder cancer, glioma, pathways in cancer, and melanoma. BN-targeted genes in the top 5 shared KEGG pathways were involved in PI3K-AKT, MAPK, p53, ErbB, and mTOR signaling pathways. In addition, glucocorticoid-induced osteoporosis in MC3T3-E1 cells was partially reversed by BN through inhibition of AKT, which, by upregulating FOXO1, enhanced expression of bone turnover markers (ALP, OCN, Runx2, and Col 1) and extracellular matrix mineralization. These findings demonstrate that BN suppresses osteoporosis via an AKT/FOXO1 signaling pathway.

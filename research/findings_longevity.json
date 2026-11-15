@@ -1,0 +1,1065 @@
+{
+ "sources": [
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31909773/",
+   "title": "Baicalein reduces hepatic fat accumulation by activating AMPK in oleic acid-induced HepG2 cells and high-fat diet-induced non-insulin-resistant mice.",
+   "authors": [
+    "Sun W",
+    "Liu P",
+    "Wang T",
+    "Wang X",
+    "Zheng W",
+    "Li J"
+   ],
+   "year": 2020,
+   "journal_or_publisher": "Food Funct",
+   "vol_pages": "11(1):711-721",
+   "doi": "10.1039/c9fo02237f",
+   "pmid": "31909773",
+   "page_file": "research/longevity/pages/baicalein-ampk-hepg2.txt",
+   "quotes": [
+    "In this study, we characterized the hepatic fat-lowering activity of baicalein and found that baicalein reduced hepatic fat accumulation by activating AMPK and suppressing SREBP1 cleavage, thus consequently inhibiting the transcriptional activity of SREBP1 and the synthesis of hepatic fat in oleic acid-induced HepG2 cells and high-fat diet-induced non-insulin-resistant mice."
+   ],
+   "notes": "HepG2 + HFD mice; AMPK activation + SREBP1 suppression reduces hepatic lipogenesis.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36207198/",
+   "title": "Baicalein activates 5' adenosine monophosphate-activated protein kinase, inhibits the mammalian target of rapamycin, and exhibits antiproliferative effects in pancreatic neuroendocrine tumors in vitro and in vivo.",
+   "authors": [
+    "Limbach KE",
+    "Wen W",
+    "Xing Q",
+    "Yan J",
+    "Yim JH"
+   ],
+   "year": 2023,
+   "journal_or_publisher": "Surgery",
+   "vol_pages": "173(1):12-18",
+   "doi": "10.1016/j.surg.2022.07.030",
+   "pmid": "36207198",
+   "page_file": "research/longevity/pages/baicalein-ampk-mtor.txt",
+   "quotes": [
+    "RESULTS: Immunoblotting revealed that treatment of baicalein induced 5' adenosine monophosphate-activated protein kinase activation and the mammalian target of rapamycin inhibition.",
+    "Treatment with baicalein alone led to a significant decrease in the ratio of viable cells compared with controls at 72 hours at concentrations ≥5 μM (P = .021)."
+   ],
+   "notes": "pNET cell lines + BON-1 xenografts; AMPK activation + mTOR inhibition at >=5 uM; synergy with everolimus/COH-SR4.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25132405/",
+   "title": "Baicalein induces autophagic cell death through AMPK/ULK1 activation and downregulation of mTORC1 complex components in human cancer cells.",
+   "authors": [
+    "Aryal P",
+    "Kim K",
+    "Park PH",
+    "Ham S",
+    "Cho J",
+    "Song K"
+   ],
+   "year": 2014,
+   "journal_or_publisher": "FEBS J",
+   "vol_pages": "281(20):4644-58",
+   "doi": "10.1111/febs.12969",
+   "pmid": "25132405",
+   "page_file": "research/longevity/pages/baicalein-ampk-ulk1-autophagy.txt",
+   "quotes": [
+    "Here, we show that baicalein leads to human cancer cell death by inducing autophagy rather than apoptosis, because cell death induced by baicalein was completely reversed by suppressing the expression levels of key molecules in autophagy such as Beclin 1, vacuolar protein sorting 34 (Vps34), autophagy-related (Atg)5 and Atg7, but not by pan-caspase inhibitor.",
+    "The data suggested that baicalein induced not only autophagosome formation, but also autophagic flux."
+   ],
+   "notes": "Human cancer cells; AMPK/ULK1 activation, mTORC1 component downregulation; Beclin1/Vps34/Atg5/Atg7 knockdown rescue proves autophagy dependence.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31703329/",
+   "title": "Baicalein as a Potential Inhibitor against BACE1 and AChE: Mechanistic Comprehension through In Vitro and Computational Approaches.",
+   "authors": [
+    "Han J",
+    "Ji Y",
+    "Youn K",
+    "Lim G",
+    "Lee J",
+    "Kim DH",
+    "Jun M"
+   ],
+   "year": 2019,
+   "journal_or_publisher": "Nutrients",
+   "vol_pages": "11(11):",
+   "doi": "10.3390/nu11112694",
+   "pmid": "31703329",
+   "page_file": "research/longevity/pages/baicalein-bace1-ache.txt",
+   "quotes": [
+    "Baicalein exhibited strong BACE1 and AChE inhibitory properties (IC50 23.71 ± 1.91 µM and 45.95 ± 3.44 µM, respectively) and reacted in non-competitive and competitive manners with substrates, respectively. in Silico docking analysis was in full agreement with the in vitro results, demonstrating that the compound exhibited powerful binding interaction with target enzymes."
+   ],
+   "notes": "In vitro enzyme assays + docking; BACE1 IC50 23.71 uM; AChE IC50 45.95 uM.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41415716/",
+   "title": "Baicalein Enhances Longevity and Healthspan of C. elegans Through the Insulin/IGF-1 Signaling Pathway.",
+   "authors": [
+    "Zhao C",
+    "Schrapel D",
+    "Schaefer M"
+   ],
+   "year": 2025,
+   "journal_or_publisher": "MedComm (2020)",
+   "vol_pages": "6(12):e70543",
+   "doi": "10.1002/mco2.70543",
+   "pmid": "41415716",
+   "page_file": "research/longevity/pages/baicalein-celegans-longevity.txt",
+   "quotes": [
+    "Mechanistically, baicalein suppressed the DAF-2-mediated insulin/IGF-1 signaling pathway and promoted the nuclear translocation of DAF-16, a pivotal longevity transcription factor.",
+    "The findings indicate that baicalein significantly extends lifespan and enhances health markers, including improved motility, increased oxidative stress resistance, and reduced lipofuscin accumulation."
+   ],
+   "notes": "C. elegans lifespan/healthspan study; baicalein vs DAF-2/IIS-DAF-16 (FOXO homolog); sod-3 upregulation.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28634902/",
+   "title": "Therapeutic Potential of Baicalein in Alzheimer's Disease and Parkinson's Disease.",
+   "authors": [
+    "Li Y",
+    "Zhao J",
+    "Hölscher C"
+   ],
+   "year": 2017,
+   "journal_or_publisher": "CNS Drugs",
+   "vol_pages": "31(8):639-652",
+   "doi": "10.1007/s40263-017-0451-y",
+   "pmid": "28634902",
+   "page_file": "research/longevity/pages/baicalein-cns-aging-review.txt",
+   "quotes": [
+    "Studies showed that baicalein possesses a range of key pharmacological properties, such as reducing oxidative stress, anti-inflammatory properties, inhibiting aggregation of disease-specific amyloid proteins, inhibiting excitotoxicity, stimulating neurogenesis and differentiation action, and anti-apoptosis effects."
+   ],
+   "notes": "CNS Drugs review of baicalein in AD/PD: anti-amyloid aggregation, anti-excitotoxicity, neurogenesis.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35316094/",
+   "title": "Baicalein May Act as a Caloric Restriction Mimetic Candidate to Improve the Antioxidant Profile in a Natural Rodent Model of Aging.",
+   "authors": [
+    "Tripathi SS",
+    "Kumar R",
+    "Bissoyi A",
+    "Rizvi SI"
+   ],
+   "year": 2022,
+   "journal_or_publisher": "Rejuvenation Res",
+   "vol_pages": "25(2):70-78",
+   "doi": "10.1089/rej.2021.0071",
+   "pmid": "35316094",
+   "page_file": "research/longevity/pages/baicalein-cr-mimetic.txt",
+   "quotes": [
+    "Thus, Baicalein may be a potent CRM candidate for antiaging interventions.",
+    "Based on the aforementioned observations we conclude that Baicalein has the potential to maintain extracellular reactive oxygen species levels and redox homeostasis during the aging process, an effect that is similar to CR."
+   ],
+   "notes": "Aged Wistar rats; baicalein supplementation improved antioxidant profile; explicit CRM-candidacy framing.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34198266/",
+   "title": "Baicalein ameliorates osteoporosis via AKT/FOXO1 signaling.",
+   "authors": [
+    "Cai P",
+    "Lu Y",
+    "Yin Z",
+    "Wang X",
+    "Zhou X",
+    "Li Z"
+   ],
+   "year": 2021,
+   "journal_or_publisher": "Aging (Albany NY)",
+   "vol_pages": "13(13):17370-17379",
+   "doi": "10.18632/aging.203227",
+   "pmid": "34198266",
+   "page_file": "research/longevity/pages/baicalein-foxo1-bone.txt",
+   "quotes": [
+    "In addition, glucocorticoid-induced osteoporosis in MC3T3-E1 cells was partially reversed by BN through inhibition of AKT, which, by upregulating FOXO1, enhanced expression of bone turnover markers (ALP, OCN, Runx2, and Col 1) and extracellular matrix mineralization."
+   ],
+   "notes": "MC3T3-E1 glucocorticoid osteoporosis model; AKT inhibition -> FOXO1 upregulation.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23461900/",
+   "title": "In silico target fishing for the potential targets and molecular mechanisms of baicalein as an antiparkinsonian agent: discovery of the protective effects on NMDA receptor-mediated neurotoxicity.",
+   "authors": [
+    "Gao L",
+    "Fang JS",
+    "Bai XY",
+    "Zhou D",
+    "Wang YT",
+    "Liu AL",
+    "Du GH"
+   ],
+   "year": 2013,
+   "journal_or_publisher": "Chem Biol Drug Des",
+   "vol_pages": "81(6):675-87",
+   "doi": "10.1111/cbdd.12127",
+   "pmid": "23461900",
+   "page_file": "research/longevity/pages/baicalein-insilico-mao.txt",
+   "quotes": [
+    "The top two ranked targets catechol-O-methyltransferase (COMT) and monoamine oxidase B (MAO-B) have been proposed as targets of baicalein by literatures."
+   ],
+   "notes": "In silico target fishing ranks MAO-B and COMT as top baicalein targets.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35237220/",
+   "title": "Baicalein Induces Mitochondrial Autophagy to Prevent Parkinson's Disease in Rats via miR-30b and the SIRT1/AMPK/mTOR Pathway.",
+   "authors": [
+    "Chen M",
+    "Peng L",
+    "Gong P",
+    "Zheng X",
+    "Sun T",
+    "Zhang X",
+    "Huo J"
+   ],
+   "year": 2021,
+   "journal_or_publisher": "Front Neurol",
+   "vol_pages": "12:646817",
+   "doi": "10.3389/fneur.2021.646817",
+   "pmid": "35237220",
+   "page_file": "research/longevity/pages/baicalein-mitophagy-pd.txt",
+   "quotes": [
+    "PD rats elicited decreased neurological score and DA secretion of the striatum, increased neuronal apoptosis, and injury, and reduced number of mitochondria and autophagy, whereas baicalein alleviated neuronal injury and partly recovered mitochondrial dysfunction, 3-methyladenine inhibited the protection of baicalein. miR-30b-5p was elevated and SIRT1 was diminished in PD rats and inhibited by baicalein. miR-30b-5p targeted SIRT1. miR-30b-5p overexpression or SIRT1 silencing annulled the protection of baicalein."
+   ],
+   "notes": "6-OHDA PD rats; miR-30b/SIRT1/AMPK/mTOR mitophagy; 3-MA rescue proves autophagy dependence.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34666128/",
+   "title": "Baicalein protects against MPP+/MPTP-induced neurotoxicity by ameliorating oxidative stress in SH-SY5Y cells and mouse model of Parkinson's disease.",
+   "authors": [
+    "Song Q",
+    "Peng S",
+    "Zhu X"
+   ],
+   "year": 2021,
+   "journal_or_publisher": "Neurotoxicology",
+   "vol_pages": "87:188-194",
+   "doi": "10.1016/j.neuro.2021.10.003",
+   "pmid": "34666128",
+   "page_file": "research/longevity/pages/baicalein-mptp-mao.txt",
+   "quotes": [
+    "Besides, baicalein improved the neurotoxicity induced by MPTP as seen by a significant raise of tyrosine hydroxylase (TH) and simultaneous decrease of monoamine-oxidase-B (MAO-B)."
+   ],
+   "notes": "MPTP mice + MPP+ SH-SY5Y; in vivo MAO-B protein decreased alongside TH restoration.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27143122/",
+   "title": "Modulation of the Nrf2 signalling pathway in Hct116 colon carcinoma cells by baicalein and its methylated derivative negletein.",
+   "authors": [
+    "Havermann S",
+    "Chovolou Y",
+    "Humpf HU",
+    "Wätjen W"
+   ],
+   "year": 2016,
+   "journal_or_publisher": "Pharm Biol",
+   "vol_pages": "54(9):1491-502",
+   "doi": "10.3109/13880209.2015.1104703",
+   "pmid": "27143122",
+   "page_file": "research/longevity/pages/baicalein-nrf2-hct116.txt",
+   "quotes": [
+    "RESULTS: No change in the ubiquitinylation of Nrf2, proteasomal activity and transcription of the NRF2 gene were detectable.",
+    "CONCLUSION: This result confirms the hypothesis that baicalein, a component of extracts derived from Baical Skullcap, causes an activation of Nrf2 independent of a modulation of the cellular redox potential."
+   ],
+   "notes": "Hct116 cells; Nrf2 activation with no change in ubiquitinylation/proteasomal activity/NRF2 transcription; redox-independent.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40014253/",
+   "title": "Anti-inflammatory and antioxidant effects of baicalein: targeting Nrf2, and NFĸB in neurodegenerative disease.",
+   "authors": [
+    "Kuwar OK",
+    "Kalia N"
+   ],
+   "year": 2025,
+   "journal_or_publisher": "Inflammopharmacology",
+   "vol_pages": "33(3):1303-1310",
+   "doi": "10.1007/s10787-025-01698-x",
+   "pmid": "40014253",
+   "page_file": "research/longevity/pages/baicalein-nrf2-nfkb-review.txt",
+   "quotes": [
+    "Simultaneously, baicalein enhances the Nrf2 activation, promoting the expression of antioxidant enzymes like HO-1, NQO1, GPx, and SOD, thus countering oxidative stress.",
+    "Baicalein has been shown to modulate the IĸB/NFĸB, and KEAP1/Nrf2 pathways, thereby mitigating neuroinflammation and oxidative stress while supporting mitochondrial health."
+   ],
+   "notes": "2025 review: baicalein modulates I-kappaB/NF-kappaB and KEAP1/Nrf2 in neurodegeneration; HO-1/NQO1/GPx/SOD induction.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39456499/",
+   "title": "Baicalein Ameliorates Insulin Resistance of HFD/STZ Mice Through Activating PI3K/AKT Signal Pathway of Liver and Skeletal Muscle in a GLP-1R-Dependent Manner.",
+   "authors": [
+    "Liu N",
+    "Cui X",
+    "Guo T",
+    "Wei X",
+    "Sun Y",
+    "Liu J",
+    "Zhang Y",
+    "Ma W",
+    "Yan W",
+    "Chen L"
+   ],
+   "year": 2024,
+   "journal_or_publisher": "Antioxidants (Basel)",
+   "vol_pages": "13(10):",
+   "doi": "10.3390/antiox13101246",
+   "pmid": "39456499",
+   "page_file": "research/longevity/pages/baicalein-pi3k-akt-ir.txt",
+   "quotes": [
+    "Our mechanism research significantly confirmed that baicalein mitigates hepatic and muscular IR through the PI3K/AKT signal pathway, both in vitro and in vivo."
+   ],
+   "notes": "HFD/STZ mice; PI3K/AKT activation in liver/muscle, GLP-1R-dependent (Glp1r KO ablates).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27352310/",
+   "title": "Multiple-Ascending-Dose Pharmacokinetics and Safety Evaluation of Baicalein Chewable Tablets in Healthy Chinese Volunteers.",
+   "authors": [
+    "Pang H",
+    "Xue W",
+    "Shi A",
+    "Li M",
+    "Li Y",
+    "Cao G",
+    "Yan B",
+    "Dong F",
+    "Xiao W",
+    "He G",
+    "Du G",
+    "Hu X",
+    "Cheng G"
+   ],
+   "year": 2016,
+   "journal_or_publisher": "Clin Drug Investig",
+   "vol_pages": "36(9):713-724",
+   "doi": "10.1007/s40261-016-0418-7",
+   "pmid": "27352310",
+   "page_file": "research/longevity/pages/baicalein-pk-human.txt",
+   "quotes": [
+    "CONCLUSION: In dose range of 200-800 mg, multiple-dose oral baicalein administration was safe and well tolerated, dose proportionality was inconclusive, and no serious accumulation of baicalein was observed."
+   ],
+   "notes": "Multiple-ascending-dose PK study in healthy Chinese volunteers; 200-800 mg/day chewable tablets safe/tolerated; Parkinson development context.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28855526/",
+   "title": "Therapeutic effects of baicalein on rotenone-induced Parkinson's disease through protecting mitochondrial function and biogenesis.",
+   "authors": [
+    "Zhang X",
+    "Du L",
+    "Zhang W",
+    "Yang Y",
+    "Zhou Q",
+    "Du G"
+   ],
+   "year": 2017,
+   "journal_or_publisher": "Sci Rep",
+   "vol_pages": "7(1):9968",
+   "doi": "10.1038/s41598-017-07442-y",
+   "pmid": "28855526",
+   "page_file": "research/longevity/pages/baicalein-rotenone-pd.txt",
+   "quotes": [
+    "Furthermore, in rotenone-induced parkinsonian rats, baicalein treatment effectively restored mitochondrial function and improved mitobiogenesis, as determined by measuring the mitochondrial density and key regulators involved in mitobiogenesis."
+   ],
+   "notes": "Rotenone PD rats; behavioral rescue; restored mitochondrial function and mitobiogenesis.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36815239/",
+   "title": "Baicalein attenuates bleomycin-induced lung fibroblast senescence and lung fibrosis through restoration of Sirt3 expression.",
+   "authors": [
+    "Ji-Hong Y",
+    "Yu M",
+    "Ling-Hong Y",
+    "Jing-Jing G",
+    "Ling-Li X",
+    "Lv W",
+    "Yong-Mei J"
+   ],
+   "year": 2023,
+   "journal_or_publisher": "Pharm Biol",
+   "vol_pages": "61(1):288-297",
+   "doi": "10.1080/13880209.2022.2160767",
+   "pmid": "36815239",
+   "page_file": "research/longevity/pages/baicalein-senescence-fibrosis.txt",
+   "quotes": [
+    "Baicalein restored the BLM-induced downregulation of Sirt3 expression in lung tissues and silencing of Sirt3 abolished the inhibitory role of baicalein against BLM-induced lung fibrosis, fibroblast senescence and activation of TGF-β1/Smad signalling pathway."
+   ],
+   "notes": "BLM mice, baicalein 100 mg/kg/day oral; Sirt3 restoration; Sirt3 siRNA abolishes effect (senescence model).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39299807/",
+   "title": "Baicalein Inhibits Cerebral Ischemia-Reperfusion Injury through SIRT6-Mediated FOXA2 Deacetylation to Promote SLC7A11 Expression.",
+   "authors": [
+    "Fang C",
+    "Liu X",
+    "Zhang F",
+    "Song T"
+   ],
+   "year": 2024,
+   "journal_or_publisher": "eNeuro",
+   "vol_pages": "11(10):",
+   "doi": "10.1523/ENEURO.0174-24.2024",
+   "pmid": "39299807",
+   "page_file": "research/longevity/pages/baicalein-sirt6-stroke.txt",
+   "quotes": [
+    "Baicalein promoted FOXA2 deacetylation by upregulating SIRT6 expression."
+   ],
+   "notes": "MCAO/R mice + OGD/R HT22 cells; baicalein upregulates SIRT6 -> FOXA2 deacetylation -> SLC7A11 (anti-ferroptosis).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35103832/",
+   "title": "Baicalin attenuates amyloid β oligomers induced memory deficits and mitochondria fragmentation through regulation of PDE-PKA-Drp1 signalling.",
+   "authors": [
+    "Yu HY",
+    "Zhu Y",
+    "Zhang XL",
+    "Wang L",
+    "Zhou YM",
+    "Zhang FF",
+    "Zhang HT",
+    "Zhao XM"
+   ],
+   "year": 2022,
+   "journal_or_publisher": "Psychopharmacology (Berl)",
+   "vol_pages": "239(3):851-865",
+   "doi": "10.1007/s00213-022-06076-x",
+   "pmid": "35103832",
+   "page_file": "research/longevity/pages/baicalin-abeta-memory.txt",
+   "quotes": [
+    "RESULTS: Baicalin treatment significantly reversed the altered learning and memory behaviours in AD mouse model.",
+    "Moreover, treatment with baicalin reversed amyloid-β oligomer (AβO)-induced abnormalities in the succinate dehydrogenase complex iron sulphur subunit B (SDHB) and cytochrome c oxidase components I (COXI) and mitochondrial fragmentation in the hippocampus."
+   ],
+   "notes": "A-beta oligomer AD mouse model + HT-22; memory rescue; blocked mitochondrial fragmentation via PDE4/PKA/Drp1.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28359800/",
+   "title": "Baicalin against obesity and insulin resistance through activation of AKT/AS160/GLUT4 pathway.",
+   "authors": [
+    "Fang P",
+    "Yu M",
+    "Zhang L",
+    "Wan D",
+    "Shi M",
+    "Zhu Y",
+    "Bo P",
+    "Zhang Z"
+   ],
+   "year": 2017,
+   "journal_or_publisher": "Mol Cell Endocrinol",
+   "vol_pages": "448:77-86",
+   "doi": "10.1016/j.mce.2017.03.027",
+   "pmid": "28359800",
+   "page_file": "research/longevity/pages/baicalin-akt-glut4-obesity.txt",
+   "quotes": [
+    "We discovered that administration of baicalin decreased food intake, body weight, HOMA-IR and NT-PGC-1α levels, but enhanced GLUT4, PGC-1α, pP38MAPK, pAKT and pAS160 contents, as well as GLUT4 mRNA, PGC-1α mRNA, PPARγ mRNA, GLUT1 mRNA expression in skeletal muscles of obese mice and myotubes of C2C12 cells, and reversed high fat diet-induced glucose and insulin intolerance, hyperglycemia and insulin resistance in the mice."
+   ],
+   "notes": "DIO mice 50 mg/kg i.p. 21 d + C2C12; pAKT/pAS160/GLUT4/PGC-1alpha up; HOMA-IR down.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37298392/",
+   "title": "Baicalin Attenuates H2O2-Induced Oxidative Stress by Regulating the AMPK/Nrf2 Signaling Pathway in IPEC-J2 Cells.",
+   "authors": [
+    "Liang J",
+    "Zhou Y",
+    "Cheng X",
+    "Chen J",
+    "Cao H",
+    "Guo X",
+    "Zhang C",
+    "Zhuang Y",
+    "Hu G"
+   ],
+   "year": 2023,
+   "journal_or_publisher": "Int J Mol Sci",
+   "vol_pages": "24(11):",
+   "doi": "10.3390/ijms24119435",
+   "pmid": "37298392",
+   "page_file": "research/longevity/pages/baicalin-ampk-nrf2-oxidative.txt",
+   "quotes": [
+    "In addition, knockdown of AMPK by short-hairpin RNA (shRNA) significantly reduced the protein levels of AMPK and Nrf2, increased the percentage of apoptotic cells, and abrogated Bai-mediated protection against oxidative stress.",
+    "Collectively, our results indicated that Bai attenuated H2O2-induced cell injury and apoptosis in IPEC-J2 cells through improving the antioxidant capacity through the inhibition of the oxidative stress-mediated AMPK/Nrf2 signaling pathway."
+   ],
+   "notes": "IPEC-J2 cells, H2O2 injury; context note: baicalin normalized stress-induced AMPK/Nrf2 activation; AMPK knockdown abrogates protection.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36463946/",
+   "title": "Baicalin ameliorates CUMS-induced depression-like behaviors through activating AMPK/PGC-1α pathway and enhancing NIX-mediated mitophagy in mice.",
+   "authors": [
+    "Jin X",
+    "Zhu L",
+    "Lu S",
+    "Li C",
+    "Bai M",
+    "Xu E",
+    "Shen J",
+    "Li Y"
+   ],
+   "year": 2023,
+   "journal_or_publisher": "Eur J Pharmacol",
+   "vol_pages": "938:175435",
+   "doi": "10.1016/j.ejphar.2022.175435",
+   "pmid": "36463946",
+   "page_file": "research/longevity/pages/baicalin-ampk-pgc1a-depression.txt",
+   "quotes": [
+    "In conclusion, the present study suggested that the antidepressant effect of baicalin may be related to the enhancement of NIX-mediated mitophagy through activating the AMPK/PGC-1α pathway by directly binding to AMPK.",
+    "Baicalin significantly down-regulated light chain 3(LC3)II/I, protein sequestosome 1 (P62), and translocase of the outer membrane 20 (TOM20), and up-regulated Nip-like protein (NIX), Adenylate activated protein kinase (AMPK), and Peroxisome proliferator-activated receptor-gamma coactivator (PGC)-1α."
+   ],
+   "notes": "CUMS mice, baicalin 20 mg/kg gavage 4 wk; hippocampal AMPK/PGC-1alpha + NIX mitophagy; docking shows direct AMPK binding.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40374371/",
+   "title": "Regulatory Role of Flavonoid Baicalin from Scutellaria baicalensis on AMPK: A Review.",
+   "authors": [
+    "Jiang M",
+    "Li Z",
+    "Qin X",
+    "Chen L",
+    "Zhu G"
+   ],
+   "year": 2025,
+   "journal_or_publisher": "Am J Chin Med",
+   "vol_pages": "53(3):771-801",
+   "doi": "10.1142/S0192415X25500296",
+   "pmid": "40374371",
+   "page_file": "research/longevity/pages/baicalin-ampk-review.txt",
+   "quotes": [
+    "In this review, we provide an overview of the regulatory effect of baicalin on AMPK and its upstream and downstream signaling pathways."
+   ],
+   "notes": "2025 review dedicated to baicalin-AMPK regulation across metabolic contexts.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38715318/",
+   "title": "Baicalin and baicalein from Scutellaria baicalensis Georgi alleviate aberrant neuronal suppression mediated by GABA from reactive astrocytes.",
+   "authors": [
+    "Cho J",
+    "Hong EB",
+    "Kim YS",
+    "Song J",
+    "Ju YH",
+    "Kim H",
+    "Lee H",
+    "Kim H",
+    "Nam MH"
+   ],
+   "year": 2024,
+   "journal_or_publisher": "CNS Neurosci Ther",
+   "vol_pages": "30(5):e14740",
+   "doi": "10.1111/cns.14740",
+   "pmid": "38715318",
+   "page_file": "research/longevity/pages/baicalin-baicalein-mao-neuronal.txt",
+   "quotes": [
+    "Baicalin and baicalein exhibited significant MAO-B inhibition potential.",
+    "Additionally, LPS-induced aberrant tonic inhibition was reversed by both S. baicalensis extract and its key compounds."
+   ],
+   "notes": "LPS neuroinflammation mice (extract 300, baicalin 50, baicalein 5 mg/kg/day i.p.); astrocytic MAO-B/GABA mechanism.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/",
+   "title": "Baicalin and baicalein from Scutellaria baicalensis Georgi alleviate aberrant neuronal suppression mediated by GABA from reactive astrocytes.",
+   "authors": [
+    "Cho J",
+    "Hong EB",
+    "Kim YS",
+    "Song J",
+    "Ju YH",
+    "Kim H",
+    "Lee H",
+    "Kim H",
+    "Nam MH"
+   ],
+   "year": 2024,
+   "journal_or_publisher": "CNS Neurosci Ther (PMC full text)",
+   "vol_pages": "30(5):e14740",
+   "doi": "10.1111/cns.14740",
+   "pmid": "38715318",
+   "page_file": "research/longevity/pages/baicalin-baicalein-mao-neuronal-pmc.txt",
+   "quotes": [
+    "We observed that baicalin and baicalein showed potential MAO‐B inhibition effects with IC50 values of 6.262 and 21.01 μM, respectively (Figure [3B](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0003)).",
+    "Although there is a potential concern regarding the accuracy of the calculated IC50 value for baicalein, it is noteworthy that our calculated value (21.01 μM) closely aligns with a previously reported value of 22.1 μM.",
+    "On the other hand, wogonin showed relatively high IC50 (79.24 μM) (Figure [3C](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0003)), indicating a less potent MAO‐B inhibition effect.",
+    "[39](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0039) The discrepancies in the findings may be attributed to differences in experimental design, methods of compound extraction, purity of the substances, or other factors that require further investigation.",
+    "[18](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0018) Baicalin (Sigma, 572,667; 95% purity; 50 mg/kg/day), baicalein (Sigma, 465,119; 98% purity; 5 mg/kg/day), and extract (300 mg/kg/day) were intraperitoneally administered 1 h prior to the LPS injection.",
+    "[15](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-bib-0015) Although many natural compounds have limited use as neuroprotective agents due to their poor blood‐brain barrier (BBB) permeability, the flavones of _S. baicalensis_, baicalein and wogonin, are reported to cross the BBB after administration, which implicates their high potency for use as promising neuroprotective agents."
+   ],
+   "notes": "PMC full text of PMID 38715318; human recombinant MAO-B IC50: baicalin 6.262 uM, baicalein 21.01 uM (prior report 22.1 uM), wogonin 79.24 uM; authors discuss inter-study discrepancies. Full text also notes baicalein and wogonin are reported to cross the BBB.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36974463/",
+   "title": "Baicalin and baicalein attenuate hyperuricemic nephropathy via inhibiting PI3K/AKT/NF-κB signalling pathway.",
+   "authors": [
+    "Liu Z",
+    "Xiang H",
+    "Deng Q",
+    "Fu W",
+    "Li Y",
+    "Yu Z",
+    "Qiu Y",
+    "Mei Z",
+    "Xu L"
+   ],
+   "year": 2023,
+   "journal_or_publisher": "Nephrology (Carlton)",
+   "vol_pages": "28(6):315-327",
+   "doi": "10.1111/nep.14159",
+   "pmid": "36974463",
+   "page_file": "research/longevity/pages/baicalin-baicalein-uric-nephropathy.txt",
+   "quotes": [
+    "RESULTS: Molecular docking results showed that BA and BAI had good binding ability with PI3K, AKT, p65 and IκBα.",
+    "BA and BAI significantly ameliorated the levels of renal function, decreased the p-PI3K, p-AKT and p-p65 expression, down-regulated the BAX/BCL2 and CASP3, and blunted the mRNA levels of tumour necrosis factor (TNF)-α, interleukin (IL)-1β, and IL-18 in both renal tissue of HN mice and HK-2 cells induced by MSU."
+   ],
+   "notes": "HN mice + HK-2 cells; both compounds dock PI3K/AKT/p65/IkappaBalpha; p-PI3K/p-AKT/p-p65 down; TNF-alpha/IL-1beta/IL-18 down.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29935544/",
+   "title": "Baicalin reduces blood lipids and inflammation in patients with coronary artery disease and rheumatoid arthritis: a randomized, double-blind, placebo-controlled trial.",
+   "authors": [
+    "Hang Y",
+    "Qin X",
+    "Ren T",
+    "Cao J"
+   ],
+   "year": 2018,
+   "journal_or_publisher": "Lipids Health Dis",
+   "vol_pages": "17(1):146",
+   "doi": "10.1186/s12944-018-0797-2",
+   "pmid": "29935544",
+   "page_file": "research/longevity/pages/baicalin-cad-human.txt",
+   "quotes": [
+    "RESULTS: After 12 week treatment, levels of triglycerides, total cholesterol, LDL-cholesterol and apolipoproteins, as well as CT-1 and hs-CRP, were all significantly improved in the baicalin group compared to the placebo group (1.12 ± 0.36 vs 1.87 ± 0.46 mmol/L, 2.87 ± 1.23 vs 3.22 ± 1.07 mmol/L, 1.38 ± 0.41 vs 1.16 ± 0.32 mmol/L, 1.31 ± 0.41 vs 1.23 ± 0.29 g/L, 42.9 ± 13.7 vs 128.4 ± 24.3 ng/mL, 1.64 ± 0.38 vs 3.9 ± 1.4 mg/dL, respectively).",
+    "Significantly higher proportion of patients in the baicalin group (71%) reported good/moderate EULAR response than the placebo group (53%)."
+   ],
+   "notes": "RCT n=374 CAD+RA patients; baicalin 500 mg/day x 12 wk; TG, LDL-C, CT-1, hs-CRP improved; 71% vs 53% EULAR response.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41308360/",
+   "title": "Baicalin inhibits the Akt/mTOR/ULK1 signaling pathway to activate autophagy and ameliorate pulmonary fibrosis.",
+   "authors": [
+    "Hu XL",
+    "Liang Q",
+    "Jie ZJ",
+    "Chen WS",
+    "Deng JL",
+    "Sun GC"
+   ],
+   "year": 2026,
+   "journal_or_publisher": "Int Immunopharmacol",
+   "vol_pages": "168(Pt 2):115883",
+   "doi": "10.1016/j.intimp.2025.115883",
+   "pmid": "41308360",
+   "page_file": "research/longevity/pages/baicalin-mtor-ulk1-autophagy.txt",
+   "quotes": [
+    "Mechanistically, autophagy inhibitors (3-MA, HCQ) counteracted Baicalin's anti-fibrotic effects.",
+    "The autophagy inhibitor 3-MA, activator rapamycin, and Akt agonist SC-79 were employed for mechanistic validation."
+   ],
+   "notes": "BLM pulmonary fibrosis mice, baicalin 50/100 mg/kg; Akt/mTOR/ULK1 inhibition activates autophagy; 3-MA and HCQ rescue.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32457419/",
+   "title": "Baicalin prevents LPS-induced activation of TLR4/NF-κB p65 pathway and inflammation in mice via inhibiting the expression of CD14.",
+   "authors": [
+    "Fu YJ",
+    "Xu B",
+    "Huang SW",
+    "Luo X",
+    "Deng XL",
+    "Luo S",
+    "Liu C",
+    "Wang Q",
+    "Chen JY",
+    "Zhou L"
+   ],
+   "year": 2021,
+   "journal_or_publisher": "Acta Pharmacol Sin",
+   "vol_pages": "42(1):88-96",
+   "doi": "10.1038/s41401-020-0411-9",
+   "pmid": "32457419",
+   "page_file": "research/longevity/pages/baicalin-nfkb-p65-lps.txt",
+   "quotes": [
+    "These changes were dose-dependently attenuated by pretreatment baicalin (12.5-50 μM), but not by baicalin post-treatment."
+   ],
+   "notes": "RAW264.7 + mice; baicalin 12.5-50 uM dose-dependently blocks LPS->CD14->TLR4/MyD88/p65; IL-6 down.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29128794/",
+   "title": "Baicalin protects against gastroduodenal ulcers via the modulation of Nrf2 expression: Experimental, biochemical, and histological analyses.",
+   "authors": [
+    "Zhang T",
+    "Yang D",
+    "Meng X"
+   ],
+   "year": 2017,
+   "journal_or_publisher": "Pharmacol Rep",
+   "vol_pages": "69(6):1154-1158",
+   "doi": "10.1016/j.pharep.2017.07.004",
+   "pmid": "29128794",
+   "page_file": "research/longevity/pages/baicalin-nrf2-ulcer.txt",
+   "quotes": [
+    "CONCLUSION: The present findings suggest that the protective effects of baicalin may be regulated via Nrf2-mediated anti-secretory actions.",
+    "Baicalin was 72% effective versus the reference drug and 80% effective against ethanol-induced ulcers."
+   ],
+   "notes": "Rat ulcer models (stress, ethanol, indomethacin); dose-dependent protection; Nrf2 Western blot; 72%/80% effectiveness.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40103396/",
+   "title": "Baicalin Promotes Skeletal Muscle Fiber Remodeling by Activating the p38MAPK/PGC-1α Signaling Pathway.",
+   "authors": [
+    "Wang T",
+    "Sun X",
+    "Zhang Y",
+    "Wang Q",
+    "Cheng W",
+    "Gao Y",
+    "Shi X",
+    "Jin J"
+   ],
+   "year": 2025,
+   "journal_or_publisher": "J Agric Food Chem",
+   "vol_pages": "73(11):6878-6889",
+   "doi": "10.1021/acs.jafc.5c00300",
+   "pmid": "40103396",
+   "page_file": "research/longevity/pages/baicalin-pgc1a-muscle.txt",
+   "quotes": [
+    "Mechanistic studies revealed that baicalin, as a small molecule, could target and bind to the p38 MAPK protein, increase its expression and phosphorylation levels, and activate the p38 MAPK/PGC-1α signaling pathway.",
+    "The results showed that baicalin could participate in the remodeling of skeletal muscle fibers, promoting the conversion from glycolytic fibers to oxidative fibers in mice and pigs."
+   ],
+   "notes": "C2C12 (125 uM) + mice/piglets; direct p38 MAPK binding -> PGC-1alpha activation -> glycolytic-to-oxidative fiber shift.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30144531/",
+   "title": "Baicalin regulates SirT1/STAT3 pathway and restrains excessive hepatic glucose production.",
+   "authors": [
+    "Xu J",
+    "Li Y",
+    "Lou M",
+    "Xia W",
+    "Liu Q",
+    "Xie G",
+    "Liu L",
+    "Liu B",
+    "Yang J",
+    "Qin M"
+   ],
+   "year": 2018,
+   "journal_or_publisher": "Pharmacol Res",
+   "vol_pages": "136:62-73",
+   "doi": "10.1016/j.phrs.2018.08.018",
+   "pmid": "30144531",
+   "page_file": "research/longevity/pages/baicalin-sirt1-glucose.txt",
+   "quotes": [
+    "Fasting increased SirT1 protein in STAT3 immunoprecipitation products and less in the liver of baicalin-treated mice, indicating that baicalin blocked the binding of SirT1 to STAT3 and thus preserved STAT3 acetylation.",
+    "Baicalin reduces endogenous glucose production via suppression of hepatic gluconeogenesis and decreased SirT1 induction via reducing NAD+ accumulation in an energy-sensing way."
+   ],
+   "notes": "HFD/fasted mice + hepatocytes; baicalin lowers NAD+-driven SirT1 induction to preserve STAT3 acetylation and restrain gluconeogenesis.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30848526/",
+   "title": "Baicalin reverse depressive-like behaviors through regulation SIRT1-NF-kB signaling pathway in olfactory bulbectomized rats.",
+   "authors": [
+    "Yu H",
+    "Zhang F",
+    "Guan X"
+   ],
+   "year": 2019,
+   "journal_or_publisher": "Phytother Res",
+   "vol_pages": "33(5):1480-1489",
+   "doi": "10.1002/ptr.6340",
+   "pmid": "30848526",
+   "page_file": "research/longevity/pages/baicalin-sirt1-nfkb-depression.txt",
+   "quotes": [
+    "Furthermore, baicalin regulated Sirtuin 1 (SIRT1) and decreased the levels of p65 acetylation (ac-p65) in the hippocampus and hypothalamus.",
+    "Baicalin treatment (20 and 40 mg/kg) significantly reversed the abnormal levels of sucrose consumption, open field test, and forced swimming test."
+   ],
+   "notes": "OBX rats, baicalin 20/40 mg/kg; SIRT1 up, ac-p65 (K310) down; IL-1beta/IL-6/TNF-alpha down; BV-2 nicotinamide experiment.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32750437/",
+   "title": "Flavonoids-mediated SIRT1 signaling activation in hepatic disorders.",
+   "authors": [
+    "Sayed AM",
+    "Hassanein EHM",
+    "Salem SH",
+    "Hussein OE",
+    "Mahmoud AM"
+   ],
+   "year": 2020,
+   "journal_or_publisher": "Life Sci",
+   "vol_pages": "259:118173",
+   "doi": "10.1016/j.lfs.2020.118173",
+   "pmid": "32750437",
+   "page_file": "research/longevity/pages/flavonoids-sirt1-hepatic-review.txt",
+   "quotes": [
+    "In this review, we focused on the flavonoids, (-)-epicatechin, ampelopsin, baicalin, delphinidin, fisetin, epigallocatechin-3-gallate, luteolin, pinocembrin, quercetin, silibinin, trans-chalcone and xanthohumol, to verify whether their potential promising hepatoprotective effects are related to activation of SIRT1."
+   ],
+   "notes": "Review incl. baicalin among SIRT1-activating hepatoprotective flavonoids; docking to SIRT1.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40254111/",
+   "title": "Scutellariae Radix and Coptidis Rhizoma improve NAFLD via regulation of SIRT6/ACSL5 pathway and SCD1.",
+   "authors": [
+    "Jiang Y",
+    "Zhang J",
+    "Liu W",
+    "Qian X",
+    "Zhuang X",
+    "Hu C"
+   ],
+   "year": 2025,
+   "journal_or_publisher": "J Ethnopharmacol",
+   "vol_pages": "348:119834",
+   "doi": "10.1016/j.jep.2025.119834",
+   "pmid": "40254111",
+   "page_file": "research/longevity/pages/scutellaria-coptis-sirt6-nafld.txt",
+   "quotes": [
+    "Scutellariae Radix (SR) and its major constituent, baicalin, enhanced ACSL5 activity via SIRT6-mediated deacetylation, promoting fatty acid oxidation and intracellular lipid utilization."
+   ],
+   "notes": "Herbal-pair study (Scutellariae Radix + Coptidis Rhizoma, HFD rats + HepG2); baicalin identified as constituent acting via SIRT6/ACSL5.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31770016/",
+   "title": "Combined effects of Scutellaria baicalensis with metformin on glucose tolerance of patients with type 2 diabetes via gut microbiota modulation.",
+   "authors": [
+    "Shin NR",
+    "Gu N",
+    "Choi HS",
+    "Kim H"
+   ],
+   "year": 2020,
+   "journal_or_publisher": "Am J Physiol Endocrinol Metab",
+   "vol_pages": "318(1):E52-E61",
+   "doi": "10.1152/ajpendo.00221.2019",
+   "pmid": "31770016",
+   "page_file": "research/longevity/pages/scutellaria-metformin-human.txt",
+   "quotes": [
+    "These results suggest that SB with metformin treatment may improve the glucose tolerance and inflammation and influence the gut microbiota community in T2D.",
+    "Some subjects showed high liver enzyme levels after SB treatment, and their microbiota composition at baseline differed with subjects whose liver enzymes were not affected."
+   ],
+   "notes": "Randomized crossover RCT, T2D on metformin; SB 3.52 g/day 8 wk; improved glucose tolerance/TNF-alpha; Lactobacillus/Akkermansia up; liver-enzyme elevations in some subjects.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28109809/",
+   "title": "Potent inhibition of monoamine oxidase A by decursin from Angelica gigas Nakai and by wogonin from Scutellaria baicalensis Georgi.",
+   "authors": [
+    "Lee HW",
+    "Ryu HW",
+    "Kang MG",
+    "Park D",
+    "Lee H",
+    "Shin HM",
+    "Oh SR",
+    "Kim H"
+   ],
+   "year": 2017,
+   "journal_or_publisher": "Int J Biol Macromol",
+   "vol_pages": "97:598-605",
+   "doi": "10.1016/j.ijbiomac.2017.01.080",
+   "pmid": "28109809",
+   "page_file": "research/longevity/pages/wogonin-mao-decursin.txt",
+   "quotes": [
+    "Wogonin (11) effectively inhibited MAO-A and MAO-B (IC50=6.35 and 20.8μM, respectively).",
+    "Furthermore, compounds 5 (decursinol angelate) and 10 (baicalein) were observed to selectively and moderately inhibit MAO-A."
+   ],
+   "notes": "In vitro human MAO isoforms; wogonin IC50 MAO-A 6.35 uM / MAO-B 20.8 uM (competitive, Ki 0.56/1.96 uM); baicalein moderate selective MAO-A.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36375245/",
+   "title": "Baicalin regulates TLR4/IκBα/NFκB signaling pathway to alleviate inflammation in Doxorubicin related cardiotoxicity.",
+   "authors": [
+    "Feng P",
+    "Yang Y",
+    "Liu N",
+    "Wang S"
+   ],
+   "year": 2022,
+   "journal_or_publisher": "Biochem Biophys Res Commun",
+   "vol_pages": "637:1-8",
+   "doi": "10.1016/j.bbrc.2022.10.061",
+   "pmid": "36375245",
+   "page_file": "research/longevity/pages/baicalin-ikba-dox.txt",
+   "quotes": [
+    "Relevant studies have shown that baicalein (Ba) can inhibit NFκB-related inflammatory signaling pathway protects cardiac function, but whether it can inhibit DOX induced cardiotoxicity has not been reported."
+   ],
+   "notes": "Documentation only, not relied upon: the title names baicalin but the abstract text states \"baicalein (Ba)\", conflating the two constituents; retained to document why the IκBα-degradation hint was not verified from this record.",
+   "extract_status": "ok"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "In Caenorhabditis elegans, baicalein significantly extended lifespan and improved healthspan markers (motility, oxidative-stress resistance, lipofuscin accumulation) by suppressing DAF-2-mediated insulin/IGF-1 signaling and promoting nuclear translocation of the FOXO homolog DAF-16.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41415716/",
+   "quote": "Mechanistically, baicalein suppressed the DAF-2-mediated insulin/IGF-1 signaling pathway and promoted the nuclear translocation of DAF-16, a pivotal longevity transcription factor.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In a natural rodent model of aging, baicalein supplementation improved the antioxidant profile and the authors concluded it maintains redox homeostasis during aging similarly to caloric restriction, proposing baicalein as a caloric-restriction-mimetic (CRM) candidate.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35316094/",
+   "quote": "Based on the aforementioned observations we conclude that Baicalein has the potential to maintain extracellular reactive oxygen species levels and redox homeostasis during the aging process, an effect that is similar to CR.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In high-fat-diet-fed and fasted mice, baicalin restrained excessive hepatic glucose production by decreasing the fasting-induced SirT1 rise (via reduced NAD+ accumulation) and preserving STAT3 acetylation.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30144531/",
+   "quote": "Fasting increased SirT1 protein in STAT3 immunoprecipitation products and less in the liver of baicalin-treated mice, indicating that baicalin blocked the binding of SirT1 to STAT3 and thus preserved STAT3 acetylation.",
+   "strength": "animal"
+  },
+  {
+   "claim": "Baicalin (20 and 40 mg/kg) reversed depressive-like behavior in olfactory bulbectomized rats while upregulating SIRT1 and reducing NF-κB p65 acetylation, with parallel reductions of hippocampal and hypothalamic IL-1β, IL-6 and TNF-α.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30848526/",
+   "quote": "Furthermore, baicalin regulated Sirtuin 1 (SIRT1) and decreased the levels of p65 acetylation (ac-p65) in the hippocampus and hypothalamus.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In mouse cerebral ischemia-reperfusion (MCAO/R) and OGD/R-treated HT22 cells, baicalein upregulated SIRT6, which deacetylated FOXA2 and thereby promoted SLC7A11 expression, limiting ferroptosis and apoptosis.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39299807/",
+   "quote": "Baicalein promoted FOXA2 deacetylation by upregulating SIRT6 expression.",
+   "strength": "animal"
+  },
+  {
+   "claim": "Baicalein (100 mg/kg/day orally) attenuated bleomycin-induced lung fibroblast senescence and fibrosis in mice via restoration of Sirt3, and Sirt3 silencing abolished its anti-fibrotic and anti-senescence effect.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36815239/",
+   "quote": "Baicalein restored the BLM-induced downregulation of Sirt3 expression in lung tissues and silencing of Sirt3 abolished the inhibitory role of baicalein against BLM-induced lung fibrosis, fibroblast senescence and activation of TGF-β1/Smad signalling pathway.",
+   "strength": "animal"
+  },
+  {
+   "claim": "Baicalein reduced hepatic fat accumulation by activating AMPK and suppressing SREBP1 cleavage and transcriptional activity in oleic acid-treated HepG2 cells and high-fat-diet-fed mice.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31909773/",
+   "quote": "In this study, we characterized the hepatic fat-lowering activity of baicalein and found that baicalein reduced hepatic fat accumulation by activating AMPK and suppressing SREBP1 cleavage, thus consequently inhibiting the transcriptional activity of SREBP1 and the synthesis of hepatic fat in oleic acid-induced HepG2 cells and high-fat diet-induced non-insulin-resistant mice.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In human cancer cells, baicalein induced autophagic (rather than apoptotic) cell death through AMPK/ULK1 activation with downregulation of mTORC1 complex components, and the death was completely reversed by Beclin-1/Vps34/Atg5/Atg7 knockdown but not by pan-caspase inhibition, proving autophagy dependence.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25132405/",
+   "quote": "Here, we show that baicalein leads to human cancer cell death by inducing autophagy rather than apoptosis, because cell death induced by baicalein was completely reversed by suppressing the expression levels of key molecules in autophagy such as Beclin 1, vacuolar protein sorting 34 (Vps34), autophagy-related (Atg)5 and Atg7, but not by pan-caspase inhibitor.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "Baicalin (20 mg/kg oral gavage for 4 weeks) ameliorated depression-like behavior in chronically stressed mice by activating the hippocampal AMPK/PGC-1α pathway and enhancing NIX-mediated mitophagy, with docking indicating direct AMPK binding.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36463946/",
+   "quote": "In conclusion, the present study suggested that the antidepressant effect of baicalin may be related to the enhancement of NIX-mediated mitophagy through activating the AMPK/PGC-1α pathway by directly binding to AMPK.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In bleomycin-induced pulmonary fibrosis in mice, baicalin (50 and 100 mg/kg) activated protective autophagy by inhibiting the Akt/mTOR/ULK1 pathway, and autophagy inhibitors (3-MA, hydroxychloroquine) counteracted its anti-fibrotic effect.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41308360/",
+   "quote": "Mechanistically, autophagy inhibitors (3-MA, HCQ) counteracted Baicalin's anti-fibrotic effects.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In 6-hydroxydopamine-lesioned Parkinsonian rats, baicalein alleviated neuronal injury and recovered mitochondrial dysfunction by inducing mitochondrial autophagy via miR-30b and the SIRT1/AMPK/mTOR pathway, and 3-methyladenine inhibited this protection.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35237220/",
+   "quote": "PD rats elicited decreased neurological score and DA secretion of the striatum, increased neuronal apoptosis, and injury, and reduced number of mitochondria and autophagy, whereas baicalein alleviated neuronal injury and partly recovered mitochondrial dysfunction, 3-methyladenine inhibited the protection of baicalein. miR-30b-5p was elevated and SIRT1 was diminished in PD rats and inhibited by baicalein. miR-30b-5p targeted SIRT1. miR-30b-5p overexpression or SIRT1 silencing annulled the protection of baicalein.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In glucocorticoid-treated MC3T3-E1 osteoblastic cells, baicalein inhibited AKT and thereby upregulated FOXO1, enhancing bone turnover markers (ALP, OCN, Runx2, Col 1) and extracellular matrix mineralization.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34198266/",
+   "quote": "In addition, glucocorticoid-induced osteoporosis in MC3T3-E1 cells was partially reversed by BN through inhibition of AKT, which, by upregulating FOXO1, enhanced expression of bone turnover markers (ALP, OCN, Runx2, and Col 1) and extracellular matrix mineralization.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "In diet-induced obese mice given baicalin 50 mg/kg i.p. for 21 days (and C2C12 myotubes), skeletal-muscle pAKT, pAS160, GLUT4 and PGC-1α increased while HOMA-IR, body weight and glucose/insulin intolerance fell, supporting an AKT/AS160/GLUT4 mechanism.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28359800/",
+   "quote": "We discovered that administration of baicalin decreased food intake, body weight, HOMA-IR and NT-PGC-1α levels, but enhanced GLUT4, PGC-1α, pP38MAPK, pAKT and pAS160 contents, as well as GLUT4 mRNA, PGC-1α mRNA, PPARγ mRNA, GLUT1 mRNA expression in skeletal muscles of obese mice and myotubes of C2C12 cells, and reversed high fat diet-induced glucose and insulin intolerance, hyperglycemia and insulin resistance in the mice.",
+   "strength": "animal"
+  },
+  {
+   "claim": "Baicalin dose-dependently protected rat stomachs against stress-, ethanol- and indomethacin-induced ulcers (72% effectiveness versus ranitidine, 80% against ethanol ulcers), attributed by the authors to Nrf2-mediated anti-secretory actions.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29128794/",
+   "quote": "CONCLUSION: The present findings suggest that the protective effects of baicalin may be regulated via Nrf2-mediated anti-secretory actions.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In Hct116 colon cells, baicalein activated Nrf2 signalling with no detectable change in Nrf2 ubiquitinylation, proteasomal activity or NRF2 gene transcription, indicating activation independent of ubiquitin-proteasomal and redox modulation.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27143122/",
+   "quote": "RESULTS: No change in the ubiquitinylation of Nrf2, proteasomal activity and transcription of the NRF2 gene were detectable.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "In LPS-stimulated RAW264.7 macrophages, baicalin pretreatment (12.5-50 µM) dose-dependently attenuated MyD88/NF-κB p65 activation and IL-6 secretion, and prevented LPS-induced inflammation in mice by suppressing CD14 expression.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32457419/",
+   "quote": "These changes were dose-dependently attenuated by pretreatment baicalin (12.5-50 μM), but not by baicalin post-treatment.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In hyperuricemic nephropathy mice and MSU-treated HK-2 cells, baicalin and baicalein both bound PI3K, AKT, p65 and IκBα in molecular docking, reduced p-PI3K, p-AKT and p-p65, and blunted TNF-α, IL-1β and IL-18 expression.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36974463/",
+   "quote": "RESULTS: Molecular docking results showed that BA and BAI had good binding ability with PI3K, AKT, p65 and IκBα.",
+   "strength": "animal"
+  },
+  {
+   "claim": "Baicalin (125 µM in C2C12 cells; supplementation in mice and piglets) directly bound and activated p38 MAPK, activating the p38MAPK/PGC-1α pathway and shifting skeletal muscle fibers from glycolytic toward oxidative with increased mitochondrial complex expression.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40103396/",
+   "quote": "Mechanistic studies revealed that baicalin, as a small molecule, could target and bind to the p38 MAPK protein, increase its expression and phosphorylation levels, and activate the p38 MAPK/PGC-1α signaling pathway.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In rotenone-induced Parkinsonian rats, baicalein attenuated behavioral impairment and dopaminergic neuron depletion while restoring mitochondrial function and mitochondrial biogenesis.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28855526/",
+   "quote": "Furthermore, in rotenone-induced parkinsonian rats, baicalein treatment effectively restored mitochondrial function and improved mitobiogenesis, as determined by measuring the mitochondrial density and key regulators involved in mitobiogenesis.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In vitro, wogonin from S. baicalensis reversibly and competitively inhibited human MAO-A and MAO-B with IC50 values of 6.35 and 20.8 µM (Ki 0.56 and 1.96 µM), while baicalein selectively and moderately inhibited MAO-A.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28109809/",
+   "quote": "Wogonin (11) effectively inhibited MAO-A and MAO-B (IC50=6.35 and 20.8μM, respectively).",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "Against human recombinant MAO-B in vitro, baicalin inhibited with an IC50 of 6.262 µM and baicalein with an IC50 of 21.01 µM (the latter closely aligning with a previously reported 22.1 µM).",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/",
+   "quote": "We observed that baicalin and baicalein showed potential MAO‐B inhibition effects with IC50 values of 6.262 and 21.01 μM, respectively (Figure [3B](https://pmc.ncbi.nlm.nih.gov/articles/PMC11076983/#cns14740-fig-0003)).",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "Baicalein inhibited BACE1 with an IC50 of 23.71 ± 1.91 µM and acetylcholinesterase with 45.95 ± 3.44 µM in vitro, with molecular docking consistent with the enzyme-kinetic results.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31703329/",
+   "quote": "Baicalein exhibited strong BACE1 and AChE inhibitory properties (IC50 23.71 ± 1.91 µM and 45.95 ± 3.44 µM, respectively) and reacted in non-competitive and competitive manners with substrates, respectively. in Silico docking analysis was in full agreement with the in vitro results, demonstrating that the compound exhibited powerful binding interaction with target enzymes.",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "In a 12-week randomized, double-blind, placebo-controlled trial of 374 patients with coexisting coronary artery disease and rheumatoid arthritis, oral baicalin 500 mg/day significantly improved triglycerides, LDL-cholesterol, cardiotrophin-1 and hs-CRP versus placebo.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29935544/",
+   "quote": "RESULTS: After 12 week treatment, levels of triglycerides, total cholesterol, LDL-cholesterol and apolipoproteins, as well as CT-1 and hs-CRP, were all significantly improved in the baicalin group compared to the placebo group (1.12 ± 0.36 vs 1.87 ± 0.46 mmol/L, 2.87 ± 1.23 vs 3.22 ± 1.07 mmol/L, 1.38 ± 0.41 vs 1.16 ± 0.32 mmol/L, 1.31 ± 0.41 vs 1.23 ± 0.29 g/L, 42.9 ± 13.7 vs 128.4 ± 24.3 ng/mL, 1.64 ± 0.38 vs 3.9 ± 1.4 mg/dL, respectively).",
+   "strength": "human"
+  },
+  {
+   "claim": "In healthy Chinese volunteers, multiple-ascending-dose oral baicalein (200-800 mg/day chewable tablets) was safe and well tolerated without serious accumulation, supporting clinical development for Parkinson's disease.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27352310/",
+   "quote": "CONCLUSION: In dose range of 200-800 mg, multiple-dose oral baicalein administration was safe and well tolerated, dose proportionality was inconclusive, and no serious accumulation of baicalein was observed.",
+   "strength": "human"
+  },
+  {
+   "claim": "In a randomized crossover trial, type 2 diabetes patients already on metformin received additional S. baicalensis (3.52 g/day, 8 weeks), which the authors conclude may improve glucose tolerance and inflammation with gut-microbiota shifts (Lactobacillus, Akkermansia), though some subjects showed elevated liver enzymes.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31770016/",
+   "quote": "These results suggest that SB with metformin treatment may improve the glucose tolerance and inflammation and influence the gut microbiota community in T2D.",
+   "strength": "human"
+  }
+ ]
+}

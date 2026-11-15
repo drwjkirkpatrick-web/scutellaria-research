@@ -1,0 +1,13 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/42170474/
+PMID: 42170474
+Title: Synergistic combination of taxifolin and baicalein protects against alloxan-induced diabetic cardiomyopathy by mitigating oxidative stress through the Nrf2/HO-1 signaling pathway.
+Authors: Qingsong Liang; Tingting Wu; Liangping Zhao
+Journal: American journal of translational research (2026)
+DOI: 10.62347/PTMM9015
+Fetched: 2026-11-14
+
+ABSTRACT
+OBJECTIVE: To investigate the cardioprotective effects of taxifolin (TXN) and baicalein (BCN) in an alloxan-induced diabetic rat model.
+METHODS: Diabetic rats were treated with TXN, BCN, or their combination for 30 days. Blood glucose, lipid profile, cardiac enzymes, oxidative stress markers, and gene expression were assessed. Histopathologic and immunohistochemical analyses were performed to evaluate cardiac structure and protein expression. In vitro cytotoxicity assays were conducted on H9c2 cardiomyocytes.
+RESULTS: TXN and BCN significantly reduced blood glucose levels, improved lipid profiles, and decreased oxidative stress in diabetic rats. They also enhanced nuclear factor erythroid 2-related factor 2 (Nrf2) signaling and upregulated antioxidant gene expression. Histologic analysis revealed reduced myocardial damage and fibrosis in treated rats. In vitro studies demonstrated no cytotoxicity for TXN and BCN.
+CONCLUSION: TXN and BCN exhibit cardioprotective effects in diabetic rats by improving glucose metabolism, modulating lipid profiles, and enhancing antioxidant defense through the Nrf2 signaling pathway. These findings suggest that TXN and BCN hold promise as potential therapeutic agents for the prevention and treatment of diabetic cardiomyopathy.

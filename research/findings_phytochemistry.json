@@ -1,0 +1,728 @@
+{
+  "sources": [
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14692724/",
+      "title": "Phytochemical and biological analysis of skullcap (Scutellaria lateriflora L.): a medicinal plant with anxiolytic properties.",
+      "authors": "Awad R; Arnason JT; Trudeau V; Bergeron C; Budzinski JW; Foster BC; Merali Z",
+      "year": 2003,
+      "journal_or_publisher": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "vol_pages": "10(8):640-9",
+      "doi": "10.1078/0944-7113-00374",
+      "pmid": "14692724",
+      "page_file": "research/phytochemistry/pages/awad-2003-lateriflora-analysis.txt",
+      "quotes": [
+        "The identification and quantification of the flavonoid, baicalin in a 50% EtOH extract (40 mg/g) and its aglycone baicalein in a 95% EtOH extract (33 mg/g), as well as the amino acids GABA in H2O and EtOH extracts (approximately 1.6 mg/g) and glutamine in a H2O extract (31 mg/g), was performed using HPLC."
+      ],
+      "notes": "Supports topic: lateriflora-analysis.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33162677/",
+      "title": "Growth years and post-harvest processing methods have critical roles on the contents of medicinal active ingredients of Scutellaria baicalensis.",
+      "authors": "Bai C; Yang J; Cao B; Xue Y; Gao P; Liang H; Li G",
+      "year": 2020,
+      "journal_or_publisher": "Industrial crops and products",
+      "vol_pages": "158:112985",
+      "doi": "10.1016/j.indcrop.2020.112985",
+      "pmid": "33162677",
+      "page_file": "research/phytochemistry/pages/bai-2020-growth-years-processing.txt",
+      "quotes": [
+        "Baikal Skullcap (Scutellaria baicalensis Georgi) is a perennial herb in the Lamiaceae family and its dried root is used as a famous traditional Chinese medicine (TCM).",
+        "The contents of eight active ingredients (baicalin, wogonoside, baicalein, wogonin, scutellarin, scutellarein, apigenin, and chrysin) in roots of S. baicalensis of different growth years (ranging from 1 year to 15 years) were estimated using high performance liquid chromatography (HPLC) and further analyzed to determine the optimal harvest period.",
+        "The results showed that the best harvesting period for S. baicalensis should be determined as 2-3 years based on comprehensive evaluation of active ingredient content, annual yield increment, and land use efficiency. The contents of active ingredients including baicalin, wogonoside, baicalein, and wogonin in cortex were significantly higher than those in stele (P ≤ 0.05).",
+        "For the effects of different processing treatments, the contents of four main active ingredients (baicalin, wogonoside, baicalein, and wogonin) under drying (D) and cutting-drying (C-D) treatments were significantly higher than those of the other four treatments (P ≤ 0.05)."
+      ],
+      "notes": "Supports topic: growth-years-processing.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19577841/",
+      "title": "Arsenic accumulation in Scutellaria baicalensis Georgi and its effects on plant growth and pharmaceutical components.",
+      "authors": "Cao H; Jiang Y; Chen J; Zhang H; Huang W; Li L; Zhang W",
+      "year": 2009,
+      "journal_or_publisher": "Journal of hazardous materials",
+      "vol_pages": "171(1-3):508-13",
+      "doi": "10.1016/j.jhazmat.2009.06.022",
+      "pmid": "19577841",
+      "page_file": "research/phytochemistry/pages/cao-2009-arsenic-accumulation-sb.txt",
+      "quotes": [
+        "The effects of arsenic (As) on the growth and the formation of pharmaceutical components of S. baicalensis, and the uptake and accumulation of As by S. baicalensis were investigated using a field pot-culture experiment."
+      ],
+      "notes": "Supports topic: arsenic-accumulation-sb.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35915209/",
+      "title": "Exploring native Scutellaria species provides insight into differential accumulation of flavones with medicinal properties.",
+      "authors": "Costine B; Zhang M; Chhajed S; Pearson B; Chen S; Nadakuduti SS",
+      "year": 2022,
+      "journal_or_publisher": "Scientific reports",
+      "vol_pages": "12(1):13201",
+      "doi": "10.1038/s41598-022-17586-1",
+      "pmid": "35915209",
+      "page_file": "research/phytochemistry/pages/costine-2022-native-species-flavones.txt",
+      "quotes": [
+        "4'-deoxyflavones accumulated in relatively high concentrations in root tissues compared to aerial tissues in all species except S. lateriflora. Baicalin, the most abundant 4'-deoxyflavone detected, was localized in the roots of S. baicalensis and leaves of S. lateriflora, indicating differential accumulation patterns be",
+        "Collectively, results presented in this study suggest an evolutionary divergence of flavonoid metabolic pathway in the Scutellaria genus of Lamiaceae."
+      ],
+      "notes": "Supports topic: native-species-flavones.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200020285",
+      "title": "Scutellaria baicalensis in Flora of China",
+      "authors": "",
+      "year": 2026,
+      "journal_or_publisher": "Flora of China @ efloras.org (Missouri Botanical Garden)",
+      "vol_pages": "",
+      "doi": "",
+      "pmid": "",
+      "page_file": "research/phytochemistry/pages/efloras-foc-scutellaria-baicalensis.txt",
+      "quotes": [
+        "**Scutellaria baicalensis** Georgi, Bemerk. Reise Russ. Reich. 1: 223. 1775. 黄芩 huang qin"
+      ],
+      "notes": "Flora of China treatment for binomial and Chinese name.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38903628/",
+      "title": "Research progress on pharmacological properties and application of probiotics in the fermentation of Scutellaria baicalensis Georgi.",
+      "authors": "Guo F; Li C; Dou J; Liang J; Chen Z; Xu Z; Wang T",
+      "year": 2024,
+      "journal_or_publisher": "Frontiers in nutrition",
+      "vol_pages": "11:1407182",
+      "doi": "10.3389/fnut.2024.1407182",
+      "pmid": "38903628",
+      "page_file": "research/phytochemistry/pages/fermentation-review-2024.txt",
+      "quotes": [
+        "Evidence suggests that probiotic fermentation markedly modifies the bioactive components of Scutellaria baicalensis Georgi, thereby augmenting its medicinal potency."
+      ],
+      "notes": "Fermentation of S. baicalensis.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16989969/",
+      "title": "Quantitative analysis and chromatographic fingerprinting for the quality evaluation of Scutellaria baicalensis Georgi using capillary electrophoresis.",
+      "authors": "Yu K; Gong Y; Lin Z; Cheng Y",
+      "year": 2007,
+      "journal_or_publisher": "J Pharm Biomed Anal",
+      "vol_pages": "",
+      "doi": "10.1016/j.jpba.2006.08.011",
+      "pmid": "16989969",
+      "page_file": "research/phytochemistry/pages/fingerprint-quality-evaluation-2007.txt",
+      "quotes": [
+        "_Scutellaria baicalensis_ Georgi (Labiatae) is one commonly used herbal medicine in China and other East Asian countries, and it has been officially listed in the Chinese Pharmacopoeia for a long time [\\[19\\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC7125791/#bib19).",
+        "CE fingerprints combined with the quantitative analysis can be used for the quality evaluation of _S. baicalensis_."
+      ],
+      "notes": "PMC full text. Supports topic: HPLC fingerprinting quality (full text).",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41684516/",
+      "title": "Preparation, immunological and pharmacological effects of flavonoids in Scutellariae radix: a review.",
+      "authors": "Chen H; Wei Y; Song J; Yang Y; Chen Y; Sun J; Bai D; Sun Z",
+      "year": 2025,
+      "journal_or_publisher": "Front Pharmacol",
+      "vol_pages": "",
+      "doi": "10.3389/fphar.2025.1732322",
+      "pmid": "41684516",
+      "page_file": "research/phytochemistry/pages/flavonoid-preparation-review-2025.txt",
+      "quotes": [
+        "Scutellariae radix\\] (SR) is bitter and cold in nature. It enters the lung, gallbladder, spleen, large intestine, and small intestine meridians. It clears heat and dries dampness, purges fire and detoxifies, stops bleeding, and stabilizes pregnancy. It excels at clearing lung fire and upper-body heat.",
+        "SR is officially recognized in the _Pharmacopoeia of the People’s Republic of China_ ( _Chinese Pharmacopoeia_), as well as in the _European Pharmacopoeia_ and the _British Pharmacopoeia_"
+      ],
+      "notes": "PMC full text. Supports topic: processing/steaming/fermentation effects on flavonoids (full text).",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12852558/",
+      "title": "Analysis of Scutellaria lateriflora and its adulterants Teucrium canadense and Teucrium chamaedrys by LC-UV/MS, TLC, and digital photomicroscopy.",
+      "authors": "Gafner S; Bergeron C; Batcha LL; Angerhofer CK; Sudberg S; Sudberg EM; Guinaudeau H; Gauthier R",
+      "year": 2003,
+      "journal_or_publisher": "Journal of AOAC International",
+      "vol_pages": "86(3):453-60",
+      "doi": "",
+      "pmid": "12852558",
+      "page_file": "research/phytochemistry/pages/gafner-2003-lateriflora-teucrium-adulterants.txt",
+      "quotes": [
+        "Methods using liquid chromatography with UV detection (LC-UV), thin-layer chromatography (TLC), and digital photomicroscopy were developed to distinguish between the different species of Scutellaria lateriflora L. and its adulterants Teucrium canadense L. and T. chamaedrys L. Chemically, the 70% ethanol extract of S. lateriflora is characterized by the presence of flavonoids--predominantly baicalin, lateriflorin, dihydrobaicalin, and baicalein."
+      ],
+      "notes": "Supports topic: lateriflora-teucrium-adulterants.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27730005/",
+      "title": "Scutellaria baicalensis, the golden herb from the garden of Chinese medicinal plants.",
+      "authors": "Zhao Q; Chen XY; Martin C",
+      "year": 2016,
+      "journal_or_publisher": "Sci Bull (Beijing)",
+      "vol_pages": "",
+      "doi": "10.1007/s11434-016-1136-5",
+      "pmid": "27730005",
+      "page_file": "research/phytochemistry/pages/golden-herb-review-2016.txt",
+      "quotes": [
+        "Huang-Qin is an important ingredient of Xiaochai Hutang (Chinese) or Sho-saiko-to (SST, Japanese) preparations, first described in _Shanghan Lun_ (On Cold Damage), written by Zhang Zhongjing around 200 AD \\[ [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC5031759/#CR9)\\].",
+        "More than 30 types of flavones can be found in its roots (Fig. [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC5031759/#Fig3)), including baicalin, baicalein, chrysin, oroxylin A, oroxylin A 7-O-glucuronide, wogonin and wogonoside",
+        "Xiaochai Hutang | _Scutellaria baicalensis_, _Bupleurum falcatum_, _Pinellia ternate_, _Panax ginseng_, _Glycyrrhiza uralensis_, _Zingiber officinale_, _Ziziphus jujuba_",
+        "Huang-Qin was first recorded in _Shennong Bencaojing_ ( _The Classic of Herbal Medicine_), written between about 200 and 250 AD, for treatment of bitter, cold, lung and liver problems"
+      ],
+      "notes": "PMC full text review (PMC5031759).",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19610368/",
+      "title": "Detection of the potential adulterant Teucrium chamaedrys in Scutellaria baicalensis raw material and extract by high-performance thin-layer chromatography.",
+      "authors": "Hong T; Jeong ML; Zahn M; Fay BA; Lee K; Hwangbo H; Park E; Kim M et al.",
+      "year": 2009,
+      "journal_or_publisher": "Journal of AOAC International",
+      "vol_pages": "92(3):785-8",
+      "doi": "",
+      "pmid": "19610368",
+      "page_file": "research/phytochemistry/pages/hong-2009-teucrium-adulterant-detection.txt",
+      "quotes": [
+        "Teucrium chamaedrys (Gemander) has been reported as an adulterant of Scutellaria lateriflora (American skullcap) herbal preparations and is also known to be hepatotoxic. A quick and simple high-performance thin-layer chromatographic (HPTLC) method was developed for the detection of T. chamaedrys (Germander) in S. baicalensis (Chinese skullcap) extract"
+      ],
+      "notes": "Supports topic: teucrium-adulterant-detection.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30209794/",
+      "title": "Pharmacokinetics and Bioavailability Enhancement of Baicalin: A Review.",
+      "authors": "Huang T; Liu Y; Zhang C",
+      "year": 2019,
+      "journal_or_publisher": "European journal of drug metabolism and pharmacokinetics",
+      "vol_pages": "44(2):159-168",
+      "doi": "10.1007/s13318-018-0509-3",
+      "pmid": "30209794",
+      "page_file": "research/phytochemistry/pages/huang-2019-baicalin-pk-review.txt",
+      "quotes": [
+        "Baicalin displays a distinct pharmacokinetic profile including gastrointestinal hydrolysis, enterohepatic recycling, carrier-mediated transport, and complicated metabolism."
+      ],
+      "notes": "Supports topic: baicalin-pk-review.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37019975/",
+      "title": "Identification of three cultivated varieties of Scutellaria baicalensis using the complete chloroplast genome as a super-barcode.",
+      "authors": "Jiang Y; Zhu C; Wang S; Wang F; Sun Z",
+      "year": 2023,
+      "journal_or_publisher": "Scientific reports",
+      "vol_pages": "13(1):5602",
+      "doi": "10.1038/s41598-023-32493-9",
+      "pmid": "37019975",
+      "page_file": "research/phytochemistry/pages/jiang-2023-cultivar-chloroplast-id.txt",
+      "quotes": [
+        "Overall, this study showed that the complete chloroplast genome could be used as a super-barcode to identify three cultivated varieties of S. baicalensis and provide biological information, and it also contributes to bioprospecting.",
+        "The three new varieties cultivated could not be distinguished by morphology before flowering."
+      ],
+      "notes": "Supports topic: cultivar-chloroplast-id.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30005428/",
+      "title": "Rapid and Simultaneous Determination of Three Active Components in Raw and Processed Root Samples of Scutellaria baicalensis by Near-infrared Spectroscopy.",
+      "authors": "Jintao X; Quanwei Y; Chunyan L; Yun J; Shuangxi W; Mingxiang Z; Peng L",
+      "year": 2019,
+      "journal_or_publisher": "Planta medica",
+      "vol_pages": "85(1):72-80",
+      "doi": "10.1055/a-0655-2211",
+      "pmid": "30005428",
+      "page_file": "research/phytochemistry/pages/jintao-2019-raw-vs-processed-components.txt",
+      "quotes": [
+        "Motivated by the wide use of Scutellariae Radix (SR) in the food and pharmaceutical industries, a rapid and non-destructive near-infrared spectroscopy (NIRS) method was developed for the simultaneous analysis of three main active components in raw SR and SR processed by stir-frying with wine.",
+        "From seven geographical areas, 58 samples were collected."
+      ],
+      "notes": "Supports topic: raw-vs-processed-components.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39701593/",
+      "title": "Effects of Acacia catechu and Scutellaria baicalensis extract on cognitive function in a healthy adult population: a double-blind, randomized, placebo-controlled trial.",
+      "authors": "Krieger JM; Hagele AM; Mumford PW; De Gregorio D; Gaige CJ; Hoffman ER; Gross KN; Holley KF et al.",
+      "year": 2025,
+      "journal_or_publisher": "Nutritional neuroscience",
+      "vol_pages": "28(8):975-986",
+      "doi": "10.1080/1028415X.2024.2442425",
+      "pmid": "39701593",
+      "page_file": "research/phytochemistry/pages/krieger-2025-cognitive-healthy-adults.txt",
+      "quotes": [
+        "Four-week daily TP supplementation significantly enhanced cognitive function without difference from placebo."
+      ],
+      "notes": "Supports topic: cognitive-healthy-adults.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36413261/",
+      "title": "Role of Acacia catechu and Scutellaria baicalensis in Enhancing Immune Function Following Influenza Vaccination of Healthy Adults: A Randomized, Triple-Blind, Placebo-Controlled Clinical Trial.",
+      "authors": "Lewis ED; Crowley DC; Guthrie N; Evans M",
+      "year": 2023,
+      "journal_or_publisher": "Journal of the American Nutrition Association",
+      "vol_pages": "42(7):678-690",
+      "doi": "10.1080/27697061.2022.2145525",
+      "pmid": "36413261",
+      "page_file": "research/phytochemistry/pages/lewis-2023-immune-influenza-trial.txt",
+      "quotes": [
+        "In the post-vaccination period, total IgA and IgG levels increased in participants supplemented with UP446 vs. those on Placebo (p ≤ 0.026).",
+        "Fifty healthy adults 40-80 years of age who had not received their flu vaccine were randomized to either UP446 or Placebo."
+      ],
+      "notes": "Supports topic: immune-influenza-trial.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21928297/",
+      "title": "Pharmacological effects and pharmacokinetics properties of Radix Scutellariae and its bioactive flavones.",
+      "authors": "Li C; Lin G; Zuo Z",
+      "year": 2011,
+      "journal_or_publisher": "Biopharmaceutics & drug disposition",
+      "vol_pages": "32(8):427-45",
+      "doi": "10.1002/bdd.771",
+      "pmid": "21928297",
+      "page_file": "research/phytochemistry/pages/li-2011-radix-pk-review.txt",
+      "quotes": [
+        "Six flavones are proven to be the major bioactive flavones in Radix Scutellariae existing in the forms of aglycones (baicalein, wogonin, oroxylin A) and glycosides (baicalin, wogonoside, oroxylin A-7-glucuronide)."
+      ],
+      "notes": "Supports topic: radix-pk-review.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38191291/",
+      "title": "Comparative analysis of medicinal plants Scutellaria baicalensis and common adulterants based on chloroplast genome sequencing.",
+      "authors": "Li Z; Duan B; Zhou Z; Fang H; Yang M; Xia C; Zhou Y; Wang J",
+      "year": 2024,
+      "journal_or_publisher": "BMC genomics",
+      "vol_pages": "25(1):39",
+      "doi": "10.1186/s12864-023-09920-2",
+      "pmid": "38191291",
+      "page_file": "research/phytochemistry/pages/li-2024-chloroplast-adulterant-analysis.txt",
+      "quotes": [
+        "Four highly variable regions (matK-rps16, ndhC-trnV-UAC, psbE-petL, and rps16-trnQ-UUG) may function as potential molecular markers for differentiating S. baicalensis from its adulterants.",
+        "Scutellaria baicalensis Georgi has been extensively used as a medicinal herb in China for over 2000 years."
+      ],
+      "notes": "Supports topic: chloroplast-adulterant-analysis.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19402188/",
+      "title": "Comparison of the phenolic component profiles of skullcap (Scutellaria lateriflora) and germander (Teucrium canadense and T. chamaedrys), a potentially hepatotoxic adulterant.",
+      "authors": "Lin LZ; Harnly JM; Upton R",
+      "year": 2009,
+      "journal_or_publisher": "Phytochemical analysis : PCA",
+      "vol_pages": "20(4):298-306",
+      "doi": "10.1002/pca.1127",
+      "pmid": "19402188",
+      "page_file": "research/phytochemistry/pages/lin-2009-lateriflora-germander-profiles.txt",
+      "quotes": [
+        "a potentially hepatotoxic adulterant"
+      ],
+      "notes": "Supports topic: lateriflora-germander-profiles.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39244068/",
+      "title": "Spotlight on the accumulation of heavy metals in Traditional Chinese medicines: A holistic view of pollution status, removal strategies and prospect.",
+      "authors": "Liu Y; Fu K; Leng A; Zhang L; Qu J",
+      "year": 2024,
+      "journal_or_publisher": "The Science of the total environment",
+      "vol_pages": "953:176025",
+      "doi": "10.1016/j.scitotenv.2024.176025",
+      "pmid": "39244068",
+      "page_file": "research/phytochemistry/pages/liu-2024-tcm-heavy-metals-spotlight.txt",
+      "quotes": [
+        "The accumulation of heavy metal in circulating TCMs has attracted widespread attention because the security and therapeutic efficacy are inevitably imperiled by the survival ecological environment and human production activities."
+      ],
+      "notes": "Supports topic: tcm-heavy-metals-spotlight.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32730879/",
+      "title": "Anti-migraine effect of wine-processed Radix scutellariae: Pharmacodynamic verification in nitroglycerin-induced rats and correlation study between compounds dissolution and the fractal dimension.",
+      "authors": "Lu F; Zhang WJ; Zhai S; Sun YW; Chen QJ; Yang XL; Zhang CF; Wang CZ et al.",
+      "year": 2020,
+      "journal_or_publisher": "Journal of ethnopharmacology",
+      "vol_pages": "263:113131",
+      "doi": "10.1016/j.jep.2020.113131",
+      "pmid": "32730879",
+      "page_file": "research/phytochemistry/pages/lu-2020-wine-processed-radix.txt",
+      "quotes": [
+        "The data indicated that wine-processing would affect the dissolution of compounds by changing the pore structure of RS.",
+        "The compounds dissolution of total flavonoids and five major components containing baicalein, baicalin, scutellarin, wogonin and wogonoside was determined by UV-Vis spectrophotometry and HPLC separately.",
+        "wine-processed RS could significantly reduce the head-scratching times of NTG-induced rat models (p < 0.01) and markedly decrease the levels of NO (p < 0.01), CGRP (p < 0.05) and the expression of c-Fos (p < 0.01) compared with model group."
+      ],
+      "notes": "Supports topic: wine-processed-radix.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39262990/",
+      "title": "Recent advances in Scutellariae radix: A comprehensive review on ethnobotanical uses, processing, phytochemistry, pharmacological effects, quality control and influence factors of biosynthesis.",
+      "authors": "Ma W; Liu T; Ogaji OD; Li J; Du K; Chang Y",
+      "year": 2024,
+      "journal_or_publisher": "Heliyon",
+      "vol_pages": "10(16):e36146",
+      "doi": "10.1016/j.heliyon.2024.e36146",
+      "pmid": "39262990",
+      "page_file": "research/phytochemistry/pages/ma-2024-radix-ethnobotany-processing-review.txt",
+      "quotes": [
+        "As early as the Eastern Han Dynasty, there were many prescriptions involving SR recorded in _Shanghan Zabing Lun_, such as Gegenqinlian decoction, Huangqin decoction, Huanglian Ejiao decoction, and Banxia Xiexin decoction \\[ [15](https://pmc.ncbi.nlm.nih.gov/articles/PMC11388511/#bib15)\\]."
+      ],
+      "notes": "Supports topic: radix-ethnobotany-processing-review.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18404307/",
+      "title": "Comparison of the major flavonoid content of S. baicalensis, S. lateriflora, and their commercial products.",
+      "authors": "Makino T; Hishida A; Goda Y; Mizukami H",
+      "year": 2008,
+      "journal_or_publisher": "Journal of natural medicines",
+      "vol_pages": "62(3):294-9",
+      "doi": "10.1007/s11418-008-0230-7",
+      "pmid": "18404307",
+      "page_file": "research/phytochemistry/pages/makino-2008-baicalensis-lateriflora-comparison.txt",
+      "quotes": [
+        "These flavonoids were found in the root of S. baicalensis; its aerial parts, however, did not contain them. On the other hand, the amounts of those flavonoids in the aerial parts of S. lateriflora were larger than in the root. Herbal tea and dietary supplements of S. lateriflora obtained commercially also contained those flavonoids, and the dietary supplements contained amounts of them comparable with that in kampo medicine.",
+        "Safety Bureau, Ministry of Health Labour and Welfare of Japan, the roots of Scutellaria baicalensis (Chinese skullcap) and S. lateriflora (skullcap) are classified as \"the raw materials exclusively used as pharmaceuticals\", but their aerial parts are classified as \"non-pharmaceuticals\" so, in principle, there are no health claims for these materials and no descriptions of drug-like dosages or administration directions.",
+        "s. Dried root of S. baicalensis is also registered in Japanese Pharmacopoeia XV as scutellaria root",
+        "Scutellaria root is considered to have the adverse drug reactions of interstitial pneumonia and drug-induced hepatopathy in kampo medicines (Japanese traditional herbal formulations), and baicalin, its major constituent, is considered to be the cause of the adverse reaction."
+      ],
+      "notes": "Supports topic: baicalensis-lateriflora-comparison.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7682201/",
+      "title": "Role of B-lymphocytes in the immunopharmacological effects of a traditional Chinese medicine, xiao-chai-hu-tang (shosaiko-to).",
+      "authors": "Matsuura K; Kawakita T; Nakai S; Saito Y; Suzuki A; Nomoto K",
+      "year": 1993,
+      "journal_or_publisher": "International journal of immunopharmacology",
+      "vol_pages": "15(2):237-43",
+      "doi": "10.1016/0192-0561(93)90100-d",
+      "pmid": "7682201",
+      "page_file": "research/phytochemistry/pages/matsuura-1993-shosaikoto.txt",
+      "quotes": [
+        "In the present study in which murine spleen cells were cultured in vitro with Shosaiko-to, B-cells isolated by anti-immunoglobulin-coated plates were confirmed to generate IFN in response to Shosaiko-to stimulation. IFN activity was induced in the serum after i.p. administration of Glycyrrhizae radix, Scutellariae radix, Bupleuri radix and Pinelliae tuber which are included in Shosaiko-to as its constituent."
+      ],
+      "notes": "Shosaikoto / Xiao Chai Hu Tang composition.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41752457/",
+      "title": "Origin Identification of Scutellariae radix Based on Multidimensional Quality Indicators and Machine Learning Algorithms.",
+      "authors": "Liu XL; Zhu T; Zhang MY; Yang JX; Li H; Yang B",
+      "year": 2026,
+      "journal_or_publisher": "Molecules",
+      "vol_pages": "",
+      "doi": "10.3390/molecules31040680",
+      "pmid": "41752457",
+      "page_file": "research/phytochemistry/pages/origin-identification-quality-2026.txt",
+      "quotes": [
+        "The results indicate significant differences ( _p_ < 0.05) in the contents of baicalin, wogonoside, L\\*, a\\*, b\\*, ΔE, and alcohol-soluble extract among _Scutellariae radix_ from different origins."
+      ],
+      "notes": "PMC full text. Supports topic: origin identification, quality indicators (full text).",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38367162/",
+      "title": "Pesticide residue detection technology for herbal medicine: current status, challenges, and prospects.",
+      "authors": "Peng B; Xie Y; Lai Q; Liu W; Ye X; Yin L; Zhang W; Xiong S et al.",
+      "year": 2024,
+      "journal_or_publisher": "Analytical sciences : the international journal of the Japan Society for Analytical Chemistry",
+      "vol_pages": "40(4):581-597",
+      "doi": "10.1007/s44211-024-00515-9",
+      "pmid": "38367162",
+      "page_file": "research/phytochemistry/pages/peng-2024-pesticide-residues-herbal.txt",
+      "quotes": [
+        "It is urgent to solve the problem of detecting pesticide residues in herbal medicines efficiently and rapidly."
+      ],
+      "notes": "Supports topic: pesticide-residues-herbal.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://powo.science.kew.org/taxon/458155-1",
+      "title": "Scutellaria baicalensis Georgi | Plants of the World Online | Kew Science",
+      "authors": "",
+      "year": 2026,
+      "journal_or_publisher": "Kew Science - Plants of the World Online",
+      "vol_pages": "",
+      "doi": "",
+      "pmid": "",
+      "page_file": "research/phytochemistry/pages/powo-scutellaria-baicalensis.txt",
+      "quotes": [
+        "First published in Bemerk. Reise Russ. Reich 2: 223 (1775) This species is accepted The native range of this species is Siberia to Russian Far East and Vietnam. It is a perennial and grows primarily in the temperate biome."
+      ],
+      "notes": "Authoritative database entry for binomial.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11625591/",
+      "title": "Scutellaria baicalensis and its flavonoids in the treatment of digestive system tumors.",
+      "authors": "Zhao K; Zhang J; Zhou L; Sun Z",
+      "year": 2024,
+      "journal_or_publisher": "Front Pharmacol",
+      "vol_pages": "",
+      "doi": "10.3389/fphar.2024.1483785",
+      "pmid": "",
+      "page_file": "research/phytochemistry/pages/sb-protective-review-2024.txt",
+      "quotes": [
+        "Baicalin (baicalein-7-O-glucuronide, C21H18O11) is metabolized to baicalein in animals ( [Kang MJ et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC11625591/#B65)).",
+        "## 2 Application of _Scutellaria baicalensis_ and its flavonoids in digestive system tumors First recorded in the Shennong Ben Cao Jing (Classic of the Materia Medica of the Divine Husbandman) in China in the 2nd century B.C., _S. baicalensis_ is said to have the efficacy of “treating all kinds of fever, jaundice, diarrhea, edema, and sores”.",
+        "Baicalin (baicalein-7-O-glucuronide, C21H18O11) is metabolized to baicalein in animals ( [Kang MJ et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC11625591/#B65)). The Chinese Pharmacopoeia sets baicalin content of not less than 8% as the standard for qualification of herbs."
+      ],
+      "notes": "PMC full text review (PMC11625591).",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32994803/",
+      "title": "Applications, phytochemistry, pharmacological effects, pharmacokinetics, toxicity of Scutellaria baicalensis Georgi. and its probably potential therapeutic effects on COVID-19: a review.",
+      "authors": "Song JW; Long JY; Xie L; Zhang LL; Xie QX; Chen HJ; Deng M; Li XF",
+      "year": 2020,
+      "journal_or_publisher": "Chinese medicine",
+      "vol_pages": "15:102",
+      "doi": "10.1186/s13020-020-00384-0",
+      "pmid": "32994803",
+      "page_file": "research/phytochemistry/pages/song-2020-sb-applications-review.txt",
+      "quotes": [
+        "Skullcapflavone I (5,2′-Dihydroxy-7,8-dimethoxyflavone) | C17H14O6 | 314 | Root<br>Hairy Root",
+        "Skullcapflavone II (5,6′-Dihydroxy-6,7,8,2′-tetramethoxyflavone) | C19H18O8 | 374 | Root<br>Hairy Root",
+        "The best harvest time of SB is determined by the highest content of baicalin, wogonoside, baicalein and scutellarin, most of which are concentrated in September"
+      ],
+      "notes": "Supports topic: sb-applications-review.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32653649/",
+      "title": "Analysis on the current quality standards of Chinese materia Medica used in COVID-19 prevention and treatment.",
+      "authors": "Shi YH; Huang YF; Wang WY; Yang L; Zhou H; Sang Z",
+      "year": 2020,
+      "journal_or_publisher": "Pharmacol Res",
+      "vol_pages": "",
+      "doi": "10.1016/j.phrs.2020.105074",
+      "pmid": "32653649",
+      "page_file": "research/phytochemistry/pages/tcm-quality-standards-2020.txt",
+      "quotes": [
+        "Assay | Baicalin: ≥9.0 % | Baicalin: ≥10.0 % | ≥10.0 % (total of Baicalin, baicalein and wogonin) | Baicalin: ≥9.0 % | ≥11.0 % (total of Baicalin and wogonin-7-O-glucuronide);<br>≥3.50 % (total of Baicalin and wogonin) | Baicalin: ≥9.0 % | Baicalin: ≥8.0 %",
+        "The single marker compound of baicalin is used for quantitative analysis in ChP, EP, JP, ISO, and WHO standards, while apart from baicalin, multi-marker compounds are referred in KP and USP.",
+        "Heavy metals | — | √ | √ | √ | √ | √ | √",
+        "Pesticide residuals | — | — | √ | √ | √ | √ | √ | | Sulfur dioxide | ≤ 150 ppm |"
+      ],
+      "notes": "PMC full text. Supports topic: Chinese Pharmacopoeia quality standards context (full text).",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31070530/",
+      "title": "A comprehensive review on phytochemistry, pharmacology, and flavonoid biosynthesis of Scutellaria baicalensis.",
+      "authors": "Wang ZL; Wang S; Kuang Y; Hu ZM; Qiao X; Ye M",
+      "year": 2018,
+      "journal_or_publisher": "Pharmaceutical biology",
+      "vol_pages": "56(1):465-484",
+      "doi": "10.1080/13880209.2018.1492620",
+      "pmid": "31070530",
+      "page_file": "research/phytochemistry/pages/wang-2018-sb-phytochem-biosynthesis-review.txt",
+      "quotes": [
+        "Huang-Qin was first recorded in _Shennong’s Classic of Materia Medica_ (Shennong Bencao Jing in Chinese) in around 200 AD.",
+        "Chinese Pharmacopoeia requires the content of baicalin in Huang-Qin should be no less than 9% (Chinese Pharmacopoeia Commission [2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC6292351/#CIT0021))."
+      ],
+      "notes": "Supports topic: sb-phytochem-biosynthesis-review.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15489215/",
+      "title": "Quality evaluation of commercial extracts of Scutellaria baicalensis.",
+      "authors": "Ye F; Wang H; Jiang S; Wu J; Shao J; Cheng X; Tu Y; Zhang DY",
+      "year": 2004,
+      "journal_or_publisher": "Nutrition and cancer",
+      "vol_pages": "49(2):217-22",
+      "doi": "10.1207/s15327914nc4902_14",
+      "pmid": "15489215",
+      "page_file": "research/phytochemistry/pages/ye-2004-commercial-extracts-quality.txt",
+      "quotes": [
+        "However, significant product-to-product and batch-to-batch variation of these marker components was observed with 4 products containing no baicalin at all and baicalein concentration ranging from 0 to 52.3 g/mg. The 50% growth inhibition concentration of the extracts ranged from 0.18 to 2.0 mg/ml, more than an 11-fold variation. PGE2 levels varied from 19.5 to 111.1 pg/106 cells, more than a 5.7-fold difference."
+      ],
+      "notes": "Supports topic: commercial-extracts-quality.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31236960/",
+      "title": "Scutellaria baicalensis Georgi. (Lamiaceae): a review of its traditional uses, botany, phytochemistry, pharmacology and toxicology.",
+      "authors": "Zhao T; Tang H; Xie L; Zheng Y; Ma Z; Sun Q; Li X",
+      "year": 2019,
+      "journal_or_publisher": "The Journal of pharmacy and pharmacology",
+      "vol_pages": "71(9):1353-1369",
+      "doi": "10.1111/jphp.13129",
+      "pmid": "31236960",
+      "page_file": "research/phytochemistry/pages/zhao-2019-sb-traditional-botany-review.txt",
+      "quotes": [
+        "Scutellaria baicalensis Georgi. (Lamiaceae) is a plant of the genus Lamiaceae, and its root is the main part used as a medicine.",
+        "In China, Scutellaria baicalensis is still an important traditional Chinese medicine with the functions of clearing away heat and dampness, purging fire and detoxification.",
+        "This medicinal plant is widely distributed in China, Russia, Mongolia, North Korea and Japan."
+      ],
+      "notes": "Supports topic: sb-traditional-botany-review.",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36820244/",
+      "title": "Comparative Study of the Flavonoid Content in Radix Scutellaria from Different Cultivation Areas in China.",
+      "authors": "Zheng Y; Zhou S; Zhang H; Lu Z; Deng R; Feng Y; Liu P",
+      "year": 2023,
+      "journal_or_publisher": "International journal of analytical chemistry",
+      "vol_pages": "2023:3754549",
+      "doi": "10.1155/2023/3754549",
+      "pmid": "36820244",
+      "page_file": "research/phytochemistry/pages/zheng-2023-content-cultivation-areas.txt",
+      "quotes": [
+        "baicalin, wogonoside, and baicalein were the three main flavonoids with the highest contents in Radix Scutellaria. The content of flavonoids in different cultivated areas was very different, which had significant regionality and was closely related to the natural conditions of various places."
+      ],
+      "notes": "Supports topic: content-cultivation-areas.",
+      "extract_status": "ok"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Scutellaria baicalensis Georgi, the Chinese huang qin (黄芩), was first validly published by Georgi in 1775 (Flora of China treatment).",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200020285",
+      "quote": "**Scutellaria baicalensis** Georgi, Bemerk. Reise Russ. Reich. 1: 223. 1775. 黄芩 huang qin",
+      "strength": "review"
+    },
+    {
+      "claim": "Baikal skullcap is a perennial herb of the Lamiaceae (mint family) whose dried root is used as a famous traditional Chinese medicine (huangqin).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33162677/",
+      "quote": "Baikal Skullcap (Scutellaria baicalensis Georgi) is a perennial herb in the Lamiaceae family and its dried root is used as a famous traditional Chinese medicine (TCM).",
+      "strength": "review"
+    },
+    {
+      "claim": "The medicinal use of the root first enters the written record in the Shennong Ben Cao Jing (Shennong's Classic of Materia Medica) around 200 AD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31070530/",
+      "quote": "Huang-Qin was first recorded in _Shennong’s Classic of Materia Medica_ (Shennong Bencao Jing in Chinese) in around 200 AD.",
+      "strength": "traditional"
+    },
+    {
+      "claim": "In TCM theory the root is bitter and cold in nature, enters the lung, gallbladder, spleen, large intestine and small intestine meridians, and clears heat and dries dampness, purges fire and detoxifies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41684516/",
+      "quote": "Scutellariae radix\\] (SR) is bitter and cold in nature. It enters the lung, gallbladder, spleen, large intestine, and small intestine meridians. It clears heat and dries dampness, purges fire and detoxifies, stops bleeding, and stabilizes pregnancy. It excels at clearing lung fire and upper-body heat.",
+      "strength": "traditional"
+    },
+    {
+      "claim": "Many Eastern-Han prescriptions containing huangqin are recorded in the Shanghan Zabing Lun, including Gegen Qinlian decoction, Huangqin decoction, Huanglian Ejiao decoction and Banxia Xiexin decoction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39262990/",
+      "quote": "As early as the Eastern Han Dynasty, there were many prescriptions involving SR recorded in _Shanghan Zabing Lun_, such as Gegenqinlian decoction, Huangqin decoction, Huanglian Ejiao decoction, and Banxia Xiexin decoction \\[ [15](https://pmc.ncbi.nlm.nih.gov/articles/PMC11388511/#bib15)\\].",
+      "strength": "traditional"
+    },
+    {
+      "claim": "Huang-Qin is an important ingredient of Xiaochai Hutang (Xiao Chai Hu Tang; Japanese Sho-saiko-to), first described in the Shanghan Lun (On Cold Damage) written by Zhang Zhongjing around 200 AD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27730005/",
+      "quote": "Huang-Qin is an important ingredient of Xiaochai Hutang (Chinese) or Sho-saiko-to (SST, Japanese) preparations, first described in _Shanghan Lun_ (On Cold Damage), written by Zhang Zhongjing around 200 AD \\[ [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC5031759/#CR9)\\].",
+      "strength": "traditional"
+    },
+    {
+      "claim": "More than 30 flavone types are found in the roots, including baicalin, baicalein, chrysin, oroxylin A, oroxylin A 7-O-glucuronide, wogonin and wogonoside.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27730005/",
+      "quote": "More than 30 types of flavones can be found in its roots (Fig. [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC5031759/#Fig3)), including baicalin, baicalein, chrysin, oroxylin A, oroxylin A 7-O-glucuronide, wogonin and wogonoside",
+      "strength": "review"
+    },
+    {
+      "claim": "The six major bioactive flavones of Radix Scutellariae exist in two forms - aglycones (baicalein, wogonin, oroxylin A) and their glycosides (baicalin, wogonoside, oroxylin A-7-glucuronide) - and all six are pharmacologically active.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21928297/",
+      "quote": "Six flavones are proven to be the major bioactive flavones in Radix Scutellariae existing in the forms of aglycones (baicalein, wogonin, oroxylin A) and glycosides (baicalin, wogonoside, oroxylin A-7-glucuronide).",
+      "strength": "review"
+    },
+    {
+      "claim": "Baicalin is baicalein-7-O-glucuronide (C21H18O11) and is metabolized to baicalein in animals.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11625591/",
+      "quote": "Baicalin (baicalein-7-O-glucuronide, C21H18O11) is metabolized to baicalein in animals ( [Kang MJ et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC11625591/#B65)).",
+      "strength": "review"
+    },
+    {
+      "claim": "4'-Deoxyflavones accumulate at relatively high concentrations in root tissues compared with aerial tissues in all Scutellaria species examined except S. lateriflora; baicalin was localized in the roots of S. baicalensis but in the leaves of S. lateriflora.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35915209/",
+      "quote": "4'-deoxyflavones accumulated in relatively high concentrations in root tissues compared to aerial tissues in all species except S. lateriflora. Baicalin, the most abundant 4'-deoxyflavone detected, was localized in the roots of S. baicalensis and leaves of S. lateriflora, indicating differential accumulation patterns be",
+      "strength": "in-vitro"
+    },
+    {
+      "claim": "The four major root flavonoids of S. baicalensis are absent from its aerial parts, whereas in American skullcap (S. lateriflora) the aerial parts contain larger amounts than the root.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18404307/",
+      "quote": "These flavonoids were found in the root of S. baicalensis; its aerial parts, however, did not contain them. On the other hand, the amounts of those flavonoids in the aerial parts of S. lateriflora were larger than in the root. Herbal tea and dietary supplements of S. lateriflora obtained commercially also contained those flavonoids, and the dietary supplements contained amounts of them comparable with that in kampo medicine.",
+      "strength": "in-vitro"
+    },
+    {
+      "claim": "Teucrium chamaedrys (germander) has been reported as a hepatotoxic adulterant of American skullcap (S. lateriflora) preparations, and an HPTLC method was developed to detect T. chamaedrys in S. baicalensis (Chinese skullcap) extract used in a proprietary blend product.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19610368/",
+      "quote": "Teucrium chamaedrys (Gemander) has been reported as an adulterant of Scutellaria lateriflora (American skullcap) herbal preparations and is also known to be hepatotoxic. A quick and simple high-performance thin-layer chromatographic (HPTLC) method was developed for the detection of T. chamaedrys (Germander) in S. baicalensis (Chinese skullcap) extract",
+      "strength": "in-vitro"
+    },
+    {
+      "claim": "Skullcapflavone I (5,2'-dihydroxy-7,8-dimethoxyflavone, C17H14O6) is recorded among the root flavonoids of S. baicalensis, as is skullcapflavone II (5,6'-dihydroxy-6,7,8,2'-tetramethoxyflavone).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32994803/",
+      "quote": "Skullcapflavone I (5,2′-Dihydroxy-7,8-dimethoxyflavone) | C17H14O6 | 314 | Root<br>Hairy Root",
+      "strength": "review"
+    },
+    {
+      "claim": "Scutellarin and its aglycone scutellarein are among the eight active flavonoids quantified in S. baicalensis roots (together with baicalin, wogonoside, baicalein, wogonin, apigenin and chrysin).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33162677/",
+      "quote": "The contents of eight active ingredients (baicalin, wogonoside, baicalein, wogonin, scutellarin, scutellarein, apigenin, and chrysin) in roots of S. baicalensis of different growth years (ranging from 1 year to 15 years) were estimated using high performance liquid chromatography (HPLC) and further analyzed to determine the optimal harvest period.",
+      "strength": "in-vitro"
+    },
+    {
+      "claim": "The Chinese Pharmacopoeia (2015 edition) requires the baicalin content of Huang-Qin to be no less than 9%.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31070530/",
+      "quote": "Chinese Pharmacopoeia requires the content of baicalin in Huang-Qin should be no less than 9% (Chinese Pharmacopoeia Commission [2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC6292351/#CIT0021)).",
+      "strength": "review"
+    },
+    {
+      "claim": "The comparative literature reports the Scutellariae Radix assay across standards as: baicalin ≥9.0% (ChP 2015), ≥10.0% (JP), ≥10.0% total baicalin+baicalein+wogonin (KP), ≥9.0% (EP 9.0), ≥11.0% baicalin+wogonin-7-O-glucuronide and ≥3.50% baicalin+wogonin (USP), ≥9.0% (WHO monograph), ≥8.0% (ISO).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32653649/",
+      "quote": "Assay | Baicalin: ≥9.0 % | Baicalin: ≥10.0 % | ≥10.0 % (total of Baicalin, baicalein and wogonin) | Baicalin: ≥9.0 % | ≥11.0 % (total of Baicalin and wogonin-7-O-glucuronide);<br>≥3.50 % (total of Baicalin and wogonin) | Baicalin: ≥9.0 % | Baicalin: ≥8.0 %",
+      "strength": "review"
+    },
+    {
+      "claim": "In HPLC screening of 38 samples from seven main cultivated areas, baicalin, wogonoside and baicalein were the three main flavonoids with the highest contents, and flavonoid content differed markedly between cultivation regions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36820244/",
+      "quote": "baicalin, wogonoside, and baicalein were the three main flavonoids with the highest contents in Radix Scutellaria. The content of flavonoids in different cultivated areas was very different, which had significant regionality and was closely related to the natural conditions of various places.",
+      "strength": "in-vitro"
+    },
+    {
+      "claim": "Growth year determines quality: the best harvesting period for S. baicalensis is 2-3 years, and the root cortex contains significantly more baicalin, wogonoside, baicalein and wogonin than the stele.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33162677/",
+      "quote": "The results showed that the best harvesting period for S. baicalensis should be determined as 2-3 years based on comprehensive evaluation of active ingredient content, annual yield increment, and land use efficiency. The contents of active ingredients including baicalin, wogonoside, baicalein, and wogonin in cortex were significantly higher than those in stele (P ≤ 0.05).",
+      "strength": "in-vitro"
+    },
+    {
+      "claim": "Traditional wine-processing (pao zhi) changes the dissolution of compounds from Radix Scutellariae by altering the pore structure of the material.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32730879/",
+      "quote": "The data indicated that wine-processing would affect the dissolution of compounds by changing the pore structure of RS.",
+      "strength": "animal"
+    },
+    {
+      "claim": "Baicalin shows a distinct pharmacokinetic profile including gastrointestinal hydrolysis, enterohepatic recycling, carrier-mediated transport and complicated metabolism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30209794/",
+      "quote": "Baicalin displays a distinct pharmacokinetic profile including gastrointestinal hydrolysis, enterohepatic recycling, carrier-mediated transport, and complicated metabolism.",
+      "strength": "review"
+    },
+    {
+      "claim": "Probiotic fermentation markedly modifies the bioactive components of S. baicalensis (flavonoids such as baicalin, baicalein and wogonin), augmenting its medicinal potency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38903628/",
+      "quote": "Evidence suggests that probiotic fermentation markedly modifies the bioactive components of Scutellaria baicalensis Georgi, thereby augmenting its medicinal potency.",
+      "strength": "review"
+    },
+    {
+      "claim": "S. baicalensis has been officially listed in the Chinese Pharmacopoeia for a long time, and chromatographic fingerprints combined with quantitative multi-component analysis can be used for its quality evaluation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16989969/",
+      "quote": "_Scutellaria baicalensis_ Georgi (Labiatae) is one commonly used herbal medicine in China and other East Asian countries, and it has been officially listed in the Chinese Pharmacopoeia for a long time [\\[19\\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC7125791/#bib19).",
+      "strength": "in-vitro"
+    },
+    {
+      "claim": "Four highly variable chloroplast genome regions (matK-rps16, ndhC-trnV-UAC, psbE-petL, rps16-trnQ-UUG) are candidate DNA barcode markers for differentiating S. baicalensis from its adulterants; substitution with comparable species occurs in local markets.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38191291/",
+      "quote": "Four highly variable regions (matK-rps16, ndhC-trnV-UAC, psbE-petL, and rps16-trnQ-UUG) may function as potential molecular markers for differentiating S. baicalensis from its adulterants.",
+      "strength": "in-vitro"
+    },
+    {
+      "claim": "Commercial S. baicalensis extracts vary widely: of 10 commercial extracts analyzed, 4 contained no baicalin at all, and growth-inhibition potency varied more than 11-fold between products.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15489215/",
+      "quote": "However, significant product-to-product and batch-to-batch variation of these marker components was observed with 4 products containing no baicalin at all and baicalein concentration ranging from 0 to 52.3 g/mg. The 50% growth inhibition concentration of the extracts ranged from 0.18 to 2.0 mg/ml, more than an 11-fold variation. PGE2 levels varied from 19.5 to 111.1 pg/106 cells, more than a 5.7-fold difference.",
+      "strength": "in-vitro"
+    },
+    {
+      "claim": "In a randomized, double-blind, placebo-controlled trial, 85 healthy adults taking 240 mg/day of a Scutellaria baicalensis stem extract combined with Acacia catechu for four weeks showed enhanced cognitive function overall but without significant advantage over placebo, and the supplement was well tolerated.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39701593/",
+      "quote": "Four-week daily TP supplementation significantly enhanced cognitive function without difference from placebo.",
+      "strength": "human"
+    }
+  ]
+}

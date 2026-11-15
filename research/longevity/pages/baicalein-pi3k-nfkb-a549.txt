@@ -1,0 +1,8 @@
+Source: https://pubmed.ncbi.nlm.nih.gov/28415048/
+Fetched: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract)
+Title: Baicalein increases cisplatin sensitivity of A549 lung adenocarcinoma cells via PI3K/Akt/NF-κB pathway.
+Authors: Yu M; Qi B; Xiaoxiang W; Xu J; Liu X
+Journal: Biomed Pharmacother 2017;90():677-685
+DOI: 10.1016/j.biopha.2017.04.001
+PMID: 28415048
+Abstract: Baicalein, a bioactive flavonoid, exhibits anti-inflammatory and anti-cancer activities. However, few studies reported the interaction of baicalein with chemotherapeutic agents. Our study showed that baicalein significantly enhanced the chemosensitivity of cisplatin (CDDP) in vivo and in vitro. We found that A549/CDDP (resistant to CDDP) cells not only acquired epithelial-mesenchymal transition (EMT) phenotype, but also showed increased NF-κB activity compared with A549 cells (sensitive to CDDP). Our study further demonstrated that PI3K/Akt/NF-κB pathway controlled CDDP resistance via EMT and NF-κB-mediated apoptosis. Baicalein significantly suppressed the PI3K/Akt/NF-κB pathway, leading to conversion of EMT to mesenchymal-epithelial transition (MET, the reciprocal mesenchymal to epithelial transition), and inhibition of NF-κB-mediated antiapoptotic proteins in A549/CDDP cells. In conclusion, our study demonstrated that baicalein reversed the resistance of human A549 lung adenocarcinoma cells to cisplatin by inhibiting EMT and attenuating apoptosis via PI3K/Akt/NF-κB pathway.

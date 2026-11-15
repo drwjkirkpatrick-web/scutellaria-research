@@ -1,0 +1,8 @@
+Source: https://pubmed.ncbi.nlm.nih.gov/32750437/
+Fetched: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract)
+Title: Flavonoids-mediated SIRT1 signaling activation in hepatic disorders.
+Authors: Sayed AM; Hassanein EHM; Salem SH; Hussein OE; Mahmoud AM
+Journal: Life Sci 2020;259():118173
+DOI: 10.1016/j.lfs.2020.118173
+PMID: 32750437
+Abstract: The prevalence of various hepatic diseases increases dramatically worldwide and regarded as a serious health problem. Sirtuins are one of the main strategic controllers of different cellular processes, including cell cycle, mitochondrial biogenesis, insulin secretion, redox balance, inflammation, and apoptosis. SIRT1 is the most prominent and broadly studied member of sirtuins that implicated in health status and longevity. Therefore, targeting the SIRT1 signaling pathways may be a reasonable therapeutic approach to treat different diseases, including hepatic disorders. Flavonoids are polyphenolic compounds widely present in different plants and possess beneficial effects against diverse diseases. In this review, we focused on the flavonoids, (-)-epicatechin, ampelopsin, baicalin, delphinidin, fisetin, epigallocatechin-3-gallate, luteolin, pinocembrin, quercetin, silibinin, trans-chalcone and xanthohumol, to verify whether their potential promising hepatoprotective effects are related to activation of SIRT1. Additionally, molecular modeling simulations were applied to explore the potential binding mode of these flavonoids to SIRT1. The complied information and molecular docking simulations suggested that SIRT1 signaling is involved in the beneficial pharmacologic activities of flavonoids in different hepatic diseases.

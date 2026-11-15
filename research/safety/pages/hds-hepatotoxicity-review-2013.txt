@@ -1,0 +1,14 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/23121117/
+PMID: 23121117
+Title: Review article: herbal and dietary supplement hepatotoxicity.
+Authors: C Bunchorntavakul; K R Reddy
+Journal: Alimentary pharmacology & therapeutics (2013)
+DOI: 10.1111/apt.12109
+Fetched: 2026-11-14
+
+ABSTRACT
+BACKGROUND: Herbal and dietary supplements are commonly used throughout the World. There is a tendency for underreporting their ingestion by patients and the magnitude of their use is underrecognised by Physicians. Herbal hepatotoxicity is not uncommonly encountered, but the precise incidence and manifestations have not been well characterised.
+AIMS: To review the epidemiology, presentation and diagnosis of herbal hepatotoxicity. This review will mainly discuss single ingredients and complex mixtures of herbs marketed under a single label.
+METHODS: A Medline search was undertaken to identify relevant literature using search terms including 'herbal', 'herbs', 'dietary supplement', 'liver injury', 'hepatitis' and 'hepatotoxicity'. Furthermore, we scanned the reference lists of the primary and review articles to identify publications not retrieved by electronic searches.
+RESULTS: The incidence rates of herbal hepatotoxicity are largely unknown. The clinical presentation and severity can be highly variable, ranging from mild hepatitis to acute hepatic failure requiring transplantation. Scoring systems for the causality assessment of drug-induced liver injury may be helpful, but have not been validated for herbal hepatotoxicity. Hepatotoxicity features of commonly used herbal products, such as Ayurvedic and Chinese herbs, black cohosh, chaparral, germander, greater celandine, green tea, Herbalife, Hydroxycut, kava, pennyroyal, pyrrolizidine alkaloids, skullcap, and usnic acid, have been individually reviewed. Furthermore, clinically significant herb-drug interactions are also discussed.
+CONCLUSIONS: A number of herbal medicinal products are associated with a spectrum of hepatotoxicity events. Advances in the understanding of the pathogenesis and the risks involved are needed to improve herbal medicine safety.

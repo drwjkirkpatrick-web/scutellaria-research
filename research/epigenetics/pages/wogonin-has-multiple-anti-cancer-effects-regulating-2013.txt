@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/24265759/
+TITLE: Wogonin has multiple anti-cancer effects by regulating c-Myc/SKP2/Fbw7α and HDAC1/HDAC2 pathways and inducing apoptosis in human lung adenocarcinoma cell line A549.
+AUTHORS: Xin-mei Chen; Yang Bai; Yu-jian Zhong; Xiao-lin Xie; Han-wu Long; Yu-yin Yang; Shi-gen Wu; Qiang Jia
+JOURNAL: PloS one
+YEAR: 2013
+VOL_PAGES: 8; e79201
+DOI: 10.1371/journal.pone.0079201
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Wogonin is a plant monoflavonoid which has been reported to inhibit cell growth and/or induce apoptosis in various tumors. The present study examined the apoptosis-inducing activity and underlying mechanism of action of wogonin in A549 cells. The results showed that wogonin was a potent inhibitor of the viability of A549 cells. Apoptotic protein changes detected after exposure to wogonin included decreased XIAP and Mcl-1 expression, increased cleaved-PARP expression and increased release of AIF and cytochrome C. Western blot analysis showed that the activity of c-Myc/Skp2 and HDAC1/HDAC2 pathways, which play important roles in tumor progress, was decreased. Quantitative PCR identified increased levels of c-Myc mRNA and decreased levels of its protein. Protein levels of Fbw7α, GSK3β and Thr58-Myc, which are involved in c-Myc ubiquitin-dependent degradation, were also analyzed. After exposure to wogonin, Fbw7α and GSK3β expression decreased and Thr58-Myc expression increased. However, MG132 was unable to prevent c-Myc degradation. The present results suggest that wogonin has multiple anti-cancer effects associated with degradation of c-Myc, SKP2, HDAC1 and HDAC2. Its ability to induce apoptosis independently of Fbw7α suggests a possible use in drug-resistance cancer related to Fbw7 deficiency. Further studies are needed to determine which pathways are related to c-Myc and Fbw7α reversal and whether Thr58 phosphorylation of c-Myc is dependent on GSK3β.

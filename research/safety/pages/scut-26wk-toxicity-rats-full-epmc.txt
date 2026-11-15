@@ -1,0 +1,152 @@
+URL: https://europepmc.org/article/PMC/PMC13709419
+Fetched: 2026-11-14
+
+1
+
+# Search life-sciences literature
+
+Search
+
+[Advanced search](https://europepmc.org/advancesearch) \| [Recent history](https://europepmc.org/recentHistory)
+
+Feedback
+Complete Survey Survey
+
+This website requires cookies, and the limited processing of your
+personal data in order to function. By using the site you are agreeing
+to this as outlined in our
+[privacy notice and cookie policy](https://europepmc.org/PrivacyNotice).
+
+
+- [Abstract](https://europepmc.org/article/PMC/PMC13709419#abstract)
+- [Figures](https://europepmc.org/article/PMC/PMC13709419#figures-and-tables)
+- [Free full text](https://europepmc.org/article/PMC/PMC13709419#free-full-text)
+- [Similar Articles](https://europepmc.org/article/PMC/PMC13709419#similar-articles)
+- [Funding](https://europepmc.org/article/PMC/PMC13709419#funding)
+
+# Safety Evaluation of _Scutellaria baicalensis_: Acute and 26-Week Repeated-Dose Oral Toxicity Studies in Rats.
+
+Song J
+1
+,
+
+Kim H
+1
+
+
+## Author information
+
+### Affiliations
+
+- 1.
+Department of Herbal Pharmacology, College of Korean Medicine, Kyung Hee University, 26, Kyungheedae-ro, Dongdaemun-gu, Seoul 02447, Republic of Korea.
+
+
+
+
+
+
+
+###### Authors
+
+  - Song J
+     1
+
+  - Kim H
+     1
+
+
+(2 authors)
+
+### ORCIDs linked to this article
+
+- Song J
+\|
+[0000-0002-3587-9276](https://orcid.org/0000-0002-3587-9276)
+
+Toxics,
+17 Oct 2026, 14(10):919
+
+[https://doi.org/10.3390/toxics14100919](https://doi.org/10.3390/toxics14100919)PMID: 42931707 PMCID: PMC13709419
+
+This article is in the
+[Europe PMC Open access subset](https://europepmc.org/downloads/openaccess). Refer to the copyright information in the article for licensing
+details.
+
+
+![](https://europepmc.org/img/open_access_logo_white_blue.728eb8cc.svg)Free full text in Europe PMC
+
+Share this article
+_Share with email__Share with twitter__Share with linkedin__Share with facebook_
+
+## Abstract
+
+* * *
+
+_Scutellaria baicalensis_ root is widely used in traditional medicine and functional foods, but information on its long-term toxicity remains limited. This study evaluated the acute and 26-week repeated-dose oral toxicity of _S. baicalensis_ root extract (SBE) in male and female Sprague-Dawley rats under Good Laboratory Practice conditions. In the acute study, SBE was administered once at 2500 or 5000 mg/kg, followed by 14 days of observation. In the repeated-dose study, SBE was administered at 500, 1000, or 2000 mg/kg/day for 26 weeks, followed by a 4-week recovery period. No mortality occurred in either study. Acute administration caused only transient, non-adverse clinical signs, and the minimum lethal dose was >5000 mg/kg. Repeated administration at 2000 mg/kg/day increased relative liver weight and urinary ketone grades in both sexes, while absolute liver weight and serum triglycerides increased in females. These findings were considered treatment-related but non-adverse, without corroborating clinical, serum biochemical, or histopathological evidence of organ injury. The no-observed-effect level and no-observed-adverse-effect level were 1000 and 2000 mg/kg/day, respectively, and no target organ of toxicity was identified. These findings provide preclinical safety information for acute and long-term oral exposure to SBE.
+
+## Figures
+
+* * *
+
+## Free full text
+
+* * *
+
+## Similar Articles
+
+* * *
+
+To arrive at the top five similar articles we use a word-weighted
+algorithm to compare words from the Title and Abstract of each citation.
+
+
+* * *
+
+## Funding
+
+* * *
+
+Funders who supported this work.
+
+### Ministry of Health and Welfare (1)﻿
+
+### Seoul Metropolitan Government (1)﻿
+
+### the Korea government through the Ministry of Science and ICT (MSIT) (1)﻿
+
+- Annotations
+
+
+
+
+
+In full text (268)
+
+
+
+
+
+
+
+* * *
+
+- Save
+
+
+
+* * *
+
+- Get citation
+
+
+
+* * *
+
+- Open PDF
+
+
+
+* * *
+
+- Claim to ORCID

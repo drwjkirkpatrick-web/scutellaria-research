@@ -1,0 +1,8 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/35316094/
+Accessed: 2026-11-14
+Title: Baicalein May Act as a Caloric Restriction Mimetic Candidate to Improve the Antioxidant Profile in a Natural Rodent Model of Aging.
+Journal: Rejuvenation research
+Year: 2022
+---
+
+Caloric restriction (CR) is the most effective intervention for extending the life span of vertebrate and invertebrate aging models. Calorie restriction mimetics (CRMs), which are synthetic or natural chemicals that mimic the biochemical, hormonal, and physiological consequences of calorie restriction, are being researched for antiaging benefits. Baicalein is a plant-derived polyphenol that has the potential of antioxidant, anti-inflammatory, and autophagy inducer. The objective of this study is to evaluate the antiaging, anti-inflammatory, and antioxidant role of Baicalein in erythrocyte membrane and plasma, and evaluate the efficacy of Baicalein to act as a CRM candidate. This study evaluates the effect of Baicalein on aging biomarkers in normal and aged rats. We study various pro- and antioxidant markers, erythrocyte membrane transporters, and eryptosis. Baicalein supplementation in male Wistar rats significantly alleviated pro-oxidant markers and improved antioxidant profile. Improvement was also observed in age-induced alterations in membrane transporters, and eryptosis. Based on the aforementioned observations we conclude that Baicalein has the potential to maintain extracellular reactive oxygen species levels and redox homeostasis during the aging process, an effect that is similar to CR. Thus, Baicalein may be a potent CRM candidate for antiaging interventions.

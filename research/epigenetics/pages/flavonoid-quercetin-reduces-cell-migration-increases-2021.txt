@@ -1,0 +1,10 @@
+URL: https://pubmed.ncbi.nlm.nih.gov/33831503/
+TITLE: The flavonoid quercetin reduces cell migration and increases NIS and E-cadherin mRNA in the human thyroid cancer cell line BCPAP.
+AUTHORS: Carlos Frederico Lima Gonçalves; Fabio Hecht; Juliana Cazarin; Rodrigo Soares Fortunato; Mario Vaisman; Denise Pires de Carvalho; Andrea Claudia Freitas Ferreira
+JOURNAL: Molecular and cellular endocrinology
+YEAR: 2021
+VOL_PAGES: 529; 111266
+DOI: 10.1016/j.mce.2021.111266
+FETCHED: 2026-11-14 via NCBI E-utilities efetch (PubMed abstract). Untrusted data.
+=== ABSTRACT ===
+Thyroid cancer is the most frequent cancer of the endocrine system. Most patients are treated with thyroidectomy followed by radioiodine therapy. However, in part of the patients, a reduction of the sodium-iodide symporter (NIS) occurs, rendering radioiodine therapy ineffective. Moreover, epithelial-mesenchymal transition (EMT) may occur, leading to more aggressive and invasive features. Herein, we evaluated the effect of the flavonoid quercetin on EMT and NIS expression in BCPAP, a papillary thyroid carcinoma cell line. BCPAP was treated with 100 μM quercetin for 24 h and cell viability, apoptosis, EMT markers and NIS were evaluated. Quercetin decreased cell viability by enhancing apoptosis. The flavonoid also reduced matrix metalloproteinase 9 and increased E-cadherin mRNA levels, inhibiting BCPAP adhesion and migration. Additionally, quercetin increased NIS expression and function. Thus, our results suggest that quercetin could be useful as adjuvant in thyroid cancer therapy, inducing apoptosis, reducing invasion and increasing the efficacy of radioiodine therapy.
